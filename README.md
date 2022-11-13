@@ -23,7 +23,7 @@ This API strongly emphasises **datacenter/hosting detection**. A complicated hos
 
 The API includes accurate and rich ASN meta-data. For instance, the API output contains whois information for each active ASN and the ASN type is derived by analyzing the company that own the ASN.
 
-## Quickstart <a name="quickstart"></a>
+## Quickstart {#quickstart}
 
 Lookup any IP address: [https://ipapi.is/json/?q=3.5.140.2](https://ipapi.is/json/?q=3.5.140.2)
 
@@ -43,7 +43,7 @@ Usage with Curl:
 curl 'https://ipapi.is/json/?q=32.5.140.2'
 ```
 
-## Introduction <a name="introduction"></a>
+## Introduction {#introduction}
 
 The IP adddress API internally uses the following data sources:
 
@@ -55,7 +55,7 @@ The IP adddress API internally uses the following data sources:
 6. The API uses IP threat data from various honeypots
 7. IP geolocation information from several different geolocation providers is used
 
-## API Features <a name="features"></a>
+## API Features {#features}
 
 - **Ready for production**: This API can be used in production and is stable
 - **Many datacenters supported:** [Thousands of different hosting providers and counting](https://ipapi.is/hosting-detection.html) - From Huawei Cloud Service to ServerMania Inc. Find out whether the IP address is hosted by looking at the `is_datacenter` property!
@@ -64,7 +64,7 @@ The IP adddress API internally uses the following data sources:
 - **Company Support**: The API provides organisational information for each network of each looked up IP address
 - **Bulk IP Lookups**: You can lookup up to 100 IP addresses per API call
 
-## API Response Format <a name="response-format"></a>
+## API Response Format {#response-format}
 
 The API output format is explaind by walking through an example. Most of the returned information is self-explanatory.
 
@@ -121,7 +121,7 @@ This is how a typical API response looks like. The IP `107.174.138.172` was quer
 
 In the following section, the different parts of the API response are explained in-depth.
 
-### Response Format: Top Level API Output <a name="top-level-response-format"></a>
+### Response Format: Top Level API Output {#top-level-response-format}
 
 The top level API output looks as follows:
 
@@ -149,7 +149,7 @@ The explanation for those fields is as follows:
 - `is_abuser` - `boolean` - is true if the IP address committed abusive actions, which was the case with `107.174.138.172`
 - `elapsed_ms` - `float` - how much internal processing time was spent in ms. This lookup only took `0.62ms`, which is quite fast.
 
-### Response Format: The `datacenter` object <a name=""></a>
+### Response Format: The `datacenter` object {#response-format-datacenter}
 
 ```json
   "datacenter": {
@@ -200,7 +200,7 @@ DigitalOcean example:
 }
 ```
 
-### Response Format: The `company` object <a name=""></a>
+### Response Format: The `company` object {#response-format-company}
 
 ```json
   "company": {
@@ -218,7 +218,7 @@ Most IP addresses can be associated with an organization or company. The API use
 - `network` - `string` - The network for which the company has ownership
 - `whois` - `string` - An url to the whois information for the network of this IP address
 
-### Response Format: The `asn` object <a name=""></a>
+### Response Format: The `asn` object {#response-format-asn}
 
 ```json
   "asn": {
@@ -255,7 +255,7 @@ Most IP addresses can be associated with an Autonomeous System (AS). The `asn` o
 
 For inactive autonomeous systems, most of the above information is not available.
 
-### Response Format: The `location` object <a name=""></a>
+### Response Format: The `location` object {#response-format-location}
 
 ```json
   "location": {
