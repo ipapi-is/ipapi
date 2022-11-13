@@ -2,16 +2,16 @@
 
 1. [Quickstart](#quickstart)
 2. [Introduction](#introduction)
-3. [API Features](#features)
-4. [API Response Format](#response-format)
-    - [Top Level API Output](#top-level-response-format)
-    - [The `datacenter` object](#response-format-datacenter)
-    - [The `company` object](#response-format-company)
-    - [The `asn` object](#response-format-asn)
-    - [The `location` object](#response-format-location)
-5. [API Endpoints](#apiendpoints)
-    - [GET Endpoint](#getendpointlookupasingleipaddressorasn)
-    - [POST Endpoint](#postendpointqueryupto100ipaddressesinoneapicall)
+3. [API Features](#api-features)
+4. [API Response Format](#api-response-format)
+    - [Top Level API Output](#response-format-top-level-api-output)
+    - [The `datacenter` object](#response-format-the-datacenter-object)
+    - [The `company` object](#response-format-the-company-object)
+    - [The `asn` object](#response-format-the-asn-object)
+    - [The `location` object](#response-format-the-location-object)
+5. [API Endpoints](#api-endpoints)
+    - [GET Endpoint](#get-endpoint---lookup-a-single-ip-address-or-asn)
+    - [POST Endpoint](#post-endpoint---query-up-to-100-ip-addresses-in-one-api-call)
 
 ---
 
