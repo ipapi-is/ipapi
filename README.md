@@ -2,13 +2,13 @@
 
 1. [Quickstart](#quickstart)
 2. [Introduction](#introduction)
-3. [API Features](#apifeatures)
-4. [API Response Format](#apiresponseformat)
-    - [Top Level API Output](#responseformattoplevelapioutput)
-    - [The `datacenter` object](#responseformatthedatacenterobject)
-    - [The `company` object](#responseformatthecompanyobject)
-    - [The `asn` object](#responseformattheasnobject)
-    - [The `location` object](#responseformatthelocationobject)
+3. [API Features](#features)
+4. [API Response Format](#response-format)
+    - [Top Level API Output](#top-level-response-format)
+    - [The `datacenter` object](#response-format-datacenter)
+    - [The `company` object](#response-format-company)
+    - [The `asn` object](#response-format-asn)
+    - [The `location` object](#response-format-location)
 5. [API Endpoints](#apiendpoints)
     - [GET Endpoint](#getendpointlookupasingleipaddressorasn)
     - [POST Endpoint](#postendpointqueryupto100ipaddressesinoneapicall)
@@ -23,7 +23,7 @@ This API strongly emphasises **datacenter/hosting detection**. A complicated hos
 
 The API includes accurate and rich ASN meta-data. For instance, the API output contains whois information for each active ASN and the ASN type is derived by analyzing the company that own the ASN.
 
-## Quickstart
+## Quickstart <a name="quickstart"></a>
 
 Lookup any IP address: [https://ipapi.is/json/?q=3.5.140.2](https://ipapi.is/json/?q=3.5.140.2)
 
@@ -43,7 +43,7 @@ Usage with Curl:
 curl 'https://ipapi.is/json/?q=32.5.140.2'
 ```
 
-## Introduction
+## Introduction <a name="introduction"></a>
 
 The IP adddress API internally uses the following data sources:
 
@@ -55,7 +55,7 @@ The IP adddress API internally uses the following data sources:
 6. The API uses IP threat data from various honeypots
 7. IP geolocation information from several different geolocation providers is used
 
-## API Features
+## API Features <a name="features"></a>
 
 - **Ready for production**: This API can be used in production and is stable
 - **Many datacenters supported:** [Thousands of different hosting providers and counting](https://ipapi.is/hosting-detection.html) - From Huawei Cloud Service to ServerMania Inc. Find out whether the IP address is hosted by looking at the `is_datacenter` property!
@@ -64,7 +64,7 @@ The IP adddress API internally uses the following data sources:
 - **Company Support**: The API provides organisational information for each network of each looked up IP address
 - **Bulk IP Lookups**: You can lookup up to 100 IP addresses per API call
 
-## API Response Format
+## API Response Format <a name="response-format"></a>
 
 The API output format is explaind by walking through an example. Most of the returned information is self-explanatory.
 
@@ -121,7 +121,7 @@ This is how a typical API response looks like. The IP `107.174.138.172` was quer
 
 In the following section, the different parts of the API response are explained in-depth.
 
-### Response Format: Top Level API Output
+### Response Format: Top Level API Output <a name="top-level-response-format"></a>
 
 The top level API output looks as follows:
 
@@ -149,7 +149,7 @@ The explanation for those fields is as follows:
 - `is_abuser` - `boolean` - is true if the IP address committed abusive actions, which was the case with `107.174.138.172`
 - `elapsed_ms` - `float` - how much internal processing time was spent in ms. This lookup only took `0.62ms`, which is quite fast.
 
-### Response Format: The `datacenter` object
+### Response Format: The `datacenter` object <a name=""></a>
 
 ```json
   "datacenter": {
@@ -200,7 +200,7 @@ DigitalOcean example:
 }
 ```
 
-### Response Format: The `company` object
+### Response Format: The `company` object <a name=""></a>
 
 ```json
   "company": {
@@ -218,7 +218,7 @@ Most IP addresses can be associated with an organization or company. The API use
 - `network` - `string` - The network for which the company has ownership
 - `whois` - `string` - An url to the whois information for the network of this IP address
 
-### Response Format: The `asn` object
+### Response Format: The `asn` object <a name=""></a>
 
 ```json
   "asn": {
@@ -255,7 +255,7 @@ Most IP addresses can be associated with an Autonomeous System (AS). The `asn` o
 
 For inactive autonomeous systems, most of the above information is not available.
 
-### Response Format: The `location` object
+### Response Format: The `location` object <a name=""></a>
 
 ```json
   "location": {
@@ -284,11 +284,11 @@ The API provides geolocation information for the looked up IP address. The `loca
 
 Country level geolocation accuracy is quite good, since the API provides information from several different geolocation service providers.
 
-## API Endpoints
+## API Endpoints <a name=""></a>
 
 The IP API currently has two endpoints.
 
-### GET Endpoint - Lookup a single IP Address or ASN
+### GET Endpoint - Lookup a single IP Address or ASN <a name=""></a>
 
 This GET endpoint allows to lookup a single IPv4 or IPv6 IP address by specifying the query parameter `q`. Example: `q=142.250.186.110`. You can also lookup **ASN** numbers by specifying the query `q=AS209103`.
 
@@ -298,7 +298,7 @@ This GET endpoint allows to lookup a single IPv4 or IPv6 IP address by specifyin
 - **Example** - [https://ipapi.is/json/?q=3.5.140.2](https://ipapi.is/json/?q=3.5.140.2)
 - **ASN Example** - [https://ipapi.is/json/?q=AS42831](https://ipapi.is/json/?q=AS42831)
 
-### POST Endpoint - Query up to 100 IP Addresses in one API call
+### POST Endpoint - Query up to 100 IP Addresses in one API call <a name=""></a>
 
 You can also make a bulk API lookup with up to 100 IP addresses (Either IPv4 or IPv6) in one single request.
 
