@@ -15,13 +15,13 @@
 
 ---
 
-The IP address API returns useful meta-information for IP addresses. For example, the API response includes the organization of the IP address, ASN information and geolocation intelligence.
+This IP address API returns useful meta-information for IP addresses. For example, the API response includes the organization of the IP address, ASN information and geolocation intelligence.
 
 Furthermore, the API response allows to derive security information for each IP address, for example whether an IP address belongs to a hosting provider (`is_datacenter`), is a TOR exit node (`is_tor`), if an IP address is a proxy (`is_proxy`) or belongs to an abuser (`is_abuser`).
 
 This API strongly emphasises **datacenter/hosting detection**. A complicated hosting detection algorithm was developed to achieve a high detection rate. [Thousands of different hosting providers](https://ipapi.is/hosting-detection.html) are tracked. Whois records, public hosting IP ranges from hosting providers and a proprietary hosting discovery algorithm are used to decide whether an IP address belongs to a datacenter or not.
 
-The API includes accurate and rich ASN meta-data. For instance, the API output contains whois information for each active ASN and the ASN type is derived by analyzing the company that own the ASN.
+The API includes accurate and rich ASN meta-data. For instance, the API output contains whois information for each active ASN and the ASN type is derived by analyzing the company that owns the AS.
 
 ## Quickstart
 
@@ -45,13 +45,13 @@ curl 'https://ipapi.is/json/?q=32.5.140.2'
 
 ## Introduction
 
-The IP adddress API internally uses the following data sources:
+The IP adddress API makes use of the following data sources:
 
-1. Public whois records from regional Internet address registries such as RIPE NCC, APNIC, ARIN and so on
+1. Public whois records from regional Internet address registries such as [RIPE NCC](https://www.ripe.net/), [APNIC](https://www.apnic.net/), [ARIN](https://www.arin.net/) and so on
 2. BGP information in order to find ASN information and their associated routes/prefixes
 3. Public blocklists such as [firehol/blocklist-ipset](https://github.com/firehol/blocklist-ipsets)
 4. The API uses several proprietary datacenter/hosting detection algorithms
-5. Other open source projects that try to find hosting IP addresses such as [github.com/client9/ipcat](https://github.com/client9/ipcat), [github.com/Umkus/ip-index](https://github.com/Umkus/ip-index) or [https://github.com/X4BNet/lists_vpn](github.com/X4BNet/lists_vpn) are also considered.
+5. Other open source projects that try to find hosting IP addresses such as [github.com/client9/ipcat](https://github.com/client9/ipcat), [github.com/Umkus/ip-index](https://github.com/Umkus/ip-index) or [https://github.com/X4BNet/lists_vpn](github.com/X4BNet/lists_vpn) are also considered
 6. The API uses IP threat data from various honeypots
 7. IP geolocation information from several different geolocation providers is used
 
@@ -68,7 +68,7 @@ The IP adddress API internally uses the following data sources:
 
 The API output format is explaind by walking through an example. Most of the returned information is self-explanatory.
 
-This is how a typical API response looks like. The IP `107.174.138.172` was queried with the API call [https://ipapi.is/json/?q=107.174.138.172](https://ipapi.is/json/?q=107.174.138.172)):
+This is how a typical API response looks like. The IP `107.174.138.172` was queried with the API call [https://ipapi.is/json/?q=107.174.138.172](https://ipapi.is/json/?q=107.174.138.172):
 
 ```json
 {
@@ -87,8 +87,8 @@ This is how a typical API response looks like. The IP `107.174.138.172` was quer
   },
   "datacenter": {
     "datacenter": "ColoCrossing",
-    "domain": "colocrossing.com",
-    "network": "107.174.138.0/24"
+    "domain": "www.colocrossing.com",
+    "network": "107.172.0.0 - 107.175.255.255"
   },
   "asn": {
     "asn": 36352,
@@ -97,7 +97,7 @@ This is how a typical API response looks like. The IP `107.174.138.172` was quer
     "country": "us",
     "active": true,
     "org": "ColoCrossing",
-    "domain": "colocrossing.com",
+    "domain": "www.colocrossing.com",
     "abuse": "abuse@colocrossing.com",
     "type": "hosting",
     "created": "2005-12-12",
@@ -112,10 +112,11 @@ This is how a typical API response looks like. The IP `107.174.138.172` was quer
     "latitude": "42.882500",
     "longitude": "-78.878800",
     "zip": "14202",
-    "timezone": "-04:00",
-    "local_time": "2022-10-30T15:21:04.783Z"
+    "timezone": "-05:00",
+    "local_time": "2022-12-02 08:18:42.906-0500",
+    "local_time_unix": 1669969122.906
   },
-  "elapsed_ms": 0.84
+  "elapsed_ms": 2.24
 }
 ```
 
@@ -134,7 +135,7 @@ The top level API output looks as follows:
   "is_tor": true,
   "is_proxy": false,
   "is_abuser": true,
-  "elapsed_ms": 0.62
+  "elapsed_ms": 2.24
 }
 ```
 
@@ -143,19 +144,19 @@ The explanation for those fields is as follows:
 - `ip` - `string` - the IP address that was looked up, here it was `107.174.138.172`
 - `rir` - `string` - to which [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry) the IP address belongs. Here it belongs to `ARIN`, which is the RIR responsible for North America
 - `is_bogon` - `boolean` - Whether the IP address is bogon. For example, the loopback IP `127.0.0.1` is a special/bogon IP address. The IP address `107.174.138.172` is not bogon, hence it is set to `false` here.
-- `is_datacenter` - `boolean` - whether the IP address belongs to a datacenter. Here, we have the value `true`, since `107.174.138.172` belongs to the datacenter provider ColoCrossing.
+- `is_datacenter` - `boolean` - whether the IP address belongs to a datacenter. Here, we have the value `true`, since `107.174.138.172` belongs to the datacenter provider `ColoCrossing`.
 - `is_tor` - `boolean` - is true if the IP address belongs to the TOR network. This is the case here.
 - `is_proxy` - `boolean` - whether the IP address is a proxy. This is not the case here.
 - `is_abuser` - `boolean` - is true if the IP address committed abusive actions, which was the case with `107.174.138.172`
-- `elapsed_ms` - `float` - how much internal processing time was spent in ms. This lookup only took `0.62ms`, which is quite fast.
+- `elapsed_ms` - `float` - how much internal processing time was spent in ms. This lookup only took `2.24ms`, which is quite fast.
 
 ### Response Format: The `datacenter` object
 
 ```json
   "datacenter": {
     "datacenter": "ColoCrossing",
-    "domain": "colocrossing.com",
-    "network": "107.174.138.0/24"
+    "domain": "www.colocrossing.com",
+    "network": "107.172.0.0 - 107.175.255.255"
   },
 ```
 
@@ -163,7 +164,7 @@ If the IP address belongs to a datacenter/hosting provider, the API response wil
 
 - `datacenter` - `string` - to which datacenter the IP address belongs. For a full list of datacenters, check the [ipapi.is/json/info endpoint](https://ipapi.is/json/info). In this case, the datacenter's name is `ColoCrossing`.
 - `domain` - `string` - The domain name of the company
-- `network` - `string` - the network this IP address belongs to (In the above case: `107.174.138.0/24`)
+- `network` - `string` - the network this IP address belongs to (In the above case: `107.172.0.0 - 107.175.255.255`)
 
 Most IP's don't belong to a hosting provider. In those cases, the `datacenter` object will not be present.
 
@@ -228,7 +229,7 @@ Most IP addresses can be associated with an organization or company. The API use
     "country": "us",
     "active": true,
     "org": "ColoCrossing",
-    "domain": "colocrossing.com",
+    "domain": "www.colocrossing.com",
     "abuse": "abuse@colocrossing.com",
     "type": "hosting",
     "created": "2005-12-12",
@@ -265,8 +266,9 @@ For inactive autonomeous systems, most of the above information is not available
     "latitude": "42.882500",
     "longitude": "-78.878800",
     "zip": "14202",
-    "timezone": "-04:00",
-    "local_time": "2022-10-30T15:22:31.183Z"
+    "timezone": "-05:00",
+    "local_time": "2022-12-02 08:25:17.411-0500",
+    "local_time_unix": 1669969517.411
   },
 ```
 
@@ -279,7 +281,8 @@ The API provides geolocation information for the looked up IP address. The `loca
 - `longitude` - `string` - The longitude for the IP address
 - `zip` - `string` - The zip code for this IP
 - `timezone` - `string` - The timezone for this IP
-- `local_time` - `string` - The local time for this IP
+- `local_time` - `string` - The local time for this IP in human readable format
+- `local_time_unix` - `string` - The local time for this IP as unix timestamp
 - `possible_other_location` - `array` - (Optional) -  If there are multiple possible locations, the attribute `possible_other_location` is included in the API response. It contains an array of ISO 3166-1 alpha-2 country codes which represent the possible other geolocation countries.
 
 Country level geolocation accuracy is quite good, since the API provides information from several different geolocation service providers.
