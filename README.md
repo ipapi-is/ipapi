@@ -64,6 +64,56 @@ The IP adddress API makes use of the following data sources:
 - **Company Support**: The API provides organisational information for each network of each looked up IP address
 - **Bulk IP Lookups**: You can lookup up to 100 IP addresses per API call
 
+### ASN Database
+
+For offline access, an **ASN Database** is provided. The database is updated several times per week. The ASN database includes all assigned AS numbers by IANA. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example for the AS `50673`, the provided AS information would be:
+
+```json
+"50673": {
+  "asn": "50673",
+  "org": "Serverius Holding B.V.",
+  "domain": "serverius.net",
+  "abuse": "abuse@serverius.net",
+  "type": "hosting",
+  "created": "2010-09-07",
+  "updated": "2022-11-15",
+  "rir": "ripe",
+  "descr": "SERVERIUS-AS, NL",
+  "country": "NL",
+  "active": true,
+  "prefixes": [
+    "2.59.183.0/24",
+    "5.56.133.0/24",
+    // ...
+  ],
+  "prefixesIPv6": [
+    "2001:67c:b0::/48",
+    "2a00:1ca8::/32",
+    // ...
+  ]
+},
+```
+
+The database is in JSON format. The key is the ASN, and the value is an object with AS meta information such as the one above.
+
+[Click here to download the ASN Database](https://ipapi.is/asn.html)
+
+### Hosting IP Ranges Database
+
+Furthermore, a **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges.
+
+The file format of the database is tab separated text file (.tsv), where each line of the file contains the `company`, `network` and `domain` of the hosting provider.
+
+Example:
+
+```text
+Linode, LLC 178.79.160.0 - 178.79.167.255 www.linode.com
+OVH Sp. z o. o. 178.32.191.0 - 178.32.191.127 www.ovh.com
+myLoc managed IT AG 46.245.176.0 - 46.245.183.255 www.myloc.de
+```
+
+[Click here to download the Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html)
+
 ## API Response Format
 
 The API output format is explaind by walking through an example. Most of the returned information is self-explanatory.
