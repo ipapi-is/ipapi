@@ -68,7 +68,7 @@ The IP adddress API makes use of the following data sources:
 
 ### ASN Database
 
-For offline access, an **ASN Database** is provided. The database is updated several times per week. The ASN database includes all assigned AS numbers by IANA. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example for the AS `50673`, the provided AS information would be:
+For offline access, the **ASN Database** is provided. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database is updated several times per week. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
 
 ```JavaScript
 "50673": {
@@ -86,27 +86,27 @@ For offline access, an **ASN Database** is provided. The database is updated sev
   "prefixes": [
     "2.59.183.0/24",
     "5.56.133.0/24",
-    // many other IPv4 prefixes ...
+    // many more IPv4 prefixes ...
   ],
   "prefixesIPv6": [
     "2001:67c:b0::/48",
     "2a00:1ca8::/32",
-    // many other IPv6 prefixes ...
+    // many more IPv6 prefixes ...
   ]
 },
 ```
 
-The database is in JSON format. The key is the ASN, and the value is an object with AS meta information such as the one above.
+The database is in JSON format. The key is the ASN as `int` and the value is an object with AS meta information such as the one above.
 
 [Click here to download the ASN Database](https://ipapi.is/asn.html)
 
 ### Hosting IP Ranges Database
 
-Furthermore, a **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges.
+Furthermore, the **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges in the Internet. A proprietary algorithm was developed to determine if a network belongs to a hosting provider.
 
 The file format of the database is tab separated text file (.tsv), where each line of the file contains the `company`, `network` and `domain` of the hosting provider.
 
-Example:
+Example excerpt of the database:
 
 ```text
 Linode, LLC 178.79.160.0 - 178.79.167.255 www.linode.com
