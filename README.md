@@ -3,6 +3,8 @@
 1. [Quickstart](#quickstart)
 2. [Introduction](#introduction)
 3. [API Features](#api-features)
+    - [ASN Database](#asn-database)
+    - [Hosting IP Ranges Database](#hosting-ip-ranges-database)
 4. [API Response Format](#api-response-format)
     - [Top Level API Output](#response-format-top-level-api-output)
     - [The `datacenter` object](#response-format-the-datacenter-object)
@@ -68,7 +70,7 @@ The IP adddress API makes use of the following data sources:
 
 For offline access, an **ASN Database** is provided. The database is updated several times per week. The ASN database includes all assigned AS numbers by IANA. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example for the AS `50673`, the provided AS information would be:
 
-```json
+```JavaScript
 "50673": {
   "asn": "50673",
   "org": "Serverius Holding B.V.",
@@ -84,12 +86,12 @@ For offline access, an **ASN Database** is provided. The database is updated sev
   "prefixes": [
     "2.59.183.0/24",
     "5.56.133.0/24",
-    // ...
+    // many other IPv4 prefixes ...
   ],
   "prefixesIPv6": [
     "2001:67c:b0::/48",
     "2a00:1ca8::/32",
-    // ...
+    // many other IPv6 prefixes ...
   ]
 },
 ```
