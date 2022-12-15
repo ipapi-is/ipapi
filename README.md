@@ -68,7 +68,7 @@ The IP adddress API makes use of the following data sources:
 
 ### ASN Database
 
-For offline access, the **ASN Database** is provided. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database is updated several times per week. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
+For offline ASN data access, the [**ASN Database**](https://ipapi.is/asn.html) is provided. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database is updated several times per week. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
 
 ```JavaScript
 "50673": {
@@ -100,6 +100,25 @@ The database is in JSON format. The key is the ASN as `int` and the value is an 
 
 [Click here to download the ASN Database](https://ipapi.is/asn.html)
 
+**How to download & parse the database?**
+
+Download and unzip the ASN database:
+
+```bash
+cd /tmp
+curl -O https://ipapi.is/data/fullASN.json.zip
+unzip fullASN.json.zip
+```
+
+And parse with nodejs:
+
+```JavaScript
+let asnDatabase = require('./fullASN.json');
+for (let asn in asnDatabase) {
+  console.log(asn, asnDatabase[asn]);
+}
+```
+
 ### Hosting IP Ranges Database
 
 Furthermore, the **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges in the Internet. A proprietary algorithm was developed to determine if a network belongs to a hosting provider.
@@ -115,6 +134,28 @@ myLoc managed IT AG 46.245.176.0 - 46.245.183.255 www.myloc.de
 ```
 
 [Click here to download the Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html)
+
+**How to download & parse the database?**
+
+Download and unzip the Hosting Ranges database:
+
+```bash
+cd /tmp
+curl -O https://ipapi.is/data/hostingRanges.tsv.zip
+unzip hostingRanges.tsv.zip
+```
+
+And parse with nodejs:
+
+```JavaScript
+const fs = require('fs');
+
+let hostingRanges = fs.readFileSync('hostingRanges.tsv').toString().split('\n');
+for (let line of hostingRanges) {
+  let [company, network, domain] = line.split('\t');
+  console.log(company, network, domain);
+}
+```
 
 ## API Response Format
 
@@ -218,37 +259,52 @@ If the IP address belongs to a datacenter/hosting provider, the API response wil
 - `domain` - `string` - The domain name of the company
 - `network` - `string` - the network this IP address belongs to (In the above case: `107.172.0.0 - 107.175.255.255`)
 
-Most IP's don't belong to a hosting provider. In those cases, the `datacenter` object will not be present.
+Most IP's don't belong to a hosting provider. In those cases, the `datacenter` object will not be present in the API output.
 
 For a couple of large cloud providers, such as Google Cloud, Amazon AWS, DigitalOcean or Microsoft Azure (and some others), the `datacenter` object is more detailed.
 
-Amazon AWS example:
+[Amazon AWS](https://aws.amazon.com/) example:
 
 ```json
 {
   "ip": "3.5.140.2",
   "datacenter": {
-    "cidr": "3.5.140.0/22",
-    "region": "ap-northeast-2",
     "datacenter": "Amazon AWS",
+    "network": "3.5.140.0/22",
+    "region": "ap-northeast-2",
     "service": "EC2",
     "network_border_group": "ap-northeast-2"
-  },
+  }
 }
 ```
 
-DigitalOcean example:
+[DigitalOcean](https://www.digitalocean.com/) example:
 
 ```json
 {
-  "ip": "167.99.241.135",
+  "ip": "167.99.241.130",
   "datacenter": {
-    "cidr": "167.99.240.0/20",
     "datacenter": "DigitalOcean",
     "code": "60341",
     "city": "Frankfurt",
     "state": "DE-HE",
-    "country": "DE"
+    "country": "DE",
+    "network": "167.99.240.0/20"
+  },
+}
+```
+
+[`Linode`](https://www.linode.com/) example:
+
+```json
+{
+  "ip": "72.14.182.54",
+  "datacenter": {
+    "datacenter": "Linode",
+    "name": "US-TX",
+    "city": "Richardson",
+    "country": "US",
+    "network": "72.14.182.0/24"
   },
 }
 ```
