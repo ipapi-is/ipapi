@@ -171,6 +171,7 @@ This is how a typical API response looks like. The IP `107.174.138.172` was quer
   "is_datacenter": true,
   "is_tor": true,
   "is_proxy": false,
+  "is_vpn": false,
   "is_abuser": true,
   "company": {
     "name": "ColoCrossing",
@@ -206,10 +207,10 @@ This is how a typical API response looks like. The IP `107.174.138.172` was quer
     "longitude": "-78.878800",
     "zip": "14202",
     "timezone": "-05:00",
-    "local_time": "2022-12-02 08:18:42.906-0500",
-    "local_time_unix": 1669969122.906
+    "local_time": "2022-12-20 07:31:16.256-0500",
+    "local_time_unix": 1671521476.256
   },
-  "elapsed_ms": 2.24
+  "elapsed_ms": 2.4
 }
 ```
 
@@ -227,21 +228,23 @@ The top level API output looks as follows:
   "is_datacenter": true,
   "is_tor": true,
   "is_proxy": false,
+  "is_vpn": false,
   "is_abuser": true,
-  "elapsed_ms": 2.24
+  "elapsed_ms": 2.4
 }
 ```
 
-The explanation for those fields is as follows:
+The explanation for the top level API fields is as follows:
 
 - `ip` - `string` - the IP address that was looked up, here it was `107.174.138.172`
 - `rir` - `string` - to which [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry) the IP address belongs. Here it belongs to `ARIN`, which is the RIR responsible for North America
-- `is_bogon` - `boolean` - Whether the IP address is bogon. For example, the loopback IP `127.0.0.1` is a special/bogon IP address. The IP address `107.174.138.172` is not bogon, hence it is set to `false` here.
-- `is_datacenter` - `boolean` - whether the IP address belongs to a datacenter. Here, we have the value `true`, since `107.174.138.172` belongs to the datacenter provider `ColoCrossing`.
-- `is_tor` - `boolean` - is true if the IP address belongs to the TOR network. This is the case here.
-- `is_proxy` - `boolean` - whether the IP address is a proxy. This is not the case here.
-- `is_abuser` - `boolean` - is true if the IP address committed abusive actions, which was the case with `107.174.138.172`
-- `elapsed_ms` - `float` - how much internal processing time was spent in ms. This lookup only took `2.24ms`, which is quite fast.
+- `is_bogon` - `boolean` - Whether the IP address is bogon. [Bogon IP Addresses](https://en.wikipedia.org/wiki/Bogon_filtering) is the set of IP Addresses not assigned/allocated to IANA and any RIR (Regional Internet Resgistry). For example, the loopback IP `127.0.0.1` is a special/bogon IP address. The IP address `107.174.138.172` is not bogon, hence it is set to `false` here.
+- `is_datacenter` - `boolean` - whether the IP address belongs to a datacenter. Here, we have the value `true`, since `107.174.138.172` belongs to the hosting provider `ColoCrossing`.
+- `is_tor` - `boolean` - is true if the IP address belongs to the TOR network. This is the case here. Tor detection is accurate, so you can rely on the value of `is_tor`. The API detects most TOR exit nodes reliably.
+- `is_proxy` - `boolean` - whether the IP address is a proxy. This is not the case here. In general, the flag `is_proxy` only covers a subset of all proxies in the Internet.
+- `is_vpn` - `boolean` - whether the IP address is a VPN. This is not the case with the IP `107.174.138.172`. In general, the flag `is_vpn` only covers a subset of all VPN's in the Internet. It is not possible to detect all VPN exit nodes passively.
+- `is_abuser` - `boolean` - is true if the IP address committed abusive actions, which was the case with `107.174.138.172`. Various IP blocklists and threat intelligence feeds are used to populate the `is_abuser` flag.
+- `elapsed_ms` - `float` - how much internal processing time was spent in milliseconds (ms). This lookup only took `2.4ms`, which is quite fast.
 
 ### Response Format: The `datacenter` object
 
