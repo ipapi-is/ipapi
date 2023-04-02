@@ -23,7 +23,7 @@ Furthermore, the API response allows to derive **security information** for each
 
 This API strongly emphasizes **datacenter/hosting detection**. A complicated hosting detection algorithm was developed to achieve a high detection rate. [Thousands of different hosting providers](https://ipapi.is/hosting-detection.html) are tracked. Whois records, public hosting IP ranges from hosting providers and a proprietary hosting discovery algorithm are used to decide whether an IP address belongs to a datacenter or not.
 
-The API furthermore includes accurate and rich ASN meta-data. For instance, the API includes raw whois data for each active ASN. The ASN type is derived by analyzing the company that owns the AS.
+The API furthermore includes accurate and rich ASN meta data. For instance, the API includes raw whois data for each active ASN. Fields such as the ASN `type` are derived by analyzing the company that owns the autonomous system.
 
 ## Quickstart
 
@@ -56,7 +56,7 @@ The IP address API makes use of the following data sources:
 5. Other open source projects that try to find hosting IP addresses such as [github.com/client9/ipcat](https://github.com/client9/ipcat), [github.com/Umkus/ip-index](https://github.com/Umkus/ip-index) or [https://github.com/X4BNet/lists_vpn](github.com/X4BNet/lists_vpn) are also considered
 6. The API uses IP threat data from various honeypots
 7. IP geolocation information from several different geolocation providers is used. By using more than one geolocation source, a more accurate location can be interpolated.
-8. A own, proprietary geolocation database is built from scratch. Gelocation data is sourced from whois data. For example, some Regional Internet Registries [such as APNIC](https://help.apnic.net/s/article/Geolocation) support the `geofeed` and `geoloc` property in whois records.
+8. A proprietary geolocation database is built from scratch. Gelocation data is sourced from whois data. For example, some Regional Internet Registries [such as APNIC](https://help.apnic.net/s/article/Geolocation) support the `geofeed` and `geoloc` property in whois records.
 
 ## API Features
 
@@ -239,63 +239,63 @@ The top level API output looks as follows:
 
 The explanation for the top level API fields is as follows:
 
-#### Property `ip`
+#### Field `ip`
 
-Property `ip` - `string`
+The field `ip` has datatype `string`.
 
-The IP address that was looked up, here it was `107.174.138.172`.
+It is the IP address that was looked up, in the example above it is `107.174.138.172`.
 
-If no IP address is specified (Example: [https://ipapi.is/json/](https://ipapi.is/json/)), the client's own IP address is looked up.
+If no IP address was specified (Example: [https://ipapi.is/json/](https://ipapi.is/json/)), the client's own IP address is looked up.
 
-#### Property `rir`
+#### Field `rir`
 
-Property `rir` - `string`
+The field `rir` has datatype `string`.
 
-To which [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry) the IP address belongs. Here it belongs to `ARIN`, which is the RIR responsible for North America.
+It specifies to which [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry) the IP address belongs. Here it belongs to `ARIN`, which is the RIR responsible for North America.
 
-#### Property `is_bogon`
+#### Field `is_bogon`
 
-Property `is_bogon` - `boolean`
+The field `is_bogon` has datatype `boolean`.
 
-Whether the IP address is bogon. [Bogon IP Addresses](https://en.wikipedia.org/wiki/Bogon_filtering) is the set of IP Addresses not assigned/allocated to IANA and any RIR (Regional Internet Resgistry). For example, the loopback IP `127.0.0.1` is a special/bogon IP address. The IP address `107.174.138.172` is not bogon, hence it is set to `false` here.
+It determines if the IP address is bogon. [Bogon IP Addresses](https://en.wikipedia.org/wiki/Bogon_filtering) is the set of IP Addresses not assigned/allocated to IANA and any RIR (Regional Internet Registry). For example, the loopback IP `127.0.0.1` is a special/bogon IP address. The IP address `107.174.138.172` is not bogon, hence it is set to `false` here.
 
-#### Property `is_datacenter`
+#### Field `is_datacenter`
 
-Property `is_datacenter` - `boolean`
+The field `is_datacenter` has datatype `boolean`.
 
-Whether the IP address belongs to a datacenter or not. Here, we have the value `true`, since `107.174.138.172` belongs to the hosting provider `ColoCrossing`.
+It specifies whether the IP address belongs to a datacenter or not. Here, we have the value `true`, since `107.174.138.172` belongs to the hosting provider `ColoCrossing`.
 
-#### Property `is_tor`
+#### Field `is_tor`
 
-Property `is_tor` - `boolean`
+The field `is_tor` has datatype `boolean`.
 
-`is_tor` is true if the IP address belongs to the TOR network. This is the case here. Tor detection is accurate, so you can rely on the value of `is_tor`. The API detects most TOR exit nodes reliably.
+If the field `is_tor` is true, the IP address belongs to the TOR network. This is the case here. Tor detection is accurate, so you can rely on the value of `is_tor`. The API detects most TOR exit nodes reliably.
 
-#### Property `is_proxy`
+#### Field `is_proxy`
 
-Property `is_proxy` - `boolean`
+The field `is_proxy` has datatype `boolean`.
 
-Whether the IP address is a proxy. This is not the case here. In general, the flag `is_proxy` only covers a subset of all proxies in the Internet.
+The field determines whether the IP address is a proxy. This is not the case here. In general, the flag `is_proxy` only covers a subset of all proxies in the Internet.
 
-#### Property `is_vpn`
+#### Field `is_vpn`
 
-Property `is_vpn` - `boolean`
+The field `is_vpn` has datatype `boolean`.
 
-Whether the IP address is a VPN. This is not the case with the IP `107.174.138.172`. In general, the flag `is_vpn` only covers a subset of all VPN's in the Internet. It is not possible to detect all VPN exit nodes passively.
+The field determines if the IP address is a VPN. This is not the case with the IP `107.174.138.172`. In general, the flag `is_vpn` only covers a subset of all VPN's in the Internet. It is not possible to detect all VPN exit nodes passively.
 
-#### Property `is_abuser`
+#### Field `is_abuser`
 
-Property `is_abuser` - `boolean`
+The field `is_abuser` has datatype `boolean`.
 
-Is true if the IP address committed abusive actions, which was the case with `107.174.138.172`. Various IP blocklists and threat intelligence feeds are used to populate the `is_abuser` flag.
+The field `is_abuser` is true if the IP address committed abusive actions, which was the case with `107.174.138.172`. Various IP blocklists and threat intelligence feeds are used to populate the `is_abuser` flag.
 
 Open source and proprietary block lists are used in the API to populate the `is_abuser` flag.
 
-#### Property `elapsed_ms`
+#### Field `elapsed_ms`
 
-Property `elapsed_ms` - `float`
+The field `elapsed_ms` has datatype `float`.
 
-How much internal processing time was spent in milliseconds (ms). This lookup only took `4.14ms`, which is quite fast.
+The field stores how much internal processing time was spent in milliseconds (ms). This lookup only took `4.14ms`, which is quite fast.
 
 ### Response Format: The `datacenter` object
 
