@@ -239,43 +239,61 @@ The top level API output looks as follows:
 
 The explanation for the top level API fields is as follows:
 
-#### `ip` - `string`
+#### Property `ip`
+
+Property `ip` - `string`
 
 The IP address that was looked up, here it was `107.174.138.172`.
 
 If no IP address is specified (Example: [https://ipapi.is/json/](https://ipapi.is/json/)), the client's own IP address is looked up.
 
-#### `rir` - `string`
+#### Property `rir`
+
+Property `rir` - `string`
 
 To which [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry) the IP address belongs. Here it belongs to `ARIN`, which is the RIR responsible for North America.
 
-#### `is_bogon` - `boolean`
+#### Property `is_bogon`
+
+Property `is_bogon` - `boolean`
 
 Whether the IP address is bogon. [Bogon IP Addresses](https://en.wikipedia.org/wiki/Bogon_filtering) is the set of IP Addresses not assigned/allocated to IANA and any RIR (Regional Internet Resgistry). For example, the loopback IP `127.0.0.1` is a special/bogon IP address. The IP address `107.174.138.172` is not bogon, hence it is set to `false` here.
 
-#### `is_datacenter` - `boolean`
+#### Property `is_datacenter`
+
+Property `is_datacenter` - `boolean`
 
 Whether the IP address belongs to a datacenter or not. Here, we have the value `true`, since `107.174.138.172` belongs to the hosting provider `ColoCrossing`.
 
-#### `is_tor` - `boolean`
+#### Property `is_tor`
+
+Property `is_tor` - `boolean`
 
 `is_tor` is true if the IP address belongs to the TOR network. This is the case here. Tor detection is accurate, so you can rely on the value of `is_tor`. The API detects most TOR exit nodes reliably.
 
-#### `is_proxy` - `boolean`
+#### Property `is_proxy`
+
+Property `is_proxy` - `boolean`
 
 Whether the IP address is a proxy. This is not the case here. In general, the flag `is_proxy` only covers a subset of all proxies in the Internet.
 
-#### `is_vpn` - `boolean`
+#### Property `is_vpn`
+
+Property `is_vpn` - `boolean`
 
 Whether the IP address is a VPN. This is not the case with the IP `107.174.138.172`. In general, the flag `is_vpn` only covers a subset of all VPN's in the Internet. It is not possible to detect all VPN exit nodes passively.
 
-#### `is_abuser` - `boolean`
+#### Property `is_abuser`
+
+Property `is_abuser` - `boolean`
 
 Is true if the IP address committed abusive actions, which was the case with `107.174.138.172`. Various IP blocklists and threat intelligence feeds are used to populate the `is_abuser` flag.
 
 Open source and proprietary block lists are used in the API to populate the `is_abuser` flag.
 
-#### `elapsed_ms` - `float`
+#### Property `elapsed_ms`
+
+Property `elapsed_ms` - `float`
 
 How much internal processing time was spent in milliseconds (ms). This lookup only took `4.14ms`, which is quite fast.
 
