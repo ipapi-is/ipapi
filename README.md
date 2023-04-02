@@ -21,9 +21,9 @@ This IP address API returns useful meta-information for IP addresses. For exampl
 
 Furthermore, the API response allows to derive **security information** for each IP address, for example whether an IP address belongs to a hosting provider (`is_datacenter`), is a TOR exit node (`is_tor`), if an IP address is a proxy (`is_proxy`) or VPN (`is_vpn`) or belongs to an abuser (`is_abuser`).
 
-This API strongly emphasises **datacenter/hosting detection**. A complicated hosting detection algorithm was developed to achieve a high detection rate. [Thousands of different hosting providers](https://ipapi.is/hosting-detection.html) are tracked. Whois records, public hosting IP ranges from hosting providers and a proprietary hosting discovery algorithm are used to decide whether an IP address belongs to a datacenter or not.
+This API strongly emphasizes **datacenter/hosting detection**. A complicated hosting detection algorithm was developed to achieve a high detection rate. [Thousands of different hosting providers](https://ipapi.is/hosting-detection.html) are tracked. Whois records, public hosting IP ranges from hosting providers and a proprietary hosting discovery algorithm are used to decide whether an IP address belongs to a datacenter or not.
 
-The API includes accurate and rich ASN meta-data. For instance, the API output contains whois information for each active ASN and the ASN type is derived by analyzing the company that owns the AS.
+The API furthermore includes accurate and rich ASN meta-data. For instance, the API includes raw whois data for each active ASN. The ASN type is derived by analyzing the company that owns the AS.
 
 ## Quickstart
 
@@ -39,7 +39,7 @@ fetch('https://ipapi.is/json/?q=23.236.48.55')
   .then(res => console.log(res));
 ```
 
-Usage with Curl:
+Usage with `curl`:
 
 ```bash
 curl 'https://ipapi.is/json/?q=32.5.140.2'
@@ -47,15 +47,16 @@ curl 'https://ipapi.is/json/?q=32.5.140.2'
 
 ## Introduction
 
-The IP adddress API makes use of the following data sources:
+The IP address API makes use of the following data sources:
 
 1. Public whois records from regional Internet address registries such as [RIPE NCC](https://www.ripe.net/), [APNIC](https://www.apnic.net/), [ARIN](https://www.arin.net/) and so on
-2. [Public BGP Routing Table Data](https://thyme.apnic.net/current/) for ASN lookups
+2. [Public BGP routing table data](https://thyme.apnic.net/current/) for ASN lookups
 3. Public blocklists such as [firehol/blocklist-ipset](https://github.com/firehol/blocklist-ipsets)
-4. The API uses several proprietary datacenter/hosting detection algorithms
+4. The API uses a proprietary datacenter/hosting detection algorithm
 5. Other open source projects that try to find hosting IP addresses such as [github.com/client9/ipcat](https://github.com/client9/ipcat), [github.com/Umkus/ip-index](https://github.com/Umkus/ip-index) or [https://github.com/X4BNet/lists_vpn](github.com/X4BNet/lists_vpn) are also considered
 6. The API uses IP threat data from various honeypots
 7. IP geolocation information from several different geolocation providers is used. By using more than one geolocation source, a more accurate location can be interpolated.
+8. A own, proprietary geolocation database is built from scratch. Gelocation data is sourced from whois data. For example, some Regional Internet Registries [such as APNIC](https://help.apnic.net/s/article/Geolocation) support the `geofeed` and `geoloc` property in whois records.
 
 ## API Features
 
@@ -63,7 +64,7 @@ The IP adddress API makes use of the following data sources:
 - **Many datacenters supported:** [Thousands of different hosting providers and counting](https://ipapi.is/hosting-detection.html) - From Huawei Cloud Service to ServerMania Inc. Find out whether the IP address is hosted by looking at the `is_datacenter` property!
 - **Always updated**: The API database is automatically updated several times per week.
 - **ASN support**: The API provides autonomous system information for each looked up IP address
-- **Company Support**: The API provides organisational information for each network of each looked up IP address
+- **Company Support**: The API provides organizational information for each network of each looked up IP address
 - **Bulk IP Lookups**: You can lookup up to 100 IP addresses per API call
 
 ### ASN Database
@@ -100,7 +101,7 @@ The database is in JSON format. The key is the ASN as `int` and the value is an 
 
 [Click here to download the ASN Database](https://ipapi.is/asn.html)
 
-**How to download & parse the database?**
+**How to download & parse the ASN database?**
 
 Download and unzip the ASN database:
 
@@ -135,7 +136,7 @@ myLoc managed IT AG 46.245.176.0 - 46.245.183.255 www.myloc.de
 
 [Click here to download the Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html)
 
-**How to download & parse the database?**
+**How to download & parse the Datacenter database?**
 
 Download and unzip the Hosting Ranges database:
 
@@ -159,7 +160,7 @@ for (let line of hostingRanges) {
 
 ## API Response Format
 
-The API output format is explaind by walking through an example. Most of the returned information is self-explanatory.
+The API output format is explained by walking through an example. Most of the returned information is self-explanatory.
 
 This is how a typical API response looks like. The IP `107.174.138.172` was queried with the API call [https://ipapi.is/json/?q=107.174.138.172](https://ipapi.is/json/?q=107.174.138.172):
 
@@ -201,17 +202,18 @@ This is how a typical API response looks like. The IP `107.174.138.172` was quer
   },
   "location": {
     "country": "United States of America",
-    "country_code": "us",
+    "country_code": "US",
     "state": "New York",
     "city": "Buffalo",
-    "latitude": "42.882500",
-    "longitude": "-78.878800",
+    "latitude": 42.8825,
+    "longitude": -78.8788,
     "zip": "14202",
-    "timezone": "-05:00",
-    "local_time": "2023-02-05 12:06:33.322-0500",
-    "local_time_unix": 1675598793.322
+    "timezone": "America/New_York",
+    "local_time": "2023-04-02T14:03:27-04:00",
+    "local_time_unix": 1680458607,
+    "is_dst": true
   },
-  "elapsed_ms": 3.07
+  "elapsed_ms": 4.14
 }
 ```
 
@@ -231,21 +233,51 @@ The top level API output looks as follows:
   "is_proxy": false,
   "is_vpn": false,
   "is_abuser": true,
-  "elapsed_ms": 2.4
+  "elapsed_ms": 4.14
 }
 ```
 
 The explanation for the top level API fields is as follows:
 
-- `ip` - `string` - the IP address that was looked up, here it was `107.174.138.172`
-- `rir` - `string` - to which [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry) the IP address belongs. Here it belongs to `ARIN`, which is the RIR responsible for North America
-- `is_bogon` - `boolean` - Whether the IP address is bogon. [Bogon IP Addresses](https://en.wikipedia.org/wiki/Bogon_filtering) is the set of IP Addresses not assigned/allocated to IANA and any RIR (Regional Internet Resgistry). For example, the loopback IP `127.0.0.1` is a special/bogon IP address. The IP address `107.174.138.172` is not bogon, hence it is set to `false` here.
-- `is_datacenter` - `boolean` - whether the IP address belongs to a datacenter. Here, we have the value `true`, since `107.174.138.172` belongs to the hosting provider `ColoCrossing`.
-- `is_tor` - `boolean` - is true if the IP address belongs to the TOR network. This is the case here. Tor detection is accurate, so you can rely on the value of `is_tor`. The API detects most TOR exit nodes reliably.
-- `is_proxy` - `boolean` - whether the IP address is a proxy. This is not the case here. In general, the flag `is_proxy` only covers a subset of all proxies in the Internet.
-- `is_vpn` - `boolean` - whether the IP address is a VPN. This is not the case with the IP `107.174.138.172`. In general, the flag `is_vpn` only covers a subset of all VPN's in the Internet. It is not possible to detect all VPN exit nodes passively.
-- `is_abuser` - `boolean` - is true if the IP address committed abusive actions, which was the case with `107.174.138.172`. Various IP blocklists and threat intelligence feeds are used to populate the `is_abuser` flag.
-- `elapsed_ms` - `float` - how much internal processing time was spent in milliseconds (ms). This lookup only took `2.4ms`, which is quite fast.
+#### `ip` - `string`
+
+The IP address that was looked up, here it was `107.174.138.172`.
+
+If no IP address is specified (Example: [https://ipapi.is/json/](https://ipapi.is/json/)), the client's own IP address is looked up.
+
+#### `rir` - `string`
+
+To which [Regional Internet Registry](https://en.wikipedia.org/wiki/Regional_Internet_registry) the IP address belongs. Here it belongs to `ARIN`, which is the RIR responsible for North America.
+
+#### `is_bogon` - `boolean`
+
+Whether the IP address is bogon. [Bogon IP Addresses](https://en.wikipedia.org/wiki/Bogon_filtering) is the set of IP Addresses not assigned/allocated to IANA and any RIR (Regional Internet Resgistry). For example, the loopback IP `127.0.0.1` is a special/bogon IP address. The IP address `107.174.138.172` is not bogon, hence it is set to `false` here.
+
+#### `is_datacenter` - `boolean`
+
+Whether the IP address belongs to a datacenter or not. Here, we have the value `true`, since `107.174.138.172` belongs to the hosting provider `ColoCrossing`.
+
+#### `is_tor` - `boolean`
+
+`is_tor` is true if the IP address belongs to the TOR network. This is the case here. Tor detection is accurate, so you can rely on the value of `is_tor`. The API detects most TOR exit nodes reliably.
+
+#### `is_proxy` - `boolean`
+
+Whether the IP address is a proxy. This is not the case here. In general, the flag `is_proxy` only covers a subset of all proxies in the Internet.
+
+#### `is_vpn` - `boolean`
+
+Whether the IP address is a VPN. This is not the case with the IP `107.174.138.172`. In general, the flag `is_vpn` only covers a subset of all VPN's in the Internet. It is not possible to detect all VPN exit nodes passively.
+
+#### `is_abuser` - `boolean`
+
+Is true if the IP address committed abusive actions, which was the case with `107.174.138.172`. Various IP blocklists and threat intelligence feeds are used to populate the `is_abuser` flag.
+
+Open source and proprietary block lists are used in the API to populate the `is_abuser` flag.
+
+#### `elapsed_ms` - `float`
+
+How much internal processing time was spent in milliseconds (ms). This lookup only took `4.14ms`, which is quite fast.
 
 ### Response Format: The `datacenter` object
 
@@ -351,56 +383,60 @@ Most IP addresses can be associated with an organization or company. The API use
 },
 ```
 
-Most IP addresses can be associated with an Autonomeous System (AS). The `asn` object provides the following attributes:
+Most IP addresses can be associated with an Autonomous System (AS). The `asn` object provides the following attributes:
 
 - `asn` - `int` - The AS number
 - `route` - `string` - The IP route as CIDR in this AS
 - `descr` - `string` - An informational description of the AS
 - `country` - `string` - The country where the AS is situated in (administratively)
-- `active` - `string` - Whether the AS is active (active = at least one route administred by the AS)
-- `org` - `string` - The organization responisible for this AS
+- `active` - `string` - Whether the AS is active (active = at least one route administered by the AS)
+- `org` - `string` - The organization responsible for this AS
 - `domain` - `string` - The domain of the organization to which this AS belongs
 - `abuse` - `string` - The email address to which abuse complaints for this organization should be sent
-- `type` - `string` - The type for this ASN, this is either `hosting`, `education`, `goverment`, `banking`, `business` or `isp`
+- `type` - `string` - The type for this ASN, this is either `hosting`, `education`, `government`, `banking`, `business` or `isp`
 - `created` - `string` - When the ASN was established
 - `updated` - `string` - The last time the ASN was updated
 - `rir` - `string` - To which Regional Internet Registry the ASN belongs
 - `whois` - `string` - An url to the whois information for this ASN
 
-For inactive autonomeous systems, most of the above information is not available.
+For inactive autonomous systems, most of the above information is not available.
 
 ### Response Format: The `location` object
 
 ```json
 "location": {
   "country": "United States of America",
-  "country_code": "us",
+  "country_code": "US",
   "state": "New York",
   "city": "Buffalo",
-  "latitude": "42.882500",
-  "longitude": "-78.878800",
+  "latitude": 42.8825,
+  "longitude": -78.8788,
   "zip": "14202",
-  "timezone": "-05:00",
-  "local_time": "2023-02-05 12:06:33.322-0500",
-  "local_time_unix": 1675598793.322
+  "timezone": "America/New_York",
+  "local_time": "2023-04-02T14:03:27-04:00",
+  "local_time_unix": 1680458607,
+  "is_dst": true
 },
 ```
 
 The API provides geolocation information for the looked up IP address. The `location` object includes the following attributes:
 
-- `country` - `string` - The full name of the country for this IP address
+- `country` - `string` - The full name of the country
 - `country_code` - `string` - The ISO 3166-1 alpha-2 country code to which the IP address belongs. This is the country specific geolocation of the IP address.
-- `state` - `string` - The state / administrative area for the IP address
+- `state` - `string` - The state / administrative area
 - `city` - `string` - The city to which the IP address belongs
-- `latitude` - `string` - The latitude for the IP address
-- `longitude` - `string` - The longitude for the IP address
+- `latitude` - `float` - The latitude for the IP address
+- `longitude` - `float` - The longitude for the IP address
 - `zip` - `string` - The zip code for this IP
 - `timezone` - `string` - The timezone for this IP
 - `local_time` - `string` - The local time for this IP in human readable format
-- `local_time_unix` - `string` - The local time for this IP as unix timestamp
-- `possible_other_location` - `array` - (Optional) -  If there are multiple possible geographical locations, the attribute `possible_other_location` is included in the API response. It contains an array of ISO 3166-1 alpha-2 country codes which represent the possible other geolocation countries.
+- `local_time_unix` - `int` - The local time for this IP as unix timestamp (`int`)
+- `is_dst` - `boolean` - Whether Daylight saving time (DST) is active in the region of this IP address
+- `other` - `array` - (Optional) -  If there are multiple possible geographical locations, the attribute `other` is included in the API response. It contains an array of ISO 3166-1 alpha-2 country codes which represent the possible other geolocation countries.
 
 Country level geolocation accuracy is quite good, since the API provides information from several different geolocation service providers.
+
+Furthermore, a proprietary geolocation database was built from scratch in order to source the `location` object.
 
 ## API Endpoints
 
