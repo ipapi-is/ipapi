@@ -2,6 +2,10 @@
 
 This repository contains the free databases that are used by the commercial IP API <https://ipapi.is>
 
++ Geolocation Database - Contains millions of rows that associate geolocation intelligence with IPv4 and IPv6 networks
++ ASN Database - This database includes rich meta data for all active ASN's of the Internet (Around 85.000 active ASN's)
++ Hosting IP Ranges Database - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. Contains very small and niche hosting providers.
+
 ## ASN Database
 
 For offline ASN data access, the [**ASN Database**](https://ipapi.is/asn.html) is provided. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database is updated several times per week. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
