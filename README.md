@@ -1,10 +1,12 @@
-# ipapi.is
+# Free IP Address Databases (ipapi.is)
 
 This repository contains the free databases that are used by the commercial IP API <https://ipapi.is>
 
-+ Geolocation Database - Contains millions of rows that associate geolocation intelligence with IPv4 and IPv6 networks
-+ ASN Database - This database includes rich meta data for all active ASN's of the Internet (Around 85.000 active ASN's)
-+ Hosting IP Ranges Database - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. Contains very small and niche hosting providers.
+Please consider subscribing to a paid plan at [https://ipapi.is/about.html](https://ipapi.is/about.html) to help the project.
+
++ [Geolocation Database](https://ipapi.is/geolocation.html) - Contains millions of rows that associate geolocation intelligence with IPv4 and IPv6 networks
++ [ASN Database](https://ipapi.is/asn.html) - This database includes rich meta data for all active ASN's of the Internet (Around 85.000 active ASN's)
++ [Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html) - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. Contains very small and niche hosting providers.
 
 ## Geolocation Database
 
