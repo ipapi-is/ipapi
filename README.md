@@ -2,23 +2,23 @@
 
 This repository contains the free databases that are used by the commercial IP API <https://ipapi.is>
 
-Please consider subscribing to a paid plan at [https://ipapi.is/about.html](https://ipapi.is/about.html) to help the project.
+Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](https://ipapi.is/pricing.html) to help out the project. The API runs on several servers across the globe and currently handles millions of daily requests.
 
-+ [Geolocation Database](https://ipapi.is/geolocation.html) - Contains millions of rows that associate geolocation intelligence with IPv4 and IPv6 networks
-+ [ASN Database](https://ipapi.is/asn.html) - This database includes rich meta data for all active ASN's of the Internet (Around 85.000 active ASN's)
++ [Geolocation Database](https://ipapi.is/geolocation.html) - Contains millions of unique IPv4 and IPv6 networks with the corresponding geolocation metadata.
++ [ASN Database](https://ipapi.is/asn.html) - This database includes rich meta data for all active and inactive ASN's of the Internet. Currently, there are around 85.000 active ASN's.
 + [Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html) - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. Contains very small and niche hosting providers.
 
 ## Geolocation Database
 
 The database includes geolocation information for a large part of the IPv4 address space and a many IPv6 networks. The database is updated several times per week. The accuracy of the data is very good on the country level. It is not recommended to rely on geolocation intelligence to be accurate to the city level for critical applications.
 
-+ [Download IPv4 Geolocation Database](databases/geolocationDatabaseIPv4.csv.zip)
-+ [Download IPv6 Geolocation Database](databases/geolocationDatabaseIPv6.csv.zip)
++ [Download the IPv4 Geolocation Database](databases/geolocationDatabaseIPv4.csv.zip)
++ [Download the IPv6 Geolocation Database](databases/geolocationDatabaseIPv6.csv.zip)
 
 The geolocation database is provided as large CSV file with the following header fields:
 
 + `ipVersion` - Either `ipv4` or `ipv6`. Determines the IP type of the network. Example: `"ipv4"`
-+ `network` - The IP network to which the geolocation information applies to. The format for the network is in free form and can be any network format (CIDR or `inetnum` / `NetRange`). Example: `"44.31.140.0/24"`
++ `network` - The IP network to which the geolocation information applies. The format for the network is in free form and can be any network format (CIDR or `inetnum` / `NetRange`). Example: `"44.31.140.0/24"`
 + `continent` - The continent as two letter code. Example: `"NA"`
 + `country_code` - The [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1) to which the IP address belongs. This is the country specific geolocation of the IP address. Example: `"US"`
 + `country` - The full name of the country. Example: `"United States"`
@@ -28,15 +28,18 @@ The geolocation database is provided as large CSV file with the following header
 + `timezone` - The timezone for this IP. Example: `"America/Los_Angeles"`
 + `latitude` - The geographical latitude for the IP address. Example: `"37.54827"`
 + `longitude` - The geographical longitude for the IP address. Example: `"-121.98857"`
-+ `accuracy` - Geolocation information is not always accurate. For that reason, there is an `accuracy` number that gives an estimate of how accurate the geolocation information is. Entries with `accuracy = 1` have the highest accuracy, rows with `accuracy = 4` have the least accuracy.
++ `accuracy` - Geolocation information is not always accurate. For that reason, there is an `accuracy` number that gives an estimate of how accurate the geolocation information is. Entries with `accuracy = 1` have the highest accuracy, rows with `accuracy = 5` have the least accuracy.
   + `accuracy = 1` - Very high geolocation accuracy. You can rely the data to be accurate to the city level.
   + `accuracy = 2` - High geolocation accuracy. You can often rely the data to be accurate to the city level.
   + `accuracy = 3` - Medium geolocation accuracy. You can not rely the data to be accurate to the city level.
   + `accuracy = 4` - Low geolocation accuracy. Usually the data is accurate to the country level.
+  + `accuracy = 5` - Very low geolocation accuracy. The data should be accurate to the country level.
 
 ## ASN Database
 
-For offline ASN data access, the [**ASN Database**](https://ipapi.is/asn.html) is provided. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database is updated several times per week. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
+For offline ASN data access, the [**ASN Database**](https://ipapi.is/asn.html) is provided. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information.
+
+The database is updated several times per week. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
 
 ```JavaScript
 "50673": {
@@ -66,9 +69,9 @@ For offline ASN data access, the [**ASN Database**](https://ipapi.is/asn.html) i
 
 The database is in JSON format. The key is the ASN as `int` and the value is an object with AS meta information such as the one above.
 
-[Click here to download the ASN Database](https://ipapi.is/asn.html)
+[Download the ASN Database](https://ipapi.is/asn.html)
 
-**How to download & parse the ASN database?**
+### How to download & parse the ASN database?
 
 Download and unzip the ASN database:
 
@@ -89,7 +92,7 @@ for (let asn in asnDatabase) {
 
 ### Hosting IP Ranges Database
 
-Furthermore, the **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges in the Internet. A proprietary algorithm was developed to determine if a network belongs to a hosting provider.
+Furthermore, the **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges of the Internet. A [proprietary algorithm](https://ipapi.is/blog/detecting-hosting-providers.html) was developed to determine if a network belongs to a hosting provider.
 
 The file format of the database is tab separated text file (.tsv), where each line of the file contains the `company`, `network` and `domain` of the hosting provider.
 
@@ -101,9 +104,9 @@ OVH Sp. z o. o. 178.32.191.0 - 178.32.191.127 www.ovh.com
 myLoc managed IT AG 46.245.176.0 - 46.245.183.255 www.myloc.de
 ```
 
-[Click here to download the Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html)
+[Download the Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html)
 
-**How to download & parse the Datacenter database?**
+### How to download & parse the Hosting IP Ranges database?
 
 Download and unzip the Hosting Ranges database:
 
