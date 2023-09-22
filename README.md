@@ -2,23 +2,24 @@
 
 This repository contains the free databases that are used by the commercial IP API <https://ipapi.is>
 
-Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](https://ipapi.is/pricing.html) to help out the project. The API runs on several servers across the globe and currently handles millions of daily requests.
+Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](https://ipapi.is/pricing.html) to help out the project. The API runs on several servers across the globe and currently handles Millions of daily requests.
 
-+ [Geolocation Database](https://ipapi.is/geolocation.html) - Contains millions of unique IPv4 and IPv6 networks with the corresponding geolocation metadata.
-+ [ASN Database](https://ipapi.is/asn.html) - This database includes rich meta data for all active and inactive ASN's of the Internet. Currently, there are around 85.000 active ASN's.
-+ [Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html) - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. Contains very small and niche hosting providers.
++ [Geolocation Database](https://ipapi.is/geolocation.html) - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks.
++ [ASN Database](https://ipapi.is/asn.html) - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
++ [Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html) - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. The database contains very small and niche hosting providers.
 
 ## Geolocation Database
 
-The database includes geolocation information for a large part of the IPv4 address space and a many IPv6 networks. The database is updated several times per week. The accuracy of the data is very good on the country level. It is not recommended to rely on geolocation intelligence to be accurate to the city level for critical applications.
+The database includes geolocation information for a large part of the IPv4 address space and a many IPv6 networks. The database is updated several times per week. The accuracy of the data is very good on the country level. For critical applications, it is not recommended to rely on the geolocation database to be accurate to the city level. The database (CSV file) has a `accuracy` column that specifies how accurate the geolocation for that particular network is.
 
 + [Download the IPv4 Geolocation Database](databases/geolocationDatabaseIPv4.csv.zip)
 + [Download the IPv6 Geolocation Database](databases/geolocationDatabaseIPv6.csv.zip)
 
 The geolocation database is provided as large CSV file with the following header fields:
 
-+ `ipVersion` - Either `ipv4` or `ipv6`. Determines the IP type of the network. Example: `"ipv4"`
-+ `network` - The IP network to which the geolocation information applies. The format for the network is in free form and can be any network format (CIDR or `inetnum` / `NetRange`). Example: `"44.31.140.0/24"`
++ `ip_version` - Either `4` or `6`. Determines the IP type of the network. Example: `"4"`
++ `start_ip` - The first IP address of the network range. Example: `"44.31.140.0"`
++ `end_ip` - The last IP address of the network range. Example: `"44.31.140.255"`
 + `continent` - The continent as two letter code. Example: `"NA"`
 + `country_code` - The [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1) to which the IP address belongs. This is the country specific geolocation of the IP address. Example: `"US"`
 + `country` - The full name of the country. Example: `"United States"`
@@ -37,9 +38,13 @@ The geolocation database is provided as large CSV file with the following header
 
 ## ASN Database
 
-For offline ASN data access, the [**ASN Database**](https://ipapi.is/asn.html) is provided. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information.
+An autonomous system (AS) is a large network or group of networks with a single routing policy. Each AS is assigned a unique ASN, which is a number that identifies the autonomous system (AS).
 
-The database is updated several times per week. For active ASN's (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
+Most IP addresses belong to an AS. There are many different reasons why ASN metadata can be useful.
+
+For that reason, the [ASN Database](https://ipapi.is/asn.html) is provided for free. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database furthermore contains unassigned and inactive ASNs.
+
+The ASN database is updated several times per week. For active ASNs (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
 
 ```JavaScript
 "50673": {
@@ -81,7 +86,7 @@ curl -O https://ipapi.is/data/fullASN.json.zip
 unzip fullASN.json.zip
 ```
 
-And parse with nodejs:
+And parse with `node`:
 
 ```JavaScript
 let asnDatabase = require('./fullASN.json');
@@ -90,11 +95,11 @@ for (let asn in asnDatabase) {
 }
 ```
 
-### Hosting IP Ranges Database
+## Hosting IP Ranges Database
 
-Furthermore, the **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges of the Internet. A [proprietary algorithm](https://ipapi.is/blog/detecting-hosting-providers.html) was developed to determine if a network belongs to a hosting provider.
+Furthermore, the **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges of the Internet. A [proprietary algorithm](https://ipapi.is/blog/detecting-hosting-providers.html) was developed to determine if a network belongs to a hosting provider or not.
 
-The file format of the database is tab separated text file (.tsv), where each line of the file contains the `company`, `network` and `domain` of the hosting provider.
+The file format of the database is tab separated text file (.tsv), where each line of the file contains the `company`, `network` and `domain` of the hosting providers.
 
 Example excerpt of the database:
 
