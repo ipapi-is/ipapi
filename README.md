@@ -1,12 +1,61 @@
-# Free IP Address Databases (ipapi.is)
+# IP Address Databases (ipapi.is)
 
-This repository contains the free databases that are used by the commercial IP API <https://ipapi.is>
+This repository contains the databases that are used by the commercial IP API <https://ipapi.is>
 
-Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](https://ipapi.is/pricing.html) to help out the project. The API runs on several servers across the globe and currently handles Millions of daily requests.
+Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](https://ipapi.is/pricing.html) to help out the project. The API runs on several servers across the globe and currently handles millions of daily requests.
 
-+ [Geolocation Database](https://ipapi.is/geolocation.html) - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks.
-+ [ASN Database](https://ipapi.is/asn.html) - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
-+ [Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html) - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. The database contains very small and niche hosting providers.
++ **Commercial** - [IP to Hosting Database](https://ipapi.is/hosting-detection.html) - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. The database contains very small and niche hosting providers.
++ **Free** - [IP to Geolocation Database](https://ipapi.is/geolocation.html) - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks.
++ **Free** - [IP to ASN Database](https://ipapi.is/asn.html) - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
+
+## IP to Hosting Database
+
+The **IP to Hosting Database** is a commercial database that [can be purchased here](https://ipapi.is/hosting-detection.html). The IP to Hosting database contains all known hosting IP ranges of the Internet. The database is continuously updated and new hosting / cloud providers are added as soon as they emerge.
+
+The database considers all of the following services as hosting providers:
+
++ Normal hosting providers such as [Hetzner.de](https://www.hetzner.de/) or [Leaseweb.com](https://www.leaseweb.com/)
++ Large cloud providers such as [Amazon AWS](https://aws.amazon.com/) or [Microsoft Azure](https://azure.microsoft.com/)
++ Content Delivery Networks such as [Cloudflare](https://www.cloudflare.com/), [Fastly](https://www.fastly.com/) or [edg.io](https://edg.io/)
++ Anti-DDOS services such as [qrator.net](https://qrator.net/) or [ddos-guard.net](https://ddos-guard.net/)
++ IP leasing organizations such as [ipxo.com](https://ipxo.com/) or [interlir.com](https://interlir.com/)
++ Other SaaS, IaaS, or PaaS organizations such as [fly.io](https://fly.io/) or [Heroku](https://www.heroku.com/)
+
+A [proprietary algorithm](https://ipapi.is/blog/detecting-hosting-providers.html) was developed to determine if a network belongs to a hosting provider or not. The database contains more than 470k IPv4 networks and more than 360k IPv6 networks.
+
+The file format of the database is CSV, where each line of the file contains the following fields:
+
++ `ipVersion` - Determines the IP type. Either 4 or 6.
++ `startIp` - The start IP address of the network range.
++ `endIp` - The end IP address of the network range.
++ `datacenter` - The name of the hosting / datacenter provider
++ `domain` - The domain name of the hosting provider's website
+
+Example excerpt of the database (CSV):
+
+```csv
+ipVersion,startIp,endIp,datacenter,domain
+4,144.76.148.248,144.76.148.255,Hetzner Online GmbH,www.hetzner.com
+4,185.60.30.116,185.60.30.117,"Masergy Communications, Inc",masergy.com
+4,165.225.38.0,165.225.39.255,zscaler.com,
+4,20.117.192.254,20.117.192.255,Microsoft Azure,
+4,193.19.205.0,193.19.205.255,Surfshark Ltd.,surfshark.com
+4,104.28.85.186,104.28.85.186,iCloud Private Relay,
+4,78.47.80.144,78.47.80.151,Hetzner Online GmbH,www.hetzner.com
+4,138.201.240.56,138.201.240.63,Hetzner Online GmbH,www.hetzner.com
+4,172.226.201.114,172.226.201.115,iCloud Private Relay,
+4,37.140.139.160,37.140.139.161,Teletech d.o.o. Beograd,tele.tech
+4,51.91.12.0,51.91.12.255,OVH,www.ovh.com
+4,51.38.154.192,51.38.154.207,OVH Sp. z o. o.,www.ovh.com
+4,88.198.107.112,88.198.107.127,Hetzner Online GmbH,www.hetzner.com
+4,163.44.245.0,163.44.245.7,"GMO Internet Group, Inc.",www.gmo.jp
+4,185.112.18.0,185.112.19.255,HISI MUTU,www.groupehisi.fr
+4,78.47.155.240,78.47.155.247,Hetzner Online GmbH,www.hetzner.com
+4,20.44.73.253,20.44.73.253,Microsoft Azure,
+```
+
++ [IPv4 Sample (CSV)](https://ipapi.is/data/HostingRangesIPv4-Sample.csv)
++ [IPv6 Sample (CSV)](https://ipapi.is/data/HostingRangesIPv6-Sample.csv)
 
 ## Geolocation Database
 
@@ -92,43 +141,5 @@ And parse with `node`:
 let asnDatabase = require('./fullASN.json');
 for (let asn in asnDatabase) {
   console.log(asn, asnDatabase[asn]);
-}
-```
-
-## Hosting IP Ranges Database
-
-Furthermore, the **Hosting IP ranges Database** is provided for offline and scalable access. This database contains all known datacenter IP ranges of the Internet. A [proprietary algorithm](https://ipapi.is/blog/detecting-hosting-providers.html) was developed to determine if a network belongs to a hosting provider or not.
-
-The file format of the database is tab separated text file (.tsv), where each line of the file contains the `company`, `network` and `domain` of the hosting providers.
-
-Example excerpt of the database:
-
-```text
-Linode, LLC 178.79.160.0 - 178.79.167.255 www.linode.com
-OVH Sp. z o. o. 178.32.191.0 - 178.32.191.127 www.ovh.com
-myLoc managed IT AG 46.245.176.0 - 46.245.183.255 www.myloc.de
-```
-
-[Download the Hosting IP Ranges Database](https://ipapi.is/hosting-detection.html)
-
-### How to download & parse the Hosting IP Ranges database?
-
-Download and unzip the Hosting Ranges database:
-
-```bash
-cd /tmp
-curl -O https://ipapi.is/data/hostingRanges.tsv.zip
-unzip hostingRanges.tsv.zip
-```
-
-And parse with nodejs:
-
-```JavaScript
-const fs = require('fs');
-
-let hostingRanges = fs.readFileSync('hostingRanges.tsv').toString().split('\n');
-for (let line of hostingRanges) {
-  let [company, network, domain] = line.split('\t');
-  console.log(company, network, domain);
 }
 ```
