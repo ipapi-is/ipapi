@@ -4,13 +4,13 @@ This repository contains the databases that are used by the commercial IP API <h
 
 Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](https://ipapi.is/pricing.html) to help out the project. The API runs on several servers across the globe and currently handles millions of daily requests.
 
-+ **Commercial** - [IP to Hosting Database](https://ipapi.is/hosting-detection.html) - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. The database contains very small and niche hosting providers.
-+ **Free** - [IP to Geolocation Database](https://ipapi.is/geolocation.html) - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks.
-+ **Free** - [IP to ASN Database](https://ipapi.is/asn.html) - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
++ [IP to Hosting Database](https://ipapi.is/hosting-detection.html) - **Commercial** -  Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. The database contains very small and niche hosting providers.
++ [IP to Geolocation Database](https://ipapi.is/geolocation.html) - **Free** - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks.
++ [IP to ASN Database](https://ipapi.is/asn.html) - **Free** - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
 
 ## IP to Hosting Database
 
-The **IP to Hosting Database** is a commercial database that [can be purchased here](https://ipapi.is/hosting-detection.html). The IP to Hosting database contains all known hosting IP ranges of the Internet. The database is continuously updated and new hosting / cloud providers are added as soon as they emerge.
+The **IP to Hosting Database** is a commercial database that [can be purchased here](https://ipapi.is/hosting-detection.html). The **IP to Hosting Database** contains all known hosting IP ranges of the Internet. The database is continuously updated and new hosting / cloud providers are added as soon as they emerge.
 
 The database considers all of the following services as hosting providers:
 
@@ -21,37 +21,43 @@ The database considers all of the following services as hosting providers:
 + IP leasing organizations such as [ipxo.com](https://ipxo.com/) or [interlir.com](https://interlir.com/)
 + Other SaaS, IaaS, or PaaS organizations such as [fly.io](https://fly.io/) or [Heroku](https://www.heroku.com/)
 
-A [proprietary algorithm](https://ipapi.is/blog/detecting-hosting-providers.html) was developed to determine if a network belongs to a hosting provider or not. The database contains more than 470k IPv4 networks and more than 360k IPv6 networks.
+A [proprietary algorithm](https://ipapi.is/blog/detecting-hosting-providers.html) was developed to determine if a network belongs to a hosting provider or not. The database contains more than 470k IPv4 networks and more than 360k IPv6 networks and is constantly growing.
 
 The file format of the database is CSV, where each line of the file contains the following fields:
 
-+ `ipVersion` - Determines the IP type. Either 4 or 6.
++ `ipVersion` - Determines the IP type of the network. Either `4` or `6`.
 + `startIp` - The start IP address of the network range.
 + `endIp` - The end IP address of the network range.
-+ `datacenter` - The name of the hosting / datacenter provider
-+ `domain` - The domain name of the hosting provider's website
++ `datacenter` - The name of the hosting / datacenter provider.
++ `domain` - The domain name of the hosting provider's website.
 
 Example excerpt of the database (CSV):
 
 ```csv
 ipVersion,startIp,endIp,datacenter,domain
-4,144.76.148.248,144.76.148.255,Hetzner Online GmbH,www.hetzner.com
-4,185.60.30.116,185.60.30.117,"Masergy Communications, Inc",masergy.com
-4,165.225.38.0,165.225.39.255,zscaler.com,
-4,20.117.192.254,20.117.192.255,Microsoft Azure,
-4,193.19.205.0,193.19.205.255,Surfshark Ltd.,surfshark.com
-4,104.28.85.186,104.28.85.186,iCloud Private Relay,
-4,78.47.80.144,78.47.80.151,Hetzner Online GmbH,www.hetzner.com
-4,138.201.240.56,138.201.240.63,Hetzner Online GmbH,www.hetzner.com
-4,172.226.201.114,172.226.201.115,iCloud Private Relay,
-4,37.140.139.160,37.140.139.161,Teletech d.o.o. Beograd,tele.tech
-4,51.91.12.0,51.91.12.255,OVH,www.ovh.com
-4,51.38.154.192,51.38.154.207,OVH Sp. z o. o.,www.ovh.com
-4,88.198.107.112,88.198.107.127,Hetzner Online GmbH,www.hetzner.com
-4,163.44.245.0,163.44.245.7,"GMO Internet Group, Inc.",www.gmo.jp
-4,185.112.18.0,185.112.19.255,HISI MUTU,www.groupehisi.fr
-4,78.47.155.240,78.47.155.247,Hetzner Online GmbH,www.hetzner.com
-4,20.44.73.253,20.44.73.253,Microsoft Azure,
+4,37.252.231.48,37.252.231.55,powered by ANX,anx.io
+4,188.213.5.210,188.213.5.210,GINERNET S.L.,ginernet.com
+4,78.46.131.96,78.46.131.127,Hetzner Online GmbH,www.hetzner.com
+4,208.52.169.0,208.52.169.255,"MacStadium, Inc.",macstadium.com
+4,194.145.196.0,194.145.197.255,Prager Connect GmbH,www.prager-it.com
+4,69.172.96.12,69.172.96.12,Cloudfire s.r.l.,www.cloudfire.it
+4,83.138.157.160,83.138.157.175,Centric Telecom Limited,rackspace.com
+4,192.84.39.0,192.84.39.255,"Network Solutions, LLC",www.networksolutions.com
+4,88.99.132.200,88.99.132.207,Hetzner Online GmbH,www.hetzner.com
+4,200.107.232.0,200.107.239.255,Redes y Telecomunicaciones,ifxnetworks.com
+4,185.193.80.0,185.193.83.255,TerraTransit AG,terratransit.de
+4,185.133.34.0,185.133.34.255,"HugeServer Networks, LLC",www.hugeserver.com
+4,91.207.112.0,91.207.113.255,Webland AB,webland.se
+4,212.223.29.168,212.223.29.175,Ratiokontakt GmbH,ratiokontakt.de
+4,31.6.80.0,31.6.95.255,Grid Telekom,grid.com.tr
+4,62.216.229.208,62.216.229.215,Equinix Customer - BEEKS FINANCIAL CLOUD LIMITED,eu.equinix.com
+4,80.77.95.0,80.77.95.255,level0 is a webhosting organization,www.webhosting.fm
+4,52.245.16.0,52.245.16.63,Microsoft Azure,azure.microsoft.com
+4,185.90.131.136,185.90.131.143,Envia Tel GmbH,www.enviatel.de
+4,146.185.16.0,146.185.17.255,Hosting Services Inc,www.ingenuitycloudservices.com
+4,217.182.245.64,217.182.245.127,OVH BV,www.ovh.com
+4,5.104.231.60,5.104.231.60,Snel.com B.V.,www.snel.com
+4,149.210.141.0,149.210.141.255,Transip Bv.,www.transip.eu
 ```
 
 + [IPv4 Sample (CSV)](https://ipapi.is/data/HostingRangesIPv4-Sample.csv)
