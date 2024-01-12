@@ -6,7 +6,7 @@ Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](ht
 
 + [IP to Hosting Database](https://ipapi.is/hosting-detection.html) - **Commercial** -  Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. The database contains very small and niche hosting providers.
 + [IP to Geolocation Database](https://ipapi.is/geolocation.html) - **Free** - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks.
-+ [IP to ASN Database](https://ipapi.is/asn.html) - **Free** - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
++ [IP to ASN Database](https://ipapi.is/asn.html) - **Commercial** - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
 
 ## IP to Hosting Database
 
@@ -63,6 +63,61 @@ ipVersion,startIp,endIp,datacenter,domain
 + [IPv4 Sample (CSV)](https://ipapi.is/data/HostingRangesIPv4-Sample.csv)
 + [IPv6 Sample (CSV)](https://ipapi.is/data/HostingRangesIPv6-Sample.csv)
 
+## ASN Database
+
+An autonomous system (AS) is a large network or group of networks with a single routing policy. Each AS is assigned a unique ASN, which is a number that identifies the autonomous system (AS). Most IP addresses belong to an AS. There are many different reasons why ASN metadata can be useful.
+
+The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database furthermore contains unassigned and inactive ASNs.
+
+The ASN database is updated several times per week. For active ASNs (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
+
+```JavaScript
+{
+  "asn": 50673,
+  "descr": "SERVERIUS-AS, NL",
+  "country": "nl",
+  "active": true,
+  "org": "Serverius Holding B.V.",
+  "domain": "serverius.net",
+  "abuse": "abuse@serverius.net",
+  "type": "hosting",
+  "created": "2010-09-07",
+  "updated": "2022-11-15",
+  "rir": "RIPE",
+  "whois": "https://api.ipapi.is/?whois=AS50673",
+  "prefixes": [
+    "5.56.133.0/24",
+    "5.178.64.0/21",
+    "5.178.64.0/24",
+    "5.188.12.0/22",
+    "5.188.12.0/24",
+    "5.188.13.0/24",
+    // many more routes
+  ],
+  "prefixesIPv6": [
+    "2001:67c:b0::/48",
+    "2a00:1ca8::/32",
+    "2a00:1ca8:77::/48",
+    "2a00:1caa::/32",
+    "2a02:1680::/32",
+    "2a03:3f40::/32",
+    "2a06:8000::/29",
+    "2a09:e40::/32",
+    "2a09:4d41::/32",
+    "2a09:aa80::/32",
+    "2a0a:3f40::/32",
+    "2a0c:480::/32",
+    "2a0e:c9c0::/29",
+    "2a0f:4a80::/48"
+  ],
+  "elapsed_ms": 0.6
+}
+```
+
+The database is in JSON format. The key is the ASN as `int` and the value is an object with AS meta information such as the one above.
+
+[You can purchase the full ASN database here](https://ipapi.is/asn.html)
+
 ## Geolocation Database
 
 The database includes geolocation information for a large part of the IPv4 address space and a many IPv6 networks. The database is updated several times per week. The accuracy of the data is very good on the country level. For critical applications, it is not recommended to rely on the geolocation database to be accurate to the city level. The database (CSV file) has a `accuracy` column that specifies how accurate the geolocation for that particular network is.
@@ -90,62 +145,3 @@ The geolocation database is provided as large CSV file with the following header
   + `accuracy = 3` - Medium geolocation accuracy. You can not rely the data to be accurate to the city level.
   + `accuracy = 4` - Low geolocation accuracy. Usually the data is accurate to the country level.
   + `accuracy = 5` - Very low geolocation accuracy. The data should be accurate to the country level.
-
-## ASN Database
-
-An autonomous system (AS) is a large network or group of networks with a single routing policy. Each AS is assigned a unique ASN, which is a number that identifies the autonomous system (AS).
-
-Most IP addresses belong to an AS. There are many different reasons why ASN metadata can be useful.
-
-For that reason, the [ASN Database](https://ipapi.is/asn.html) is provided for free. The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database furthermore contains unassigned and inactive ASNs.
-
-The ASN database is updated several times per week. For active ASNs (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
-
-```JavaScript
-"50673": {
-  "asn": "50673",
-  "org": "Serverius Holding B.V.",
-  "domain": "serverius.net",
-  "abuse": "abuse@serverius.net",
-  "type": "hosting",
-  "created": "2010-09-07",
-  "updated": "2022-11-15",
-  "rir": "ripe",
-  "descr": "SERVERIUS-AS, NL",
-  "country": "NL",
-  "active": true,
-  "prefixes": [
-    "2.59.183.0/24",
-    "5.56.133.0/24",
-    // many more IPv4 prefixes ...
-  ],
-  "prefixesIPv6": [
-    "2001:67c:b0::/48",
-    "2a00:1ca8::/32",
-    // many more IPv6 prefixes ...
-  ]
-},
-```
-
-The database is in JSON format. The key is the ASN as `int` and the value is an object with AS meta information such as the one above.
-
-[Download the ASN Database](https://ipapi.is/asn.html)
-
-### How to download & parse the ASN database?
-
-Download and unzip the ASN database:
-
-```bash
-cd /tmp
-curl -O https://ipapi.is/data/fullASN.json.zip
-unzip fullASN.json.zip
-```
-
-And parse with `node`:
-
-```JavaScript
-let asnDatabase = require('./fullASN.json');
-for (let asn in asnDatabase) {
-  console.log(asn, asnDatabase[asn]);
-}
-```
