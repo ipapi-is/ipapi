@@ -67,6 +67,8 @@ ipVersion,startIp,endIp,datacenter,domain
 
 An autonomous system (AS) is a large network or group of networks with a single routing policy. Each AS is assigned a unique ASN, which is a number that identifies the autonomous system (AS). Most IP addresses belong to an AS. There are many different reasons why ASN metadata can be useful.
 
+[IP to ASN Database Sample (JSON)](https://ipapi.is/data/HostingRangesIPv4-Sample.csv)
+
 The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database furthermore contains unassigned and inactive ASNs.
 
 The ASN database is updated several times per week. For active ASNs (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
@@ -117,6 +119,31 @@ The ASN database is updated several times per week. For active ASNs (at least on
 The database is in JSON format. The key is the ASN as `int` and the value is an object with AS meta information such as the one above.
 
 [You can purchase the full ASN database here](https://ipapi.is/asn.html)
+
+### ASN Database Format
+
+Each entry of the **IP to ASN Database** has the meta data listed below. If the ASN is inactive, there is less metadata for the ASN. For example, inactive ASNs have no `prefixes` or `prefixesIPv6` fields.
+
++ `asn` - The field `asn` is a unique identifier assigned to each autonomous system (AS) on the Internet. As of January 2024, there were over 81,000 active Autonomous System Numbers (ASNs) registered ([ASN Statistics](https://ipapi.is/data/asn_meta.json)).
++ `descr` - The field `descr` is a short informal descriptive name of the autonomous system (AS) in free format.
++ `country` - The [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1) to which the AS belongs administratively. This is the country specific location of the autonomous system (AS). This does not necessarily mean that all routes (IP addresses) assigned to this AS must originate from the same country.
++ `active` - The field `active` determines if the ASN is active or inactive. Active means that at least one route is assigned to the ASN. Put differently, this means that there is at least one entry in the `prefixes` or `prefixesIPv6` array.
++ `org` - The field `org` contains the organization that owns the ASN. It is crucial to understand that not every IP address assigned to an AS must belong to the organization contained in `org`. Put differently: The IP addresses included in the `prefixes` or `prefixesIPv6` array might be owned by a different organizations than the one from the autonomous system (AS) itself.
++ `domain` - The field `domain` is the domain of the organization's website that owns the ASN.
++ `abuse` - The field `abuse` contains the abuse email address that can be used to direct abuse complains to the owner of the ASN.
++ `type` - The field `type` contains the type of the ASN. The following ASN types exist:
+  + `hosting` - The AS is owned by a hosting provider (Example: [as396982](https://api.ipapi.is?q=as396982))
+  + `education` - The AS belongs to a university or other kind of educational institution (Example: [AS1111](https://api.ipapi.is?q=AS1111))
+  + `government` - The AS belongs to a governmental institution (Example: [AS1701](https://api.ipapi.is?q=AS1701))
+  + `banking` - The AS belongs to a banking / financial institution (Example: [AS2134](https://api.ipapi.is?q=AS2134))
+  + `isp` - The AS belongs to a Internet Service Provider (ISP) (Example: [AS3222](https://api.ipapi.is?q=AS3222))
+  + `business` - If the type is not one of the above, the type is the generic `business` type (Example: [AS3271](https://api.ipapi.is?q=AS3271))
++ `created` - The field `created` specifies the date when this ASN was first registered.
++ `updated` - The field `updated` specifies the date when this ASN was last updated.
++ `rir` - The field `rir` contains the Regional Internet Registry (RIR) responsible for this ASN.
++ `whois` - The field `whois` contains an url pointing to the raw WHOIS record for this ASN.
++ `prefixes` - The field `prefixes` contains all the IPv4 networks assigned to this ASN. This is a list of IPv4 networks in CIDR format.
++ `prefixesIPv6` - The field `prefixesIPv6` contains all the IPv6 networks assigned to this ASN. This is a list of IPv6 networks in CIDR format.
 
 ## Geolocation Database
 
