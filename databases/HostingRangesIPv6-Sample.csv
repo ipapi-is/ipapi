@@ -1,326 +1,310 @@
 ipVersion,startIp,endIp,datacenter,domain
-6,2a00:19c0:a066:0:0:0:0:0,2a00:19c0:a066:ffff:ffff:ffff:ffff:ffff,Qweb Internet Services B.V.,www.qweb.nl
-6,2403:d900:0:0:0:0:0:0,2403:d900:ffff:ffff:ffff:ffff:ffff:ffff,M.D.G. IT Pty Ltd,www.mdg-it.com.au
-6,2a0a:4940:87b2:0:0:0:0:0,2a0a:4940:87b2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:488:2001:2100:0:0:0:0,2a01:488:2001:21ff:ffff:ffff:ffff:ffff,PartsRunner GmbH,hosteurope.de
-6,2a01:4f8:151:8324:0:0:0:0,2a01:4f8:151:8324:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
-6,2a0a:4940:3619:0:0:0:0:0,2a0a:4940:3619:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:2dc2:0:0:0:0:0,2a0a:4940:2dc2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2401:c900:1201:67:0:0:0:0,2401:c900:1201:67:ffff:ffff:ffff:ffff,GZ Systems Ltd,pointtoserver.com
-6,2a01:430:112:0:0:0:0:0,2a01:430:112:ffff:ffff:ffff:ffff:ffff,Master Internet s.r.o.,www.master.cz
-6,2a0a:4940:e2b4:0:0:0:0:0,2a0a:4940:e2b4:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0e:1bc1:2000:0:0:0:0:0,2a0e:1bc1:3fff:ffff:ffff:ffff:ffff:ffff,LogicForge Limited,logicforge.co.uk
-6,2a0a:4940:ee7b:0:0:0:0:0,2a0a:4940:ee7b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a05:9000:0:0:0:0:0:0,2a05:9007:ffff:ffff:ffff:ffff:ffff:ffff,Al wafai International For Communication and Information Technology LLC,wafai.net.sa
-6,2a0a:4940:ab2:0:0:0:0:0,2a0a:4940:ab2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:38ff:0:0:0:0:0,2a0a:4940:38ff:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:7a7:2:172c:0:0:0:0,2a01:7a7:2:172c:ffff:ffff:ffff:ffff,NA,arvancloud.ae
-6,2a01:4f8:171:9:0:0:0:0,2a01:4f8:171:9:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
-6,2a0a:4940:9784:0:0:0:0:0,2a0a:4940:9784:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:668:10f:2800:0:0:0:0,2001:668:10f:28ff:ffff:ffff:ffff:ffff,Wasabi Technologies,wasabi.com
-6,2001:978:2:6f:0:0:4d:0,2001:978:2:6f:0:0:4d:ffff,Oracle America Inc,www.oracle.com
-6,2602:fd37:0:0:0:0:0:0,2602:fd37:ffff:ffff:ffff:ffff:ffff:ffff,System In Place,systeminplace.net
-6,2a0a:4940:5ac7:0:0:0:0:0,2a0a:4940:5ac7:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:f4b1:0:0:0:0:0,2a0a:4940:f4b1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:cdce:0:0:0:0:0,2a0a:4940:cdce:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:173:2aca:0:0:0:0,2a01:4f8:173:2aca:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2607:c300:0:0:0:0:0:0,2607:c300:ffff:ffff:ffff:ffff:ffff:ffff,"FutureQuest, Inc.",futurequest.net
-6,2a0d:2146:8483:0:0:0:0:0,2a0d:2146:8483:ffff:ffff:ffff:ffff:ffff,Hrvoje Cavrak,abuse.it-df.net
-6,2a0e:b107:1be0:0:0:0:0:0,2a0e:b107:1bef:ffff:ffff:ffff:ffff:ffff,LEVEL EIGHTY-SIX COMMUNICATIONS LTD,www.lv86.uk
-6,2a0a:4940:2323:0:0:0:0:0,2a0a:4940:2323:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:4111:0:0:0:0:0,2a0a:4940:4111:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:45ee:0:0:0:0:0,2a0a:4940:45ee:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:7f92:0:0:0:0:0,2a0a:4940:7f92:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ebc8:0:0:0:0:0,2a0a:4940:ebc8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:c56a:0:0:0:0:0,2a0a:4940:c56a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:5a58:0:0:0:0:0,2a0a:4940:5a58:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a00:19c0:a067:0:0:0:0:0,2a00:19c0:a067:ffff:ffff:ffff:ffff:ffff,Qweb Internet Services B.V.,www.qweb.nl
-6,2606:6a00:0:0:0:0:0:0,2606:6a00:ffff:ffff:ffff:ffff:ffff:ffff,"Ntirety, Inc.",www.ntirety.com
-6,2a0a:4940:10f9:0:0:0:0:0,2a0a:4940:10f9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:a973:0:0:0:0:0,2a0a:4940:a973:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:252:1b41:0:0:0:0,2a01:4f8:252:1b41:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2a01:4f8:201:52c3:0:0:0:0,2a01:4f8:201:52c3:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2a0a:4940:a91c:0:0:0:0:0,2a0a:4940:a91c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:201:429e:0:0:0:0,2a01:4f8:201:429e:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2a0a:4940:77e:0:0:0:0:0,2a0a:4940:77e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a03:8180:1301:12f:0:0:0:0,2a03:8180:1301:12f:ffff:ffff:ffff:ffff,SoftLayer Internal - Support and Customer Care,www.ibm.com
-6,2a00:7f00:0:0:0:0:0:0,2a00:7f00:ffff:ffff:ffff:ffff:ffff:ffff,BVOX WORLD S.L.U.,www.bvox.net
-6,2a0a:4940:250d:0:0:0:0:0,2a0a:4940:250d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:6b8:0:760b:0:0:0:0,2a02:6b8:0:760b:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a0a:4940:5f41:0:0:0:0:0,2a0a:4940:5f41:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:797a:0:0:0:0:0,2a0a:4940:797a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:bfd5:0:0:0:0:0,2a0a:4940:bfd5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ceff:0:0:0:0:0,2a0a:4940:ceff:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:d078:0:0:0:0:0,2a0a:4940:d078:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:47c5:0:0:0:0:0,2a0a:4940:47c5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:87fe:0:0:0:0:0,2a0a:4940:87fe:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:dcd0:0:0:0:0:0,2a0a:4940:dcd0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:7a7:2:22e3:0:0:0:0,2a01:7a7:2:22e3:ffff:ffff:ffff:ffff,Data cloud IT,godaddy.com
-6,2a0a:4940:6f5d:0:0:0:0:0,2a0a:4940:6f5d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0e:68c0:0:0:0:0:0:0,2a0e:68c0:0:ffff:ffff:ffff:ffff:ffff,IP SERVICES Sp. zo.o.,ipservices.pl
-6,2a02:6b8:0:7105:0:0:0:0,2a02:6b8:0:7105:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a0a:4940:b9df:0:0:0:0:0,2a0a:4940:b9df:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:6b8:0:2e1c:0:0:0:0,2a02:6b8:0:2e1c:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a0a:4940:f898:0:0:0:0:0,2a0a:4940:f898:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:5bf5:0:0:0:0:0,2a0a:4940:5bf5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0d:a000:0:0:0:0:0:0,2a0d:a007:ffff:ffff:ffff:ffff:ffff:ffff,TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.S.,www.turkticaret.net
-6,2a0a:4940:7f95:0:0:0:0:0,2a0a:4940:7f95:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:4a34:0:0:0:0:0,2a0a:4940:4a34:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:121:33c6:0:0:0:0,2a01:4f8:121:33c6:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2001:1a50:50b1:0:0:0:0:0,2001:1a50:50b1:ffff:ffff:ffff:ffff:ffff,Customer Network,nexthop.no
-6,2a0a:4940:dc24:0:0:0:0:0,2a0a:4940:dc24:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:19d:0:0:0:0:0,2a0a:4940:19d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0c:9a40:1051:0:0:0:0:0,2a0c:9a40:1051:ffff:ffff:ffff:ffff:ffff,iFog GmbH,ifog.ch
-6,2a0a:4940:c3fd:0:0:0:0:0,2a0a:4940:c3fd:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:10b:1e9a:0:0:0:0,2a01:4f8:10b:1e9a:ffff:ffff:ffff:ffff,F. Maounis & SIA OE  TOPHOST,hetzner.com
-6,2a0a:4940:6d8c:0:0:0:0:0,2a0a:4940:6d8c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:550:2:2d:0:0:4:0,2001:550:2:2d:0:0:4:ffff,"CyberLynk Network, Inc",www.cyberlynk.net
-6,2a0f:7806:0:0:0:0:0:0,2a0f:7807:ffff:ffff:ffff:ffff:ffff:ffff,ZH NETWORK LIMITED,zhnet.co.uk
-6,2a0a:4940:935f:0:0:0:0:0,2a0a:4940:935f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2607:ff68:0:0:0:0:0:0,2607:ff68:ffff:ffff:ffff:ffff:ffff:ffff,"Limestone Networks, Inc.",limestonenetworks.com
-6,2a01:4f8:120:41f4:0:0:0:0,2a01:4f8:120:41f4:ffff:ffff:ffff:ffff,Cloud Commerce Group Ltd,hetzner.com
-6,2a0a:4940:480:0:0:0:0:0,2a0a:4940:480:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:662e:0:0:0:0:0,2a0a:4940:662e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:2106:0:0:0:0:0,2a0a:4940:2106:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:3c9d:0:0:0:0:0,2a0a:4940:3c9d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:1c00:0:0:0:0:0,2a0a:4940:1c00:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:8431:0:0:0:0:0,2a0a:4940:8431:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:5d9f:0:0:0:0:0,2a0a:4940:5d9f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:3236:0:0:0:0:0,2a0a:4940:3236:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:c598:0:0:0:0:0,2a0a:4940:c598:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:aa1d:0:0:0:0:0,2a0a:4940:aa1d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:430:213:0:0:0:0:0,2a01:430:213:ffff:ffff:ffff:ffff:ffff,Master Internet s.r.o.,www.master.cz
-6,2a0f:31c0:0:0:0:0:0:0,2a0f:31c3:ffff:ffff:ffff:ffff:ffff:ffff,Panq B.V.,www.panq.nl
-6,2a06:6180:0:0:0:0:0:0,2a06:6187:ffff:ffff:ffff:ffff:ffff:ffff,Cygrids Communications AB,cygrids.com
-6,2a02:6b8:82:7713:0:0:0:0,2a02:6b8:82:7713:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a0a:4940:245d:0:0:0:0:0,2a0a:4940:245d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a09:4c0:730a:0:0:0:0:0,2a09:4c0:730a:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
-6,2a0a:4940:816e:0:0:0:0:0,2a0a:4940:816e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:3408:0:0:0:0:0,2a0a:4940:3408:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ac62:0:0:0:0:0,2a0a:4940:ac62:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a09:4c0:c600:0:0:0:0:0,2a09:4c0:c6ff:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
-6,2a01:430:11e:0:0:0:0:0,2a01:430:11e:ffff:ffff:ffff:ffff:ffff,Master Internet s.r.o.,www.master.cz
-6,2a0a:4940:8905:0:0:0:0:0,2a0a:4940:8905:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:b8fd:0:0:0:0:0,2a0a:4940:b8fd:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:6bf:fff0:4b00:0:0:0:0,2a02:6bf:fff0:4b0f:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2001:502:ad09:0:0:0:0:0,2001:502:ad09:ffff:ffff:ffff:ffff:ffff,Neustar Security Services,vercara.com
-6,2a02:6b8:81:130d:0:0:0:0,2a02:6b8:81:130d:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a01:4f8:210:428a:0:0:0:0,2a01:4f8:210:428a:ffff:ffff:ffff:ffff,CODE200 UAB,www.code200.global
-6,2a0a:4940:e1d7:0:0:0:0:0,2a0a:4940:e1d7:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:e1ff:0:0:0:0:0,2a0a:4940:e1ff:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:d027:0:0:0:0:0,2a0a:4940:d027:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:313b:0:0:0:0:0,2a0a:4940:313b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:4137:0:0:0:0:0,2a0a:4940:4137:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:14c1:0:0:0:0:0,2a0a:4940:14c1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:9a8:1b4:0:0:0:0:0,2001:9a8:1b4:ffff:ffff:ffff:ffff:ffff,True B.V.,www.true.nl
-6,2a0a:4940:14e4:0:0:0:0:0,2a0a:4940:14e4:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:978:2:1b:0:0:23:0,2001:978:2:1b:0:0:23:ffff,Stackpath LLC,www.stackpath.com
-6,2a0a:4940:19c:0:0:0:0:0,2a0a:4940:19c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:4eba:0:0:0:0:0,2a0a:4940:4eba:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:c0:22c9:0:0:0:0,2a01:4f8:c0:22c9:ffff:ffff:ffff:ffff,EasternGraphics GmbH,plusserver.com
-6,2a02:6bf:fff0:4300:0:0:0:0,2a02:6bf:fff0:430f:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a01:4f8:221:d96:0:0:0:0,2a01:4f8:221:d96:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2a0a:4940:1878:0:0:0:0:0,2a0a:4940:1878:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:f531:0:0:0:0:0,2a0a:4940:f531:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:200:6417:0:0:0:0,2a01:4f8:200:6417:ffff:ffff:ffff:ffff,SHELLRENT SRL,www.shellrent.com
-6,2a0a:4940:d739:0:0:0:0:0,2a0a:4940:d739:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:8b3a:0:0:0:0:0,2a0a:4940:8b3a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ecbd:0:0:0:0:0,2a0a:4940:ecbd:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:50f9:0:0:0:0:0,2a0a:4940:50f9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:a0:82ef:0:0:0:0,2a01:4f8:a0:82ef:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2a02:6b8:b081:103:0:0:0:0,2a02:6b8:b081:103:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a0a:4940:8b5d:0:0:0:0:0,2a0a:4940:8b5d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:13b:119e:0:0:0:0,2a01:4f8:13b:119e:ffff:ffff:ffff:ffff,Unihost Inc.,hetzner.com
-6,2a0a:4940:8ace:0:0:0:0:0,2a0a:4940:8ace:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:2200:2800:0:0:0:0,2a01:4f8:2200:2800:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
-6,2a0a:4940:4a8:0:0:0:0:0,2a0a:4940:4a8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:fd64:0:0:0:0:0,2a0a:4940:fd64:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a09:4c0:27e0:0:0:0:0:0,2a09:4c0:27ef:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
-6,2a0a:4940:ae44:0:0:0:0:0,2a0a:4940:ae44:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ef09:0:0:0:0:0,2a0a:4940:ef09:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:61b1:0:0:0:0:0,2a0a:4940:61b1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0d:2146:8484:0:0:0:0:0,2a0d:2146:8484:ffff:ffff:ffff:ffff:ffff,Hrvoje Cavrak,abuse.it-df.net
-6,2a0a:4940:2a8d:0:0:0:0:0,2a0a:4940:2a8d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:bb3b:0:0:0:0:0,2a0a:4940:bb3b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:c8d4:0:0:0:0:0,2a0a:4940:c8d4:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:550:9c05:0:0:0:0:0,2001:550:9c05:ffff:ffff:ffff:ffff:ffff,Switch Communications Group LLC,www.switch.com
-6,2a0a:4940:baee:0:0:0:0:0,2a0a:4940:baee:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a03:b000:802:0:0:0:0:0,2a03:b000:802:ffff:ffff:ffff:ffff:ffff,City Network International AB,cleura.com
-6,2a0a:4940:7935:0:0:0:0:0,2a0a:4940:7935:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:5d8c:0:0:0:0:0,2a0a:4940:5d8c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:da0b:0:0:0:0:0,2a0a:4940:da0b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:179a:0:0:0:0:0,2a0a:4940:179a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a09:4c0:7a00:0:0:0:0:0,2a09:4c0:7aff:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
-6,2a0a:4940:69ba:0:0:0:0:0,2a0a:4940:69ba:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:3e08:0:0:0:0:0,2a0a:4940:3e08:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:49da:0:0:0:0:0,2a0a:4940:49da:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:2f8b:0:0:0:0:0,2a0a:4940:2f8b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ab3c:0:0:0:0:0,2a0a:4940:ab3c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a07:f302:d:0:0:0:0:0,2a07:f302:d:ffff:ffff:ffff:ffff:ffff,RapidSeedbox Ltd,www.rapidseedbox.com
-6,2a0a:4940:8c1e:0:0:0:0:0,2a0a:4940:8c1e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0d:5303:0:0:0:0:0:0,2a0d:5303:ffff:ffff:ffff:ffff:ffff:ffff,Aofei Data International Company Limited,www.aofidc.com
-6,2a0a:4940:7b19:0:0:0:0:0,2a0a:4940:7b19:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:fafd:0:0:0:0:0,2a0a:4940:fafd:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:20d3:0:0:0:0:0,2a0a:4940:20d3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:acb4:0:0:0:0:0,2a0a:4940:acb4:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:7a7:2:2b03:0:0:0:0,2a01:7a7:2:2b03:ffff:ffff:ffff:ffff,PnS Hostings,godaddy.com
-6,2a01:4f9:3051:1e29:0:0:0:0,2a01:4f9:3051:1e29:ffff:ffff:ffff:ffff,PromptCloud  Inc,hetzner.com
-6,2001:978:2:1c:0:0:15:0,2001:978:2:1c:0:0:15:ffff,Outscale SAS,en.outscale.com
-6,2a0a:4940:a7b9:0:0:0:0:0,2a0a:4940:a7b9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0f:a200:0:0:0:0:0:0,2a0f:a207:ffff:ffff:ffff:ffff:ffff:ffff,RapidSeedbox Ltd,www.rapidseedbox.com
-6,2a0a:4940:fceb:0:0:0:0:0,2a0a:4940:fceb:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ded:0:0:0:0:0,2a0a:4940:ded:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:6b8:8f:2004:0:0:0:0,2a02:6b8:8f:2004:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a0a:4940:4225:0:0:0:0:0,2a0a:4940:4225:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:130:116c:0:0:0:0,2a01:4f8:130:116c:ffff:ffff:ffff:ffff,swissns Gmbh,www.swissns.ch
-6,2001:b90:0:2:0:0:0:0,2001:b90:0:2:ffff:ffff:ffff:ffff,Servicios de Hosting en Internet S.A.,interhost.com
-6,2a0a:4940:7560:0:0:0:0:0,2a0a:4940:7560:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:df0:296:0:0:0:0:0,2001:df0:296:ffff:ffff:ffff:ffff:ffff,Amsterdam Internet Exchange,www.ams-ix.net
-6,2605:c180:0:0:0:0:0:0,2605:c180:fff:ffff:ffff:ffff:ffff:ffff,"1st Class Hosting, LLC",1stclasshosting.com
-6,2a07:f600:4010:0:0:0:0:0,2a07:f600:4010:ffff:ffff:ffff:ffff:ffff,Support Chain LLC,www.hostfly.by
-6,2a0a:4940:a8c5:0:0:0:0:0,2a0a:4940:a8c5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:7de0:0:0:0:0:0,2a0a:4940:7de0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:d331:0:0:0:0:0,2a0a:4940:d331:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:550:2:f:0:0:5:0,2001:550:2:f:0:0:5:ffff,"iBoss, Inc",www.iboss.com
-6,2a0a:4940:eaa:0:0:0:0:0,2a0a:4940:eaa:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:c15f:0:0:0:0:0,2a0a:4940:c15f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:1a50:50a9:0:0:0:0:0,2001:1a50:50a9:ffff:ffff:ffff:ffff:ffff,Customer Network,nexthop.no
-6,2a02:6b8:b081:121:0:0:0:0,2a02:6b8:b081:121:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a12:dd47:db27:0:0:0:0:0,2a12:dd47:db27:ffff:ffff:ffff:ffff:ffff,MARIO NETWORKS LIMITED,mario.gdn
-6,2001:978:2:7:0:0:173:0,2001:978:2:7:0:0:173:ffff,Myra Security GmbH,www.myrasecurity.com
-6,2a0a:4940:9489:0:0:0:0:0,2a0a:4940:9489:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:7f25:0:0:0:0:0,2a0a:4940:7f25:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:d91a:0:0:0:0:0,2a0a:4940:d91a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f9:6b:1c56:0:0:0:0,2a01:4f9:6b:1c56:ffff:ffff:ffff:ffff,PromptCloud  Inc,hetzner.com
-6,2a0a:4940:7bc1:0:0:0:0:0,2a0a:4940:7bc1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2400:c980:0:0:0:0:0:0,2400:c980:ffff:ffff:ffff:ffff:ffff:ffff,SimplerCloud Pte Ltd,www.simplercloud.com
-6,2405:8a00:3400:0:0:0:0:0,2405:8a00:34ff:ffff:ffff:ffff:ffff:ffff,National Knowledge Network,nkn.in
-6,2a0a:4940:e88b:0:0:0:0:0,2a0a:4940:e88b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ee09:0:0:0:0:0,2a0a:4940:ee09:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ce94:0:0:0:0:0,2a0a:4940:ce94:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:6d06:0:0:0:0:0,2a0a:4940:6d06:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:750:0:0:0:0:0:0,2a02:757:ffff:ffff:ffff:ffff:ffff:ffff,GleSYS AB,glesys.se
-6,2a0a:4940:a1bd:0:0:0:0:0,2a0a:4940:a1bd:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:b6b9:0:0:0:0:0,2a0a:4940:b6b9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:202:1289:0:0:0:0,2a01:4f8:202:1289:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2001:978:2:20:0:0:123:0,2001:978:2:20:0:0:123:ffff,Zoho Corporation Limited,www.zohocorp.com
-6,2a0a:c800:0:0:0:0:0:0,2a0a:c800:ffff:ffff:ffff:ffff:ffff:ffff,MivoCloud Solutions SRL,mivocloud.com
-6,2a0a:4940:3c75:0:0:0:0:0,2a0a:4940:3c75:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:3a79:0:0:0:0:0,2a0a:4940:3a79:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:e4f2:0:0:0:0:0,2a0a:4940:e4f2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:2cd1:0:0:0:0:0,2a0a:4940:2cd1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ddae:0:0:0:0:0,2a0a:4940:ddae:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:71b0:0:0:0:0:0,2a0a:4940:71b0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:7114:0:0:0:0:0,2a0a:4940:7114:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:df1:eac0:0:0:0:0:0,2001:df1:eac0:ffff:ffff:ffff:ffff:ffff,NIXI,nixi.in
-6,2a09:a4c7:3000:0:0:0:0:0,2a09:a4c7:3fff:ffff:ffff:ffff:ffff:ffff,racktech,vpsville.ru
-6,2a0a:4940:702f:0:0:0:0:0,2a0a:4940:702f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:728:1802:0:0:0:0:0,2001:728:1802:ffff:ffff:ffff:ffff:ffff,Neustar,vercara.com
-6,2a0a:4940:a727:0:0:0:0:0,2a0a:4940:a727:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:91da:0:0:0:0:0,2a0a:4940:91da:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0d:2840:0:0:0:0:0:0,2a0d:2847:ffff:ffff:ffff:ffff:ffff:ffff,"AVATEL TELECOM, SA",malagadatacenter.com
-6,2a01:4f8:242:59c6:0:0:0:0,2a01:4f8:242:59c6:ffff:ffff:ffff:ffff,HYPERNODE BV,www.hypernode.com
-6,2a0a:4940:74c3:0:0:0:0:0,2a0a:4940:74c3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:30fb:0:0:0:0:0,2a0a:4940:30fb:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:bd15:0:0:0:0:0,2a0a:4940:bd15:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ec83:0:0:0:0:0,2a0a:4940:ec83:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:e205:0:0:0:0:0,2a0a:4940:e205:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:6b8:0:2d12:0:0:0:0,2a02:6b8:0:2d12:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a0a:4940:230f:0:0:0:0:0,2a0a:4940:230f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:cf80:1:0:0:0:0:0,2a02:cf80:1:ffff:ffff:ffff:ffff:ffff,CloudHQ,cloudhq.com
-6,2a0a:4940:60ca:0:0:0:0:0,2a0a:4940:60ca:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:15a8:0:0:0:0:0,2a0a:4940:15a8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f9:4b:1708:0:0:0:0,2a01:4f9:4b:1708:ffff:ffff:ffff:ffff,PromptCloud  Inc,hetzner.com
-6,2a01:4f8:10b:48c:0:0:0:0,2a01:4f8:10b:48c:ffff:ffff:ffff:ffff,dotplex GmbH,www.dotplex.com
-6,2a0a:4940:ddd8:0:0:0:0:0,2a0a:4940:ddd8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:1145:0:0:0:0:0,2a0a:4940:1145:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:2ba1:0:0:0:0:0,2a0a:4940:2ba1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:58bc:0:0:0:0:0,2a0a:4940:58bc:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:266:0:0:0:0:0,2a0a:4940:266:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:bc56:0:0:0:0:0,2a0a:4940:bc56:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:f22e:0:0:0:0:0,2a0a:4940:f22e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:550:2:c8:0:0:98:0,2001:550:2:c8:0:0:98:ffff,Switch Communications Group LLC,www.switch.com
-6,2a0a:4940:456e:0:0:0:0:0,2a0a:4940:456e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2003:50:a067:0:0:0:0:0,2003:50:a067:ffff:ffff:ffff:ffff:ffff,LaserHOST Hostdruckersysteme GmbH,nic.telekom.de
-6,2001:550:2:13:0:0:4:0,2001:550:2:13:0:0:4:ffff,"Twitch Interactive, Inc.",amazonaws.com
-6,2a0a:4940:bb13:0:0:0:0:0,2a0a:4940:bb13:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:6dd3:0:0:0:0:0,2a0a:4940:6dd3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a09:d180:0:0:0:0:0:0,2a09:d187:ffff:ffff:ffff:ffff:ffff:ffff,weber.digital GmbH,www.weber.cloud
-6,2a0a:4940:546c:0:0:0:0:0,2a0a:4940:546c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:112b:0:0:0:0:0,2a0a:4940:112b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:bcb3:0:0:0:0:0,2a0a:4940:bcb3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:25a8:0:0:0:0:0,2a0a:4940:25a8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:550:2:37:0:0:4a:0,2001:550:2:37:0:0:4a:ffff,Unisecure LLC,www.unisecure.com
-6,2a0a:4940:c0d7:0:0:0:0:0,2a0a:4940:c0d7:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:9c63:0:0:0:0:0,2a0a:4940:9c63:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:4380:0:0:0:0:0,2a0a:4940:4380:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:541b:0:0:0:0:0,2a0a:4940:541b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:8e26:0:0:0:0:0,2a0a:4940:8e26:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2001:978:2:7:0:0:1a:0,2001:978:2:7:0:0:1a:ffff,Fastly,www.fastly.com
-6,2a09:4c0:240a:0:0:0:0:0,2a09:4c0:240a:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
-6,2a0a:4940:5616:0:0:0:0:0,2a0a:4940:5616:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a04:dc1:0:0:0:0:0:0,2a04:dc1:0:ffff:ffff:ffff:ffff:ffff,ZILORE NETWORKS LIMITED,zilore.com
-6,2a02:6b8:81:5:0:0:0:0,2a02:6b8:81:5:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a07:5741:0:0:0:0:0:0,2a07:5741:ffff:ffff:ffff:ffff:ffff:ffff,Belcloud LTD,www.belcloud.net
-6,2a0a:4940:b11d:0:0:0:0:0,2a0a:4940:b11d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:191:3a3:0:0:0:0,2a01:4f8:191:3a3:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
-6,2a0a:4940:2f22:0:0:0:0:0,2a0a:4940:2f22:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:c871:0:0:0:0:0,2a0a:4940:c871:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:10a:4520:0:0:0:0,2a01:4f8:10a:4520:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
-6,2a0a:4940:1dc1:0:0:0:0:0,2a0a:4940:1dc1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0f:1744:0:0:0:0:0:0,2a0f:1747:ffff:ffff:ffff:ffff:ffff:ffff,Panq B.V.,www.panq.nl
-6,2a09:4c0:cde0:0:0:0:0:0,2a09:4c0:cdef:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
-6,2a0a:4940:b4fb:0:0:0:0:0,2a0a:4940:b4fb:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0e:8640:0:0:0:0:0:0,2a0e:8643:ffff:ffff:ffff:ffff:ffff:ffff,LLC Vpsville,vpsville.ru
-6,2a0a:4940:4dc:0:0:0:0:0,2a0a:4940:4dc:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:f735:0:0:0:0:0,2a0a:4940:f735:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a12:aac0:0:0:0:0:0:0,2a12:aac7:ffff:ffff:ffff:ffff:ffff:ffff,MARKAHOST TELEKOMUNIKASYON VE TICARET LIMITED SIRKETI,markahost.com.tr
-6,2a0a:4940:8ff2:0:0:0:0:0,2a0a:4940:8ff2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:430:300:0:0:0:0:0,2a01:430:300:ffff:ffff:ffff:ffff:ffff,Master Internet s.r.o.,www.master.cz
-6,2a02:6b8:0:290e:0:0:0:0,2a02:6b8:0:290e:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2405:5b40:0:0:0:0:0:0,2405:5b40:ffff:ffff:ffff:ffff:ffff:ffff,Everest Global Joint Stock Company,evgcorp.net
-6,2a0a:4940:8bca:0:0:0:0:0,2a0a:4940:8bca:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:fa5f:0:0:0:0:0,2a0a:4940:fa5f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:4f26:0:0:0:0:0,2a0a:4940:4f26:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:1348:14d:0:0:0:0:0,2a02:1348:14d:ffff:ffff:ffff:ffff:ffff,Brightbox Systems Ltd,www.brightbox.com
-6,2a0a:4940:1c20:0:0:0:0:0,2a0a:4940:1c20:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:222:863:0:0:0:0,2a01:4f8:222:863:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
-6,2a0a:4940:6a28:0:0:0:0:0,2a0a:4940:6a28:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:c1eb:0:0:0:0:0,2a0a:4940:c1eb:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:6b8:0:d29b:0:0:0:0,2a02:6b8:0:d29b:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2001:1b40:5000:fef:0:0:0:0,2001:1b40:5000:fef:ffff:ffff:ffff:ffff,Dediserve,www.dediserve.com
-6,2001:978:2:4c:0:0:25:0,2001:978:2:4c:0:0:25:ffff,Hostserver GmbH,www.hostserver.de
-6,2a0a:4940:60a1:0:0:0:0:0,2a0a:4940:60a1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:34d5:0:0:0:0:0,2a0a:4940:34d5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ace3:0:0:0:0:0,2a0a:4940:ace3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0e:97c0:b00:0:0:0:0:0,2a0e:97c0:b00:ffff:ffff:ffff:ffff:ffff,Philipp Klos,hackmi.ch
-6,2605:3e40:0:0:0:0:0:0,2605:3e40:ffff:ffff:ffff:ffff:ffff:ffff,Epic Games Inc.,store.epicgames.com
-6,2607:ff28:0:0:0:0:0:0,2607:ff28:ffff:ffff:ffff:ffff:ffff:ffff,Eonix Corporation,eonix.net
-6,2a02:2298:81c:0:0:0:0:0,2a02:2298:81c:ffff:ffff:ffff:ffff:ffff,Dataways S.A.,www.dataways.gr
-6,2001:978:2:0:0:0:9:0,2001:978:2:0:0:0:9:ffff,M247 Europe SRL,m247.com
-6,2a0a:4940:286f:0:0:0:0:0,2a0a:4940:286f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2604:5800:0:0:0:0:0:0,2604:5800:ffff:ffff:ffff:ffff:ffff:ffff,"Joe's Datacenter, LLC",joesdatacenter.com
-6,2001:370:4000:5:0:0:0:0,2001:370:4000:5:ffff:ffff:ffff:ffff,"BroadBand Tower, Inc.",www.bbtower.co.jp
-6,2a0a:4940:155:0:0:0:0:0,2a0a:4940:155:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a01:4f8:262:1e94:0:0:0:0,2a01:4f8:262:1e94:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
-6,2a0a:4940:2412:0:0:0:0:0,2a0a:4940:2412:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:23e2:0:0:0:0:0,2a0a:4940:23e2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:7f17:0:0:0:0:0,2a0a:4940:7f17:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:5c3:0:0:0:0:0,2a0a:4940:5c3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a02:6b8:b080:6401:0:0:0:0,2a02:6b8:b080:6401:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
-6,2a0a:4940:e82c:0:0:0:0:0,2a0a:4940:e82c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:3685:0:0:0:0:0,2a0a:4940:3685:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a10:6740:2:0:0:0:0:0,2a10:6740:2:ffff:ffff:ffff:ffff:ffff,Gatekeeper,serverchoice.com
-6,2a0a:4940:187c:0:0:0:0:0,2a0a:4940:187c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a00:1100:ff:0:0:0:0:0,2a00:1100:ff:ffff:ffff:ffff:ffff:ffff,SaSG GmbH & Co. KG,www.sasg.de
-6,2a0a:4940:659c:0:0:0:0:0,2a0a:4940:659c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:477e:0:0:0:0:0,2a0a:4940:477e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:5588:0:0:0:0:0,2a0a:4940:5588:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:e230:0:0:0:0:0,2a0a:4940:e230:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:22d8:0:0:0:0:0,2a0a:4940:22d8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0e:b40:0:0:0:0:0:0,2a0e:b47:ffff:ffff:ffff:ffff:ffff:ffff,Piotr Wladykowski trading as ARSIM,onea.pl
-6,2a01:4f8:192:40ad:0:0:0:0,2a01:4f8:192:40ad:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
-6,2001:550:2:2f:0:0:101:0,2001:550:2:2f:0:0:101:ffff,LeaseWeb Network B.V.,www.leaseweb.com
-6,2a01:4f8:c0:3826:0:0:0:0,2a01:4f8:c0:3826:ffff:ffff:ffff:ffff,Fritz Datacenter Services,hetzner.com
-6,2a0a:4940:3f41:0:0:0:0:0,2a0a:4940:3f41:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
-6,2a0a:4940:ec2a:0:0:0:0:0,2a0a:4940:ec2a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:242:40d5:0:0:0:0,2a01:4f8:242:40d5:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
+6,2a0a:4940:ccf6:0:0:0:0:0,2a0a:4940:ccf6:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:978:2:12:0:0:12e:0,2001:978:2:12:0:0:12e:ffff,"Twitch Interactive, Inc.",amazonaws.com
+6,2a01:66c0:0:0:0:0:0:0,2a01:66c0:ffff:ffff:ffff:ffff:ffff:ffff,Cusae SAS,www.cusae.com
+6,2001:978:2:22:0:0:30:0,2001:978:2:22:0:0:30:ffff,Datacamp Limited,www.datacamp.co.uk
+6,2a07:68c0:0:0:0:0:0:0,2a07:68c0:ffff:ffff:ffff:ffff:ffff:ffff,HOSTISERVER V6CDN,hostiserver.com
+6,2a01:4f8:120:80c5:0:0:0:0,2a01:4f8:120:80c5:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
+6,2a0a:4940:ed88:0:0:0:0:0,2a0a:4940:ed88:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:97fb:0:0:0:0:0,2a0a:4940:97fb:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:9c27:0:0:0:0:0,2a0a:4940:9c27:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a00:19c0:b077:0:0:0:0:0,2a00:19c0:b077:ffff:ffff:ffff:ffff:ffff,Qweb Internet Services B.V.,www.qweb.nl
+6,2a0a:4940:28d0:0:0:0:0:0,2a0a:4940:28d0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:61c2:0:0:0:0:0,2a0a:4940:61c2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:1d23:0:0:0:0:0,2a0a:4940:1d23:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a02:6b8:82:4301:0:0:0:0,2a02:6b8:82:4301:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
+6,2a0a:4940:b6d4:0:0:0:0:0,2a0a:4940:b6d4:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:978:2:19:0:0:126:0,2001:978:2:19:0:0:126:ffff,Limestone Networks,limestonenetworks.com
+6,2a01:9980:2:0:0:0:0:0,2a01:9980:2:ffff:ffff:ffff:ffff:ffff,CLOUDSIGMA AG,www.cloudsigma.com
+6,2a0a:4940:cccc:0:0:0:0:0,2a0a:4940:cccc:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:6ee0:1:3:0:0:0:0,2a01:6ee0:1:3:ffff:ffff:ffff:ffff,RackForest,rackforest.com
+6,2a0a:4940:39e0:0:0:0:0:0,2a0a:4940:39e0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:54d1:0:0:0:0:0,2a0a:4940:54d1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:c0:3809:0:0:0:0,2a01:4f8:c0:3809:ffff:ffff:ffff:ffff,Salt Edge Inc.,hetzner.com
+6,2a0a:4940:1901:0:0:0:0:0,2a0a:4940:1901:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:25d2:0:0:0:0:0,2a0a:4940:25d2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:4018:1400:13:0:0:0:0,2001:4018:1400:13:ffff:ffff:ffff:ffff,HOSTLOGIC,interconnect.nl
+6,2a0e:fd80:10:0:0:0:0:0,2a0e:fd80:10:ffff:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
+6,2a0a:4940:7c8f:0:0:0:0:0,2a0a:4940:7c8f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:7c44:0:0:0:0:0,2a0a:4940:7c44:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:e03e:0:0:0:0:0,2a0a:4940:e03e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a05:dfc7:bca2:0:0:0:0:0,2a05:dfc7:bca2:ffff:ffff:ffff:ffff:ffff,PT Atharva Telematika Persada,www.atharva.co.id
+6,2a0a:4940:3fd8:0:0:0:0:0,2a0a:4940:3fd8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:8d8:1000:0:0:0:0:0,2001:8d8:1000:ff:ffff:ffff:ffff:ffff,IONOS SE,www.ionos.com
+6,2a01:5400:2:0:0:0:0:0,2a01:5400:2:ffff:ffff:ffff:ffff:ffff,JPC Infonet Ltd,www.cloudheroes.com
+6,2a01:c008:0:0:0:0:0:0,2a01:c00f:ffff:ffff:ffff:ffff:ffff:ffff,Orange Business Services,cloud.orange-business.com
+6,2a0a:4940:d07d:0:0:0:0:0,2a0a:4940:d07d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:191:9123:0:0:0:0,2a01:4f8:191:9123:ffff:ffff:ffff:ffff,Unihost Inc.,hetzner.com
+6,2a0a:4940:616f:0:0:0:0:0,2a0a:4940:616f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:1627:0:0:0:0:0,2a0a:4940:1627:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:bd48:0:0:0:0:0,2a0a:4940:bd48:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:e12b:0:0:0:0:0,2a0a:4940:e12b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:685c:0:0:0:0:0,2a0a:4940:685c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:9b09:0:0:0:0:0,2a0a:4940:9b09:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a09:4c0:8e0:0:0:0:0:0,2a09:4c0:8ef:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
+6,2a0a:4940:c3be:0:0:0:0:0,2a0a:4940:c3be:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2607:980:0:0:0:0:0:0,2607:980:ffff:ffff:ffff:ffff:ffff:ffff,NP Information Systems,www.npinfo.com
+6,2604:7e00:0:0:0:0:0:0,2604:7e00:ffff:ffff:ffff:ffff:ffff:ffff,"TierPoint, LLC",www.tierpoint.com
+6,2a0a:4940:9230:0:0:0:0:0,2a0a:4940:9230:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2804:1570:0:0:0:0:0:0,2804:1570:ffff:ffff:ffff:ffff:ffff:ffff,PAM Pepe Antenas Telecom. e Multimida Ltda ME,www.dwhost.com.br
+6,2a01:4f8:172:2c6d:0:0:0:0,2a01:4f8:172:2c6d:ffff:ffff:ffff:ffff,VHosting Solution s.r.l. Unipersonale,hetzner.com
+6,2a01:4f8:a0:2179:0:0:0:0,2a01:4f8:a0:2179:ffff:ffff:ffff:ffff,Avernis Communications GmbH,www.avernis.de
+6,2a0a:4940:6413:0:0:0:0:0,2a0a:4940:6413:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:14a:0:0:0:0:0,2a0a:4940:14a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0e:b107:1db0:0:0:0:0:0,2a0e:b107:1dbf:ffff:ffff:ffff:ffff:ffff,Maxime PONSART,as199956.net
+6,2a0a:4940:7d90:0:0:0:0:0,2a0a:4940:7d90:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:978:2:1b:0:0:35:0,2001:978:2:1b:0:0:35:ffff,Synalabs,www.synalabs.com
+6,2001:500:67:0:0:0:0:0,2001:500:67:ffff:ffff:ffff:ffff:ffff,"Internet Systems Consortium, Inc.",www.isc.org
+6,2a0a:4940:1c76:0:0:0:0:0,2a0a:4940:1c76:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:66b9:0:0:0:0:0,2a0a:4940:66b9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2602:fd7e:0:0:0:0:0:0,2602:fd7e:fff:ffff:ffff:ffff:ffff:ffff,Hosted SFY,concero.cloud
+6,2a0a:4940:8c4e:0:0:0:0:0,2a0a:4940:8c4e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:200:23e6:0:0:0:0,2a01:4f8:200:23e6:ffff:ffff:ffff:ffff,HostBet,hetzner.com
+6,2a0a:4940:79a:0:0:0:0:0,2a0a:4940:79a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:2eec:0:0:0:0:0,2a0a:4940:2eec:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f8c0:0:0:0:0:0,2a0a:4940:f8c0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:2200:27cd:0:0:0:0,2a01:4f8:2200:27cd:ffff:ffff:ffff:ffff,HYPERNODE BV,www.hypernode.com
+6,2a0a:4940:9d76:0:0:0:0:0,2a0a:4940:9d76:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a05:dfc1:404:0:0:0:0:0,2a05:dfc1:404:ffff:ffff:ffff:ffff:ffff,ParadoxNetworks Limited,pdxnet.co.uk
+6,2a0a:4940:3554:0:0:0:0:0,2a0a:4940:3554:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f263:0:0:0:0:0,2a0a:4940:f263:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:2c86:0:0:0:0:0,2a0a:4940:2c86:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:2ec5:0:0:0:0:0,2a0a:4940:2ec5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a06:a005:2590:0:0:0:0:0,2a06:a005:259f:ffff:ffff:ffff:ffff:ffff,France,hosteur.com
+6,2a01:4f8:231:2920:0:0:0:0,2a01:4f8:231:2920:ffff:ffff:ffff:ffff,CAMSCAPE SERVICES SRL,gtstelecom.ro
+6,2a0a:4940:26ab:0:0:0:0:0,2a0a:4940:26ab:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:e3a7:0:0:0:0:0,2a0a:4940:e3a7:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a03:6960:0:0:0:0:0:0,2a03:6960:ffff:ffff:ffff:ffff:ffff:ffff,TN HOSTING ApS,tn-hosting.dk
+6,2a0a:4940:46c6:0:0:0:0:0,2a0a:4940:46c6:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f9:3051:3dc5:0:0:0:0,2a01:4f9:3051:3dc5:ffff:ffff:ffff:ffff,Unihost Inc.,hetzner.com
+6,2a10:ed40:0:0:0:0:0:0,2a10:ed47:ffff:ffff:ffff:ffff:ffff:ffff,Kanzas LLC,kanzas.msk.ru
+6,2a12:dd47:db17:0:0:0:0:0,2a12:dd47:db17:ffff:ffff:ffff:ffff:ffff,MARIO NETWORKS LIMITED,mario.gdn
+6,2a0b:b600:0:0:0:0:0:0,2a0b:b607:ffff:ffff:ffff:ffff:ffff:ffff,Cloudbear B.V.,cloudbear.nl
+6,2a01:4f8:222:1d19:0:0:0:0,2a01:4f8:222:1d19:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
+6,2a0a:4940:486e:0:0:0:0:0,2a0a:4940:486e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:e65d:0:0:0:0:0,2a0a:4940:e65d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:10a:52c:0:0:0:0,2a01:4f8:10a:52c:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
+6,2a0a:4940:8c94:0:0:0:0:0,2a0a:4940:8c94:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:5206:0:0:0:0:0,2a0a:4940:5206:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a02:6b8:fc0f:0:0:0:0:0,2a02:6b8:fc0f:ffff:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
+6,2001:978:2:2a:0:0:11a:0,2001:978:2:2a:0:0:11a:ffff,"Qwilt, Inc.",www.qwilt.com
+6,2a02:830:0:8000:0:0:0:0,2a02:830:0:ffff:ffff:ffff:ffff:ffff,Claranet Benelux B.V.,www.claranet.com
+6,2a02:6b8:c1e:0:0:0:0:0,2a02:6b8:c1e:ffff:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
+6,2605:2080:0:0:0:0:0:0,2605:2080:ffff:ffff:ffff:ffff:ffff:ffff,"Root Level Technology, LLC",waltlabs.io
+6,2a0a:4940:de5b:0:0:0:0:0,2a0a:4940:de5b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2607:1900:0:0:0:0:0:0,2607:1900:ffff:ffff:ffff:ffff:ffff:ffff,Auburn Essential Services,coreitx.com
+6,2a0a:4940:d0ce:0:0:0:0:0,2a0a:4940:d0ce:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:ae96:0:0:0:0:0,2a0a:4940:ae96:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:2ae0:0:0:0:0:0,2a0a:4940:2ae0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:d44b:0:0:0:0:0,2a0a:4940:d44b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:141:4411:0:0:0:0,2a01:4f8:141:4411:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
+6,2a0a:4940:4049:0:0:0:0:0,2a0a:4940:4049:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:140:11fd:0:0:0:0,2a01:4f8:140:11fd:ffff:ffff:ffff:ffff,xneelo (Pty) Ltd,xneelo.com
+6,2a0a:4940:9544:0:0:0:0:0,2a0a:4940:9544:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:a0e6:0:0:0:0:0,2a0a:4940:a0e6:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:1a00:0:0:0:0:0,2a0a:4940:1a00:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2402:e400:0:0:0:0:0:0,2402:e400:ffff:ffff:ffff:ffff:ffff:ffff,HOST NETWORKS,hostnetworks.com.au
+6,2a0a:4940:49a8:0:0:0:0:0,2a0a:4940:49a8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:10a:2d8e:0:0:0:0,2a01:4f8:10a:2d8e:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
+6,2a0a:4940:d96a:0:0:0:0:0,2a0a:4940:d96a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:aae1:0:0:0:0:0,2a0a:4940:aae1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:c54e:0:0:0:0:0,2a0a:4940:c54e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:5065:0:0:0:0:0,2a0a:4940:5065:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:d74c:0:0:0:0:0,2a0a:4940:d74c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f62c:0:0:0:0:0,2a0a:4940:f62c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:3957:0:0:0:0:0,2a0a:4940:3957:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:166d:0:0:0:0:0,2a0a:4940:166d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2405:4b80:0:0:0:0:0:0,2405:4b80:ffff:ffff:ffff:ffff:ffff:ffff,"Beijing Sankuai Cloud Computing Co.,Ltd.",meituan.com
+6,2a0a:4940:7640:0:0:0:0:0,2a0a:4940:7640:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:1ba0:0:0:0:0:0,2a0a:4940:1ba0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0e:80c0:0:0:0:0:0:0,2a0e:80c7:ffff:ffff:ffff:ffff:ffff:ffff,LIR LLC,www.web.am
+6,2a0a:4940:6f91:0:0:0:0:0,2a0a:4940:6f91:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:c87f:0:0:0:0:0,2a0a:4940:c87f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:4589:0:0:0:0:0,2a0a:4940:4589:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:550:2:25:0:0:31:0,2001:550:2:25:0:0:31:ffff,"NetActuate, Inc.",netactuate.com
+6,2a01:4f8:222:1ccf:0:0:0:0,2a01:4f8:222:1ccf:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
+6,2a0a:4940:2f0f:0:0:0:0:0,2a0a:4940:2f0f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:ce0e:0:0:0:0:0,2a0a:4940:ce0e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f250:0:0:0:0:0,2a0a:4940:f250:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:ec9e:0:0:0:0:0,2a0a:4940:ec9e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:252:42ed:0:0:0:0,2a01:4f8:252:42ed:ffff:ffff:ffff:ffff,werk21 GmbH,global.ntt
+6,2a0a:4940:d3d1:0:0:0:0:0,2a0a:4940:d3d1:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:eb5c:0:0:0:0:0,2a0a:4940:eb5c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a02:6b8:0:2a18:0:0:0:0,2a02:6b8:0:2a18:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
+6,2a0a:4940:80ef:0:0:0:0:0,2a0a:4940:80ef:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:173:299b:0:0:0:0,2a01:4f8:173:299b:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
+6,2a0a:4940:f26f:0:0:0:0:0,2a0a:4940:f26f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:231:4482:0:0:0:0,2a01:4f8:231:4482:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
+6,2a00:1a28:0:0:0:0:0:0,2a00:1a28:ffff:ffff:ffff:ffff:ffff:ffff,GleSYS AB,glesys.se
+6,2a0a:4940:5d29:0:0:0:0:0,2a0a:4940:5d29:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f980:0:0:0:0:0,2a0a:4940:f980:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:d7:0:0:0:0:0,2a0a:4940:d7:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a09:740:0:0:0:0:0:0,2a09:740:ffff:ffff:ffff:ffff:ffff:ffff,NewPush Europe Kft.,www.newpush.com
+6,2a01:4f8:231:3ddf:0:0:0:0,2a01:4f8:231:3ddf:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
+6,2a0a:4940:1245:0:0:0:0:0,2a0a:4940:1245:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:14c8:100:2:0:0:0:0,2001:14c8:100:2:ffff:ffff:ffff:ffff,AGARIK SAS,www.agarik.com
+6,2a0a:4940:cb8:0:0:0:0:0,2a0a:4940:cb8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:320f:0:0:0:0:0,2a0a:4940:320f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:5f5e:0:0:0:0:0,2a0a:4940:5f5e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f9:4b:13cd:0:0:0:0,2a01:4f9:4b:13cd:ffff:ffff:ffff:ffff,PromptCloud  Inc,hetzner.com
+6,2a0a:4940:c83f:0:0:0:0:0,2a0a:4940:c83f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:978:2:21:0:0:153:0,2001:978:2:21:0:0:153:ffff,"Imperva, Inc",www.imperva.com
+6,2a0a:4940:9e3f:0:0:0:0:0,2a0a:4940:9e3f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0e:97c0:a00:0:0:0:0:0,2a0e:97c0:a0f:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
+6,2a0a:4940:9e2e:0:0:0:0:0,2a0a:4940:9e2e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a04:4b07:210f:0:0:0:0:0,2a04:4b07:210f:ffff:ffff:ffff:ffff:ffff,qwertiko GmbH,www.qwertiko.de
+6,2a0a:4940:36d6:0:0:0:0:0,2a0a:4940:36d6:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2402:28c0:2:0:0:0:0:0,2402:28c0:2:ffff:ffff:ffff:ffff:ffff,VMHAUS Limited,vmhaus.com
+6,2a0a:4940:64fb:0:0:0:0:0,2a0a:4940:64fb:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2003:c0:5a:0:0:0:0:0,2003:c0:5a:ffff:ffff:ffff:ffff:ffff,Veniris Cloud GmbH Commerzial Treuhand,nic.telekom.de
+6,2a0a:4940:c4b9:0:0:0:0:0,2a0a:4940:c4b9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f4ca:0:0:0:0:0,2a0a:4940:f4ca:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0b:2d06:0:0:0:0:0:0,2a0b:2d06:ffff:ffff:ffff:ffff:ffff:ffff,MATRIX TELECOM LTD,skiff.com
+6,2001:550:2:31:0:0:8a:0,2001:550:2:31:0:0:8a:ffff,OVH France,www.ovh.com
+6,2a0a:4940:cb3e:0:0:0:0:0,2a0a:4940:cb3e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:27b0:0:0:0:0:0,2a0a:4940:27b0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:c0:381c:0:0:0:0,2a01:4f8:c0:381c:ffff:ffff:ffff:ffff,Salt Edge Inc.,hetzner.com
+6,2a0a:4940:42cd:0:0:0:0:0,2a0a:4940:42cd:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:8776:0:0:0:0:0,2a0a:4940:8776:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:171:2bed:0:0:0:0,2a01:4f8:171:2bed:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
+6,2001:9a8:c8:0:0:0:0:0,2001:9a8:c8:ffff:ffff:ffff:ffff:ffff,True B.V.,www.true.nl
+6,2a0a:4940:131a:0:0:0:0:0,2a0a:4940:131a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:67c:b0:0:0:0:0:0,2001:67c:b0:ffff:ffff:ffff:ffff:ffff,Draijer Jacobus Jan trading as Maenda Media,ic-hosting.nl
+6,2a07:f6c0:0:0:0:0:0:0,2a07:f6c7:ffff:ffff:ffff:ffff:ffff:ffff,IP SERVICES Sp. zo.o.,ipservices.pl
+6,2a0a:4940:5345:0:0:0:0:0,2a0a:4940:5345:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0f:17c0:0:0:0:0:0:0,2a0f:17c7:ffff:ffff:ffff:ffff:ffff:ffff,Panq B.V.,www.panq.nl
+6,2a0a:4940:925a:0:0:0:0:0,2a0a:4940:925a:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:58a2:0:0:0:0:0,2a0a:4940:58a2:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f9:2a:188d:0:0:0:0,2a01:4f9:2a:188d:ffff:ffff:ffff:ffff,PromptCloud  Inc,hetzner.com
+6,2a0a:4940:12d6:0:0:0:0:0,2a0a:4940:12d6:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:cb60:0:0:0:0:0,2a0a:4940:cb60:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:4975:0:0:0:0:0,2a0a:4940:4975:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:201:123:0:0:0:0,2a01:4f8:201:123:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
+6,2001:978:2:4b:0:0:0:c,2001:978:2:4b:0:0:0:f,Akamai International BV,www.akamai.com
+6,2a0a:4940:81d3:0:0:0:0:0,2a0a:4940:81d3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:897d:0:0:0:0:0,2a0a:4940:897d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f294:0:0:0:0:0,2a0a:4940:f294:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:9740:0:0:0:0:0,2a0a:4940:9740:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2003:47:8082:0:0:0:0:0,2003:47:8082:ffff:ffff:ffff:ffff:ffff,KAMP Netzwerkdienste GmbH,www.kamp.de
+6,2a0a:4940:4bb3:0:0:0:0:0,2a0a:4940:4bb3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:add5:0:0:0:0:0,2a0a:4940:add5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:fd8e:0:0:0:0:0,2a0a:4940:fd8e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:978:2:15:0:0:14:0,2001:978:2:15:0:0:14:ffff,Fastly,www.fastly.com
+6,2a0a:4940:4eed:0:0:0:0:0,2a0a:4940:4eed:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:aa53:0:0:0:0:0,2a0a:4940:aa53:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:10a:188:0:0:0:0,2a01:4f8:10a:188:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
+6,2a0a:4940:873:0:0:0:0:0,2a0a:4940:873:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:ff30:0:0:0:0:0,2a0a:4940:ff30:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:6de3:0:0:0:0:0,2a0a:4940:6de3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f804:0:0:0:0:0,2a0a:4940:f804:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a00:6960:0:0:0:0:0:0,2a00:6960:ffff:ffff:ffff:ffff:ffff:ffff,CLOUD.nl B.V.,www.cloud.nl
+6,2a0a:4940:d588:0:0:0:0:0,2a0a:4940:d588:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a02:6b8:0:710c:0:0:0:0,2a02:6b8:0:710c:ffff:ffff:ffff:ffff,YANDEX LLC,yandex-team.ru
+6,2a09:4c0:2e00:0:0:0:0:0,2a09:4c0:2eff:ffff:ffff:ffff:ffff:ffff,Securebit AG,www.securebit.ch
+6,2602:fcdb:0:0:0:0:0:0,2602:fcdb:fff:ffff:ffff:ffff:ffff:ffff,"Thin-nology, LLC",thin-nology.com
+6,2a02:950:0:0:0:0:0:0,2a02:957:ffff:ffff:ffff:ffff:ffff:ffff,Beyond.pl sp. z o.o.,www.beyond.pl
+6,2001:550:2:8:0:0:144:0,2001:550:2:8:0:0:144:ffff,"NetActuate, Inc.",netactuate.com
+6,2a0a:4940:3e62:0:0:0:0:0,2a0a:4940:3e62:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:c937:0:0:0:0:0,2a0a:4940:c937:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:d6e9:0:0:0:0:0,2a0a:4940:d6e9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:668:1f:24:0:0:0:0,2001:668:1f:24:ffff:ffff:ffff:ffff,Akamai Technologies,www.akamai.com
+6,2a0a:4940:41ea:0:0:0:0:0,2a0a:4940:41ea:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:265e:0:0:0:0:0,2a0a:4940:265e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:978:2:4:0:0:17:0,2001:978:2:4:0:0:17:ffff,Datacamp Limited,www.datacamp.co.uk
+6,2a0a:4940:51fc:0:0:0:0:0,2a0a:4940:51fc:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a06:1283:c2a0:0:0:0:0:0,2a06:1283:c2af:ffff:ffff:ffff:ffff:ffff,2adventure Studios Ltd,2adventure-studios.com
+6,2a0a:4940:d6f5:0:0:0:0:0,2a0a:4940:d6f5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:36d0:0:0:0:0:0,2a0a:4940:36d0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f079:0:0:0:0:0,2a0a:4940:f079:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:383:0:0:0:0:0,2a0a:4940:383:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:8c76:0:0:0:0:0,2a0a:4940:8c76:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0d:60c5:0:0:0:0:0:0,2a0d:60c5:ffff:ffff:ffff:ffff:ffff:ffff,RU VPSVILLE1 20180911,vpsville.ru
+6,2803:9500:0:0:0:0:0:0,2803:9500:ffff:ffff:ffff:ffff:ffff:ffff,Coop. de Obras y Serv. Públicos de Brinkmann,cospb.com.ar
+6,2a05:b300:0:0:0:0:0:0,2a05:b300:ffff:ffff:ffff:ffff:ffff:ffff,SC RAPIDSEEDBOX 20141001,www.rapidseedbox.com
+6,2a0a:4940:b9a8:0:0:0:0:0,2a0a:4940:b9a8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:550:2:13:0:0:23:0,2001:550:2:13:0:0:23:ffff,OVH France,www.ovh.com
+6,2a0a:4940:89d6:0:0:0:0:0,2a0a:4940:89d6:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:41d0:e0:0:0:0:0:0,2001:41d0:ef:ffff:ffff:ffff:ffff:ffff,OVH,proof.ovh.net
+6,2a0a:4940:ce4c:0:0:0:0:0,2a0a:4940:ce4c:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:7a46:0:0:0:0:0,2a0a:4940:7a46:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a09:d2c1:9:0:0:0:0:0,2a09:d2c1:9:ffff:ffff:ffff:ffff:ffff,Individual entrepreneur Glyzin Andrey Leonidovich,asko.host
+6,2a0a:4940:c6af:0:0:0:0:0,2a0a:4940:c6af:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:e8bf:0:0:0:0:0,2a0a:4940:e8bf:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:df5:df80:0:0:0:0:0,2001:df5:df80:ffff:ffff:ffff:ffff:ffff,Waling Internet Pvt. Ltd.,www.walinginternet.net.np
+6,2602:fc4b:0:0:0:0:0:0,2602:fc4b:fff:ffff:ffff:ffff:ffff:ffff,"LayerSwitch, Inc",layerswitch.com
+6,2804:f94:0:0:0:0:0:0,2804:f94:7fff:ffff:ffff:ffff:ffff:ffff,IHNOVECOM TELECOMUNICACOES E SERVICOS LTDA,redeunifique.com.br
+6,2001:978:0:6fff:0:0:4:0,2001:978:0:6fff:0:0:4:ffff,MAGIT'ST SRL,www.maghost.eu
+6,2a0a:4940:c88b:0:0:0:0:0,2a0a:4940:c88b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:192:8122:0:0:0:0,2a01:4f8:192:8122:ffff:ffff:ffff:ffff,Timme Hosting GmbH & Co. KG,hetzner.com
+6,2a01:4f8:242:52a3:0:0:0:0,2a01:4f8:242:52a3:ffff:ffff:ffff:ffff,Fritz Datacenter Services,hetzner.com
+6,2a0a:4940:26c3:0:0:0:0:0,2a0a:4940:26c3:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:3226:0:0:0:0:0,2a0a:4940:3226:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:3d69:0:0:0:0:0,2a0a:4940:3d69:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:978:2:2e:0:0:61:0,2001:978:2:2e:0:0:61:ffff,LeaseWeb Network B.V.,www.leaseweb.com
+6,2a05:541:0:0:0:0:0:0,2a05:541:ffff:ffff:ffff:ffff:ffff:ffff,LLC Internet Tehnologii,noc.su
+6,2a0a:4940:1a15:0:0:0:0:0,2a0a:4940:1a15:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:4b9b:0:0:0:0:0,2a0a:4940:4b9b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:b3c0:0:0:0:0:0,2a0a:4940:b3c0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:aea0:0:0:0:0:0,2a0a:4940:aea0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:7a7:2:1194:0:0:0:0,2a01:7a7:2:1194:ffff:ffff:ffff:ffff,Imperva,www.imperva.com
+6,2a0a:4940:9cac:0:0:0:0:0,2a0a:4940:9cac:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:df5:4380:0:0:0:0:0,2001:df5:4380:ffff:ffff:ffff:ffff:ffff,JUDAH WEB SOLUTIONS PRIVATE LIMITED,judahwebsolutions.co.in
+6,2001:9a8:1e:0:0:0:0:0,2001:9a8:1e:ffff:ffff:ffff:ffff:ffff,True B.V.,www.true.nl
+6,2a01:4f8:251:2c5a:0:0:0:0,2a01:4f8:251:2c5a:ffff:ffff:ffff:ffff,ialla.com UG,hosteurope.de
+6,2a0a:4940:7f54:0:0:0:0:0,2a0a:4940:7f54:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0b:1905:0:0:0:0:0:0,2a0b:1905:ffff:ffff:ffff:ffff:ffff:ffff,Prager Connect GmbH,www.prager-it.com
+6,2001:550:2:25:0:0:2e:0,2001:550:2:25:0:0:2e:ffff,"Masergy Communications, Inc.",masergy.com
+6,2a0a:4940:6941:0:0:0:0:0,2a0a:4940:6941:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:5e15:0:0:0:0:0,2a0a:4940:5e15:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:ac91:0:0:0:0:0,2a0a:4940:ac91:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:1e5f:0:0:0:0:0,2a0a:4940:1e5f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f96b:0:0:0:0:0,2a0a:4940:f96b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:db7f:0:0:0:0:0,2a0a:4940:db7f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0b:4341:1600:0:0:0:0:0,2a0b:4341:1600:ffff:ffff:ffff:ffff:ffff,"Misaka Network, Inc.",www.misaka.io
+6,2a04:2641:0:0:0:0:0:0,2a04:2641:ffff:ffff:ffff:ffff:ffff:ffff,HostingSolutions s.r.o.,hostingsolutions.cz
+6,2a0a:4940:bf32:0:0:0:0:0,2a0a:4940:bf32:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:d98e:0:0:0:0:0,2a0a:4940:d98e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:d64d:0:0:0:0:0,2a0a:4940:d64d:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a07:a400:0:0:0:0:0:0,2a07:a407:ffff:ffff:ffff:ffff:ffff:ffff,Zemlyaniy Dmitro Leonidovich,deltahost.com.ua
+6,2001:370:4000:f:0:0:0:0,2001:370:4000:f:ffff:ffff:ffff:ffff,"BroadBand Tower, Inc.",www.bbtower.co.jp
+6,2a07:54c0:0:0:0:0:0:0,2a07:54c7:ffff:ffff:ffff:ffff:ffff:ffff,Zappie Host LLC,zappiehost.com
+6,2a0a:4940:e1f0:0:0:0:0:0,2a0a:4940:e1f0:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0f:7800:900:0:0:0:0:0,2a0f:7800:9ff:ffff:ffff:ffff:ffff:ffff,UPSTREAM NETWORK LTD,zhnet.co.uk
+6,2a0a:4940:1ba9:0:0:0:0:0,2a0a:4940:1ba9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f4e6:0:0:0:0:0,2a0a:4940:f4e6:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:e484:0:0:0:0:0,2a0a:4940:e484:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2803:540:0:0:0:0:0:0,2803:540:ffff:ffff:ffff:ffff:ffff:ffff,FIBERNET,www.fiber.net
+6,2a01:488:2001:4700:0:0:0:0,2a01:488:2001:47ff:ffff:ffff:ffff:ffff,Hermes Concept GmbH,hosteurope.de
+6,2a0a:4940:9586:0:0:0:0:0,2a0a:4940:9586:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:8a7f:0:0:0:0:0,2a0a:4940:8a7f:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2404:64c0:0:0:0:0:0:0,2404:64c0:ffff:ffff:ffff:ffff:ffff:ffff,Heydhz Inc,heydhz.com
+6,2a0a:4940:4cd4:0:0:0:0:0,2a0a:4940:4cd4:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:641:0:0:0:0:0,2a0a:4940:641:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:34df:0:0:0:0:0,2a0a:4940:34df:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a06:80c0:0:0:0:0:0:0,2a06:80c7:ffff:ffff:ffff:ffff:ffff:ffff,Rackspot LLC,hostroyale.com
+6,2a0a:4940:6a78:0:0:0:0:0,2a0a:4940:6a78:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:550:2:8:0:0:40:0,2001:550:2:8:0:0:40:ffff,Amanah Tech Inc,www.amanah.com
+6,2a0e:b107:347:0:0:0:0:0,2a0e:b107:347:ffff:ffff:ffff:ffff:ffff,Chin-yun Wang,azsopro.net
+6,2a0a:4940:8e4:0:0:0:0:0,2a0a:4940:8e4:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0d:6c2:0:0:0:0:0:0,2a0d:6c2:ffff:ffff:ffff:ffff:ffff:ffff,HUIZE LTD,62yun.com
+6,2a01:4f8:fff0:4c:0:0:0:0,2a01:4f8:fff0:4c:ffff:ffff:ffff:ffff,Hetzner Online GmbH,www.hetzner.com
+6,2a0a:4940:e:0:0:0:0:0,2a0a:4940:e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:550:2:2f:0:0:16e:0,2001:550:2:2f:0:0:16e:ffff,Fastly,www.fastly.com
+6,2a0a:4940:4bb4:0:0:0:0:0,2a0a:4940:4bb4:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:356b:0:0:0:0:0,2a0a:4940:356b:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:f3d5:0:0:0:0:0,2a0a:4940:f3d5:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:d8ab:0:0:0:0:0,2a0a:4940:d8ab:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:488:2000:e600:0:0:0:0,2a01:488:2000:e6ff:ffff:ffff:ffff:ffff,Valtech GmbH,hosting-server.cc
+6,2a0a:4940:6d9:0:0:0:0:0,2a0a:4940:6d9:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:171:32ce:0:0:0:0,2a01:4f8:171:32ce:ffff:ffff:ffff:ffff,FastVPS Eesti O�,fastvps.hosting
+6,2a0a:4940:9975:0:0:0:0:0,2a0a:4940:9975:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:94eb:0:0:0:0:0,2a0a:4940:94eb:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:ae89:0:0:0:0:0,2a0a:4940:ae89:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a01:4f8:161:365c:0:0:0:0,2a01:4f8:161:365c:ffff:ffff:ffff:ffff,Unihost Inc.,hetzner.com
+6,2a0a:4940:ebca:0:0:0:0:0,2a0a:4940:ebca:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:4dc8:0:0:0:0:0,2a0a:4940:4dc8:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:6713:0:0:0:0:0,2a0a:4940:6713:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:482e:0:0:0:0:0,2a0a:4940:482e:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2a0a:4940:d600:0:0:0:0:0,2a0a:4940:d600:ffff:ffff:ffff:ffff:ffff,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,gibir.net.tr
+6,2001:920:401a:2400:0:0:0:0,2001:920:401a:24ff:ffff:ffff:ffff:ffff,BDO,bdohosting.com
