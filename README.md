@@ -172,3 +172,23 @@ The geolocation database is provided as large CSV file with the following header
   + `accuracy = 3` - Medium geolocation accuracy. You can not rely the data to be accurate to the city level.
   + `accuracy = 4` - Low geolocation accuracy. Usually the data is accurate to the country level.
   + `accuracy = 5` - Very low geolocation accuracy. The data should be accurate to the country level.
+
+### Convert Geolocation Database to MMDB Format
+
+Remove first column from [geolocationDatabaseIPv4.csv](https://github.com/ipapi-is/ipapi/blob/main/databases/geolocationDatabaseIPv4.csv.zip):
+
+```
+cut -d, -f2- geolocationDatabaseIPv4.csv > dataIPv4.csv
+```
+
+Then convert using [mmdbctl](https://github.com/ipinfo/mmdbctl):
+
+```
+mmdbctl import --in dataIPv4.csv --out dataIPv4.mmdb
+```
+
+That works like a charm and yields:
+
+```
+writing to dataIPv4.mmdb (1347178 entries)
+```
