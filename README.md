@@ -7,6 +7,7 @@ Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](ht
 + [IP to Hosting Database](https://ipapi.is/hosting-detection.html) - **Commercial** -  Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. The database contains very small and niche hosting providers.
 + [IP to Geolocation Database](https://ipapi.is/geolocation.html) - **Free** - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks.
 + [IP to ASN Database](https://ipapi.is/asn.html) - **Commercial** - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
++ [IP to VPN Database](https://ipapi.is/vpn-detection.html) - **Commercial** - The IP to VPN Database is a database that contains VPN IP addresses from well-known providers like ExpressVPN and NordVPN. Additionally, the database contains IP ranges from other VPN providers from which the provider's name is not known.
 
 ## IP to Hosting Database
 
@@ -191,4 +192,42 @@ That works like a charm and yields:
 
 ```
 writing to dataIPv4.mmdb (1347178 entries)
+```
+
+## IP to VPN Database
+
+The IP to VPN Database is a database that contains VPN IP addresses from well-known providers like ExpressVPN and NordVPN. Additionally, the database contains IP ranges from other VPN providers from which the provider's name is not known. The database is updated on a regular basis and is available for purchase in CSV or MMDB format.
+
+Despite the fact that VPN services bring a lot of benefits to its users, they also have a dark side. VPN services are often used by cybercriminals to hide their real IP address and to bypass geo-restrictions and commit fraud. The IP to VPN Database is a valuable tool for businesses that want to detect VPN usage on their website or app and to take appropriate measures to protect their services.
+
+The IP to VPN Database is provided as large CSV file with the following fields:
+
++ `ipVersion` - Either `4` or `6`. Determines the IP type of the network. Example: `"4"`
++ `startIp` - The first IP address of the network range. Example: `45.86.210.31`
++ `endIp` - The last IP address of the network range. Example: `45.86.210.31`
++ `serviceName` - The name of the VPN provider. Example: `NordVPN`
+
+### How to use the IP to VPN Database?
+
+This example shows how to work with the IP to VPN Database in MMDB format. First, you have to download the database sample:
+
+```
+curl -O https://ipapi.is/data/VPN-Database-Sample.mmdb
+```
+
+And then you can read the database with [mmdbctl](https://github.com/ipinfo/mmdbctl):
+
+```
+mmdbctl read -f json-pretty 169.150.203.171 VPN-Database-Sample.mmdb
+```
+
+which outputs:
+
+```
+{
+  "endIp": "169.150.203.171",
+  "ipVersion": "4",
+  "network": "169.150.203.171/32",
+  "serviceName": "NordVPN"
+}
 ```
