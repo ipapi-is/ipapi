@@ -155,9 +155,9 @@ The database includes geolocation information for a large part of the IPv4 addre
 
 The geolocation database is provided as large CSV file with the following header fields:
 
-+ `ip_version` - Either `4` or `6`. Determines the IP type of the network. Example: `"4"`
-+ `start_ip` - The first IP address of the network range. Example: `"44.31.140.0"`
-+ `end_ip` - The last IP address of the network range. Example: `"44.31.140.255"`
++ `ipVersion` - Either `4` or `6`. Determines the IP type of the network. Example: `"4"`
++ `startIp` - The first IP address of the network range. Example: `44.31.140.0`
++ `endIp` - The last IP address of the network range. Example: `44.31.140.255`
 + `continent` - The continent as two letter code. Example: `"NA"`
 + `country_code` - The [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1) to which the IP address belongs. This is the country specific geolocation of the IP address. Example: `"US"`
 + `country` - The full name of the country. Example: `"United States"`
