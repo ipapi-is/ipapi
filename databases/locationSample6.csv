@@ -9,7 +9,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:4:112::,2001:4:112:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Brussels,1210,Europe/Brussels,1,50.85045,4.34878,2
 2001:4:113::,2001:4:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,1,46.92827,7.11715,2
 2001:5::,2001:5:0:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,1,52.37403,4.88969,2
-2001:5:1::,2001:5:1:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Istanbul,Üsküdar,34744,Europe/Istanbul,0,41.02274,29.01366,2
+2001:5:1::,2001:5:1:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Istanbul,Üsküdar,34700,Europe/Istanbul,0,41.02274,29.01366,2
 2001:5:2::,2001:5:2:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,1,52.37403,4.88969,2
 2001:5:3::,2001:5:3:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,San Jose (New Almaden),,America/Los_Angeles,1,37.1948,-121.817,2
 2001:5:4::,2001:5:4:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,1,52.37403,4.88969,2

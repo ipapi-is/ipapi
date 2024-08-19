@@ -493,6 +493,7 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.8.1.0,1.8.1.255,4,38345,1.8.1.0/24,"ZDNS Internet Domain Name System Beijing Engineering Resrarch Center Ltd., CN",cn,true,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,business,,2023-11-28,APNIC
 1.8.8.0,1.8.8.255,4,38345,1.8.8.0/24,"ZDNS Internet Domain Name System Beijing Engineering Resrarch Center Ltd., CN",cn,true,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,business,,2023-11-28,APNIC
 1.9.0.0,1.9.255.255,4,4788,1.9.0.0/16,"TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD., MY",my,true,TM TECHNOLOGY SERVICES SDN BHD,tm.com.my,isp,,2023-06-30,APNIC
+1.9.250.0,1.9.250.255,4,4788,1.9.250.0/24,"TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD., MY",my,true,TM TECHNOLOGY SERVICES SDN BHD,tm.com.my,isp,,2023-06-30,APNIC
 1.10.10.0,1.10.10.255,4,148000,1.10.10.0/24,"INDIAN-PUBLIC-DNS 1.10.10.10 - Indian Public DNS, IN",in,true,National Knowledge Network,nkn.gov.in,government,,2023-05-17,APNIC
 1.10.128.0,1.10.255.255,4,23969,1.10.128.0/17,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.130.0,1.10.130.255,4,23969,1.10.130.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
@@ -972,6 +973,7 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.22.181.0,1.22.181.255,4,45528,1.22.181.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.182.0,1.22.182.255,4,45528,1.22.182.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.183.0,1.22.183.255,4,45528,1.22.183.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.184.0,1.22.185.255,4,45528,1.22.184.0/23,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.184.0,1.22.184.255,4,45528,1.22.184.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.185.0,1.22.185.255,4,45528,1.22.185.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.186.0,1.22.186.255,4,45528,1.22.186.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
@@ -996,5 +998,3 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.22.208.0,1.22.208.255,4,45528,1.22.208.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.209.0,1.22.209.255,4,45528,1.22.209.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.210.0,1.22.210.255,4,45528,1.22.210.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
-1.22.212.0,1.22.212.255,4,45528,1.22.212.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
-1.22.213.0,1.22.213.255,4,45528,1.22.213.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
