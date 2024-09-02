@@ -1,0 +1,500 @@
+startIp,endIp,ipVersion,company,domain,type
+1.0.0.0,1.255.255.255,4,"Asia Pacific Network Information Center, Pty. Ltd.",www.apnic.net,isp
+1.0.0.0,1.0.0.255,4,APNIC Research and Development,apnic.net,business
+1.0.1.0,1.0.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.0.2.0,1.0.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.0.4.0,1.0.4.255,4,ABUSE WPLAU,gtelecom.com.au,isp
+1.0.4.0,1.0.7.255,4,Wirefreebroadband Pty Ltd,gtelecom.com.au,isp
+1.0.5.0,1.0.5.255,4,ABUSE WPLAU,gtelecom.com.au,isp
+1.0.6.0,1.0.6.255,4,ABUSE WPLAU,gtelecom.com.au,isp
+1.0.7.0,1.0.7.255,4,ABUSE WPLAU,gtelecom.com.au,isp
+1.0.8.0,1.0.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.0.16.0,1.0.16.255,4,,,business
+1.0.16.0,1.0.31.255,4,IRT-JPNIC-JP,i2ts.com,business
+1.0.32.0,1.0.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.0.64.0,1.0.79.255,4,,,business
+1.0.64.0,1.0.127.255,4,,ene.megaegg.ne.jp,business
+1.0.64.0,1.0.95.255,4,,,business
+1.0.80.0,1.0.95.255,4,,,business
+1.0.96.0,1.0.127.255,4,,,business
+1.0.96.0,1.0.111.255,4,,,business
+1.0.112.0,1.0.127.255,4,,,business
+1.0.128.0,1.0.255.255,4,TOT Public Company Limited,totisp.net,isp
+1.0.128.0,1.0.191.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.0.192.0,1.0.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.1.0.0,1.1.0.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.1.1.0,1.1.1.255,4,APNIC Research and Development,apnic.net,business
+1.1.2.0,1.1.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.1.4.0,1.1.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.1.8.0,1.1.8.255,4,"Yamu Technologies Co., Ltd.",yamu.com,business
+1.1.9.0,1.1.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.1.16.0,1.1.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.1.32.0,1.1.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.1.64.0,1.1.64.255,4,,,business
+1.1.64.0,1.1.127.255,4,IRT-JPNIC-JP,i2ts.com,business
+1.1.65.0,1.1.65.255,4,,,business
+1.1.66.0,1.1.66.255,4,,,business
+1.1.67.0,1.1.67.255,4,,,business
+1.1.68.0,1.1.68.255,4,,,business
+1.1.69.0,1.1.69.255,4,,,business
+1.1.70.0,1.1.70.255,4,,,business
+1.1.71.0,1.1.71.255,4,,,business
+1.1.72.0,1.1.72.255,4,,,business
+1.1.73.0,1.1.73.255,4,,,business
+1.1.74.0,1.1.74.255,4,,,business
+1.1.75.0,1.1.75.255,4,,,business
+1.1.76.0,1.1.76.255,4,,,business
+1.1.77.0,1.1.77.255,4,,,business
+1.1.78.0,1.1.78.255,4,,,business
+1.1.79.0,1.1.79.255,4,,,business
+1.1.80.0,1.1.80.255,4,,,business
+1.1.81.0,1.1.81.255,4,,,business
+1.1.82.0,1.1.82.255,4,,,business
+1.1.83.0,1.1.83.255,4,,,business
+1.1.84.0,1.1.84.255,4,,,business
+1.1.85.0,1.1.85.255,4,,,business
+1.1.86.0,1.1.86.255,4,,,business
+1.1.87.0,1.1.87.255,4,,,business
+1.1.88.0,1.1.88.255,4,,,business
+1.1.89.0,1.1.89.255,4,,,business
+1.1.90.0,1.1.90.255,4,,,business
+1.1.91.0,1.1.91.255,4,,,business
+1.1.92.0,1.1.92.255,4,,,business
+1.1.93.0,1.1.93.255,4,,,business
+1.1.94.0,1.1.94.255,4,,,business
+1.1.95.0,1.1.95.255,4,,,business
+1.1.96.0,1.1.96.255,4,,,business
+1.1.97.0,1.1.97.255,4,,,business
+1.1.98.0,1.1.98.255,4,,,business
+1.1.99.0,1.1.99.255,4,,,business
+1.1.100.0,1.1.100.255,4,,,business
+1.1.101.0,1.1.101.255,4,,,business
+1.1.102.0,1.1.102.255,4,,,business
+1.1.113.0,1.1.113.255,4,,,business
+1.1.114.0,1.1.114.255,4,,,business
+1.1.115.0,1.1.115.255,4,,,business
+1.1.116.0,1.1.116.255,4,,,business
+1.1.126.0,1.1.126.255,4,,,business
+1.1.127.0,1.1.127.255,4,,,business
+1.1.128.0,1.1.255.255,4,TOT Public Company Limited,totisp.net,isp
+1.1.128.0,1.1.191.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.1.192.0,1.1.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.2.0.0,1.2.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.2.2.0,1.2.2.255,4,ABUSE CNNICCN,knet.cn,business
+1.2.3.0,1.2.3.255,4,Resource Quality Assurance,,business
+1.2.4.0,1.2.4.255,4,ABUSE CNNICCN,cnnic.cn,government
+1.2.5.0,1.2.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.2.8.0,1.2.8.255,4,ABUSE CNNICCN,cnnic.cn,government
+1.2.9.0,1.2.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.2.16.0,1.2.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.2.32.0,1.2.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.2.64.0,1.2.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.2.128.0,1.2.255.255,4,TOT Public Company Limited,totisp.net,isp
+1.2.128.0,1.2.191.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.2.192.0,1.2.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.3.0.0,1.3.255.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.4.0.0,1.4.0.255,4,Resource Quality Assurance,,business
+1.4.1.0,1.4.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.4.2.0,1.4.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.4.4.0,1.4.4.255,4,ABUSE CNNICCN,knet.cn,business
+1.4.5.0,1.4.5.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.4.6.0,1.4.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.4.8.0,1.4.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.4.16.0,1.4.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.4.32.0,1.4.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.4.64.0,1.4.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.4.128.0,1.4.191.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.4.128.0,1.4.255.255,4,TOT Public Company Limited,totisp.net,isp
+1.4.192.0,1.4.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.5.0.0,1.5.255.255,4,,odn.ad.jp,isp
+1.6.0.0,1.7.255.255,4,IRT-SIFYNET-IN,sifycorp.com,isp
+1.8.0.0,1.8.17.255,4,ABUSE CNNICCN,knet.cn,business
+1.8.18.0,1.8.18.255,4,ABUSE CNNICCN,knet.cn,business
+1.8.19.0,1.8.255.255,4,ABUSE CNNICCN,knet.cn,business
+1.9.0.0,1.9.255.255,4,TM TECHNOLOGY SERVICES SDN BHD,tm.com.my,isp
+1.9.0.128,1.9.0.159,4,ABUSE MYWEBE,tm.com.my,business
+1.9.2.0,1.9.2.255,4,ABUSE MYWEBE,tm.com.my,government
+1.9.12.0,1.9.12.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.13.0,1.9.13.127,4,ABUSE MYWEBE,tm.com.my,business
+1.9.13.128,1.9.13.191,4,ABUSE MYWEBE,tm.com.my,business
+1.9.13.192,1.9.13.223,4,ABUSE MYWEBE,tm.com.my,business
+1.9.13.224,1.9.13.239,4,,,business
+1.9.14.64,1.9.14.95,4,ABUSE MYWEBE,tm.com.my,business
+1.9.14.128,1.9.14.191,4,ABUSE MYWEBE,tm.com.my,business
+1.9.14.192,1.9.14.223,4,ABUSE MYWEBE,tm.com.my,business
+1.9.14.224,1.9.14.239,4,,,business
+1.9.32.0,1.9.32.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.44.0,1.9.47.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.48.0,1.9.49.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.50.0,1.9.51.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.52.0,1.9.55.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.67.144,1.9.67.159,4,,,business
+1.9.70.128,1.9.70.143,4,,,business
+1.9.96.0,1.9.97.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.98.0,1.9.99.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.100.0,1.9.101.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.102.0,1.9.103.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.104.0,1.9.105.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.106.0,1.9.107.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.108.0,1.9.111.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.112.0,1.9.115.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.116.0,1.9.119.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.120.0,1.9.120.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.121.0,1.9.121.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.122.0,1.9.123.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.124.0,1.9.127.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.133.0,1.9.133.127,4,ABUSE MYWEBE,tm.com.my,business
+1.9.152.0,1.9.159.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.160.0,1.9.160.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.162.0,1.9.162.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.172.0,1.9.175.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.176.0,1.9.176.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.177.0,1.9.177.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.178.0,1.9.179.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.180.0,1.9.183.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.184.0,1.9.184.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.185.0,1.9.185.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.186.0,1.9.186.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.187.0,1.9.187.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.188.0,1.9.189.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.193.0,1.9.193.255,4,ABUSE MYWEBE,tm.com.my,business
+1.9.202.0,1.9.203.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.9.204.0,1.9.205.255,4,EMRAN AHMED KAMAL,tm.com.my,business
+1.10.0.0,1.10.7.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.10.8.0,1.10.9.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.10.10.0,1.10.10.255,4,IRT-NIXI-IN,nixi.in,government
+1.10.11.0,1.10.11.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.10.12.0,1.10.15.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.10.16.0,1.10.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.10.32.0,1.10.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.10.64.0,1.10.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.10.128.0,1.10.255.255,4,TOT Public Company Limited,totisp.net,isp
+1.10.128.0,1.10.139.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.10.192.0,1.10.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
+1.11.0.0,1.11.255.255,4,IP Manager,lghellovision.net,isp
+1.12.0.0,1.15.255.255,4,ABUSE CNNICCN,tencent.com,isp
+1.16.0.0,1.16.63.255,4,IP Manager,daou.co.kr,business
+1.18.116.0,1.18.116.255,4,IP Manager,www.kisa.or.kr,government
+1.18.117.0,1.18.117.255,4,IP Manager,www.kisa.or.kr,government
+1.18.118.0,1.18.118.255,4,IP Manager,www.kisa.or.kr,government
+1.18.119.0,1.18.119.255,4,IP Manager,www.kisa.or.kr,government
+1.18.120.0,1.18.135.255,4,IP Manager,www.kisa.or.kr,government
+1.18.136.0,1.19.255.255,4,IRT-KRNIC-KR,www.kisa.or.kr,government
+1.20.0.0,1.20.255.255,4,TOT Mobile Co LTD,totidc.net,isp
+1.21.0.0,1.21.95.255,4,IRT-JPNIC-JP,vectant.ne.jp,isp
+1.21.1.0,1.21.1.255,4,,,isp
+1.21.2.0,1.21.2.255,4,,,isp
+1.21.3.0,1.21.3.255,4,,,isp
+1.21.10.0,1.21.10.255,4,,,business
+1.21.11.0,1.21.11.255,4,,,business
+1.21.12.0,1.21.12.255,4,,,isp
+1.21.13.0,1.21.13.255,4,,,business
+1.21.14.0,1.21.14.255,4,,,isp
+1.21.15.0,1.21.15.255,4,,cyberhome.ne.jp,isp
+1.21.16.0,1.21.16.255,4,,,isp
+1.21.17.0,1.21.17.255,4,,,isp
+1.21.18.0,1.21.18.255,4,,,isp
+1.21.19.0,1.21.19.255,4,,,isp
+1.21.20.0,1.21.20.255,4,,,isp
+1.21.21.0,1.21.21.255,4,,,isp
+1.21.22.0,1.21.22.255,4,,,isp
+1.21.23.0,1.21.23.255,4,,,isp
+1.21.24.0,1.21.24.255,4,,,isp
+1.21.25.0,1.21.25.255,4,,,isp
+1.21.26.0,1.21.26.255,4,,,isp
+1.21.27.0,1.21.27.255,4,,,isp
+1.21.28.0,1.21.28.255,4,,,isp
+1.21.29.0,1.21.29.255,4,,,isp
+1.21.30.0,1.21.30.255,4,,,isp
+1.21.31.0,1.21.31.255,4,,,isp
+1.21.32.0,1.21.32.255,4,,,isp
+1.21.33.0,1.21.33.255,4,,,isp
+1.21.34.0,1.21.34.255,4,,,isp
+1.21.35.0,1.21.35.255,4,,,isp
+1.21.36.0,1.21.36.255,4,,cyberhome.ne.jp,isp
+1.21.37.0,1.21.37.255,4,,,isp
+1.21.38.0,1.21.38.255,4,,,isp
+1.21.39.0,1.21.39.255,4,,,isp
+1.21.42.0,1.21.42.255,4,,,business
+1.21.43.0,1.21.43.255,4,,,isp
+1.21.56.0,1.21.56.255,4,,,business
+1.21.60.0,1.21.60.255,4,,,isp
+1.21.61.0,1.21.61.255,4,,,isp
+1.21.62.0,1.21.62.255,4,,,isp
+1.21.63.0,1.21.63.255,4,,,isp
+1.21.64.0,1.21.64.255,4,,,isp
+1.21.65.0,1.21.65.255,4,,,isp
+1.21.66.0,1.21.66.255,4,,,isp
+1.21.67.0,1.21.67.255,4,,,isp
+1.21.68.0,1.21.68.255,4,,,isp
+1.21.69.0,1.21.69.255,4,,,isp
+1.21.70.0,1.21.70.255,4,,,isp
+1.21.71.0,1.21.71.255,4,,,isp
+1.21.72.0,1.21.72.255,4,,,isp
+1.21.73.0,1.21.73.255,4,,,isp
+1.21.74.0,1.21.74.255,4,,,isp
+1.21.75.0,1.21.75.255,4,,www.gmo.jp,banking
+1.21.76.0,1.21.76.255,4,,marubenias.co.jp,isp
+1.21.77.0,1.21.77.255,4,,marubenias.co.jp,isp
+1.21.78.0,1.21.78.255,4,,marubenias.co.jp,isp
+1.21.79.0,1.21.79.255,4,,marubenias.co.jp,isp
+1.21.80.0,1.21.80.255,4,,marubenias.co.jp,isp
+1.21.81.0,1.21.81.255,4,,marubenias.co.jp,isp
+1.21.82.0,1.21.82.255,4,,marubenias.co.jp,isp
+1.21.83.0,1.21.83.255,4,,marubenias.co.jp,isp
+1.21.84.0,1.21.84.255,4,,marubenias.co.jp,isp
+1.21.85.0,1.21.85.255,4,,marubenias.co.jp,isp
+1.21.86.0,1.21.86.255,4,,marubenias.co.jp,isp
+1.21.87.0,1.21.87.255,4,,marubenias.co.jp,isp
+1.21.88.0,1.21.88.255,4,,marubenias.co.jp,isp
+1.21.89.0,1.21.89.255,4,,marubenias.co.jp,isp
+1.21.90.0,1.21.90.255,4,,marubenias.co.jp,isp
+1.21.91.0,1.21.91.255,4,,marubenias.co.jp,isp
+1.21.94.0,1.21.94.255,4,,www.gmo.jp,banking
+1.21.95.0,1.21.95.255,4,,www.gmo.jp,banking
+1.21.96.0,1.21.111.255,4,,familynet.ne.jp,isp
+1.21.112.0,1.21.127.255,4,IRT-JPNIC-JP,vectant.ne.jp,isp
+1.21.112.0,1.21.112.255,4,,www.gmo.jp,banking
+1.21.113.0,1.21.113.255,4,,www.gmo.jp,banking
+1.21.116.0,1.21.116.255,4,,,isp
+1.21.117.0,1.21.117.255,4,,,isp
+1.21.122.0,1.21.122.255,4,,,isp
+1.21.123.0,1.21.123.255,4,,marubenias.co.jp,isp
+1.21.124.0,1.21.124.255,4,,marubenias.co.jp,isp
+1.21.125.0,1.21.125.255,4,,marubenias.co.jp,isp
+1.21.126.0,1.21.126.255,4,,,isp
+1.21.127.0,1.21.127.255,4,,,isp
+1.21.128.0,1.21.143.255,4,,familynet.ne.jp,isp
+1.21.144.0,1.21.223.255,4,IRT-JPNIC-JP,vectant.ne.jp,isp
+1.21.144.0,1.21.144.255,4,,,isp
+1.21.144.0,1.21.255.255,4,,vectant.ne.jp,isp
+1.21.145.0,1.21.145.255,4,,,isp
+1.21.146.0,1.21.146.255,4,,,isp
+1.21.147.0,1.21.147.255,4,,,isp
+1.21.148.0,1.21.148.255,4,,,isp
+1.21.149.0,1.21.149.255,4,,,isp
+1.21.150.0,1.21.150.255,4,,,isp
+1.21.151.0,1.21.151.255,4,,,isp
+1.21.152.0,1.21.152.255,4,,marubenias.co.jp,isp
+1.21.153.0,1.21.153.255,4,,marubenias.co.jp,isp
+1.21.154.0,1.21.154.255,4,,marubenias.co.jp,isp
+1.21.155.0,1.21.155.255,4,,marubenias.co.jp,isp
+1.21.156.0,1.21.156.255,4,,marubenias.co.jp,isp
+1.21.157.0,1.21.157.255,4,,marubenias.co.jp,isp
+1.21.158.0,1.21.158.255,4,,marubenias.co.jp,isp
+1.21.159.0,1.21.159.255,4,,marubenias.co.jp,isp
+1.21.160.0,1.21.160.255,4,,marubenias.co.jp,isp
+1.21.161.0,1.21.161.255,4,,marubenias.co.jp,isp
+1.21.162.0,1.21.162.255,4,,marubenias.co.jp,isp
+1.21.163.0,1.21.163.255,4,,marubenias.co.jp,isp
+1.21.164.0,1.21.164.255,4,,marubenias.co.jp,isp
+1.21.165.0,1.21.165.255,4,,marubenias.co.jp,isp
+1.21.166.0,1.21.166.255,4,,marubenias.co.jp,isp
+1.21.167.0,1.21.167.255,4,,,isp
+1.21.168.0,1.21.168.255,4,,,isp
+1.21.169.0,1.21.169.255,4,,,isp
+1.21.170.0,1.21.170.255,4,,,isp
+1.21.171.0,1.21.171.255,4,,,isp
+1.21.172.0,1.21.172.255,4,,,isp
+1.21.173.0,1.21.173.255,4,,,isp
+1.21.174.0,1.21.174.255,4,,,isp
+1.21.175.0,1.21.175.255,4,,,isp
+1.21.176.0,1.21.176.255,4,,marubenias.co.jp,isp
+1.21.177.0,1.21.177.255,4,,marubenias.co.jp,isp
+1.21.178.0,1.21.178.255,4,,marubenias.co.jp,isp
+1.21.179.0,1.21.179.255,4,,marubenias.co.jp,isp
+1.21.180.0,1.21.180.255,4,,,isp
+1.21.181.0,1.21.181.255,4,,,isp
+1.21.182.0,1.21.182.255,4,,,isp
+1.21.183.0,1.21.183.255,4,,,isp
+1.21.184.0,1.21.184.255,4,,marubenias.co.jp,isp
+1.21.185.0,1.21.185.255,4,,marubenias.co.jp,isp
+1.21.186.0,1.21.186.255,4,,marubenias.co.jp,isp
+1.21.187.0,1.21.187.255,4,,marubenias.co.jp,isp
+1.21.188.0,1.21.188.255,4,,marubenias.co.jp,isp
+1.21.189.0,1.21.189.255,4,,marubenias.co.jp,isp
+1.21.190.0,1.21.190.255,4,,marubenias.co.jp,isp
+1.21.191.0,1.21.191.255,4,,marubenias.co.jp,isp
+1.21.192.0,1.21.192.255,4,,marubenias.co.jp,isp
+1.21.193.0,1.21.193.255,4,,marubenias.co.jp,isp
+1.21.194.0,1.21.194.255,4,,marubenias.co.jp,isp
+1.21.195.0,1.21.195.255,4,,marubenias.co.jp,isp
+1.21.196.0,1.21.196.255,4,,,isp
+1.21.197.0,1.21.197.255,4,,,isp
+1.21.198.0,1.21.198.255,4,,,isp
+1.21.199.0,1.21.199.255,4,,,isp
+1.21.200.0,1.21.200.255,4,,,isp
+1.21.201.0,1.21.201.255,4,,,isp
+1.21.202.0,1.21.202.255,4,,,isp
+1.21.203.0,1.21.203.255,4,,,isp
+1.21.204.0,1.21.204.255,4,,,isp
+1.21.205.0,1.21.205.255,4,,,isp
+1.21.208.0,1.21.208.255,4,,marubenias.co.jp,isp
+1.21.209.0,1.21.209.255,4,,marubenias.co.jp,isp
+1.21.210.0,1.21.210.255,4,,marubenias.co.jp,isp
+1.21.211.0,1.21.211.255,4,,marubenias.co.jp,isp
+1.21.212.0,1.21.212.255,4,,marubenias.co.jp,isp
+1.21.213.0,1.21.213.255,4,,marubenias.co.jp,isp
+1.21.214.0,1.21.214.255,4,,marubenias.co.jp,isp
+1.21.215.0,1.21.215.255,4,,marubenias.co.jp,isp
+1.21.216.0,1.21.216.255,4,,marubenias.co.jp,isp
+1.21.217.0,1.21.217.255,4,,marubenias.co.jp,isp
+1.21.218.0,1.21.218.255,4,,marubenias.co.jp,isp
+1.21.219.0,1.21.219.255,4,,marubenias.co.jp,isp
+1.21.220.0,1.21.220.255,4,,marubenias.co.jp,isp
+1.21.221.0,1.21.221.255,4,,marubenias.co.jp,isp
+1.21.222.0,1.21.222.255,4,,marubenias.co.jp,isp
+1.21.223.0,1.21.223.255,4,,marubenias.co.jp,isp
+1.21.224.0,1.21.255.255,4,,byteplus.com,hosting
+1.21.224.0,1.21.255.254,4,,,business
+1.22.0.0,1.23.255.255,4,IRT-TIKONAIN-IN,tikona.in,isp
+1.22.156.192,1.22.156.255,4,IRT-TIKONA-IN,tikona.in,business
+1.24.0.0,1.31.255.255,4,ABUSE CUCN,chinaunicom.cn,isp
+1.32.0.0,1.32.19.255,4,ABUSE TMNSTMY,tm.com.my,isp
+1.32.0.0,1.32.15.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.0.0,1.32.127.255,4,TM TECHNOLOGY SERVICES SDN BHD,tm.com.my,isp
+1.32.16.0,1.32.19.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.20.0,1.32.31.255,4,ABUSE TMNSTMY,tm.com.my,isp
+1.32.20.0,1.32.23.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.24.0,1.32.31.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.32.0,1.32.33.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.34.0,1.32.34.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.35.0,1.32.35.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.36.0,1.32.61.255,4,ABUSE TMNSTMY,tm.com.my,isp
+1.32.36.0,1.32.39.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.40.0,1.32.47.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.48.0,1.32.55.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.56.0,1.32.59.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.60.0,1.32.61.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.62.0,1.32.63.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.64.0,1.32.79.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.80.0,1.32.95.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.96.0,1.32.97.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.98.0,1.32.99.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.100.0,1.32.103.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.104.0,1.32.107.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.109.0,1.32.109.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.110.0,1.32.110.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.111.0,1.32.111.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.115.0,1.32.115.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.117.0,1.32.117.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.118.0,1.32.119.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.120.0,1.32.123.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.126.0,1.32.127.255,4,ABUSE MYWEBE,tm.com.my,isp
+1.32.128.0,1.32.191.255,4,"Singapore Telecom, ConnectPlus",singtel.com,isp
+1.32.192.0,1.32.255.255,4,RACKIP CONSULTANCY PTE. LTD.,rackip.com,hosting
+1.32.192.0,1.32.199.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.200.0,1.32.201.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.202.0,1.32.202.127,4,ABUSE RCPLSG,bgp.net,isp
+1.32.202.129,1.32.202.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.203.0,1.32.203.127,4,ABUSE RCPLSG,bgp.net,isp
+1.32.203.129,1.32.203.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.204.0,1.32.204.127,4,ABUSE RCPLSG,bgp.net,isp
+1.32.204.129,1.32.204.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.205.0,1.32.205.255,4,ABUSE RCPLSG,ctgserver.com,hosting
+1.32.206.0,1.32.207.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.208.0,1.32.215.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.216.0,1.32.223.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.216.0,1.32.216.255,4,,ctgserver.com,hosting
+1.32.217.0,1.32.217.255,4,,bgp.net,isp
+1.32.218.0,1.32.218.255,4,ABUSE RCPLSG,ctgserver.com,hosting
+1.32.219.0,1.32.219.255,4,,bgp.net,isp
+1.32.220.0,1.32.220.255,4,,bgp.net,isp
+1.32.221.0,1.32.221.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.222.0,1.32.222.255,4,,bgp.net,isp
+1.32.223.0,1.32.223.255,4,,bgp.net,isp
+1.32.224.0,1.32.231.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.228.0,1.32.228.255,4,,ctgserver.com,hosting
+1.32.229.0,1.32.229.255,4,,ctgserver.com,hosting
+1.32.232.0,1.32.239.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.240.0,1.32.251.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.246.0,1.32.251.255,4,ABUSE CTGHK,ctgserver.com,hosting
+1.32.252.0,1.32.252.255,4,ABUSE CTGHK,ctgserver.com,hosting
+1.32.253.0,1.32.255.255,4,ABUSE CTGHK,ctgserver.com,hosting
+1.33.0.0,1.33.255.255,4,IRT-JPNIC-JP,nttpc.co.jp,isp
+1.33.0.0,1.33.0.255,4,,www.nttpc.co.jp,isp
+1.33.1.0,1.33.1.255,4,,www.nttpc.co.jp,isp
+1.33.2.0,1.33.2.255,4,,www.nttpc.co.jp,isp
+1.33.3.0,1.33.3.255,4,,www.nttpc.co.jp,isp
+1.33.4.0,1.33.4.255,4,,www.nttpc.co.jp,isp
+1.33.5.0,1.33.5.255,4,,www.nttpc.co.jp,isp
+1.33.6.0,1.33.6.255,4,,www.nttpc.co.jp,isp
+1.33.7.0,1.33.7.255,4,,www.nttpc.co.jp,isp
+1.33.8.0,1.33.8.255,4,,www.nttpc.co.jp,isp
+1.33.9.0,1.33.9.255,4,,www.nttpc.co.jp,isp
+1.33.10.0,1.33.10.255,4,,www.nttpc.co.jp,isp
+1.33.11.0,1.33.11.255,4,,www.nttpc.co.jp,isp
+1.33.12.0,1.33.12.255,4,,www.nttpc.co.jp,isp
+1.33.13.0,1.33.13.255,4,,www.nttpc.co.jp,isp
+1.33.14.0,1.33.14.255,4,,www.nttpc.co.jp,isp
+1.33.15.0,1.33.15.255,4,,www.nttpc.co.jp,isp
+1.33.16.0,1.33.16.255,4,,www.nttpc.co.jp,isp
+1.33.17.0,1.33.17.255,4,,www.nttpc.co.jp,isp
+1.33.18.0,1.33.18.255,4,,www.nttpc.co.jp,isp
+1.33.19.0,1.33.19.255,4,,www.nttpc.co.jp,isp
+1.33.20.0,1.33.20.255,4,,www.nttpc.co.jp,isp
+1.33.21.0,1.33.21.255,4,,www.nttpc.co.jp,isp
+1.33.22.0,1.33.22.255,4,,www.nttpc.co.jp,isp
+1.33.23.0,1.33.23.255,4,,www.nttpc.co.jp,isp
+1.33.24.0,1.33.24.255,4,,www.nttpc.co.jp,isp
+1.33.25.0,1.33.25.255,4,,www.nttpc.co.jp,isp
+1.33.26.0,1.33.26.255,4,,www.nttpc.co.jp,isp
+1.33.27.0,1.33.27.255,4,,www.nttpc.co.jp,isp
+1.33.28.0,1.33.28.255,4,,www.nttpc.co.jp,isp
+1.33.29.0,1.33.29.255,4,,www.nttpc.co.jp,isp
+1.33.30.0,1.33.30.255,4,,www.nttpc.co.jp,isp
+1.33.31.0,1.33.31.255,4,,www.nttpc.co.jp,isp
+1.33.32.0,1.33.32.255,4,,www.nttpc.co.jp,isp
+1.33.33.0,1.33.33.255,4,,www.nttpc.co.jp,isp
+1.33.34.0,1.33.34.255,4,,www.nttpc.co.jp,isp
+1.33.35.0,1.33.35.255,4,,www.nttpc.co.jp,isp
+1.33.36.0,1.33.36.255,4,,www.nttpc.co.jp,isp
+1.33.37.0,1.33.37.255,4,,www.nttpc.co.jp,isp
+1.33.38.0,1.33.38.255,4,,www.nttpc.co.jp,isp
+1.33.39.0,1.33.39.255,4,,www.nttpc.co.jp,isp
+1.33.40.0,1.33.40.255,4,,www.nttpc.co.jp,isp
+1.33.41.0,1.33.41.255,4,,www.nttpc.co.jp,isp
+1.33.42.0,1.33.42.255,4,,www.nttpc.co.jp,isp
+1.33.43.0,1.33.43.255,4,,www.nttpc.co.jp,isp
+1.33.44.0,1.33.44.255,4,,www.nttpc.co.jp,isp
+1.33.45.0,1.33.45.255,4,,www.nttpc.co.jp,isp
+1.33.46.0,1.33.46.255,4,,www.nttpc.co.jp,isp
+1.33.47.0,1.33.47.255,4,,www.nttpc.co.jp,isp
+1.33.48.0,1.33.48.255,4,,www.nttpc.co.jp,isp
+1.33.49.0,1.33.49.255,4,,www.nttpc.co.jp,isp
+1.33.50.0,1.33.50.255,4,,www.nttpc.co.jp,isp
+1.33.51.0,1.33.51.255,4,,www.nttpc.co.jp,isp
+1.33.52.0,1.33.52.255,4,,www.nttpc.co.jp,isp
+1.33.53.0,1.33.53.255,4,,www.nttpc.co.jp,isp
+1.33.54.0,1.33.54.255,4,,www.nttpc.co.jp,isp
+1.33.55.0,1.33.55.255,4,,www.nttpc.co.jp,isp
+1.33.56.0,1.33.56.255,4,,www.nttpc.co.jp,isp
+1.33.57.0,1.33.57.255,4,,www.nttpc.co.jp,isp
+1.33.58.0,1.33.58.255,4,,www.nttpc.co.jp,isp
+1.33.59.0,1.33.59.255,4,,www.nttpc.co.jp,isp
+1.33.60.0,1.33.60.255,4,,www.nttpc.co.jp,isp
+1.33.61.0,1.33.61.255,4,,www.nttpc.co.jp,isp
+1.33.62.0,1.33.62.255,4,,www.nttpc.co.jp,isp
+1.33.63.0,1.33.63.255,4,,www.nttpc.co.jp,isp
+1.33.64.0,1.33.64.255,4,,www.nttpc.co.jp,isp
+1.33.65.0,1.33.65.255,4,,www.nttpc.co.jp,isp
+1.33.66.0,1.33.66.255,4,,www.nttpc.co.jp,isp
+1.33.67.0,1.33.67.255,4,,www.nttpc.co.jp,isp
+1.33.68.0,1.33.68.255,4,,www.nttpc.co.jp,isp
+1.33.69.0,1.33.69.255,4,,www.nttpc.co.jp,isp
+1.33.70.0,1.33.70.255,4,,www.nttpc.co.jp,isp
+1.33.71.0,1.33.71.255,4,,www.nttpc.co.jp,isp
+1.33.72.0,1.33.72.255,4,,www.nttpc.co.jp,isp
+1.33.73.0,1.33.73.255,4,,www.nttpc.co.jp,isp
+1.33.74.0,1.33.74.255,4,,www.nttpc.co.jp,isp
+1.33.75.0,1.33.75.255,4,,www.nttpc.co.jp,isp
+1.33.76.0,1.33.76.255,4,,www.nttpc.co.jp,isp
+1.33.77.0,1.33.77.255,4,,www.nttpc.co.jp,isp
+1.33.78.0,1.33.78.255,4,,www.nttpc.co.jp,isp
+1.33.79.0,1.33.79.255,4,,www.nttpc.co.jp,isp
+1.33.80.0,1.33.80.255,4,,www.nttpc.co.jp,isp
+1.33.81.0,1.33.81.255,4,,www.nttpc.co.jp,isp
+1.33.82.0,1.33.82.255,4,,www.nttpc.co.jp,isp
+1.33.83.0,1.33.83.255,4,,www.nttpc.co.jp,isp
+1.33.84.0,1.33.84.255,4,,www.nttpc.co.jp,isp
+1.33.85.0,1.33.85.255,4,,www.nttpc.co.jp,isp

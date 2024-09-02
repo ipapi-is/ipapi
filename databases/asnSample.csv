@@ -575,6 +575,7 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.10.253.0,1.10.253.255,4,23969,1.10.253.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.254.0,1.10.254.255,4,23969,1.10.254.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.255.0,1.10.255.255,4,23969,1.10.255.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
+1.11.0.0,1.11.255.255,4,38091,1.11.0.0/16,"HELLONET-AS-KR LG HelloVision Corp., KR",kr,true,,,,,,
 1.11.0.0,1.11.7.255,4,18313,1.11.0.0/21,"PCN-AS-KR LG HelloVision Corp., KR",kr,true,,,,,,
 1.11.8.0,1.11.15.255,4,18318,1.11.8.0/21,"SPEEDON-AS-KR LG HelloVision Corp., KR",kr,true,,,,,,
 1.11.16.0,1.11.19.255,4,18318,1.11.16.0/22,"SPEEDON-AS-KR LG HelloVision Corp., KR",kr,true,,,,,,
@@ -997,4 +998,3 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.22.208.0,1.22.209.255,4,45528,1.22.208.0/23,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.208.0,1.22.208.255,4,45528,1.22.208.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.209.0,1.22.209.255,4,45528,1.22.209.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
-1.22.210.0,1.22.210.255,4,45528,1.22.210.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC

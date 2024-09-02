@@ -69,7 +69,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.0.141.0,1.0.141.255,AS,TH,Thailand,Chon Buri,Pattaya,76130,Asia/Bangkok,0,12.93333,100.88333,2
 1.0.142.0,1.0.142.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.143.0,1.0.143.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
-1.0.144.0,1.0.144.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.0.144.0,1.0.144.255,AS,TH,Thailand,Surat Thani,Koh Tao,84280,Asia/Bangkok,0,10.098080,99.838090,2
 1.0.145.0,1.0.145.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.146.0,1.0.147.255,AS,TH,Thailand,Surat Thani,Ko Samui,84140,Asia/Bangkok,0,9.535670,99.935670,2
 1.0.148.0,1.0.148.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -79,7 +79,8 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.0.152.0,1.0.152.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.153.0,1.0.154.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.155.0,1.0.155.255,AS,TH,Thailand,Surat Thani,Ko Pha Ngan,84280,Asia/Bangkok,0,9.75778,100.02914,2
-1.0.156.0,1.0.157.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.0.156.0,1.0.156.255,AS,TH,Thailand,Chumphon,Tha Sae,86140,Asia/Bangkok,0,10.66461,99.17281,2
+1.0.157.0,1.0.157.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.158.0,1.0.158.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.159.0,1.0.159.255,AS,TH,Thailand,Krabi,Ban Ao Nang,81130,Asia/Bangkok,0,8.0458,98.81035,2
 1.0.160.0,1.0.160.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -125,13 +126,13 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.0.204.0,1.0.204.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.205.0,1.0.205.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.206.0,1.0.207.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
-1.0.208.0,1.0.209.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.0.210.0,1.0.210.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.0.211.0,1.0.211.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.0.208.0,1.0.209.255,AS,TH,Thailand,Phetchaburi,Cha-am,76120,Asia/Bangkok,0,12.8,99.96667,2
+1.0.210.0,1.0.210.255,AS,TH,Thailand,Suphan Buri,Don Chedi,72170,Asia/Bangkok,0,14.63497,100.02097,2
+1.0.211.0,1.0.211.255,AS,TH,Thailand,Ang Thong,Sawaengha,16140,Asia/Bangkok,0,14.75186,100.32481,2
 1.0.212.0,1.0.212.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.213.0,1.0.213.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.214.0,1.0.214.255,AS,TH,Thailand,Pattani,Mayo,94000,Asia/Bangkok,0,6.71864,101.40983,2
-1.0.215.0,1.0.215.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.0.215.0,1.0.215.255,AS,TH,Thailand,Ubon Ratchathani,Si Mueang Mai,34250,Asia/Bangkok,0,15.49315,105.27624,2
 1.0.216.0,1.0.216.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.217.0,1.0.217.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.218.0,1.0.218.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -139,7 +140,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.0.220.0,1.0.220.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.221.0,1.0.221.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.222.0,1.0.223.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
-1.0.224.0,1.0.224.255,AS,TH,Thailand,Loei,Phu Kradueng,42180,Asia/Bangkok,0,16.88425,101.88467,2
+1.0.224.0,1.0.224.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.225.0,1.0.226.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.227.0,1.0.228.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.229.0,1.0.229.255,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,47260,Asia/Bangkok,0,17.161160,104.147250,2
@@ -159,7 +160,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.0.244.0,1.0.244.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.245.0,1.0.245.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.246.0,1.0.246.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.0.247.0,1.0.247.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.0.247.0,1.0.247.255,AS,TH,Thailand,Surat Thani,Koh Tao,84280,Asia/Bangkok,0,10.098080,99.838090,2
 1.0.248.0,1.0.249.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.0.250.0,1.0.250.255,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Bangkok,0,7.00836,100.47668,2
 1.0.251.0,1.0.251.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -233,7 +234,8 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.1.191.0,1.1.191.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.192.0,1.1.192.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.193.0,1.1.193.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.1.194.0,1.1.195.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.1.194.0,1.1.194.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.1.195.0,1.1.195.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.196.0,1.1.196.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.197.0,1.1.197.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.198.0,1.1.198.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -243,7 +245,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.1.202.0,1.1.202.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.203.0,1.1.203.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.204.0,1.1.204.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.1.205.0,1.1.205.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.1.205.0,1.1.205.255,AS,TH,Thailand,Roi Et,Kaset Wisai,45150,Asia/Bangkok,0,15.65558,103.58361,2
 1.1.206.0,1.1.206.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.207.0,1.1.207.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.208.0,1.1.208.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -275,13 +277,14 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.1.236.0,1.1.237.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.238.0,1.1.238.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.239.0,1.1.239.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.1.240.0,1.1.240.255,AS,TH,Thailand,Buri Ram,Chamni,31240,Asia/Bangkok,0,14.786290,102.822770,2
+1.1.240.0,1.1.240.255,AS,TH,Thailand,Maha Sarakham,Kantharawichai,44150,Asia/Bangkok,0,16.32719,103.29864,2
 1.1.241.0,1.1.241.255,AS,TH,Thailand,Nakhon Ratchasima,Nakhon Ratchasima,30280,Asia/Bangkok,0,14.97066,102.10196,2
 1.1.242.0,1.1.242.255,AS,TH,Thailand,Amnat Charoen,Hua Taphan,35110,Asia/Bangkok,0,15.6971,104.4916,2
-1.1.243.0,1.1.243.255,AS,TH,Thailand,Si Sa Ket,Kantharalak,33110,Asia/Bangkok,0,14.64056,104.64992,2
+1.1.243.0,1.1.243.255,AS,TH,Thailand,Maha Sarakham,Kantharawichai,44150,Asia/Bangkok,0,16.32719,103.29864,2
 1.1.244.0,1.1.244.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.245.0,1.1.245.255,AS,TH,Thailand,Yasothon,Pa Tio,35150,Asia/Bangkok,0,15.83281,104.38673,2
-1.1.246.0,1.1.247.255,AS,TH,Thailand,Amnat Charoen,Hua Taphan,35110,Asia/Bangkok,0,15.6971,104.4916,2
+1.1.246.0,1.1.246.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.1.247.0,1.1.247.255,AS,TH,Thailand,Nakhon Ratchasima,Pak Thong Chai,30150,Asia/Bangkok,0,14.7226,102.02512,2
 1.1.248.0,1.1.248.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.249.0,1.1.249.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.250.0,1.1.250.255,AS,TH,Thailand,Si Sa Ket,Nam Kliang,33130,Asia/Bangkok,0,14.92731,104.51303,2
@@ -303,7 +306,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.2.132.0,1.2.132.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.133.0,1.2.134.255,AS,TH,Thailand,Loei,Loei,42000,Asia/Bangkok,0,17.49052,101.72749,2
 1.2.135.0,1.2.135.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.136.0,1.2.136.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.2.136.0,1.2.136.255,AS,TH,Thailand,Nong Khai,Nong Khai,43110,Asia/Bangkok,0,17.87847,102.742,2
 1.2.137.0,1.2.137.255,AS,TH,Thailand,Udon Thani,Wang Sam Mo,46180,Asia/Bangkok,0,16.95294,103.4365,2
 1.2.138.0,1.2.138.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.139.0,1.2.139.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -319,7 +322,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.2.151.0,1.2.151.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.152.0,1.2.152.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.153.0,1.2.153.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.154.0,1.2.154.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.2.154.0,1.2.154.255,AS,TH,Thailand,Loei,Loei,42000,Asia/Bangkok,0,17.49052,101.72749,2
 1.2.155.0,1.2.155.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.156.0,1.2.157.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.158.0,1.2.158.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -340,7 +343,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.2.174.0,1.2.174.255,AS,TH,Thailand,Nakhon Sawan,Lat Yao,60150,Asia/Bangkok,0,15.751,99.78925,2
 1.2.175.0,1.2.175.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
 1.2.176.0,1.2.176.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.177.0,1.2.177.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.2.177.0,1.2.177.255,AS,TH,Thailand,Loei,Loei,42000,Asia/Bangkok,0,17.49052,101.72749,2
 1.2.178.0,1.2.178.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.179.0,1.2.179.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.180.0,1.2.180.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -351,8 +354,8 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.2.185.0,1.2.185.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
 1.2.186.0,1.2.186.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.187.0,1.2.187.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.188.0,1.2.188.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.189.0,1.2.189.255,AS,TH,Thailand,Sing Buri,Sing Buri,16000,Asia/Bangkok,0,14.88786,100.40464,2
+1.2.188.0,1.2.188.255,AS,TH,Thailand,Suphan Buri,Suphan Buri,72150,Asia/Bangkok,0,14.47418,100.12218,2
+1.2.189.0,1.2.189.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.190.0,1.2.190.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.191.0,1.2.191.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
 1.2.192.0,1.2.192.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -379,12 +382,10 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.2.221.0,1.2.221.255,AS,TH,Thailand,Pathum Thani,Don Mueang City,11120,Asia/Bangkok,0,13.91361,100.58972,2
 1.2.222.0,1.2.223.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
 1.2.224.0,1.2.224.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.225.0,1.2.225.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.226.0,1.2.226.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.2.225.0,1.2.226.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.227.0,1.2.227.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.228.0,1.2.228.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.229.0,1.2.229.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.2.230.0,1.2.230.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.2.229.0,1.2.230.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.231.0,1.2.231.255,AS,TH,Thailand,Nakhon Ratchasima,Ban Huai Thalaeng,31220,Asia/Bangkok,0,14.98333,102.65,2
 1.2.232.0,1.2.232.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.2.233.0,1.2.233.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -412,20 +413,22 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.4.4.0,1.4.4.255,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
 1.4.5.0,1.4.7.255,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,2
 1.4.8.0,1.4.127.255,AS,CN,China,Guangdong,Guangzhou,510800,Asia/Shanghai,0,23.11667,113.25,2
-1.4.128.0,1.4.128.255,AS,TH,Thailand,Udon Thani,Phen,41150,Asia/Bangkok,0,17.696140,102.906890,2
+1.4.128.0,1.4.128.255,AS,TH,Thailand,Nong Khai,Sangkhom,43130,Asia/Bangkok,0,18.063890,102.273640,2
 1.4.129.0,1.4.129.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.130.0,1.4.132.255,AS,TH,Thailand,Udon Thani,Phen,41150,Asia/Bangkok,0,17.696140,102.906890,2
 1.4.133.0,1.4.133.255,AS,TH,Thailand,Sakon Nakhon,Sawang Daen Din,47110,Asia/Bangkok,0,17.47531,103.45753,2
 1.4.134.0,1.4.134.255,AS,TH,Thailand,Bueng Kan,Ban Pong Tao,-,Asia/Bangkok,0,18.026200,103.996000,2
 1.4.135.0,1.4.135.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.4.136.0,1.4.137.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.4.136.0,1.4.136.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.4.137.0,1.4.137.255,AS,TH,Thailand,Roi Et,Kaset Wisai,45150,Asia/Bangkok,0,15.65558,103.58361,2
 1.4.138.0,1.4.138.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.139.0,1.4.139.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.140.0,1.4.140.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.141.0,1.4.141.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.142.0,1.4.142.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.143.0,1.4.143.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.4.144.0,1.4.145.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
+1.4.144.0,1.4.144.255,AS,TH,Thailand,Bangkok,Don Mueang City,11120,Asia/Bangkok,0,13.91361,100.58972,2
+1.4.145.0,1.4.145.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
 1.4.146.0,1.4.146.255,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Bangkok,0,13.86075,100.51477,2
 1.4.147.0,1.4.147.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.148.0,1.4.148.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -433,7 +436,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.4.150.0,1.4.150.255,AS,TH,Thailand,Pathum Thani,Don Mueang City,11120,Asia/Bangkok,0,13.91361,100.58972,2
 1.4.151.0,1.4.151.255,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Bangkok,0,13.86075,100.51477,2
 1.4.152.0,1.4.152.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.4.153.0,1.4.153.255,AS,TH,Thailand,Sakon Nakhon,Akat Amnuai,47170,Asia/Bangkok,0,17.596390,103.981600,2
+1.4.153.0,1.4.153.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.154.0,1.4.154.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.155.0,1.4.155.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.156.0,1.4.156.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -465,8 +468,8 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.4.195.0,1.4.195.255,AS,TH,Thailand,Samut Prakan,Phra Pradaeng,10130,Asia/Bangkok,0,13.65855,100.53362,2
 1.4.196.0,1.4.196.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.197.0,1.4.197.255,AS,TH,Thailand,Krung Thep Maha Nakhon,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,2
-1.4.198.0,1.4.198.255,AS,TH,Thailand,Krabi,Saladan,81150,Asia/Bangkok,0,7.613420,99.036510,2
-1.4.199.0,1.4.199.255,AS,TH,Thailand,Nakhon Ratchasima,Nakhon Ratchasima,30280,Asia/Bangkok,0,14.97066,102.10196,2
+1.4.198.0,1.4.198.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
+1.4.199.0,1.4.199.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.200.0,1.4.200.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.201.0,1.4.201.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.202.0,1.4.202.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
@@ -488,13 +491,10 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.4.221.0,1.4.221.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.222.0,1.4.222.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.223.0,1.4.223.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.4.224.0,1.4.224.255,AS,TH,Thailand,Nong Khai,Sangkhom,43130,Asia/Bangkok,0,18.063890,102.273640,2
+1.4.224.0,1.4.224.255,AS,TH,Thailand,Mukdahan,Mukdahan,49160,Asia/Bangkok,0,16.545310,104.723510,2
 1.4.225.0,1.4.225.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.226.0,1.4.226.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.227.0,1.4.227.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.228.0,1.4.228.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.4.229.0,1.4.229.255,AS,TH,Thailand,Udon Thani,Udon Thani,41380,Asia/Bangkok,0,17.415670,102.785890,2
 1.4.230.0,1.4.230.255,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Bangkok,0,17.4157,102.786,2
-1.4.231.0,1.4.231.255,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,47260,Asia/Bangkok,0,17.161160,104.147250,2
-1.4.232.0,1.4.232.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.4.233.0,1.4.233.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
