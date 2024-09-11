@@ -157,8 +157,6 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.1.249.0,1.1.249.255,4,23969,1.1.249.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.1.251.0,1.1.251.255,4,23969,1.1.251.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.1.252.0,1.1.252.255,4,23969,1.1.252.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.1.253.0,1.1.253.255,4,23969,1.1.253.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.1.254.0,1.1.254.255,4,23969,1.1.254.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.1.255.0,1.1.255.255,4,23969,1.1.255.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.2.4.0,1.2.4.255,4,24151,1.2.4.0/24,"CNNIC-CRITICAL-AP China Internet Network Infomation Center, CN",cn,true,China Internet Network Infomation Center,,business,,2021-06-16,APNIC
 1.2.128.0,1.2.255.255,4,23969,1.2.128.0/17,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
@@ -334,7 +332,7 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.6.132.0,1.6.132.255,4,9583,1.6.132.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.134.0,1.6.135.255,4,9583,1.6.134.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.136.0,1.6.139.255,4,9583,1.6.136.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
-1.6.136.0,1.6.136.255,4,132215,1.6.136.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
+1.6.136.0,1.6.136.255,4,132215,1.6.136.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.6.138.0,1.6.138.255,4,9583,1.6.138.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.139.0,1.6.139.255,4,9583,1.6.139.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.140.0,1.6.143.255,4,9583,1.6.140.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
@@ -396,10 +394,10 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.6.220.0,1.6.220.255,4,9583,1.6.220.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.224.0,1.6.227.255,4,9583,1.6.224.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.224.0,1.6.224.255,4,9583,1.6.224.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
-1.6.226.0,1.6.226.255,4,132215,1.6.226.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
-1.6.227.0,1.6.227.255,4,132215,1.6.227.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
+1.6.226.0,1.6.226.255,4,132215,1.6.226.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
+1.6.227.0,1.6.227.255,4,132215,1.6.227.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.6.228.0,1.6.231.255,4,9583,1.6.228.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
-1.6.228.0,1.6.228.255,4,132215,1.6.228.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
+1.6.228.0,1.6.228.255,4,132215,1.6.228.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.6.229.0,1.6.229.255,4,4755,1.6.229.0/24,"TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",in,true,Tata Communications Limited,tatacommunications.com,isp,,2020-12-08,APNIC
 1.6.230.0,1.6.230.255,4,4755,1.6.230.0/24,"TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",in,true,Tata Communications Limited,tatacommunications.com,isp,,2020-12-08,APNIC
 1.6.232.0,1.6.235.255,4,9583,1.6.232.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
@@ -420,20 +418,20 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.7.140.0,1.7.143.255,4,9583,1.7.140.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.140.0,1.7.140.255,4,9583,1.7.140.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.141.0,1.7.141.255,4,9583,1.7.141.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
-1.7.142.0,1.7.142.255,4,132215,1.7.142.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
+1.7.142.0,1.7.142.255,4,132215,1.7.142.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.7.143.0,1.7.143.255,4,9583,1.7.143.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.144.0,1.7.147.255,4,9583,1.7.144.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.148.0,1.7.151.255,4,9583,1.7.148.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.150.0,1.7.150.255,4,9583,1.7.150.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
-1.7.151.0,1.7.151.255,4,132215,1.7.151.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
+1.7.151.0,1.7.151.255,4,132215,1.7.151.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.7.152.0,1.7.155.255,4,9583,1.7.152.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.152.0,1.7.152.255,4,9583,1.7.152.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.153.0,1.7.153.255,4,9583,1.7.153.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.156.0,1.7.159.255,4,9583,1.7.156.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.160.0,1.7.163.255,4,9583,1.7.160.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.160.0,1.7.160.255,4,9583,1.7.160.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
-1.7.161.0,1.7.161.255,4,132215,1.7.161.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
-1.7.162.0,1.7.162.255,4,132215,1.7.162.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
+1.7.161.0,1.7.161.255,4,132215,1.7.161.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
+1.7.162.0,1.7.162.255,4,132215,1.7.162.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.7.163.0,1.7.163.255,4,9583,1.7.163.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.164.0,1.7.167.255,4,9583,1.7.164.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.164.0,1.7.164.255,4,9583,1.7.164.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
@@ -448,7 +446,7 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.7.177.0,1.7.177.255,4,9583,1.7.177.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.178.0,1.7.178.255,4,137130,1.7.178.0/24,"ITDPNB-AS Punjab National Bank, IN",in,true,ITDPNB AS,pnb.co.in,business,,2018-02-20,APNIC
 1.7.180.0,1.7.183.255,4,9583,1.7.180.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
-1.7.180.0,1.7.180.255,4,132215,1.7.180.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
+1.7.180.0,1.7.180.255,4,132215,1.7.180.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.7.182.0,1.7.182.255,4,9583,1.7.182.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.184.0,1.7.187.255,4,9583,1.7.184.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.185.0,1.7.185.255,4,9583,1.7.185.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
@@ -461,9 +459,9 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.7.196.0,1.7.199.255,4,9583,1.7.196.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.198.0,1.7.198.255,4,9583,1.7.198.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.199.0,1.7.199.255,4,9583,1.7.199.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
-1.7.200.0,1.7.200.255,4,132215,1.7.200.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
-1.7.201.0,1.7.201.255,4,132215,1.7.201.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
-1.7.202.0,1.7.202.255,4,132215,1.7.202.0/24,"POWERGRID-IN Power Grid Corporation of India Limited, IN",in,true,Power Grid Corporation of India Limited,powergrid.in,business,,2014-01-01,APNIC
+1.7.200.0,1.7.200.255,4,132215,1.7.200.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
+1.7.201.0,1.7.201.255,4,132215,1.7.201.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
+1.7.202.0,1.7.202.255,4,132215,1.7.202.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.7.203.0,1.7.203.255,4,4755,1.7.203.0/24,"TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",in,true,Tata Communications Limited,tatacommunications.com,isp,,2020-12-08,APNIC
 1.7.204.0,1.7.207.255,4,9583,1.7.204.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.205.0,1.7.205.255,4,140202,1.7.205.0/24,"FICCL-AS Fullerton India Credit Co. Ltd., IN",in,true,Fullerton India Credit Co. Ltd.,fullertonindia.com,banking,,2020-09-15,APNIC
@@ -513,8 +511,6 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.10.144.0,1.10.144.255,4,23969,1.10.144.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.146.0,1.10.146.255,4,23969,1.10.146.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.147.0,1.10.147.255,4,23969,1.10.147.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.10.148.0,1.10.148.255,4,23969,1.10.148.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.10.149.0,1.10.149.255,4,23969,1.10.149.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.150.0,1.10.150.255,4,23969,1.10.150.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.151.0,1.10.151.255,4,23969,1.10.151.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.152.0,1.10.152.255,4,23969,1.10.152.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
@@ -522,7 +518,6 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.10.155.0,1.10.155.255,4,23969,1.10.155.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.160.0,1.10.191.255,4,23969,1.10.160.0/19,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.160.0,1.10.163.255,4,23969,1.10.160.0/22,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.10.164.0,1.10.164.255,4,23969,1.10.164.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.165.0,1.10.165.255,4,23969,1.10.165.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.166.0,1.10.166.255,4,23969,1.10.166.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.10.167.0,1.10.167.255,4,23969,1.10.167.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
@@ -782,16 +777,13 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.20.234.0,1.20.234.255,4,23969,1.20.234.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.235.0,1.20.235.255,4,23969,1.20.235.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.236.0,1.20.236.255,4,23969,1.20.236.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.20.237.0,1.20.237.255,4,23969,1.20.237.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.239.0,1.20.239.255,4,23969,1.20.239.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.240.0,1.20.240.255,4,23969,1.20.240.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.241.0,1.20.241.255,4,23969,1.20.241.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.242.0,1.20.242.255,4,23969,1.20.242.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.243.0,1.20.243.255,4,23969,1.20.243.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.244.0,1.20.244.255,4,23969,1.20.244.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.20.245.0,1.20.245.255,4,23969,1.20.245.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.246.0,1.20.246.255,4,23969,1.20.246.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.20.247.0,1.20.247.255,4,23969,1.20.247.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.248.0,1.20.248.255,4,23969,1.20.248.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.249.0,1.20.249.255,4,23969,1.20.249.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.20.251.0,1.20.251.255,4,23969,1.20.251.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
@@ -998,3 +990,11 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.22.208.0,1.22.209.255,4,45528,1.22.208.0/23,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.208.0,1.22.208.255,4,45528,1.22.208.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.209.0,1.22.209.255,4,45528,1.22.209.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.210.0,1.22.210.255,4,45528,1.22.210.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.212.0,1.22.212.255,4,45528,1.22.212.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.213.0,1.22.213.255,4,45528,1.22.213.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.214.0,1.22.214.255,4,45528,1.22.214.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.215.0,1.22.215.255,4,45528,1.22.215.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.216.0,1.22.216.255,4,45528,1.22.216.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.217.0,1.22.217.255,4,45528,1.22.217.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.218.0,1.22.218.255,4,45528,1.22.218.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC

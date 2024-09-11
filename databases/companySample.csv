@@ -345,7 +345,7 @@ startIp,endIp,ipVersion,company,domain,type
 1.21.221.0,1.21.221.255,4,,marubenias.co.jp,isp
 1.21.222.0,1.21.222.255,4,,marubenias.co.jp,isp
 1.21.223.0,1.21.223.255,4,,marubenias.co.jp,isp
-1.21.224.0,1.21.255.255,4,,byteplus.com,hosting
+1.21.224.0,1.21.255.255,4,Byteplus Pte. Ltd.,byteplus.com,hosting
 1.21.224.0,1.21.255.254,4,,,business
 1.22.0.0,1.23.255.255,4,IRT-TIKONAIN-IN,tikona.in,isp
 1.22.156.192,1.22.156.255,4,IRT-TIKONA-IN,tikona.in,business
@@ -384,20 +384,20 @@ startIp,endIp,ipVersion,company,domain,type
 1.32.128.0,1.32.191.255,4,"Singapore Telecom, ConnectPlus",singtel.com,isp
 1.32.192.0,1.32.255.255,4,RACKIP CONSULTANCY PTE. LTD.,rackip.com,hosting
 1.32.192.0,1.32.199.255,4,ABUSE RCPLSG,bgp.net,isp
-1.32.200.0,1.32.201.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.200.0,1.32.201.255,4,ABUSE BGPNLHK,bgp.net,isp
 1.32.202.0,1.32.202.127,4,ABUSE RCPLSG,bgp.net,isp
-1.32.202.129,1.32.202.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.202.129,1.32.202.255,4,ABUSE BGPNLHK,bgp.net,isp
 1.32.203.0,1.32.203.127,4,ABUSE RCPLSG,bgp.net,isp
-1.32.203.129,1.32.203.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.203.129,1.32.203.255,4,ABUSE BGPNLHK,bgp.net,isp
 1.32.204.0,1.32.204.127,4,ABUSE RCPLSG,bgp.net,isp
-1.32.204.129,1.32.204.255,4,ABUSE RCPLSG,bgp.net,isp
-1.32.205.0,1.32.205.255,4,ABUSE RCPLSG,ctgserver.com,hosting
-1.32.206.0,1.32.207.255,4,ABUSE RCPLSG,bgp.net,isp
-1.32.208.0,1.32.215.255,4,ABUSE RCPLSG,bgp.net,isp
+1.32.204.129,1.32.204.255,4,ABUSE BGPNLHK,bgp.net,isp
+1.32.205.0,1.32.205.255,4,ABUSE BGPNLHK,ctgserver.com,hosting
+1.32.206.0,1.32.207.255,4,ABUSE BGPNLHK,bgp.net,isp
+1.32.208.0,1.32.215.255,4,ABUSE BGPNLHK,bgp.net,isp
 1.32.216.0,1.32.223.255,4,ABUSE RCPLSG,bgp.net,isp
 1.32.216.0,1.32.216.255,4,,ctgserver.com,hosting
 1.32.217.0,1.32.217.255,4,,bgp.net,isp
-1.32.218.0,1.32.218.255,4,ABUSE RCPLSG,ctgserver.com,hosting
+1.32.218.0,1.32.218.255,4,ABUSE CTGHK,ctgserver.com,hosting
 1.32.219.0,1.32.219.255,4,,bgp.net,isp
 1.32.220.0,1.32.220.255,4,,bgp.net,isp
 1.32.221.0,1.32.221.255,4,ABUSE RCPLSG,bgp.net,isp
