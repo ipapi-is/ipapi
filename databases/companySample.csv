@@ -1,17 +1,17 @@
 startIp,endIp,ipVersion,company,domain,type
 1.0.0.0,1.255.255.255,4,"Asia Pacific Network Information Center, Pty. Ltd.",www.apnic.net,isp
 1.0.0.0,1.0.0.255,4,APNIC Research and Development,apnic.net,business
-1.0.1.0,1.0.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
-1.0.2.0,1.0.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.0.1.0,1.0.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
+1.0.2.0,1.0.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
 1.0.4.0,1.0.4.255,4,ABUSE WPLAU,gtelecom.com.au,isp
 1.0.4.0,1.0.7.255,4,Wirefreebroadband Pty Ltd,gtelecom.com.au,isp
 1.0.5.0,1.0.5.255,4,ABUSE WPLAU,gtelecom.com.au,isp
 1.0.6.0,1.0.6.255,4,ABUSE WPLAU,gtelecom.com.au,isp
 1.0.7.0,1.0.7.255,4,ABUSE WPLAU,gtelecom.com.au,isp
-1.0.8.0,1.0.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.0.8.0,1.0.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
 1.0.16.0,1.0.16.255,4,,,business
 1.0.16.0,1.0.31.255,4,IRT-JPNIC-JP,i2ts.com,business
-1.0.32.0,1.0.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.0.32.0,1.0.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
 1.0.64.0,1.0.79.255,4,,,business
 1.0.64.0,1.0.127.255,4,,ene.megaegg.ne.jp,business
 1.0.64.0,1.0.95.255,4,,,business
@@ -22,14 +22,14 @@ startIp,endIp,ipVersion,company,domain,type
 1.0.128.0,1.0.255.255,4,TOT Public Company Limited,totisp.net,isp
 1.0.128.0,1.0.191.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
 1.0.192.0,1.0.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
-1.1.0.0,1.1.0.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.1.0.0,1.1.0.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
 1.1.1.0,1.1.1.255,4,APNIC Research and Development,apnic.net,business
-1.1.2.0,1.1.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
-1.1.4.0,1.1.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.1.2.0,1.1.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
+1.1.4.0,1.1.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
 1.1.8.0,1.1.8.255,4,"Yamu Technologies Co., Ltd.",yamu.com,business
-1.1.9.0,1.1.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.1.16.0,1.1.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.1.32.0,1.1.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.1.9.0,1.1.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.1.16.0,1.1.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.1.32.0,1.1.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
 1.1.64.0,1.1.64.255,4,,,business
 1.1.64.0,1.1.127.255,4,IRT-JPNIC-JP,i2ts.com,business
 1.1.65.0,1.1.65.255,4,,,business
@@ -79,30 +79,29 @@ startIp,endIp,ipVersion,company,domain,type
 1.1.128.0,1.1.255.255,4,TOT Public Company Limited,totisp.net,isp
 1.1.128.0,1.1.191.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
 1.1.192.0,1.1.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
-1.2.0.0,1.2.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.2.0.0,1.2.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
 1.2.2.0,1.2.2.255,4,ABUSE CNNICCN,knet.cn,business
 1.2.3.0,1.2.3.255,4,Resource Quality Assurance,,business
 1.2.4.0,1.2.4.255,4,ABUSE CNNICCN,cnnic.cn,government
-1.2.5.0,1.2.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.2.5.0,1.2.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
 1.2.8.0,1.2.8.255,4,ABUSE CNNICCN,cnnic.cn,government
-1.2.9.0,1.2.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.2.16.0,1.2.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.2.32.0,1.2.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.2.64.0,1.2.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.2.9.0,1.2.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.2.16.0,1.2.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.2.32.0,1.2.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.2.64.0,1.2.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
 1.2.128.0,1.2.255.255,4,TOT Public Company Limited,totisp.net,isp
 1.2.128.0,1.2.191.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
 1.2.192.0,1.2.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
-1.3.0.0,1.3.255.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
 1.4.0.0,1.4.0.255,4,Resource Quality Assurance,,business
-1.4.1.0,1.4.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
-1.4.2.0,1.4.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
+1.4.1.0,1.4.1.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
+1.4.2.0,1.4.3.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
 1.4.4.0,1.4.4.255,4,ABUSE CNNICCN,knet.cn,business
-1.4.5.0,1.4.5.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
-1.4.6.0,1.4.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
-1.4.8.0,1.4.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.4.16.0,1.4.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.4.32.0,1.4.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.4.64.0,1.4.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.4.5.0,1.4.5.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
+1.4.6.0,1.4.7.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
+1.4.8.0,1.4.15.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.4.16.0,1.4.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.4.32.0,1.4.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.4.64.0,1.4.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
 1.4.128.0,1.4.191.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
 1.4.128.0,1.4.255.255,4,TOT Public Company Limited,totisp.net,isp
 1.4.192.0,1.4.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
@@ -160,14 +159,14 @@ startIp,endIp,ipVersion,company,domain,type
 1.9.193.0,1.9.193.255,4,ABUSE MYWEBE,tm.com.my,business
 1.9.202.0,1.9.203.255,4,EMRAN AHMED KAMAL,tm.com.my,business
 1.9.204.0,1.9.205.255,4,EMRAN AHMED KAMAL,tm.com.my,business
-1.10.0.0,1.10.7.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.10.8.0,1.10.9.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
-1.10.10.0,1.10.10.255,4,IRT-NIXI-IN,nixi.in,government
-1.10.11.0,1.10.11.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
-1.10.12.0,1.10.15.255,4,ABUSE CHINANETCN,chinatelecom.cn,isp
-1.10.16.0,1.10.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.10.32.0,1.10.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
-1.10.64.0,1.10.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,isp
+1.10.0.0,1.10.7.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.10.8.0,1.10.9.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
+1.10.10.0,1.10.10.255,4,IRT-NIXI-IN,nixi.in,business
+1.10.11.0,1.10.11.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
+1.10.12.0,1.10.15.255,4,ABUSE CHINANETCN,chinatelecom.cn,business
+1.10.16.0,1.10.31.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.10.32.0,1.10.63.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
+1.10.64.0,1.10.127.255,4,IPMASTER CHINANET-GD,chinatelecom.cn,business
 1.10.128.0,1.10.255.255,4,TOT Public Company Limited,totisp.net,isp
 1.10.128.0,1.10.139.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
 1.10.192.0,1.10.255.255,4,ABUSE TOTTH,nt.ntplc.co.th,isp
@@ -349,7 +348,6 @@ startIp,endIp,ipVersion,company,domain,type
 1.21.224.0,1.21.255.254,4,,,business
 1.22.0.0,1.23.255.255,4,IRT-TIKONAIN-IN,tikona.in,isp
 1.22.156.192,1.22.156.255,4,IRT-TIKONA-IN,tikona.in,business
-1.24.0.0,1.31.255.255,4,ABUSE CUCN,chinaunicom.cn,isp
 1.32.0.0,1.32.19.255,4,ABUSE TMNSTMY,tm.com.my,isp
 1.32.0.0,1.32.15.255,4,ABUSE MYWEBE,tm.com.my,isp
 1.32.0.0,1.32.127.255,4,TM TECHNOLOGY SERVICES SDN BHD,tm.com.my,isp
@@ -498,3 +496,5 @@ startIp,endIp,ipVersion,company,domain,type
 1.33.83.0,1.33.83.255,4,,www.nttpc.co.jp,isp
 1.33.84.0,1.33.84.255,4,,www.nttpc.co.jp,isp
 1.33.85.0,1.33.85.255,4,,www.nttpc.co.jp,isp
+1.33.86.0,1.33.86.255,4,,www.nttpc.co.jp,isp
+1.33.87.0,1.33.87.255,4,,www.nttpc.co.jp,isp

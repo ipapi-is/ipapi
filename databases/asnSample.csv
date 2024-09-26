@@ -1,10 +1,10 @@
 startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,updated,rir
 1.0.0.0,1.0.0.255,4,13335,1.0.0.0/24,"CLOUDFLARENET, US",us,true,"Cloudflare, Inc.",cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
-1.0.4.0,1.0.7.255,4,38803,1.0.4.0/22,"WPL-AS-AP Wirefreebroadband Pty Ltd, AU",au,true,Wirefreebroadband Pty Ltd,gtelecom.com.au,isp,,2020-08-26,APNIC
-1.0.4.0,1.0.4.255,4,38803,1.0.4.0/24,"WPL-AS-AP Wirefreebroadband Pty Ltd, AU",au,true,Wirefreebroadband Pty Ltd,gtelecom.com.au,isp,,2020-08-26,APNIC
-1.0.5.0,1.0.5.255,4,38803,1.0.5.0/24,"WPL-AS-AP Wirefreebroadband Pty Ltd, AU",au,true,Wirefreebroadband Pty Ltd,gtelecom.com.au,isp,,2020-08-26,APNIC
-1.0.6.0,1.0.6.255,4,38803,1.0.6.0/24,"WPL-AS-AP Wirefreebroadband Pty Ltd, AU",au,true,Wirefreebroadband Pty Ltd,gtelecom.com.au,isp,,2020-08-26,APNIC
-1.0.7.0,1.0.7.255,4,38803,1.0.7.0/24,"WPL-AS-AP Wirefreebroadband Pty Ltd, AU",au,true,Wirefreebroadband Pty Ltd,gtelecom.com.au,isp,,2020-08-26,APNIC
+1.0.4.0,1.0.7.255,4,38803,1.0.4.0/22,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,isp,,2024-09-18,APNIC
+1.0.4.0,1.0.4.255,4,38803,1.0.4.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,isp,,2024-09-18,APNIC
+1.0.5.0,1.0.5.255,4,38803,1.0.5.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,isp,,2024-09-18,APNIC
+1.0.6.0,1.0.6.255,4,38803,1.0.6.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,isp,,2024-09-18,APNIC
+1.0.7.0,1.0.7.255,4,38803,1.0.7.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,isp,,2024-09-18,APNIC
 1.0.16.0,1.0.16.255,4,2519,1.0.16.0/24,"VECTANT ARTERIA Networks Corporation, JP",jp,true,ARTERIA Networks Corporation,,isp,,2019/08/09,JPNIC
 1.0.64.0,1.0.127.255,4,18144,1.0.64.0/18,"AS-ENECOM Enecom,Inc., JP",jp,true,"Enecom,Inc.",,business,2002/07/04,2024/01/22,JPNIC
 1.0.128.0,1.0.255.255,4,23969,1.0.128.0/17,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
