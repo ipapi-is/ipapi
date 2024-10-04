@@ -623,7 +623,6 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.18.116.0,1.18.116.255,4,131098,1.18.116.0/24,"BDNSKR-AS-KR Korea Internet Security Agency, KR",kr,true,,,,,,
 1.18.118.0,1.18.118.255,4,131099,1.18.118.0/24,"CDNSKR-AS-KR Korea Internet Security Agency, KR",kr,true,,,,,,
 1.18.119.0,1.18.119.255,4,131100,1.18.119.0/24,"FDNSKR-AS-KR Korea Internet Security Agency, KR",kr,true,,,,,,
-1.18.121.0,1.18.121.255,4,9700,1.18.121.0/24,"KRNIC-AS-KR Korea Internet Security Agency, KR",kr,true,,,,,,
 1.18.123.0,1.18.123.255,4,23599,1.18.123.0/24,"DDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,
 1.18.125.0,1.18.125.255,4,23599,1.18.125.0/24,"DDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,
 1.18.126.0,1.18.126.255,4,23599,1.18.126.0/24,"DDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,
@@ -998,3 +997,4 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.22.216.0,1.22.216.255,4,45528,1.22.216.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.217.0,1.22.217.255,4,45528,1.22.217.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.218.0,1.22.218.255,4,45528,1.22.218.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.219.0,1.22.219.255,4,45528,1.22.219.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC

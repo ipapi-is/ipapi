@@ -6,7 +6,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:2:1::,2001:2:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,1,46.92827,7.11715,2
 2001:3::,2001:3:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,1,33.96168,-118.35313,2
 2001:4::,2001:4:111:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,1,46.92827,7.11715,2
-2001:4:112::,2001:4:112:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Brussels,1210,Europe/Brussels,1,50.85045,4.34878,2
+2001:4:112::,2001:4:112:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Indiana,Indianapolis,46262,America/Indiana/Indianapolis,1,39.76838,-86.15804,2
 2001:4:113::,2001:4:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,1,46.92827,7.11715,2
 2001:5::,2001:5:0:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,1,52.37403,4.88969,2
 2001:5:1::,2001:5:1:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Istanbul,Üsküdar,34700,Europe/Istanbul,0,41.02274,29.01366,2
@@ -28,7 +28,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:200:12b::,2001:200:130:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:200:131::,2001:200:131:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:200:132::,2001:200:134:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:200:135::,2001:200:135:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,San Jose,95196,America/Los_Angeles,1,37.33939,-121.89496,2
+2001:200:135::,2001:200:135:ffff:ffff:ffff:ffff:ffff,NA,US,United States,District of Columbia,Shaw,56972,America/New_York,1,38.91206,-77.02137,2
 2001:200:136::,2001:200:136:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:200:137::,2001:200:13c:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:200:13d::,2001:200:13d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
@@ -47,7 +47,8 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:200:16a::,2001:200:16a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:200:16b::,2001:200:177:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:200:178::,2001:200:179:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:200:17a::,2001:200:17b:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60666,America/Chicago,1,41.85003,-87.65005,2
+2001:200:17a::,2001:200:17a:ffff:ffff:ffff:ffff:ffff,NA,US,United States,District of Columbia,Shaw,56972,America/New_York,1,38.91206,-77.02137,2
+2001:200:17b::,2001:200:17b:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,San Jose,95196,America/Los_Angeles,1,37.33939,-121.89496,2
 2001:200:17c::,2001:200:17f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:200:180::,2001:200:180:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Den’enchōfu,146-8677,Asia/Tokyo,0,35.59548,139.66535,2
 2001:200:181::,2001:200:185:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
@@ -127,18 +128,22 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:218:4e9::,2001:218:1f00:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:218:1f01::,2001:218:1f01:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:218:1f02::,2001:218:2000:c:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:218:2000:d::,2001:218:2000:11:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,1,52.37403,4.88969,2
+2001:218:2000:d::,2001:218:2000:11:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,1,47.60621,-122.33207,2
 2001:218:2000:12::,2001:218:200f:0:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:218:200f:1::,2001:218:200f:2:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60666,America/Chicago,1,41.85003,-87.65005,2
-2001:218:200f:3::,2001:218:3003:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:218:3004::,2001:218:3004:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Ōsaka,Osaka,531-6190,Asia/Tokyo,0,34.69379,135.50107,2
-2001:218:3005::,2001:218:3005:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,San Jose,95196,America/Los_Angeles,1,37.33939,-121.89496,2
+2001:218:200f:1::,2001:218:200f:2:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,1,47.60621,-122.33207,2
+2001:218:200f:3::,2001:218:3000:3:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:218:3000:4::,2001:218:3000:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,1,52.37403,4.88969,2
+2001:218:3001::,2001:218:3003:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:218:3004::,2001:218:3004:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,1,52.37403,4.88969,2
+2001:218:3005::,2001:218:3005:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,1,47.60621,-122.33207,2
 2001:218:3006::,2001:218:4000:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:218:4001::,2001:218:4001:0:ffff:ffff:ffff:ffff,AS,SG,Singapore,,Ang Mo Kio New Town,560629,Asia/Singapore,0,1.38028,103.83972,2
-2001:218:4001:1::,2001:218:ffff:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:218:4001:1::,2001:218:6001:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:218:6002::,2001:218:6002:ffff:ffff:ffff:ffff:ffff,AS,HK,Hong Kong,Eastern,Hong Kong,999077,Asia/Hong_Kong,0,22.27832,114.17469,2
+2001:218:6003::,2001:218:ffff:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:219::,2001:219:ffff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46794,153.02809,2
 2001:21a::,2001:21f:ffff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,0,-33.86785,151.20732,2
-2001:220::,2001:220:ffff:ffff:ffff:ffff:ffff:ffff,AS,KR,South Korea,Gyeonggi-do,Seongnam-si (Buljeong-ro),,Asia/Seoul,0,37.3638,127.122,2
+2001:220::,2001:220:ffff:ffff:ffff:ffff:ffff:ffff,AS,KR,South Korea,Gyeonggi-do,Seongnam-si (Buljeong-ro),,Asia/Seoul,0,37.3654,127.122,2
 2001:221::,2001:221:ffff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46794,153.02809,2
 2001:222::,2001:223:ffff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,0,-33.86785,151.20732,2
 2001:224::,2001:227:ffff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46794,153.02809,2
@@ -169,8 +174,8 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:240:2401::,2001:240:2402:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2403::,2001:240:2403:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
 2001:240:2404::,2001:240:240a:46ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:240a:4700::,2001:240:240a:ee7f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Hino,191-8686,Asia/Tokyo,0,35.67306,139.40028,2
-2001:240:240a:ee80::,2001:240:2411:22ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:240a:4700::,2001:240:240a:d27f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Hino,191-8686,Asia/Tokyo,0,35.67306,139.40028,2
+2001:240:240a:d280::,2001:240:2411:22ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2411:2300::,2001:240:2411:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
 2001:240:2412::,2001:240:2412:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kyoto,Uji,611-8660,Asia/Tokyo,0,34.89044,135.80325,2
 2001:240:2413::,2001:240:241a:2ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
@@ -179,15 +184,15 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:240:241c:2c00::,2001:240:241c:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
 2001:240:241d::,2001:240:2423:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2424::,2001:240:2424:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Nagano,Ina,399-4593,Asia/Tokyo,0,35.82756,137.95378,2
-2001:240:2425::,2001:240:2428:273f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:2428:2740::,2001:240:2428:fd3f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tochigi,Imaichi,321-2806,Asia/Tokyo,0,36.71667,139.68333,2
-2001:240:2428:fd40::,2001:240:242a:38b:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:2425::,2001:240:2428:26ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:2428:2700::,2001:240:2428:fb7f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tochigi,Imaichi,321-2806,Asia/Tokyo,0,36.71667,139.68333,2
+2001:240:2428:fb80::,2001:240:242a:38b:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:242a:38c::,2001:240:242a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Koshigaya,343-8601,Asia/Tokyo,0,35.89035,139.78916,2
 2001:240:242b::,2001:240:242b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Hyōgo,Kakogawachō-honmachi,675-8688,Asia/Tokyo,0,34.76943,134.82905,2
 2001:240:242c::,2001:240:242d:253f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:242d:2540::,2001:240:242d:f73f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
-2001:240:242d:f740::,2001:240:242f:1aaf:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:242f:1ab0::,2001:240:242f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
+2001:240:242d:f740::,2001:240:242f:1a9f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:242f:1aa0::,2001:240:242f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
 2001:240:2430::,2001:240:2436:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2437::,2001:240:2437:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kagawa,Tonoshō,761-4664,Asia/Tokyo,0,34.48047,134.17017,2
 2001:240:2438::,2001:240:243b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
@@ -196,23 +201,23 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:240:2460:600::,2001:240:2460:f5ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Yamato,242-8610,Asia/Tokyo,0,35.47276,139.45101,2
 2001:240:2460:f600::,2001:240:2461:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2462::,2001:240:2462:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Osaka,Izumisano,598-8566,Asia/Tokyo,0,34.379,135.31981,2
-2001:240:2463::,2001:240:2464:4ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:2464:500::,2001:240:2464:e5ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Yokosuka,240-0196,Asia/Tokyo,0,35.28361,139.66722,2
+2001:240:2463::,2001:240:2464:13ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:2464:1400::,2001:240:2464:e5ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Nagasaki,Nagasaki,857-0071,Asia/Tokyo,0,32.75,129.88333,2
 2001:240:2464:e600::,2001:240:2466:7f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:2466:80::,2001:240:2466:f4ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
-2001:240:2466:f500::,2001:240:2470:8ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:2466:80::,2001:240:2466:b57f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
+2001:240:2466:b580::,2001:240:2470:8ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2470:900::,2001:240:2470:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tochigi,Imaichi,321-2806,Asia/Tokyo,0,36.71667,139.68333,2
 2001:240:2471::,2001:240:2471:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kochi,Ino,781-2616,Asia/Tokyo,0,33.55,133.43333,2
-2001:240:2472::,2001:240:2473:86f:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:2473:870::,2001:240:2473:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Chiba,Narashino,275-8666,Asia/Tokyo,0,35.68184,140.04152,2
+2001:240:2472::,2001:240:2472:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:2473::,2001:240:2473:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Aichi,Chiryū,472-8686,Asia/Tokyo,0,35,137.03333,2
 2001:240:2474::,2001:240:2474:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
 2001:240:2475::,2001:240:2475:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
-2001:240:2476::,2001:240:2476:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Chiba,Narashino,275-8666,Asia/Tokyo,0,35.68184,140.04152,2
+2001:240:2476::,2001:240:2476:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Gunma,Ōta,379-2306,Asia/Tokyo,0,36.3,139.36667,2
 2001:240:2477::,2001:240:2477:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Matsuda-sōryō,258-0004,Asia/Tokyo,0,35.35063,139.13861,2
 2001:240:2478::,2001:240:2479:eff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2479:f00::,2001:240:2479:faff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
-2001:240:2479:fb00::,2001:240:247b:13ff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:247b:1400::,2001:240:247b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Hokkaido,Shimo-furano,079-2133,Asia/Tokyo,0,43.35,142.38333,2
+2001:240:2479:fb00::,2001:240:247b:fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:247b:1000::,2001:240:247b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Osaka,Higashi-ōsaka,630-0272,Asia/Tokyo,0,34.66667,135.58333,2
 2001:240:247c::,2001:240:247c:bfff:ffff:ffff:ffff:ffff,AS,JP,Japan,Osaka,Sakai,590-0987,Asia/Tokyo,0,34.58216,135.46653,2
 2001:240:247c:c000::,2001:240:247e:7fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:247e:8000::,2001:240:247e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Kodaira,187-8701,Asia/Tokyo,0,35.72603,139.48508,2
@@ -279,7 +284,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:240:29bf::,2001:240:29d2:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:29d3::,2001:240:29d3:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:240:29d4::,2001:240:29d5:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:29d6::,2001:240:29d6:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Chōfu,182-8686,Asia/Tokyo,0,35.65924,139.54837,2
+2001:240:29d6::,2001:240:29d6:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Fuchū,183-8707,Asia/Tokyo,0,35.67452,139.48216,2
 2001:240:29d7::,2001:240:29db:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:29dc::,2001:240:29dc:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Yokosuka,240-0196,Asia/Tokyo,0,35.28361,139.66722,2
 2001:240:29dd::,2001:240:29e2:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
@@ -321,9 +326,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:240:2a6e::,2001:240:2a6e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Toyama,Namerikawa,936-8686,Asia/Tokyo,0,36.75965,137.36215,2
 2001:240:2a6f::,2001:240:2a70:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2a71::,2001:240:2a71:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Miyazaki,Miyakonojō,889-4602,Asia/Tokyo,0,31.73333,131.06667,2
-2001:240:2a72::,2001:240:2a87:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:240:2a88::,2001:240:2a88:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Shiga,Nagahama,529-0792,Asia/Tokyo,0,35.38333,136.26667,2
-2001:240:2a89::,2001:240:2a94:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:240:2a72::,2001:240:2a94:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2a95::,2001:240:2a95:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Ishikawa,Matsutō,929-0296,Asia/Tokyo,0,36.51667,136.56667,2
 2001:240:2a96::,2001:240:2aa3:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:240:2aa4::,2001:240:2aa4:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Wakayama,Hashimoto,649-7216,Asia/Tokyo,0,34.31667,135.61667,2
@@ -365,9 +368,9 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:250:2402::,2001:250:2bff:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
 2001:250:2c00::,2001:250:2c00:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guizhou,Guiyang,,Asia/Shanghai,0,26.4826,106.544,2
 2001:250:2c01::,2001:250:2fff:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
-2001:250:3000::,2001:250:3000:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Wushan,510800,Asia/Shanghai,0,23.15888,113.34684,2
+2001:250:3000::,2001:250:3000:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Xinzao,528000,Asia/Shanghai,0,23.04316,113.41588,2
 2001:250:3001::,2001:250:3001:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Huangcun,510800,Asia/Shanghai,0,23.12904,113.40777,2
-2001:250:3002::,2001:250:3002:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Tangjiawan,,Asia/Shanghai,0,22.3606,113.596,2
+2001:250:3002::,2001:250:3002:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Guangming,,Asia/Shanghai,0,22.7723,113.93,2
 2001:250:3003::,2001:250:3003:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Tuopu (Jinping Qu),,Asia/Shanghai,0,23.4093,116.634,2
 2001:250:3004::,2001:250:33ff:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
 2001:250:3400::,2001:250:3400:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangxi,Guilin,541000,Asia/Shanghai,0,25.28022,110.29639,2
@@ -388,7 +391,9 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:250:500f::,2001:250:500f:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Jiangsu,Guoxiang,,Asia/Shanghai,0,31.2544,120.672,2
 2001:250:5010::,2001:250:57ff:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
 2001:250:5800::,2001:250:5800:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Shandong,Beizhai,,Asia/Shanghai,0,36.2197,120.529,2
-2001:250:5801::,2001:250:9000:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
+2001:250:5801::,2001:250:6803:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
+2001:250:6804::,2001:250:6804:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Fujian,Huai’an Shequ,350000,Asia/Shanghai,0,26.08241,119.24467,2
+2001:250:6805::,2001:250:9000:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
 2001:250:9001::,2001:250:9001:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
 2001:250:9002::,2001:251:ffff:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Beijing,101100,Asia/Shanghai,0,39.9075,116.39723,2
 2001:252::,2001:252:ffff:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Haidian (Haidian Qu),,Asia/Shanghai,0,40.0075,116.327,2
@@ -406,53 +411,67 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:268::,2001:268:71ff:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7200::,2001:268:7200:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Chiba,Narashino,275-8666,Asia/Tokyo,0,35.68184,140.04152,2
 2001:268:7201::,2001:268:7201:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kumagaya,369-0108,Asia/Tokyo,0,36.13497,139.39004,2
-2001:268:7202::,2001:268:7204:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7202::,2001:268:7202:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7203::,2001:268:7203:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Chiba,Urayasu,279-8686,Asia/Tokyo,0,35.65879,139.90055,2
+2001:268:7204::,2001:268:7204:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kasukabe,344-8686,Asia/Tokyo,0,35.98308,139.74966,2
 2001:268:7205::,2001:268:7205:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Yamato,242-8610,Asia/Tokyo,0,35.47276,139.45101,2
-2001:268:7206::,2001:268:7209:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7206::,2001:268:7206:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kukichūō,349-1192,Asia/Tokyo,0,36.06739,139.67498,2
+2001:268:7207::,2001:268:7207:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
+2001:268:7208::,2001:268:7209:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:720a::,2001:268:720a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Ibaraki,Bandō,306-0692,Asia/Tokyo,0,36.06997,139.86705,2
 2001:268:720b::,2001:268:720b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
-2001:268:720c::,2001:268:720d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:720c::,2001:268:720c:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:720d::,2001:268:720d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kukichūō,349-1192,Asia/Tokyo,0,36.06739,139.67498,2
 2001:268:720e::,2001:268:720e:7fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:268:720e:8000::,2001:268:720f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Chiba,Narashino,275-8666,Asia/Tokyo,0,35.68184,140.04152,2
 2001:268:7210::,2001:268:7210:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Yamato,242-8610,Asia/Tokyo,0,35.47276,139.45101,2
-2001:268:7211::,2001:268:7212:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7211::,2001:268:7211:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Yamato,242-8610,Asia/Tokyo,0,35.47276,139.45101,2
+2001:268:7212::,2001:268:7212:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7213::,2001:268:7213:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
 2001:268:7214::,2001:268:7214:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7215::,2001:268:7216:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7217::,2001:268:7217:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
 2001:268:7218::,2001:268:7218:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7219::,2001:268:7219:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
-2001:268:721a::,2001:268:721e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:721a::,2001:268:721a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:721b::,2001:268:721b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kukichūō,349-1192,Asia/Tokyo,0,36.06739,139.67498,2
+2001:268:721c::,2001:268:721e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:721f::,2001:268:721f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
 2001:268:7220::,2001:268:7223:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7224::,2001:268:7224:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Akihabara,174-8740,Asia/Tokyo,0,35.69848,139.77253,2
-2001:268:7225::,2001:268:7226:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7225::,2001:268:7225:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kawaguchi,334-8501,Asia/Tokyo,0,35.80521,139.71072,2
+2001:268:7226::,2001:268:7226:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Kawasaki,216-8631,Asia/Tokyo,0,35.52056,139.71722,2
 2001:268:7227::,2001:268:7227:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Sakado,350-0295,Asia/Tokyo,0,35.95694,139.38889,2
 2001:268:7228::,2001:268:7228:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
 2001:268:7229::,2001:268:722a:7fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:722a:8000::,2001:268:722a:bfff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kasukabe,344-8686,Asia/Tokyo,0,35.98308,139.74966,2
-2001:268:722a:c000::,2001:268:722c:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
-2001:268:722d::,2001:268:722d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:722a:c000::,2001:268:722d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
 2001:268:722e::,2001:268:722e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
 2001:268:722f::,2001:268:722f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
 2001:268:7230::,2001:268:7230:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Chiba,Honchō,274-8601,Asia/Tokyo,0,35.70129,139.98648,2
 2001:268:7231::,2001:268:7231:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
-2001:268:7232::,2001:268:7234:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7232::,2001:268:7232:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7233::,2001:268:7233:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kukichūō,349-1192,Asia/Tokyo,0,36.06739,139.67498,2
+2001:268:7234::,2001:268:7234:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7235::,2001:268:7235:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kukichūō,349-1192,Asia/Tokyo,0,36.06739,139.67498,2
 2001:268:7236::,2001:268:7236:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
-2001:268:7237::,2001:268:723d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7237::,2001:268:7238:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7239::,2001:268:7239:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Yamanashi,Kōfu,409-3792,Asia/Tokyo,0,35.66667,138.56667,2
+2001:268:723a::,2001:268:723b:6fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:723b:7000::,2001:268:723b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Chiba,Honchō,274-8601,Asia/Tokyo,0,35.70129,139.98648,2
+2001:268:723c::,2001:268:723d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:723e::,2001:268:723e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Chigasaki,253-8686,Asia/Tokyo,0,35.33638,139.40434,2
 2001:268:723f::,2001:268:723f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:7240::,2001:268:7240:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Hachiōji,193-8686,Asia/Tokyo,0,35.65583,139.32389,2
+2001:268:7240::,2001:268:7240:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kawaguchi,334-8501,Asia/Tokyo,0,35.80521,139.71072,2
 2001:268:7241::,2001:268:7241:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tochigi,Sano,328-0221,Asia/Tokyo,0,36.31667,139.58333,2
-2001:268:7242::,2001:268:7242:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Akihabara,174-8740,Asia/Tokyo,0,35.69848,139.77253,2
-2001:268:7243::,2001:268:7244:4fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7242::,2001:268:7244:4fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7244:5000::,2001:268:7244:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
 2001:268:7245::,2001:268:7246:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7247::,2001:268:7247:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Umejima,123-8588,Asia/Tokyo,0,35.77561,139.79787,2
-2001:268:7248::,2001:268:724a:5fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:724a:6000::,2001:268:724a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Kawasaki,216-8631,Asia/Tokyo,0,35.52056,139.71722,2
-2001:268:724b::,2001:268:724b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Akihabara,174-8740,Asia/Tokyo,0,35.69848,139.77253,2
+2001:268:7248::,2001:268:7248:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7249::,2001:268:7249:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Saitama,337-0054,Asia/Tokyo,0,35.90807,139.65657,2
+2001:268:724a::,2001:268:724b:7fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:724b:8000::,2001:268:724b:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kukichūō,349-1192,Asia/Tokyo,0,36.06739,139.67498,2
 2001:268:724c::,2001:268:724c:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Asakusa,111-8798,Asia/Tokyo,0,35.71691,139.79575,2
 2001:268:724d::,2001:268:724d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
 2001:268:724e::,2001:268:724e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
@@ -460,12 +479,14 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:268:7250::,2001:268:7250:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7251::,2001:268:7251:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
 2001:268:7252::,2001:268:7252:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Yamanashi,Kōfu,409-3792,Asia/Tokyo,0,35.66667,138.56667,2
-2001:268:7253::,2001:268:7255:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
+2001:268:7253::,2001:268:7253:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Machida,195-8585,Asia/Tokyo,0,35.54028,139.45083,2
+2001:268:7254::,2001:268:7254:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,165-8780,Asia/Tokyo,0,35.70449,139.66946,2
+2001:268:7255::,2001:268:7255:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kasukabe,344-8686,Asia/Tokyo,0,35.98308,139.74966,2
 2001:268:7256::,2001:268:7256:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Shizuoka,Gotenba,412-8701,Asia/Tokyo,0,35.31859,138.94343,2
 2001:268:7257::,2001:268:7257:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7258::,2001:268:7258:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Hachiōji,193-8686,Asia/Tokyo,0,35.65583,139.32389,2
 2001:268:7259::,2001:268:7259:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Kumagaya,369-0108,Asia/Tokyo,0,36.13497,139.39004,2
-2001:268:725a::,2001:268:725a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Chōfu,182-8686,Asia/Tokyo,0,35.65924,139.54837,2
+2001:268:725a::,2001:268:725a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Ageoshimo,362-8688,Asia/Tokyo,0,35.97145,139.61382,2
 2001:268:725b::,2001:268:725d:5fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:725d:6000::,2001:268:725d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Ibaraki,Sakai,306-0435,Asia/Tokyo,0,36.1,139.8,2
 2001:268:725e::,2001:268:725e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Hachiōji,193-8686,Asia/Tokyo,0,35.65583,139.32389,2
@@ -477,24 +498,3 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:268:7266::,2001:268:7268:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:268:7269::,2001:268:7269:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tochigi,Oyama,329-0229,Asia/Tokyo,0,36.3,139.8,2
 2001:268:726a::,2001:268:726a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Ibaraki,Omigawa,289-0492,Asia/Tokyo,0,35.85,140.61667,2
-2001:268:726b::,2001:268:726c:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:726d::,2001:268:726d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Menuma,369-0108,Asia/Tokyo,0,36.22245,139.38205,2
-2001:268:726e::,2001:268:726f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:7270::,2001:268:7271:7fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Gunma,Fujioka,375-8604,Asia/Tokyo,0,36.24624,139.07204,2
-2001:268:7271:8000::,2001:268:7271:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Gunma,Takasaki,370-8668,Asia/Tokyo,0,36.33333,139.01667,2
-2001:268:7272::,2001:268:7273:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:7274::,2001:268:7274:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Miyagi,Ōkawara,989-1274,Asia/Tokyo,0,38.05,140.73361,2
-2001:268:7275::,2001:268:7276:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:7277::,2001:268:7277:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Gunma,Isesaki,379-2298,Asia/Tokyo,0,36.31667,139.2,2
-2001:268:7278::,2001:268:7278:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:7279::,2001:268:7279:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Gunma,Ōta,379-2306,Asia/Tokyo,0,36.3,139.36667,2
-2001:268:727a::,2001:268:727a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Menuma,369-0108,Asia/Tokyo,0,36.22245,139.38205,2
-2001:268:727b::,2001:268:727c:7fff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:727c:8000::,2001:268:727c:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Miyagi,Sendai,989-3292,Asia/Tokyo,0,38.26667,140.86667,2
-2001:268:727d::,2001:268:727d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:727e::,2001:268:727e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Gunma,Fujioka,375-8604,Asia/Tokyo,0,36.24624,139.07204,2
-2001:268:727f::,2001:268:728f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:7290::,2001:268:7290:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tochigi,Ashikaga,329-4217,Asia/Tokyo,0,36.33333,139.45,2
-2001:268:7291::,2001:268:7291:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:268:7292::,2001:268:7292:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Chiba,Tōgane,283-8701,Asia/Tokyo,0,35.55,140.36667,2
-2001:268:7293::,2001:268:7293:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
