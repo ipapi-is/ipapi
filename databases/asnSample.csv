@@ -169,7 +169,6 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.2.163.0,1.2.163.255,4,23969,1.2.163.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.2.164.0,1.2.164.255,4,23969,1.2.164.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.2.165.0,1.2.165.255,4,23969,1.2.165.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
-1.2.166.0,1.2.166.255,4,9737,1.2.166.0/24,"TOTNET-TH-AS-AP TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.2.167.0,1.2.167.255,4,23969,1.2.167.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.2.168.0,1.2.168.255,4,23969,1.2.168.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
 1.2.170.0,1.2.170.255,4,23969,1.2.170.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,isp,,2020-07-09,APNIC
@@ -321,6 +320,7 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.6.104.0,1.6.104.255,4,9583,1.6.104.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.108.0,1.6.111.255,4,9583,1.6.108.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.112.0,1.6.115.255,4,9583,1.6.112.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
+1.6.115.0,1.6.115.255,4,9583,1.6.115.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.116.0,1.6.119.255,4,9583,1.6.116.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.118.0,1.6.118.255,4,9583,1.6.118.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.6.120.0,1.6.123.255,4,9583,1.6.120.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
@@ -462,7 +462,6 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.7.200.0,1.7.200.255,4,132215,1.7.200.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.7.201.0,1.7.201.255,4,132215,1.7.201.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
 1.7.202.0,1.7.202.255,4,132215,1.7.202.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,business,,2024-09-04,APNIC
-1.7.203.0,1.7.203.255,4,4755,1.7.203.0/24,"TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",in,true,Tata Communications Limited,tatacommunications.com,isp,,2020-12-08,APNIC
 1.7.204.0,1.7.207.255,4,9583,1.7.204.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
 1.7.205.0,1.7.205.255,4,140202,1.7.205.0/24,"FICCL-AS Fullerton India Credit Co. Ltd., IN",in,true,Fullerton India Credit Co. Ltd.,fullertonindia.com,banking,,2020-09-15,APNIC
 1.7.208.0,1.7.211.255,4,9583,1.7.208.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,isp,,2013-04-07,APNIC
@@ -998,3 +997,4 @@ startIp,endIp,ipVersion,asn,route,descr,country,active,org,domain,type,created,u
 1.22.217.0,1.22.217.255,4,45528,1.22.217.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.218.0,1.22.218.255,4,45528,1.22.218.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
 1.22.219.0,1.22.219.255,4,45528,1.22.219.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
+1.22.220.0,1.22.220.255,4,45528,1.22.220.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,isp,,2017-10-24,APNIC
