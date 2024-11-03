@@ -1,17 +1,17 @@
 startIp,endIp,ipVersion,company,domain,type,abuseName,abuseAddress,abuseEmail,abusePhone
-1.0.0.0,1.255.255.255,4,Dhaka Network BD,,business,"Asia Pacific Network Information Center, Pty. Ltd.",Level 1 - 33 Park Road,helpdesk@apnic.net,
+1.0.0.0,1.255.255.255,4,"Asia Pacific Network Information Center, Pty. Ltd.",www.apnic.net,isp,"Asia Pacific Network Information Center, Pty. Ltd.",Level 1 - 33 Park Road,helpdesk@apnic.net,
 1.0.0.0,1.0.0.255,4,APNIC Research and Development,apnic.net,business,APNIC Research and Development,6 Cordelia St,helpdesk@apnic.net,+61-7-38583100
-1.0.1.0,1.0.1.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.0.2.0,1.0.3.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.0.1.0,1.0.1.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.0.2.0,1.0.3.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.0.4.0,1.0.4.255,4,Gtelecom Pty Ltd,gtelecom.com.au,isp,ABUSE WPLAU,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",apnic@staff.gtelecom.com.au,+000000000
-1.0.4.0,1.0.7.255,4,Wirefreebroadband Pty Ltd,gtelecom.com.au,isp,Wirefreebroadband Pty Ltd,"1/18 Deblin drive, Narre warren, vic 3805",support@gtelecom.com.au,+61387894988
+1.0.4.0,1.0.7.255,4,Gtelecom Pty Ltd,gtelecom.com.au,isp,Gtelecom Pty Ltd,"1/18 Deblin Drive, Narre Warren",support@gtelecom.com.au,+61387894999
 1.0.5.0,1.0.5.255,4,Gtelecom Pty Ltd,gtelecom.com.au,isp,ABUSE WPLAU,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",apnic@staff.gtelecom.com.au,+000000000
 1.0.6.0,1.0.6.255,4,Gtelecom Pty Ltd,gtelecom.com.au,isp,ABUSE WPLAU,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",apnic@staff.gtelecom.com.au,+000000000
 1.0.7.0,1.0.7.255,4,Gtelecom Pty Ltd,gtelecom.com.au,isp,ABUSE WPLAU,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",apnic@staff.gtelecom.com.au,+000000000
-1.0.8.0,1.0.15.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.0.8.0,1.0.15.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.0.16.0,1.0.16.255,4,"i2ts,inc.",,business,,,,
 1.0.16.0,1.0.31.255,4,"i2ts,inc.",i2ts.com,business,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, Japan",hostmaster@nic.ad.jp,+81-3-5297-2311
-1.0.32.0,1.0.63.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.0.32.0,1.0.63.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.0.64.0,1.0.79.255,4,"Enecom,Inc.",,business,,,,
 1.0.64.0,1.0.127.255,4,"Enecom,Inc.",ene.megaegg.ne.jp,business,,,,
 1.0.64.0,1.0.95.255,4,"Enecom,Inc.",,business,,,,
@@ -22,14 +22,14 @@ startIp,endIp,ipVersion,company,domain,type,abuseName,abuseAddress,abuseEmail,ab
 1.0.128.0,1.0.255.255,4,TOT Public Company Limited,totisp.net,isp,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
 1.0.128.0,1.0.191.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.0.192.0,1.0.255.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.1.0.0,1.1.0.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.1.0.0,1.1.0.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.1.1.0,1.1.1.255,4,APNIC Research and Development,apnic.net,business,APNIC Research and Development,6 Cordelia St,helpdesk@apnic.net,+61-7-38583100
-1.1.2.0,1.1.3.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.1.4.0,1.1.7.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.1.2.0,1.1.3.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.1.4.0,1.1.7.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.1.8.0,1.1.8.255,4,"Yamu Technologies Co., Ltd.",yamu.com,business,"Yamu Technologies Co., Ltd.","No.500 Hongqiao Road, Xuhui District, Shanghai",hch.xie@yamu.com,+862123585588
-1.1.9.0,1.1.15.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.1.16.0,1.1.31.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.1.32.0,1.1.63.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.1.9.0,1.1.15.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.1.16.0,1.1.31.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.1.32.0,1.1.63.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.1.64.0,1.1.64.255,4,"i2ts,inc.",,business,,,,
 1.1.64.0,1.1.127.255,4,"i2ts,inc.",i2ts.com,business,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, Japan",hostmaster@nic.ad.jp,+81-3-5297-2311
 1.1.65.0,1.1.65.255,4,"i2ts,inc.",,business,,,,
@@ -79,30 +79,30 @@ startIp,endIp,ipVersion,company,domain,type,abuseName,abuseAddress,abuseEmail,ab
 1.1.128.0,1.1.255.255,4,TOT Public Company Limited,totisp.net,isp,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
 1.1.128.0,1.1.191.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.1.192.0,1.1.255.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.2.0.0,1.2.1.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.2.0.0,1.2.1.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.2.2.0,1.2.2.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
 1.2.3.0,1.2.3.255,4,Resource Quality Assurance,,business,Resource Quality Assurance,"6 Cordelia Street, South Brisbane",helpdesk@apnic.net,
 1.2.4.0,1.2.4.255,4,China Network Information Center,cnnic.cn,government,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
-1.2.5.0,1.2.7.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.2.5.0,1.2.7.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.2.8.0,1.2.8.255,4,China Network Information Center,cnnic.cn,government,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
-1.2.9.0,1.2.15.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.2.16.0,1.2.31.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.2.32.0,1.2.63.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.2.64.0,1.2.127.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.2.9.0,1.2.15.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.2.16.0,1.2.31.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.2.32.0,1.2.63.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.2.64.0,1.2.127.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.2.128.0,1.2.255.255,4,TOT Public Company Limited,totisp.net,isp,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
 1.2.128.0,1.2.191.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.2.192.0,1.2.255.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.3.0.0,1.3.255.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.3.0.0,1.3.255.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.4.0.0,1.4.0.255,4,Resource Quality Assurance,,business,Resource Quality Assurance,"6 Cordelia Street, South Brisbane",helpdesk@apnic.net,
-1.4.1.0,1.4.1.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.4.2.0,1.4.3.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.4.1.0,1.4.1.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.4.2.0,1.4.3.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.4.4.0,1.4.4.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",knet.cn,business,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
-1.4.5.0,1.4.5.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.4.6.0,1.4.7.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.4.8.0,1.4.15.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.16.0,1.4.31.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.32.0,1.4.63.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.64.0,1.4.127.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.4.5.0,1.4.5.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.4.6.0,1.4.7.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.4.8.0,1.4.15.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.4.16.0,1.4.31.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.4.32.0,1.4.63.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.4.64.0,1.4.127.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.4.128.0,1.4.191.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.4.128.0,1.4.255.255,4,TOT Public Company Limited,totisp.net,isp,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
 1.4.192.0,1.4.255.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
@@ -160,14 +160,14 @@ startIp,endIp,ipVersion,company,domain,type,abuseName,abuseAddress,abuseEmail,ab
 1.9.193.0,1.9.193.255,4,Ag Jamal Mohd Tuah,tm.com.my,business,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.202.0,1.9.203.255,4,HSBB BUSINESS,tm.com.my,business,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.204.0,1.9.205.255,4,HSBB HOME,tm.com.my,business,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.10.0.0,1.10.7.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.10.8.0,1.10.9.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.10.0.0,1.10.7.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.10.8.0,1.10.9.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.10.10.0,1.10.10.255,4,National Internet Exchange of India,nixi.in,government,IRT-NIXI-IN,"National Internet Exchange of India 9th Floor, B-Wing, Statesman House, 148, Barakhamba Road, New Delhi-110001 India",ix@nixi.in,
-1.10.11.0,1.10.11.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.10.12.0,1.10.15.255,4,Dhaka Network BD,chinatelecom.cn,business,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.10.16.0,1.10.31.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.10.32.0,1.10.63.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.10.64.0,1.10.127.255,4,Dhaka Network BD,chinatelecom.cn,business,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.10.11.0,1.10.11.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.10.12.0,1.10.15.255,4,CHINANET FUJIAN PROVINCE NETWORK,chinatelecom.cn,isp,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+1.10.16.0,1.10.31.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.10.32.0,1.10.63.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+1.10.64.0,1.10.127.255,4,CHINANET Guangdong province network,chinatelecom.cn,isp,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.10.128.0,1.10.255.255,4,TOT Public Company Limited,totisp.net,isp,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
 1.10.128.0,1.10.139.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.10.192.0,1.10.255.255,4,TOT Public Company Limited,nt.ntplc.co.th,isp,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
@@ -363,7 +363,7 @@ startIp,endIp,ipVersion,company,domain,type,abuseName,abuseAddress,abuseEmail,ab
 1.21.224.0,1.21.255.254,4,BYTEPLUS,,business,,,,
 1.22.0.0,1.23.255.255,4,Tikona Infinet Ltd.,tikona.in,isp,IRT-TIKONAIN-IN,"C69, Sector 58, Noida,NOIDA,Uttar Pradesh-201307",Sudhir.Kumar@tikona.in,
 1.22.156.192,1.22.156.255,4,Tikona Digital Networks,tikona.in,business,IRT-TIKONA-IN,"Tikona Digital Networks, Corpora,Office No 3A, 3rd Floor, LBS Marg, Bhandup (W), Mumbai 400 078",abuse@tikona.in,
-1.24.0.0,1.31.255.255,4,Dhaka Network BD,chinaunicom.cn,business,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",zhaoyz3@chinaunicom.cn,+000000000
+1.24.0.0,1.31.255.255,4,China unicom InnerMongolia province network,chinaunicom.cn,isp,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",zhaoyz3@chinaunicom.cn,+000000000
 1.32.0.0,1.32.19.255,4,TELEKOM MALAYSIA BERHAD,tm.com.my,isp,ABUSE TMNSTMY,"TELEKOM MALAYSIA BERHAD, TM BRICKFIELD, Jalan Tun Sambanthan, 43200 KUALA LUMPUR",abuse@tm.com.my,+000000000
 1.32.0.0,1.32.15.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",tm.com.my,isp,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.0.0,1.32.127.255,4,TM TECHNOLOGY SERVICES SDN BHD,tm.com.my,isp,TM TECHNOLOGY SERVICES SDN BHD,"Level 49 South Wing, Menara TM",abuse@tm.com.my,+6013-3128147
