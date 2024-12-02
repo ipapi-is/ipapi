@@ -258,237 +258,237 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.4.250.0,1.4.251.255,4,23969,0.0011 (Low),1.4.250.0/23,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.4.252.0,1.4.255.255,4,23969,0.0011 (Low),1.4.252.0/22,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.5.0.0,1.5.255.255,4,4725,0.0001 (Very Low),1.5.0.0/16,"ODN SoftBank Corp., JP",jp,true,SoftBank Corp.,,,isp,,2022-06-13,JPNIC
-1.6.0.0,1.6.3.255,4,9583,0.0009 (Low),1.6.0.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.1.0,1.6.1.255,4,9583,0.0009 (Low),1.6.1.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.2.0,1.6.2.255,4,9583,0.0009 (Low),1.6.2.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.4.0,1.6.7.255,4,9583,0.0009 (Low),1.6.4.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.7.0,1.6.7.255,4,9583,0.0009 (Low),1.6.7.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.8.0,1.6.11.255,4,9583,0.0009 (Low),1.6.8.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.9.0,1.6.9.255,4,9583,0.0009 (Low),1.6.9.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.10.0,1.6.10.255,4,9583,0.0009 (Low),1.6.10.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.11.0,1.6.11.255,4,9583,0.0009 (Low),1.6.11.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.12.0,1.6.15.255,4,9583,0.0009 (Low),1.6.12.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.12.0,1.6.12.255,4,9583,0.0009 (Low),1.6.12.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.13.0,1.6.13.255,4,9583,0.0009 (Low),1.6.13.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.16.0,1.6.19.255,4,9583,0.0009 (Low),1.6.16.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.17.0,1.6.17.255,4,9583,0.0009 (Low),1.6.17.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.20.0,1.6.23.255,4,9583,0.0009 (Low),1.6.20.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.24.0,1.6.27.255,4,9583,0.0009 (Low),1.6.24.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.28.0,1.6.31.255,4,9583,0.0009 (Low),1.6.28.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.31.0,1.6.31.255,4,9583,0.0009 (Low),1.6.31.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.32.0,1.6.35.255,4,9583,0.0009 (Low),1.6.32.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.36.0,1.6.39.255,4,9583,0.0009 (Low),1.6.36.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.40.0,1.6.43.255,4,9583,0.0009 (Low),1.6.40.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.42.0,1.6.42.255,4,9583,0.0009 (Low),1.6.42.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.44.0,1.6.47.255,4,9583,0.0009 (Low),1.6.44.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.46.0,1.6.46.255,4,9583,0.0009 (Low),1.6.46.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.48.0,1.6.51.255,4,9583,0.0009 (Low),1.6.48.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.50.0,1.6.50.255,4,9583,0.0009 (Low),1.6.50.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.52.0,1.6.55.255,4,9583,0.0009 (Low),1.6.52.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.52.0,1.6.52.255,4,9583,0.0009 (Low),1.6.52.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.54.0,1.6.54.255,4,9583,0.0009 (Low),1.6.54.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.56.0,1.6.59.255,4,9583,0.0009 (Low),1.6.56.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.59.0,1.6.59.255,4,9583,0.0009 (Low),1.6.59.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.60.0,1.6.63.255,4,9583,0.0009 (Low),1.6.60.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.60.0,1.6.60.255,4,9583,0.0009 (Low),1.6.60.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.64.0,1.6.67.255,4,9583,0.0009 (Low),1.6.64.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.65.0,1.6.65.255,4,9583,0.0009 (Low),1.6.65.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.66.0,1.6.66.255,4,9583,0.0009 (Low),1.6.66.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.67.0,1.6.67.255,4,9583,0.0009 (Low),1.6.67.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.68.0,1.6.71.255,4,9583,0.0009 (Low),1.6.68.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.69.0,1.6.69.255,4,9583,0.0009 (Low),1.6.69.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.70.0,1.6.70.255,4,9583,0.0009 (Low),1.6.70.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.72.0,1.6.75.255,4,9583,0.0009 (Low),1.6.72.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.72.0,1.6.72.255,4,9583,0.0009 (Low),1.6.72.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.73.0,1.6.73.255,4,9583,0.0009 (Low),1.6.73.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.74.0,1.6.74.255,4,9583,0.0009 (Low),1.6.74.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.75.0,1.6.75.255,4,9583,0.0009 (Low),1.6.75.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.76.0,1.6.79.255,4,9583,0.0009 (Low),1.6.76.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.80.0,1.6.83.255,4,9583,0.0009 (Low),1.6.80.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.82.0,1.6.82.255,4,9583,0.0009 (Low),1.6.82.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.84.0,1.6.87.255,4,9583,0.0009 (Low),1.6.84.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.88.0,1.6.91.255,4,9583,0.0009 (Low),1.6.88.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.89.0,1.6.89.255,4,9583,0.0009 (Low),1.6.89.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.92.0,1.6.95.255,4,9583,0.0009 (Low),1.6.92.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.92.0,1.6.92.255,4,9583,0.0009 (Low),1.6.92.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.93.0,1.6.93.255,4,9583,0.0009 (Low),1.6.93.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.95.0,1.6.95.255,4,9583,0.0009 (Low),1.6.95.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.96.0,1.6.99.255,4,9583,0.0009 (Low),1.6.96.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.99.0,1.6.99.255,4,9583,0.0009 (Low),1.6.99.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.100.0,1.6.103.255,4,9583,0.0009 (Low),1.6.100.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.104.0,1.6.107.255,4,9583,0.0009 (Low),1.6.104.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.104.0,1.6.104.255,4,9583,0.0009 (Low),1.6.104.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.108.0,1.6.111.255,4,9583,0.0009 (Low),1.6.108.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.112.0,1.6.115.255,4,9583,0.0009 (Low),1.6.112.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.115.0,1.6.115.255,4,9583,0.0009 (Low),1.6.115.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.116.0,1.6.119.255,4,9583,0.0009 (Low),1.6.116.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.118.0,1.6.118.255,4,9583,0.0009 (Low),1.6.118.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.120.0,1.6.123.255,4,9583,0.0009 (Low),1.6.120.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.124.0,1.6.127.255,4,9583,0.0009 (Low),1.6.124.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.128.0,1.6.131.255,4,9583,0.0009 (Low),1.6.128.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.128.0,1.6.128.255,4,9583,0.0009 (Low),1.6.128.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.130.0,1.6.130.255,4,9583,0.0009 (Low),1.6.130.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.132.0,1.6.133.255,4,9583,0.0009 (Low),1.6.132.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.132.0,1.6.132.255,4,9583,0.0009 (Low),1.6.132.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.134.0,1.6.135.255,4,9583,0.0009 (Low),1.6.134.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.136.0,1.6.139.255,4,9583,0.0009 (Low),1.6.136.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.0.0,1.6.3.255,4,9583,0.0001 (Very Low),1.6.0.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.1.0,1.6.1.255,4,9583,0.0001 (Very Low),1.6.1.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.2.0,1.6.2.255,4,9583,0.0001 (Very Low),1.6.2.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.4.0,1.6.7.255,4,9583,0.0001 (Very Low),1.6.4.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.7.0,1.6.7.255,4,9583,0.0001 (Very Low),1.6.7.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.8.0,1.6.11.255,4,9583,0.0001 (Very Low),1.6.8.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.9.0,1.6.9.255,4,9583,0.0001 (Very Low),1.6.9.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.10.0,1.6.10.255,4,9583,0.0001 (Very Low),1.6.10.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.11.0,1.6.11.255,4,9583,0.0001 (Very Low),1.6.11.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.12.0,1.6.15.255,4,9583,0.0001 (Very Low),1.6.12.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.12.0,1.6.12.255,4,9583,0.0001 (Very Low),1.6.12.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.13.0,1.6.13.255,4,9583,0.0001 (Very Low),1.6.13.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.16.0,1.6.19.255,4,9583,0.0001 (Very Low),1.6.16.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.17.0,1.6.17.255,4,9583,0.0001 (Very Low),1.6.17.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.20.0,1.6.23.255,4,9583,0.0001 (Very Low),1.6.20.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.24.0,1.6.27.255,4,9583,0.0001 (Very Low),1.6.24.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.28.0,1.6.31.255,4,9583,0.0001 (Very Low),1.6.28.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.31.0,1.6.31.255,4,9583,0.0001 (Very Low),1.6.31.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.32.0,1.6.35.255,4,9583,0.0001 (Very Low),1.6.32.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.36.0,1.6.39.255,4,9583,0.0001 (Very Low),1.6.36.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.40.0,1.6.43.255,4,9583,0.0001 (Very Low),1.6.40.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.42.0,1.6.42.255,4,9583,0.0001 (Very Low),1.6.42.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.44.0,1.6.47.255,4,9583,0.0001 (Very Low),1.6.44.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.46.0,1.6.46.255,4,9583,0.0001 (Very Low),1.6.46.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.48.0,1.6.51.255,4,9583,0.0001 (Very Low),1.6.48.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.50.0,1.6.50.255,4,9583,0.0001 (Very Low),1.6.50.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.52.0,1.6.55.255,4,9583,0.0001 (Very Low),1.6.52.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.52.0,1.6.52.255,4,9583,0.0001 (Very Low),1.6.52.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.54.0,1.6.54.255,4,9583,0.0001 (Very Low),1.6.54.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.56.0,1.6.59.255,4,9583,0.0001 (Very Low),1.6.56.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.59.0,1.6.59.255,4,9583,0.0001 (Very Low),1.6.59.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.60.0,1.6.63.255,4,9583,0.0001 (Very Low),1.6.60.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.60.0,1.6.60.255,4,9583,0.0001 (Very Low),1.6.60.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.64.0,1.6.67.255,4,9583,0.0001 (Very Low),1.6.64.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.65.0,1.6.65.255,4,9583,0.0001 (Very Low),1.6.65.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.66.0,1.6.66.255,4,9583,0.0001 (Very Low),1.6.66.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.67.0,1.6.67.255,4,9583,0.0001 (Very Low),1.6.67.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.68.0,1.6.71.255,4,9583,0.0001 (Very Low),1.6.68.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.69.0,1.6.69.255,4,9583,0.0001 (Very Low),1.6.69.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.70.0,1.6.70.255,4,9583,0.0001 (Very Low),1.6.70.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.72.0,1.6.75.255,4,9583,0.0001 (Very Low),1.6.72.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.72.0,1.6.72.255,4,9583,0.0001 (Very Low),1.6.72.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.73.0,1.6.73.255,4,9583,0.0001 (Very Low),1.6.73.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.74.0,1.6.74.255,4,9583,0.0001 (Very Low),1.6.74.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.75.0,1.6.75.255,4,9583,0.0001 (Very Low),1.6.75.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.76.0,1.6.79.255,4,9583,0.0001 (Very Low),1.6.76.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.80.0,1.6.83.255,4,9583,0.0001 (Very Low),1.6.80.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.82.0,1.6.82.255,4,9583,0.0001 (Very Low),1.6.82.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.84.0,1.6.87.255,4,9583,0.0001 (Very Low),1.6.84.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.88.0,1.6.91.255,4,9583,0.0001 (Very Low),1.6.88.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.89.0,1.6.89.255,4,9583,0.0001 (Very Low),1.6.89.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.92.0,1.6.95.255,4,9583,0.0001 (Very Low),1.6.92.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.92.0,1.6.92.255,4,9583,0.0001 (Very Low),1.6.92.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.93.0,1.6.93.255,4,9583,0.0001 (Very Low),1.6.93.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.95.0,1.6.95.255,4,9583,0.0001 (Very Low),1.6.95.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.96.0,1.6.99.255,4,9583,0.0001 (Very Low),1.6.96.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.99.0,1.6.99.255,4,9583,0.0001 (Very Low),1.6.99.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.100.0,1.6.103.255,4,9583,0.0001 (Very Low),1.6.100.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.104.0,1.6.107.255,4,9583,0.0001 (Very Low),1.6.104.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.104.0,1.6.104.255,4,9583,0.0001 (Very Low),1.6.104.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.108.0,1.6.111.255,4,9583,0.0001 (Very Low),1.6.108.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.112.0,1.6.115.255,4,9583,0.0001 (Very Low),1.6.112.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.115.0,1.6.115.255,4,9583,0.0001 (Very Low),1.6.115.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.116.0,1.6.119.255,4,9583,0.0001 (Very Low),1.6.116.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.118.0,1.6.118.255,4,9583,0.0001 (Very Low),1.6.118.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.120.0,1.6.123.255,4,9583,0.0001 (Very Low),1.6.120.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.124.0,1.6.127.255,4,9583,0.0001 (Very Low),1.6.124.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.128.0,1.6.131.255,4,9583,0.0001 (Very Low),1.6.128.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.128.0,1.6.128.255,4,9583,0.0001 (Very Low),1.6.128.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.130.0,1.6.130.255,4,9583,0.0001 (Very Low),1.6.130.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.132.0,1.6.133.255,4,9583,0.0001 (Very Low),1.6.132.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.132.0,1.6.132.255,4,9583,0.0001 (Very Low),1.6.132.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.134.0,1.6.135.255,4,9583,0.0001 (Very Low),1.6.134.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.136.0,1.6.139.255,4,9583,0.0001 (Very Low),1.6.136.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.136.0,1.6.136.255,4,132215,0.0002 (Very Low),1.6.136.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
-1.6.138.0,1.6.138.255,4,9583,0.0009 (Low),1.6.138.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.139.0,1.6.139.255,4,9583,0.0009 (Low),1.6.139.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.140.0,1.6.143.255,4,9583,0.0009 (Low),1.6.140.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.141.0,1.6.141.255,4,9583,0.0009 (Low),1.6.141.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.144.0,1.6.147.255,4,9583,0.0009 (Low),1.6.144.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.144.0,1.6.144.255,4,9583,0.0009 (Low),1.6.144.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.146.0,1.6.146.255,4,9583,0.0009 (Low),1.6.146.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.147.0,1.6.147.255,4,9583,0.0009 (Low),1.6.147.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.148.0,1.6.151.255,4,9583,0.0009 (Low),1.6.148.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.152.0,1.6.155.255,4,9583,0.0009 (Low),1.6.152.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.156.0,1.6.159.255,4,9583,0.0009 (Low),1.6.156.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.156.0,1.6.156.255,4,9583,0.0009 (Low),1.6.156.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.157.0,1.6.157.255,4,9583,0.0009 (Low),1.6.157.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.158.0,1.6.158.255,4,9583,0.0009 (Low),1.6.158.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.160.0,1.6.163.255,4,9583,0.0009 (Low),1.6.160.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.161.0,1.6.161.255,4,9583,0.0009 (Low),1.6.161.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.163.0,1.6.163.255,4,9583,0.0009 (Low),1.6.163.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.164.0,1.6.167.255,4,9583,0.0009 (Low),1.6.164.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.165.0,1.6.165.255,4,9583,0.0009 (Low),1.6.165.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.166.0,1.6.166.255,4,9583,0.0009 (Low),1.6.166.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.167.0,1.6.167.255,4,9583,0.0009 (Low),1.6.167.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.168.0,1.6.171.255,4,9583,0.0009 (Low),1.6.168.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.168.0,1.6.168.255,4,9583,0.0009 (Low),1.6.168.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.169.0,1.6.169.255,4,9583,0.0009 (Low),1.6.169.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.172.0,1.6.175.255,4,9583,0.0009 (Low),1.6.172.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.172.0,1.6.172.255,4,9583,0.0009 (Low),1.6.172.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.176.0,1.6.179.255,4,9583,0.0009 (Low),1.6.176.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.177.0,1.6.177.255,4,9583,0.0009 (Low),1.6.177.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.180.0,1.6.183.255,4,9583,0.0009 (Low),1.6.180.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.183.0,1.6.183.255,4,9583,0.0009 (Low),1.6.183.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.184.0,1.6.187.255,4,9583,0.0009 (Low),1.6.184.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.187.0,1.6.187.255,4,9583,0.0009 (Low),1.6.187.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.188.0,1.6.191.255,4,9583,0.0009 (Low),1.6.188.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.188.0,1.6.188.255,4,9583,0.0009 (Low),1.6.188.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.191.0,1.6.191.255,4,9583,0.0009 (Low),1.6.191.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.192.0,1.6.195.255,4,9583,0.0009 (Low),1.6.192.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.194.0,1.6.194.255,4,9583,0.0009 (Low),1.6.194.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.195.0,1.6.195.255,4,9583,0.0009 (Low),1.6.195.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.196.0,1.6.199.255,4,9583,0.0009 (Low),1.6.196.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.197.0,1.6.197.255,4,9583,0.0009 (Low),1.6.197.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.198.0,1.6.198.255,4,9583,0.0009 (Low),1.6.198.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.199.0,1.6.199.255,4,9583,0.0009 (Low),1.6.199.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.200.0,1.6.203.255,4,9583,0.0009 (Low),1.6.200.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.200.0,1.6.200.255,4,9583,0.0009 (Low),1.6.200.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.201.0,1.6.201.255,4,9583,0.0009 (Low),1.6.201.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.204.0,1.6.207.255,4,9583,0.0009 (Low),1.6.204.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.204.0,1.6.204.255,4,9583,0.0009 (Low),1.6.204.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.205.0,1.6.205.255,4,9583,0.0009 (Low),1.6.205.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.208.0,1.6.211.255,4,9583,0.0009 (Low),1.6.208.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.208.0,1.6.208.255,4,9583,0.0009 (Low),1.6.208.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.211.0,1.6.211.255,4,9583,0.0009 (Low),1.6.211.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.212.0,1.6.215.255,4,9583,0.0009 (Low),1.6.212.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.212.0,1.6.212.255,4,9583,0.0009 (Low),1.6.212.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.213.0,1.6.213.255,4,9583,0.0009 (Low),1.6.213.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.216.0,1.6.219.255,4,9583,0.0009 (Low),1.6.216.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.218.0,1.6.218.255,4,9583,0.0009 (Low),1.6.218.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.138.0,1.6.138.255,4,9583,0.0001 (Very Low),1.6.138.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.139.0,1.6.139.255,4,9583,0.0001 (Very Low),1.6.139.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.140.0,1.6.143.255,4,9583,0.0001 (Very Low),1.6.140.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.141.0,1.6.141.255,4,9583,0.0001 (Very Low),1.6.141.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.144.0,1.6.147.255,4,9583,0.0001 (Very Low),1.6.144.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.144.0,1.6.144.255,4,9583,0.0001 (Very Low),1.6.144.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.146.0,1.6.146.255,4,9583,0.0001 (Very Low),1.6.146.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.147.0,1.6.147.255,4,9583,0.0001 (Very Low),1.6.147.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.148.0,1.6.151.255,4,9583,0.0001 (Very Low),1.6.148.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.152.0,1.6.155.255,4,9583,0.0001 (Very Low),1.6.152.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.156.0,1.6.159.255,4,9583,0.0001 (Very Low),1.6.156.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.156.0,1.6.156.255,4,9583,0.0001 (Very Low),1.6.156.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.157.0,1.6.157.255,4,9583,0.0001 (Very Low),1.6.157.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.158.0,1.6.158.255,4,9583,0.0001 (Very Low),1.6.158.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.160.0,1.6.163.255,4,9583,0.0001 (Very Low),1.6.160.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.161.0,1.6.161.255,4,9583,0.0001 (Very Low),1.6.161.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.163.0,1.6.163.255,4,9583,0.0001 (Very Low),1.6.163.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.164.0,1.6.167.255,4,9583,0.0001 (Very Low),1.6.164.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.165.0,1.6.165.255,4,9583,0.0001 (Very Low),1.6.165.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.166.0,1.6.166.255,4,9583,0.0001 (Very Low),1.6.166.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.167.0,1.6.167.255,4,9583,0.0001 (Very Low),1.6.167.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.168.0,1.6.171.255,4,9583,0.0001 (Very Low),1.6.168.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.168.0,1.6.168.255,4,9583,0.0001 (Very Low),1.6.168.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.169.0,1.6.169.255,4,9583,0.0001 (Very Low),1.6.169.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.172.0,1.6.175.255,4,9583,0.0001 (Very Low),1.6.172.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.172.0,1.6.172.255,4,9583,0.0001 (Very Low),1.6.172.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.176.0,1.6.179.255,4,9583,0.0001 (Very Low),1.6.176.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.177.0,1.6.177.255,4,9583,0.0001 (Very Low),1.6.177.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.180.0,1.6.183.255,4,9583,0.0001 (Very Low),1.6.180.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.183.0,1.6.183.255,4,9583,0.0001 (Very Low),1.6.183.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.184.0,1.6.187.255,4,9583,0.0001 (Very Low),1.6.184.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.187.0,1.6.187.255,4,9583,0.0001 (Very Low),1.6.187.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.188.0,1.6.191.255,4,9583,0.0001 (Very Low),1.6.188.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.188.0,1.6.188.255,4,9583,0.0001 (Very Low),1.6.188.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.191.0,1.6.191.255,4,9583,0.0001 (Very Low),1.6.191.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.192.0,1.6.195.255,4,9583,0.0001 (Very Low),1.6.192.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.194.0,1.6.194.255,4,9583,0.0001 (Very Low),1.6.194.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.195.0,1.6.195.255,4,9583,0.0001 (Very Low),1.6.195.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.196.0,1.6.199.255,4,9583,0.0001 (Very Low),1.6.196.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.197.0,1.6.197.255,4,9583,0.0001 (Very Low),1.6.197.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.198.0,1.6.198.255,4,9583,0.0001 (Very Low),1.6.198.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.199.0,1.6.199.255,4,9583,0.0001 (Very Low),1.6.199.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.200.0,1.6.203.255,4,9583,0.0001 (Very Low),1.6.200.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.200.0,1.6.200.255,4,9583,0.0001 (Very Low),1.6.200.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.201.0,1.6.201.255,4,9583,0.0001 (Very Low),1.6.201.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.204.0,1.6.207.255,4,9583,0.0001 (Very Low),1.6.204.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.204.0,1.6.204.255,4,9583,0.0001 (Very Low),1.6.204.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.205.0,1.6.205.255,4,9583,0.0001 (Very Low),1.6.205.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.208.0,1.6.211.255,4,9583,0.0001 (Very Low),1.6.208.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.208.0,1.6.208.255,4,9583,0.0001 (Very Low),1.6.208.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.211.0,1.6.211.255,4,9583,0.0001 (Very Low),1.6.211.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.212.0,1.6.215.255,4,9583,0.0001 (Very Low),1.6.212.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.212.0,1.6.212.255,4,9583,0.0001 (Very Low),1.6.212.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.213.0,1.6.213.255,4,9583,0.0001 (Very Low),1.6.213.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.216.0,1.6.219.255,4,9583,0.0001 (Very Low),1.6.216.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.218.0,1.6.218.255,4,9583,0.0001 (Very Low),1.6.218.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.219.0,1.6.219.255,4,137130,0 (Very Low),1.6.219.0/24,"ITDPNB-AS Punjab National Bank, IN",in,true,ITDPNB AS,pnb.co.in,itdnw@pnb.co.in,business,,2018-02-20,APNIC
-1.6.220.0,1.6.223.255,4,9583,0.0009 (Low),1.6.220.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.220.0,1.6.220.255,4,9583,0.0009 (Low),1.6.220.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.224.0,1.6.227.255,4,9583,0.0009 (Low),1.6.224.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.224.0,1.6.224.255,4,9583,0.0009 (Low),1.6.224.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.220.0,1.6.223.255,4,9583,0.0001 (Very Low),1.6.220.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.220.0,1.6.220.255,4,9583,0.0001 (Very Low),1.6.220.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.224.0,1.6.227.255,4,9583,0.0001 (Very Low),1.6.224.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.224.0,1.6.224.255,4,9583,0.0001 (Very Low),1.6.224.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.226.0,1.6.226.255,4,132215,0.0002 (Very Low),1.6.226.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
 1.6.227.0,1.6.227.255,4,132215,0.0002 (Very Low),1.6.227.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
-1.6.228.0,1.6.231.255,4,9583,0.0009 (Low),1.6.228.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.228.0,1.6.231.255,4,9583,0.0001 (Very Low),1.6.228.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.228.0,1.6.228.255,4,132215,0.0002 (Very Low),1.6.228.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
 1.6.229.0,1.6.229.255,4,4755,0.0001 (Very Low),1.6.229.0/24,"TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",in,true,Tata Communications Limited,tatacommunications.com,4755abuse@tatacommunications.com,isp,,2020-12-08,APNIC
 1.6.230.0,1.6.230.255,4,4755,0.0001 (Very Low),1.6.230.0/24,"TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",in,true,Tata Communications Limited,tatacommunications.com,4755abuse@tatacommunications.com,isp,,2020-12-08,APNIC
-1.6.232.0,1.6.235.255,4,9583,0.0009 (Low),1.6.232.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.236.0,1.6.239.255,4,9583,0.0009 (Low),1.6.236.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.240.0,1.6.243.255,4,9583,0.0009 (Low),1.6.240.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.244.0,1.6.247.255,4,9583,0.0009 (Low),1.6.244.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.247.0,1.6.247.255,4,9583,0.0009 (Low),1.6.247.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.248.0,1.6.251.255,4,9583,0.0009 (Low),1.6.248.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.252.0,1.6.255.255,4,9583,0.0009 (Low),1.6.252.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.0.0,1.7.0.255,4,9583,0.0009 (Low),1.7.0.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.8.0,1.7.15.255,4,9583,0.0009 (Low),1.7.8.0/21,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.16.0,1.7.23.255,4,9583,0.0009 (Low),1.7.16.0/21,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.21.0,1.7.21.255,4,9583,0.0009 (Low),1.7.21.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.128.0,1.7.131.255,4,9583,0.0009 (Low),1.7.128.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.132.0,1.7.135.255,4,9583,0.0009 (Low),1.7.132.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.132.0,1.7.132.255,4,9583,0.0009 (Low),1.7.132.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.133.0,1.7.133.255,4,9583,0.0009 (Low),1.7.133.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.136.0,1.7.139.255,4,9583,0.0009 (Low),1.7.136.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.140.0,1.7.143.255,4,9583,0.0009 (Low),1.7.140.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.140.0,1.7.140.255,4,9583,0.0009 (Low),1.7.140.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.141.0,1.7.141.255,4,9583,0.0009 (Low),1.7.141.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.232.0,1.6.235.255,4,9583,0.0001 (Very Low),1.6.232.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.236.0,1.6.239.255,4,9583,0.0001 (Very Low),1.6.236.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.240.0,1.6.243.255,4,9583,0.0001 (Very Low),1.6.240.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.244.0,1.6.247.255,4,9583,0.0001 (Very Low),1.6.244.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.247.0,1.6.247.255,4,9583,0.0001 (Very Low),1.6.247.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.248.0,1.6.251.255,4,9583,0.0001 (Very Low),1.6.248.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.6.252.0,1.6.255.255,4,9583,0.0001 (Very Low),1.6.252.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.0.0,1.7.0.255,4,9583,0.0001 (Very Low),1.7.0.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.8.0,1.7.15.255,4,9583,0.0001 (Very Low),1.7.8.0/21,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.16.0,1.7.23.255,4,9583,0.0001 (Very Low),1.7.16.0/21,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.21.0,1.7.21.255,4,9583,0.0001 (Very Low),1.7.21.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.128.0,1.7.131.255,4,9583,0.0001 (Very Low),1.7.128.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.132.0,1.7.135.255,4,9583,0.0001 (Very Low),1.7.132.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.132.0,1.7.132.255,4,9583,0.0001 (Very Low),1.7.132.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.133.0,1.7.133.255,4,9583,0.0001 (Very Low),1.7.133.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.136.0,1.7.139.255,4,9583,0.0001 (Very Low),1.7.136.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.140.0,1.7.143.255,4,9583,0.0001 (Very Low),1.7.140.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.140.0,1.7.140.255,4,9583,0.0001 (Very Low),1.7.140.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.141.0,1.7.141.255,4,9583,0.0001 (Very Low),1.7.141.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.142.0,1.7.142.255,4,132215,0.0002 (Very Low),1.7.142.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
-1.7.143.0,1.7.143.255,4,9583,0.0009 (Low),1.7.143.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.144.0,1.7.147.255,4,9583,0.0009 (Low),1.7.144.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.148.0,1.7.151.255,4,9583,0.0009 (Low),1.7.148.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.150.0,1.7.150.255,4,9583,0.0009 (Low),1.7.150.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.143.0,1.7.143.255,4,9583,0.0001 (Very Low),1.7.143.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.144.0,1.7.147.255,4,9583,0.0001 (Very Low),1.7.144.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.148.0,1.7.151.255,4,9583,0.0001 (Very Low),1.7.148.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.150.0,1.7.150.255,4,9583,0.0001 (Very Low),1.7.150.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.151.0,1.7.151.255,4,132215,0.0002 (Very Low),1.7.151.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
-1.7.152.0,1.7.155.255,4,9583,0.0009 (Low),1.7.152.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.152.0,1.7.152.255,4,9583,0.0009 (Low),1.7.152.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.153.0,1.7.153.255,4,9583,0.0009 (Low),1.7.153.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.156.0,1.7.159.255,4,9583,0.0009 (Low),1.7.156.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.160.0,1.7.163.255,4,9583,0.0009 (Low),1.7.160.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.160.0,1.7.160.255,4,9583,0.0009 (Low),1.7.160.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.152.0,1.7.155.255,4,9583,0.0001 (Very Low),1.7.152.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.152.0,1.7.152.255,4,9583,0.0001 (Very Low),1.7.152.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.153.0,1.7.153.255,4,9583,0.0001 (Very Low),1.7.153.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.156.0,1.7.159.255,4,9583,0.0001 (Very Low),1.7.156.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.160.0,1.7.163.255,4,9583,0.0001 (Very Low),1.7.160.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.160.0,1.7.160.255,4,9583,0.0001 (Very Low),1.7.160.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.161.0,1.7.161.255,4,132215,0.0002 (Very Low),1.7.161.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
 1.7.162.0,1.7.162.255,4,132215,0.0002 (Very Low),1.7.162.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
-1.7.163.0,1.7.163.255,4,9583,0.0009 (Low),1.7.163.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.164.0,1.7.167.255,4,9583,0.0009 (Low),1.7.164.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.164.0,1.7.164.255,4,9583,0.0009 (Low),1.7.164.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.165.0,1.7.165.255,4,9583,0.0009 (Low),1.7.165.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.167.0,1.7.167.255,4,9583,0.0009 (Low),1.7.167.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.168.0,1.7.171.255,4,9583,0.0009 (Low),1.7.168.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.170.0,1.7.170.255,4,9583,0.0009 (Low),1.7.170.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.171.0,1.7.171.255,4,9583,0.0009 (Low),1.7.171.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.172.0,1.7.175.255,4,9583,0.0009 (Low),1.7.172.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.176.0,1.7.179.255,4,9583,0.0009 (Low),1.7.176.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.176.0,1.7.176.255,4,9583,0.0009 (Low),1.7.176.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.177.0,1.7.177.255,4,9583,0.0009 (Low),1.7.177.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.163.0,1.7.163.255,4,9583,0.0001 (Very Low),1.7.163.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.164.0,1.7.167.255,4,9583,0.0001 (Very Low),1.7.164.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.164.0,1.7.164.255,4,9583,0.0001 (Very Low),1.7.164.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.165.0,1.7.165.255,4,9583,0.0001 (Very Low),1.7.165.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.167.0,1.7.167.255,4,9583,0.0001 (Very Low),1.7.167.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.168.0,1.7.171.255,4,9583,0.0001 (Very Low),1.7.168.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.170.0,1.7.170.255,4,9583,0.0001 (Very Low),1.7.170.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.171.0,1.7.171.255,4,9583,0.0001 (Very Low),1.7.171.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.172.0,1.7.175.255,4,9583,0.0001 (Very Low),1.7.172.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.176.0,1.7.179.255,4,9583,0.0001 (Very Low),1.7.176.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.176.0,1.7.176.255,4,9583,0.0001 (Very Low),1.7.176.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.177.0,1.7.177.255,4,9583,0.0001 (Very Low),1.7.177.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.178.0,1.7.178.255,4,137130,0 (Very Low),1.7.178.0/24,"ITDPNB-AS Punjab National Bank, IN",in,true,ITDPNB AS,pnb.co.in,itdnw@pnb.co.in,business,,2018-02-20,APNIC
-1.7.180.0,1.7.183.255,4,9583,0.0009 (Low),1.7.180.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.180.0,1.7.183.255,4,9583,0.0001 (Very Low),1.7.180.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.180.0,1.7.180.255,4,132215,0.0002 (Very Low),1.7.180.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
-1.7.182.0,1.7.182.255,4,9583,0.0009 (Low),1.7.182.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.184.0,1.7.187.255,4,9583,0.0009 (Low),1.7.184.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.185.0,1.7.185.255,4,9583,0.0009 (Low),1.7.185.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.188.0,1.7.191.255,4,9583,0.0009 (Low),1.7.188.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.182.0,1.7.182.255,4,9583,0.0001 (Very Low),1.7.182.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.184.0,1.7.187.255,4,9583,0.0001 (Very Low),1.7.184.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.185.0,1.7.185.255,4,9583,0.0001 (Very Low),1.7.185.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.188.0,1.7.191.255,4,9583,0.0001 (Very Low),1.7.188.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.191.0,1.7.191.255,4,137130,0 (Very Low),1.7.191.0/24,"ITDPNB-AS Punjab National Bank, IN",in,true,ITDPNB AS,pnb.co.in,itdnw@pnb.co.in,business,,2018-02-20,APNIC
-1.7.192.0,1.7.195.255,4,9583,0.0009 (Low),1.7.192.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.192.0,1.7.192.255,4,9583,0.0009 (Low),1.7.192.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.193.0,1.7.193.255,4,9583,0.0009 (Low),1.7.193.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.194.0,1.7.194.255,4,9583,0.0009 (Low),1.7.194.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.196.0,1.7.199.255,4,9583,0.0009 (Low),1.7.196.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.198.0,1.7.198.255,4,9583,0.0009 (Low),1.7.198.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.199.0,1.7.199.255,4,9583,0.0009 (Low),1.7.199.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.192.0,1.7.195.255,4,9583,0.0001 (Very Low),1.7.192.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.192.0,1.7.192.255,4,9583,0.0001 (Very Low),1.7.192.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.193.0,1.7.193.255,4,9583,0.0001 (Very Low),1.7.193.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.194.0,1.7.194.255,4,9583,0.0001 (Very Low),1.7.194.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.196.0,1.7.199.255,4,9583,0.0001 (Very Low),1.7.196.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.198.0,1.7.198.255,4,9583,0.0001 (Very Low),1.7.198.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.199.0,1.7.199.255,4,9583,0.0001 (Very Low),1.7.199.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.200.0,1.7.200.255,4,132215,0.0002 (Very Low),1.7.200.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
 1.7.201.0,1.7.201.255,4,132215,0.0002 (Very Low),1.7.201.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
 1.7.202.0,1.7.202.255,4,132215,0.0002 (Very Low),1.7.202.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,business,,2024-09-04,APNIC
-1.7.204.0,1.7.207.255,4,9583,0.0009 (Low),1.7.204.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.204.0,1.7.207.255,4,9583,0.0001 (Very Low),1.7.204.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.205.0,1.7.205.255,4,140202,0 (Very Low),1.7.205.0/24,"FICCL-AS Fullerton India Credit Co. Ltd., IN",in,true,Fullerton India Credit Co. Ltd.,fullertonindia.com,Ronodeep.Dutta@fullertonindia.com,banking,,2020-09-15,APNIC
-1.7.208.0,1.7.211.255,4,9583,0.0009 (Low),1.7.208.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.210.0,1.7.210.255,4,9583,0.0009 (Low),1.7.210.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.212.0,1.7.215.255,4,9583,0.0009 (Low),1.7.212.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.216.0,1.7.219.255,4,9583,0.0009 (Low),1.7.216.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.216.0,1.7.216.255,4,9583,0.0009 (Low),1.7.216.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.217.0,1.7.217.255,4,9583,0.0009 (Low),1.7.217.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.218.0,1.7.218.255,4,9583,0.0009 (Low),1.7.218.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.219.0,1.7.219.255,4,9583,0.0009 (Low),1.7.219.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.220.0,1.7.223.255,4,9583,0.0009 (Low),1.7.220.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.224.0,1.7.227.255,4,9583,0.0009 (Low),1.7.224.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.208.0,1.7.211.255,4,9583,0.0001 (Very Low),1.7.208.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.210.0,1.7.210.255,4,9583,0.0001 (Very Low),1.7.210.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.212.0,1.7.215.255,4,9583,0.0001 (Very Low),1.7.212.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.216.0,1.7.219.255,4,9583,0.0001 (Very Low),1.7.216.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.216.0,1.7.216.255,4,9583,0.0001 (Very Low),1.7.216.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.217.0,1.7.217.255,4,9583,0.0001 (Very Low),1.7.217.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.218.0,1.7.218.255,4,9583,0.0001 (Very Low),1.7.218.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.219.0,1.7.219.255,4,9583,0.0001 (Very Low),1.7.219.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.220.0,1.7.223.255,4,9583,0.0001 (Very Low),1.7.220.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.224.0,1.7.227.255,4,9583,0.0001 (Very Low),1.7.224.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.225.0,1.7.225.255,4,396421,0 (Very Low),1.7.225.0/24,"PAN0002, US",us,true,PALO ALTO NETWORKS,paloaltonetworks.com,iaquino@paloaltonetworks.com,business,2017-06-07,2017-06-07,ARIN
-1.7.228.0,1.7.229.255,4,9583,0.0009 (Low),1.7.228.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.228.0,1.7.229.255,4,9583,0.0001 (Very Low),1.7.228.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.228.0,1.7.228.255,4,137130,0 (Very Low),1.7.228.0/24,"ITDPNB-AS Punjab National Bank, IN",in,true,ITDPNB AS,pnb.co.in,itdnw@pnb.co.in,business,,2018-02-20,APNIC
-1.7.229.0,1.7.229.255,4,9583,0.0009 (Low),1.7.229.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.230.0,1.7.230.255,4,9583,0.0009 (Low),1.7.230.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.231.0,1.7.231.255,4,9583,0.0009 (Low),1.7.231.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.232.0,1.7.235.255,4,9583,0.0009 (Low),1.7.232.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.236.0,1.7.239.255,4,9583,0.0009 (Low),1.7.236.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.237.0,1.7.237.255,4,9583,0.0009 (Low),1.7.237.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.240.0,1.7.243.255,4,9583,0.0009 (Low),1.7.240.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.240.0,1.7.240.255,4,9583,0.0009 (Low),1.7.240.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.241.0,1.7.241.255,4,9583,0.0009 (Low),1.7.241.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.242.0,1.7.242.255,4,9583,0.0009 (Low),1.7.242.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.244.0,1.7.245.255,4,9583,0.0009 (Low),1.7.244.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.229.0,1.7.229.255,4,9583,0.0001 (Very Low),1.7.229.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.230.0,1.7.230.255,4,9583,0.0001 (Very Low),1.7.230.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.231.0,1.7.231.255,4,9583,0.0001 (Very Low),1.7.231.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.232.0,1.7.235.255,4,9583,0.0001 (Very Low),1.7.232.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.236.0,1.7.239.255,4,9583,0.0001 (Very Low),1.7.236.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.237.0,1.7.237.255,4,9583,0.0001 (Very Low),1.7.237.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.240.0,1.7.243.255,4,9583,0.0001 (Very Low),1.7.240.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.240.0,1.7.240.255,4,9583,0.0001 (Very Low),1.7.240.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.241.0,1.7.241.255,4,9583,0.0001 (Very Low),1.7.241.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.242.0,1.7.242.255,4,9583,0.0001 (Very Low),1.7.242.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.244.0,1.7.245.255,4,9583,0.0001 (Very Low),1.7.244.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.8.1.0,1.8.1.255,4,38345,0.0003 (Very Low),1.8.1.0/24,"ZDNS Internet Domain Name System Beijing Engineering Resrarch Center Ltd., CN",cn,true,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,xingzhijie@knet.cn,business,,2023-11-28,APNIC
 1.8.8.0,1.8.8.255,4,38345,0.0003 (Very Low),1.8.8.0/24,"ZDNS Internet Domain Name System Beijing Engineering Resrarch Center Ltd., CN",cn,true,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,knet.cn,xingzhijie@knet.cn,business,,2023-11-28,APNIC
 1.9.0.0,1.9.255.255,4,4788,0.0002 (Very Low),1.9.0.0/16,"TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD., MY",my,true,TM TECHNOLOGY SERVICES SDN BHD,tm.com.my,abuse@tm.com.my,isp,,2023-06-30,APNIC
@@ -602,9 +602,9 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.11.231.0,1.11.231.255,4,17839,0.0004 (Very Low),1.11.231.0/24,"DREAMPLUS-AS-KR LG HelloVision Corp., KR",kr,true,,,,,,,
 1.12.0.0,1.15.255.255,4,45090,0.0012 (Low),1.12.0.0/14,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
 1.12.0.0,1.12.63.255,4,45090,0.0012 (Low),1.12.0.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
-1.12.0.0,1.12.15.255,4,132203,0.0032 (Low),1.12.0.0/20,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
-1.12.14.0,1.12.15.255,4,132203,0.0032 (Low),1.12.14.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
-1.12.34.0,1.12.35.255,4,132203,0.0032 (Low),1.12.34.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
+1.12.0.0,1.12.15.255,4,132203,0.0031 (Low),1.12.0.0/20,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
+1.12.14.0,1.12.15.255,4,132203,0.0031 (Low),1.12.14.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
+1.12.34.0,1.12.35.255,4,132203,0.0031 (Low),1.12.34.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
 1.12.64.0,1.12.127.255,4,45090,0.0012 (Low),1.12.64.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
 1.12.128.0,1.12.191.255,4,45090,0.0012 (Low),1.12.128.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
 1.12.192.0,1.12.255.255,4,45090,0.0012 (Low),1.12.192.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
@@ -631,9 +631,9 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.18.128.0,1.18.128.255,4,23596,0 (Very Low),1.18.128.0/24,"EDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
 1.18.129.0,1.18.129.255,4,23596,0 (Very Low),1.18.129.0/24,"EDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
 1.18.130.0,1.18.130.255,4,23596,0 (Very Low),1.18.130.0/24,"EDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
-1.18.132.0,1.18.132.255,4,23600,0.0005 (Very Low),1.18.132.0/24,"GDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
-1.18.133.0,1.18.133.255,4,23600,0.0005 (Very Low),1.18.133.0/24,"GDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
-1.18.134.0,1.18.134.255,4,23600,0.0005 (Very Low),1.18.134.0/24,"GDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
+1.18.132.0,1.18.132.255,4,23600,0.0006 (Low),1.18.132.0/24,"GDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
+1.18.133.0,1.18.133.255,4,23600,0.0006 (Low),1.18.133.0/24,"GDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
+1.18.134.0,1.18.134.255,4,23600,0.0006 (Low),1.18.134.0/24,"GDNSKR-KR Korea Internet Security Agency, KR",kr,true,,,,,,,
 1.20.0.0,1.20.255.255,4,23969,0.0011 (Low),1.20.0.0/16,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.0.0,1.20.0.255,4,56120,0.0001 (Very Low),1.20.0.0/24,"TOT-MOBILE-AS-AP TOT Public Company Limited, TH",th,true,TOT Mobile Co LTD,totidc.net,abuse@totidc.net,isp,,2021-01-18,APNIC
 1.20.1.0,1.20.1.255,4,56120,0.0001 (Very Low),1.20.1.0/24,"TOT-MOBILE-AS-AP TOT Public Company Limited, TH",th,true,TOT Mobile Co LTD,totidc.net,abuse@totidc.net,isp,,2021-01-18,APNIC
@@ -784,6 +784,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.20.243.0,1.20.243.255,4,23969,0.0011 (Low),1.20.243.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.244.0,1.20.244.255,4,23969,0.0011 (Low),1.20.244.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.246.0,1.20.246.255,4,23969,0.0011 (Low),1.20.246.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
+1.20.247.0,1.20.247.255,4,23969,0.0011 (Low),1.20.247.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.248.0,1.20.248.255,4,23969,0.0011 (Low),1.20.248.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.249.0,1.20.249.255,4,23969,0.0011 (Low),1.20.249.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.251.0,1.20.251.255,4,23969,0.0011 (Low),1.20.251.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
@@ -997,4 +998,3 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.22.215.0,1.22.215.255,4,45528,0.0024 (Low),1.22.215.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
 1.22.216.0,1.22.216.255,4,45528,0.0024 (Low),1.22.216.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
 1.22.217.0,1.22.217.255,4,45528,0.0024 (Low),1.22.217.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.218.0,1.22.218.255,4,45528,0.0024 (Low),1.22.218.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
