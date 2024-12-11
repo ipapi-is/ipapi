@@ -6,11 +6,11 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.0.8.0,1.0.15.255,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.11667,113.25,2
 1.0.16.0,1.0.31.255,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 1.0.32.0,1.0.63.255,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.11667,113.25,2
-1.0.64.0,1.0.67.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.64.0,1.0.67.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.68.0,1.0.68.255,AS,JP,Japan,Hiroshima,Hiroshima,730-0801,Asia/Tokyo,0,34.4,132.45,2
-1.0.69.0,1.0.71.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
-1.0.72.0,1.0.72.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
-1.0.73.0,1.0.79.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.69.0,1.0.71.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
+1.0.72.0,1.0.72.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
+1.0.73.0,1.0.79.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.80.0,1.0.80.255,AS,JP,Japan,Shimane,Izumo,699-0906,Asia/Tokyo,0,35.36667,132.76667,2
 1.0.81.0,1.0.81.255,AS,JP,Japan,Yamaguchi,Yamaguchi,759-1602,Asia/Tokyo,0,34.18333,131.46667,2
 1.0.82.0,1.0.82.255,AS,JP,Japan,Shimane,Matsue,699-0496,Asia/Tokyo,0,35.48333,133.05,2
@@ -19,17 +19,17 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.0.85.0,1.0.85.255,AS,JP,Japan,Shimane,Matsue,699-0496,Asia/Tokyo,0,35.48333,133.05,2
 1.0.86.0,1.0.86.255,AS,JP,Japan,Tottori,Tottori,689-1326,Asia/Tokyo,0,35.5,134.23333,2
 1.0.87.0,1.0.88.255,AS,JP,Japan,Yamaguchi,Yamaguchi,759-1602,Asia/Tokyo,0,34.18333,131.46667,2
-1.0.89.0,1.0.89.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.89.0,1.0.89.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.90.0,1.0.90.255,AS,JP,Japan,Tottori,Tottori,689-1326,Asia/Tokyo,0,35.5,134.23333,2
-1.0.91.0,1.0.91.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.91.0,1.0.91.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.92.0,1.0.92.255,AS,JP,Japan,Yamaguchi,Hikari,743-8577,Asia/Tokyo,0,33.955,131.95,2
 1.0.93.0,1.0.93.255,AS,JP,Japan,Tottori,Tottori,689-1326,Asia/Tokyo,0,35.5,134.23333,2
-1.0.94.0,1.0.94.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.94.0,1.0.94.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.95.0,1.0.95.255,AS,JP,Japan,Tottori,Kurayoshi,682-8633,Asia/Tokyo,0,35.43333,133.81667,2
 1.0.96.0,1.0.96.255,AS,JP,Japan,Tottori,Yonago,689-3592,Asia/Tokyo,0,35.43333,133.33333,2
-1.0.97.0,1.0.97.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.97.0,1.0.97.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.98.0,1.0.99.255,AS,JP,Japan,Yamaguchi,Yamaguchi,759-1602,Asia/Tokyo,0,34.18333,131.46667,2
-1.0.100.0,1.0.100.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.100.0,1.0.100.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.101.0,1.0.101.255,AS,JP,Japan,Shimane,Matsue,699-0496,Asia/Tokyo,0,35.48333,133.05,2
 1.0.102.0,1.0.102.255,AS,JP,Japan,Shimane,Izumo,699-0906,Asia/Tokyo,0,35.36667,132.76667,2
 1.0.103.0,1.0.103.255,AS,JP,Japan,Yamaguchi,Yamaguchi,759-1602,Asia/Tokyo,0,34.18333,131.46667,2
@@ -46,10 +46,10 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.0.114.0,1.0.114.255,AS,JP,Japan,Yamaguchi,Shimonoseki,759-6615,Asia/Tokyo,0,33.95548,130.93713,2
 1.0.115.0,1.0.115.255,AS,JP,Japan,Yamaguchi,Iwakuni,742-0492,Asia/Tokyo,0,34.16297,132.22,2
 1.0.116.0,1.0.116.255,AS,JP,Japan,Shimane,Matsue,699-0496,Asia/Tokyo,0,35.48333,133.05,2
-1.0.117.0,1.0.117.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.117.0,1.0.117.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.118.0,1.0.118.255,AS,JP,Japan,Tottori,Tottori,689-1326,Asia/Tokyo,0,35.5,134.23333,2
 1.0.119.0,1.0.121.255,AS,JP,Japan,Shimane,Matsue,699-0496,Asia/Tokyo,0,35.48333,133.05,2
-1.0.122.0,1.0.122.255,AS,JP,Japan,Hiroshima,Saka,731-4398,Asia/Tokyo,0,34.33333,132.51667,2
+1.0.122.0,1.0.122.255,AS,JP,Japan,Hiroshima,Fuchū,735-8686,Asia/Tokyo,0,34.38793,132.51001,2
 1.0.123.0,1.0.123.255,AS,JP,Japan,Yamaguchi,Yamaguchi,759-1602,Asia/Tokyo,0,34.18333,131.46667,2
 1.0.124.0,1.0.124.255,AS,JP,Japan,Yamaguchi,Shimonoseki,759-6615,Asia/Tokyo,0,33.95548,130.93713,2
 1.0.125.0,1.0.125.255,AS,JP,Japan,Yamaguchi,Yamaguchi,759-1602,Asia/Tokyo,0,34.18333,131.46667,2
@@ -201,7 +201,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 1.1.154.0,1.1.154.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.155.0,1.1.155.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.156.0,1.1.156.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
-1.1.157.0,1.1.157.255,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Bangkok,0,8.07257,98.91052,2
+1.1.157.0,1.1.157.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.158.0,1.1.158.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.159.0,1.1.159.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
 1.1.160.0,1.1.160.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Bangkok,0,13.75398,100.50144,3
