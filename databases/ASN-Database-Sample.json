@@ -2,6 +2,7 @@
   "1": {
     "asn": "1",
     "descr": "LVLT-1, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Level 3 Parent, LLC",
@@ -20,6 +21,7 @@
   "2": {
     "asn": "2",
     "descr": "UDEL-DCN, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Delaware",
@@ -32,9 +34,10 @@
     "prefixes": [
       "45.171.240.0/23",
       "45.171.240.0/24",
-      "45.171.241.0/24",
       "91.143.144.0/20",
       "128.4.0.0/16",
+      "193.35.34.0/23",
+      "193.242.191.0/24",
       "204.10.191.0/24"
     ],
     "prefixesIPv6": [
@@ -48,6 +51,7 @@
   "3": {
     "asn": "3",
     "descr": "MIT-GATEWAYS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Massachusetts Institute of Technology",
@@ -174,6 +178,10 @@
       "128.30.32.0/24",
       "128.30.52.0/24",
       "128.52.0.0/16",
+      "190.83.24.0/24",
+      "190.83.25.0/24",
+      "190.83.26.0/24",
+      "190.83.27.0/24",
       "192.52.61.0/24",
       "192.52.62.0/24",
       "192.52.63.0/24",
@@ -194,6 +202,7 @@
   "4": {
     "asn": "4",
     "descr": "ISI-AS, US",
+    "abuser_score": "0.0001 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Southern California",
@@ -260,12 +269,24 @@
   "5": {
     "asn": "5",
     "descr": "SYMBOLICS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
-    "active": false
+    "active": true,
+    "org": "WFA Group LLC",
+    "domain": "wfagroup.com",
+    "abuse": "jcma.arin@icloud.com",
+    "type": "banking",
+    "created": "1984-02-02",
+    "updated": "2020-07-23",
+    "rir": "ARIN",
+    "prefixes": [
+      "167.253.45.0/24"
+    ]
   },
   "6": {
     "asn": "6",
     "descr": "BULL-HN, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "ATOS IT Solutions and Services, Inc.",
@@ -314,6 +335,7 @@
   "7": {
     "asn": "7",
     "descr": "DSTL, EU",
+    "abuser_score": "0 (Very Low)",
     "country": "EU",
     "active": true,
     "org": "The Defence Science and Technology Laboratory",
@@ -351,6 +373,7 @@
   "8": {
     "asn": "8",
     "descr": "RICE-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Rice University",
@@ -368,14 +391,9 @@
       "168.5.0.0/16",
       "168.6.0.0/16",
       "168.7.0.0/16",
-      "190.83.24.0/24",
-      "190.83.25.0/24",
-      "190.83.26.0/24",
-      "190.83.27.0/24",
       "192.136.144.0/22",
       "192.136.148.0/23",
       "192.225.16.0/21",
-      "193.35.34.0/23",
       "208.90.184.0/24"
     ],
     "prefixesIPv6": [
@@ -385,6 +403,7 @@
   "9": {
     "asn": "9",
     "descr": "CMU-ROUTER, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Carnegie Mellon University",
@@ -412,29 +431,21 @@
   "10": {
     "asn": "10",
     "descr": "CSNET-EXT-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
-    "active": true,
-    "org": "CSNET Coordination and Information Center (CSNET-CIC)",
-    "domain": "genuity.com",
-    "abuse": "csoulia@genuity.com",
-    "type": "business",
-    "updated": "2000-04-18",
-    "rir": "ARIN",
-    "prefixes": [
-      "190.83.24.0/22",
-      "190.83.24.0/23",
-      "190.83.26.0/23"
-    ]
+    "active": false
   },
   "11": {
     "asn": "11",
     "descr": "HARVARD, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "12": {
     "asn": "12",
     "descr": "NYU-DOMAIN, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "New York University",
@@ -465,6 +476,7 @@
   "13": {
     "asn": "13",
     "descr": "DNIC-AS-00013, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Headquarters, USAISC",
@@ -489,6 +501,7 @@
   "14": {
     "asn": "14",
     "descr": "COLUMBIA-GW, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Columbia University",
@@ -517,12 +530,17 @@
   "15": {
     "asn": "15",
     "descr": "NET-DYNAMICS-EXP, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
-    "active": false
+    "active": true,
+    "prefixes": [
+      "168.195.152.0/24"
+    ]
   },
   "16": {
     "asn": "16",
     "descr": "LBL, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Lawrence Berkeley National Laboratory",
@@ -542,6 +560,7 @@
   "17": {
     "asn": "17",
     "descr": "PURDUE, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Purdue University",
@@ -574,6 +593,7 @@
   "18": {
     "asn": "18",
     "descr": "UTEXAS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Texas at Austin",
@@ -597,6 +617,7 @@
   "19": {
     "asn": "19",
     "descr": "LEIDOS-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Leidos, Inc.",
@@ -642,6 +663,7 @@
   "20": {
     "asn": "20",
     "descr": "UR, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Rochester",
@@ -663,6 +685,7 @@
   "21": {
     "asn": "21",
     "descr": "RAND, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "The RAND Corporation",
@@ -688,6 +711,7 @@
   "22": {
     "asn": "22",
     "descr": "DNIC-AS-00022, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Navy Network Information Center (NNIC)",
@@ -712,12 +736,14 @@
   "23": {
     "asn": "23",
     "descr": "AS23, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "24": {
     "asn": "24",
     "descr": "AS24, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "National Aeronautics and Space Administration",
@@ -734,6 +760,7 @@
   "25": {
     "asn": "25",
     "descr": "UCB, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of California at Berkeley",
@@ -765,6 +792,7 @@
   "26": {
     "asn": "26",
     "descr": "CORNELL, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Cornell University",
@@ -789,6 +817,7 @@
   "27": {
     "asn": "27",
     "descr": "UMDNET, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Maryland",
@@ -819,12 +848,14 @@
   "28": {
     "asn": "28",
     "descr": "DFVLR-SYS, DE",
+    "abuser_score": "0 (Very Low)",
     "country": "DE",
     "active": false
   },
   "29": {
     "asn": "29",
     "descr": "YALE-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Yale University",
@@ -849,6 +880,7 @@
   "30": {
     "asn": "30",
     "descr": "SRI-AICNET, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "SRI International",
@@ -867,6 +899,7 @@
   "31": {
     "asn": "31",
     "descr": "CIT, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "California Institute of Technology",
@@ -897,6 +930,7 @@
   "32": {
     "asn": "32",
     "descr": "STANFORD, US",
+    "abuser_score": "0.0001 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Stanford University",
@@ -919,6 +953,7 @@
   "33": {
     "asn": "33",
     "descr": "HPINC, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "HP Inc.",
@@ -939,6 +974,7 @@
   "34": {
     "asn": "34",
     "descr": "UDELNET, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Delaware",
@@ -960,6 +996,7 @@
   "35": {
     "asn": "35",
     "descr": "MITRE-AS-1, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "The MITRE Corporation",
@@ -985,12 +1022,14 @@
   "36": {
     "asn": "36",
     "descr": "EGP-TESTOR, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "37": {
     "asn": "37",
     "descr": "DNIC-AS-00037, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Navy Network Information Center (NNIC)",
@@ -1026,6 +1065,7 @@
   "38": {
     "asn": "38",
     "descr": "UIUC, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Illinois",
@@ -1056,24 +1096,28 @@
   "39": {
     "asn": "39",
     "descr": "DNIC-AS-00039, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "40": {
     "asn": "40",
     "descr": "MIT-TEST, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "41": {
     "asn": "41",
     "descr": "AS41, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "42": {
     "asn": "42",
     "descr": "WOODYNET-1, US",
+    "abuser_score": "0.0012 (Low)",
     "country": "US",
     "active": true,
     "org": "WoodyNet, Inc.",
@@ -1392,6 +1436,7 @@
   "43": {
     "asn": "43",
     "descr": "BNL-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Brookhaven National Laboratory",
@@ -1417,6 +1462,7 @@
   "44": {
     "asn": "44",
     "descr": "S1-DOMAIN, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Lawrence Livermore National Laboratory",
@@ -1438,6 +1484,7 @@
   "45": {
     "asn": "45",
     "descr": "LLL-TIS-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Lawrence Livermore National Laboratory",
@@ -1467,6 +1514,7 @@
   "46": {
     "asn": "46",
     "descr": "RUTGERS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Rutgers, The State University",
@@ -1494,6 +1542,7 @@
   "47": {
     "asn": "47",
     "descr": "USC-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Southern California",
@@ -1527,6 +1576,7 @@
   "48": {
     "asn": "48",
     "descr": "DNIC-AS-00048, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Navy Network Information Center (NNIC)",
@@ -1547,6 +1597,7 @@
   "49": {
     "asn": "49",
     "descr": "US-NATIONAL-INSTITUTE-OF-STANDARDS-AND-TECHNOLOGY, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "US National Institute of Standards & Technology",
@@ -1590,6 +1641,7 @@
   "50": {
     "asn": "50",
     "descr": "ORNL-MSRNET, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Oak Ridge National Laboratory",
@@ -1618,12 +1670,14 @@
   "51": {
     "asn": "51",
     "descr": "DNIC-AS-00051, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "52": {
     "asn": "52",
     "descr": "UCLA, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of California, Los Angeles",
@@ -1653,18 +1707,21 @@
   "53": {
     "asn": "53",
     "descr": "NORTHROP-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "54": {
     "asn": "54",
     "descr": "DNIC-AS-00054, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "55": {
     "asn": "55",
     "descr": "UPENN, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Pennsylvania",
@@ -1688,6 +1745,7 @@
   "56": {
     "asn": "56",
     "descr": "DNIC-AS-00056, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -2187,6 +2245,7 @@
   "57": {
     "asn": "57",
     "descr": "NL-GIGAPOP, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Minnesota",
@@ -2210,12 +2269,14 @@
   "58": {
     "asn": "58",
     "descr": "SSC-299-Z-58, CA",
+    "abuser_score": "0 (Very Low)",
     "country": "CA",
     "active": false
   },
   "59": {
     "asn": "59",
     "descr": "WISC-MADISON-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Wisconsin Madison",
@@ -2249,18 +2310,21 @@
   "60": {
     "asn": "60",
     "descr": "AINET-AS60, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "61": {
     "asn": "61",
     "descr": "DEC-MARLBORO-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "62": {
     "asn": "62",
     "descr": "CONE, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "CyrusOne LLC",
@@ -2457,6 +2521,7 @@
   "63": {
     "asn": "63",
     "descr": "LL-MI, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Massachusetts Institute of Technology",
@@ -2478,12 +2543,14 @@
   "64": {
     "asn": "64",
     "descr": "MITRE-AS-2, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "65": {
     "asn": "65",
     "descr": "AF-RASN-65, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -2501,18 +2568,21 @@
   "66": {
     "asn": "66",
     "descr": "DNIC-AS-00066, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "67": {
     "asn": "67",
     "descr": "SDC-PRC-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "68": {
     "asn": "68",
     "descr": "LANL-INET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Los Alamos National Laboratory",
@@ -2539,6 +2609,7 @@
   "69": {
     "asn": "69",
     "descr": "UPENN-NETWORK-LAB, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "prefixes": [
@@ -2548,6 +2619,7 @@
   "70": {
     "asn": "70",
     "descr": "NLM-GW, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "National Library of Medicine",
@@ -2634,12 +2706,14 @@
   "71": {
     "asn": "71",
     "descr": "HPINC, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "72": {
     "asn": "72",
     "descr": "SCHLUMBERGER-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Schlumberger Limited",
@@ -2660,10 +2734,6 @@
       "136.251.0.0/16",
       "136.252.0.0/16",
       "136.252.128.0/17",
-      "136.252.251.0/24",
-      "136.252.252.0/24",
-      "136.252.253.0/24",
-      "136.252.254.0/24",
       "136.253.0.0/16",
       "136.253.192.0/18",
       "136.254.0.0/16",
@@ -2798,6 +2868,7 @@
   "73": {
     "asn": "73",
     "descr": "WASHINGTON-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Washington",
@@ -2826,12 +2897,14 @@
   "74": {
     "asn": "74",
     "descr": "SSC-299-Z-74, CA",
+    "abuser_score": "0 (Very Low)",
     "country": "CA",
     "active": false
   },
   "75": {
     "asn": "75",
     "descr": "ANL-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Argonne National Laboratory",
@@ -2848,12 +2921,14 @@
   "76": {
     "asn": "76",
     "descr": "SDC-CAM-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "77": {
     "asn": "77",
     "descr": "JHUAPL-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Johns Hopkins University Applied Physics Laboratory",
@@ -2871,6 +2946,7 @@
   "78": {
     "asn": "78",
     "descr": "BA-346-78, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "BT Americas, Inc",
@@ -2888,12 +2964,14 @@
   "79": {
     "asn": "79",
     "descr": "DSPO-HC-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "80": {
     "asn": "80",
     "descr": "GE-CRD, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "prefixes": [
@@ -2904,13 +2982,13 @@
       "165.156.40.0/24",
       "165.156.56.0/24",
       "165.156.57.0/24",
-      "165.156.78.0/23",
-      "192.131.223.0/24"
+      "165.156.78.0/23"
     ]
   },
   "81": {
     "asn": "81",
     "descr": "NCREN, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "MCNC",
@@ -3081,6 +3159,7 @@
   "82": {
     "asn": "82",
     "descr": "OPENTEXT, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Attachmate Corp.",
@@ -3110,12 +3189,14 @@
   "83": {
     "asn": "83",
     "descr": "DNIC-AS-00083, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "84": {
     "asn": "84",
     "descr": "DNIC-AS-00084, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Navy Network Information Center (NNIC)",
@@ -3139,6 +3220,7 @@
   "85": {
     "asn": "85",
     "descr": "AERO-NET, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "The Aerospace Corporation",
@@ -3173,12 +3255,14 @@
   "86": {
     "asn": "86",
     "descr": "DXC-AS86, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "87": {
     "asn": "87",
     "descr": "INDIANA-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Indiana University",
@@ -3214,6 +3298,7 @@
   "88": {
     "asn": "88",
     "descr": "PRINCETON-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Princeton University",
@@ -3243,6 +3328,7 @@
   "89": {
     "asn": "89",
     "descr": "DNIC-AS-00089, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Navy Network Information Center (NNIC)",
@@ -3264,12 +3350,14 @@
   "90": {
     "asn": "90",
     "descr": "SUN-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "91": {
     "asn": "91",
     "descr": "RPI-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Rensselaer Polytechnic Institute",
@@ -3296,6 +3384,7 @@
   "92": {
     "asn": "92",
     "descr": "CLARKSON-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Clarkson University",
@@ -3318,6 +3407,7 @@
   "93": {
     "asn": "93",
     "descr": "NTTA-93, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "NTT America, Inc.",
@@ -3334,24 +3424,28 @@
   "94": {
     "asn": "94",
     "descr": "DNIC-AS-00094, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "95": {
     "asn": "95",
     "descr": "DNIC-AS-00095, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "96": {
     "asn": "96",
     "descr": "DNIC-AS-00096, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "97": {
     "asn": "97",
     "descr": "NTTA-97, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "NTT America, Inc.",
@@ -3369,6 +3463,7 @@
   "98": {
     "asn": "98",
     "descr": "ROCKEFELLER-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "The Rockefeller University",
@@ -3385,12 +3480,14 @@
   "99": {
     "asn": "99",
     "descr": "INTEL-IWARP, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "100": {
     "asn": "100",
     "descr": "FMC-CTC, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "FMC Central Engineering Laboratories",
@@ -3411,6 +3508,7 @@
   "101": {
     "asn": "101",
     "descr": "WASH-NSF-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Washington",
@@ -3435,6 +3533,7 @@
   "102": {
     "asn": "102",
     "descr": "NSF-HQ-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "National Science Foundation",
@@ -3456,6 +3555,7 @@
   "103": {
     "asn": "103",
     "descr": "NWU-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Northwestern University",
@@ -3501,6 +3601,7 @@
   "104": {
     "asn": "104",
     "descr": "COLORADO-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Colorado at Boulder",
@@ -3539,12 +3640,14 @@
   "105": {
     "asn": "105",
     "descr": "MOT-MCD-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "106": {
     "asn": "106",
     "descr": "GDAIS-ASN-106, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "General Dynamics Mission Systems, Inc.",
@@ -3568,18 +3671,21 @@
   "107": {
     "asn": "107",
     "descr": "ECSNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "108": {
     "asn": "108",
     "descr": "XEROX-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "109": {
     "asn": "109",
     "descr": "CISCOSYSTEMS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "CISCO SYSTEMS, INC.",
@@ -3730,12 +3836,14 @@
   "110": {
     "asn": "110",
     "descr": "XAIT-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "111": {
     "asn": "111",
     "descr": "BOSTONU-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Boston University",
@@ -3766,6 +3874,7 @@
   "112": {
     "asn": "112",
     "descr": "AS112-PROJECT, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DNS-OARC",
@@ -3787,24 +3896,28 @@
   "113": {
     "asn": "113",
     "descr": "SCCNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "114": {
     "asn": "114",
     "descr": "NTTA-114, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "115": {
     "asn": "115",
     "descr": "DNIC-AS-00115, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "116": {
     "asn": "116",
     "descr": "TELCORDIA, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Ericsson Inc.",
@@ -3849,30 +3962,35 @@
   "117": {
     "asn": "117",
     "descr": "ALBM-NET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "118": {
     "asn": "118",
     "descr": "DNIC-AS-00118, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "119": {
     "asn": "119",
     "descr": "AMS-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "120": {
     "asn": "120",
     "descr": "MITRE-OMAHA, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "121": {
     "asn": "121",
     "descr": "DNIC-AS-00121, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -3894,6 +4012,7 @@
   "122": {
     "asn": "122",
     "descr": "UPMC-AS122, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "UPMC",
@@ -3921,18 +4040,21 @@
   "123": {
     "asn": "123",
     "descr": "LOGAIRCOMNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "124": {
     "asn": "124",
     "descr": "DNIC-AS-00124, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "125": {
     "asn": "125",
     "descr": "HI-NET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Honeywell International, Inc.",
@@ -3971,12 +4093,14 @@
   "126": {
     "asn": "126",
     "descr": "DNIC-AS-00126, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "127": {
     "asn": "127",
     "descr": "JPL-AS127, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Jet Propulsion Laboratory",
@@ -4024,12 +4148,14 @@
   "128": {
     "asn": "128",
     "descr": "ADS-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "129": {
     "asn": "129",
     "descr": "DNIC-AS-00129, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -4061,12 +4187,14 @@
   "130": {
     "asn": "130",
     "descr": "CSOCNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "131": {
     "asn": "131",
     "descr": "UCSB-NET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of California, Santa Barbara",
@@ -4090,36 +4218,42 @@
   "132": {
     "asn": "132",
     "descr": "WPAFB-CSD-NET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "133": {
     "asn": "133",
     "descr": "AFIT-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "134": {
     "asn": "134",
     "descr": "CORONA-GW-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "135": {
     "asn": "135",
     "descr": "DNIC-AS-00135, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "136": {
     "asn": "136",
     "descr": "AF-ASN-136, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "137": {
     "asn": "137",
     "descr": "ASGARR Consortium GARR, IT",
+    "abuser_score": "0 (Very Low)",
     "country": "IT",
     "active": true,
     "org": "Consortium GARR",
@@ -4221,6 +4355,7 @@
   "138": {
     "asn": "138",
     "descr": "DNIC-AS-00138, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -4254,54 +4389,63 @@
   "139": {
     "asn": "139",
     "descr": "DNIC-AS-00139, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "140": {
     "asn": "140",
     "descr": "DNIC-AS-00140, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "141": {
     "asn": "141",
     "descr": "DNIC-AS-00141, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "142": {
     "asn": "142",
     "descr": "DNIC-AS-00142, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "143": {
     "asn": "143",
     "descr": "OOG1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "144": {
     "asn": "144",
     "descr": "ATT-INTERNET, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "145": {
     "asn": "145",
     "descr": "VBNS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "146": {
     "asn": "146",
     "descr": "HQEIS-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "147": {
     "asn": "147",
     "descr": "DNIC-AS-00147, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -4318,12 +4462,14 @@
   "148": {
     "asn": "148",
     "descr": "DNIC-AS-00148, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "149": {
     "asn": "149",
     "descr": "DNIC-AS-00149, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -4351,24 +4497,28 @@
   "150": {
     "asn": "150",
     "descr": "DNIC-AS-00150, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "151": {
     "asn": "151",
     "descr": "HPINC, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "152": {
     "asn": "152",
     "descr": "SRI-ACCATT-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "153": {
     "asn": "153",
     "descr": "CTNOSC-ASN-153, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Headquarters, USAISC",
@@ -4389,18 +4539,21 @@
   "154": {
     "asn": "154",
     "descr": "DNIC-AS-00154, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "155": {
     "asn": "155",
     "descr": "DNIC-AS-00155, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "156": {
     "asn": "156",
     "descr": "NORTHEASTERN-GW-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Northeastern University",
@@ -4430,6 +4583,7 @@
   "157": {
     "asn": "157",
     "descr": "INTELLIAUTON, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Silicon Graphics International Corp.",
@@ -4447,6 +4601,7 @@
   "158": {
     "asn": "158",
     "descr": "ERI-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Ericsson Inc.",
@@ -4546,6 +4701,7 @@
   "159": {
     "asn": "159",
     "descr": "OSUNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Ohio State University",
@@ -4571,6 +4727,7 @@
   "160": {
     "asn": "160",
     "descr": "U-CHICAGO-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "The University of Chicago",
@@ -4596,6 +4753,7 @@
   "161": {
     "asn": "161",
     "descr": "TI-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Texas Instruments Incorporated",
@@ -4624,30 +4782,35 @@
   "162": {
     "asn": "162",
     "descr": "DNIC-AS-00162, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "163": {
     "asn": "163",
     "descr": "IBM-RESEARCH-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "164": {
     "asn": "164",
     "descr": "DNIC-AS-00164, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "165": {
     "asn": "165",
     "descr": "DNIC-AS-00165, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "166": {
     "asn": "166",
     "descr": "IDA-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Institute for Defense Analyses",
@@ -4684,6 +4847,7 @@
   "167": {
     "asn": "167",
     "descr": "WESLEYAN-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Wesleyan University",
@@ -4702,6 +4866,7 @@
   "168": {
     "asn": "168",
     "descr": "UMASS-AMHERST, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Massachusetts",
@@ -4718,12 +4883,14 @@
   "169": {
     "asn": "169",
     "descr": "HANSCOM-NET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "170": {
     "asn": "170",
     "descr": "DNIC-AS-00170, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -4740,18 +4907,21 @@
   "171": {
     "asn": "171",
     "descr": "SOX-RES, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "172": {
     "asn": "172",
     "descr": "DNIC-AS-00172, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "173": {
     "asn": "173",
     "descr": "NTTECL-AS Nippon Telegraph and Telephone Corporation, JP",
+    "abuser_score": "0 (Very Low)",
     "country": "JP",
     "active": true,
     "org": "Nippon Telegraph and Telephone Corporation",
@@ -4768,6 +4938,7 @@
   "174": {
     "asn": "174",
     "descr": "COGENT-174, US",
+    "abuser_score": "0.0001 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Cogent Communications",
@@ -4780,6 +4951,7 @@
     "prefixes": [
       "2.58.4.0/22",
       "2.59.22.0/24",
+      "5.22.204.0/22",
       "5.39.192.0/22",
       "5.102.116.0/22",
       "5.157.72.0/21",
@@ -4923,11 +5095,14 @@
       "38.45.103.0/24",
       "38.45.104.0/23",
       "38.45.106.0/23",
+      "38.45.108.0/22",
       "38.45.108.0/24",
+      "38.45.109.0/24",
       "38.45.110.0/23",
       "38.45.110.0/24",
       "38.45.111.0/24",
       "38.45.200.0/23",
+      "38.45.201.0/24",
       "38.45.202.0/23",
       "38.45.202.0/24",
       "38.45.203.0/24",
@@ -4960,10 +5135,12 @@
       "38.49.211.0/24",
       "38.49.212.0/24",
       "38.49.213.0/24",
+      "38.49.214.0/24",
       "38.49.215.0/24",
       "38.49.216.0/24",
       "38.49.217.0/24",
       "38.49.218.0/24",
+      "38.49.219.0/24",
       "38.49.220.0/24",
       "38.49.221.0/24",
       "38.49.222.0/24",
@@ -5155,6 +5332,7 @@
       "38.64.182.0/24",
       "38.64.183.0/24",
       "38.69.178.0/24",
+      "38.76.142.0/24",
       "38.77.226.0/24",
       "38.77.230.0/24",
       "38.77.252.0/24",
@@ -5172,6 +5350,7 @@
       "38.96.251.0/24",
       "38.100.165.0/24",
       "38.103.194.0/23",
+      "38.103.194.0/24",
       "38.103.195.0/24",
       "38.107.76.0/24",
       "38.107.77.0/24",
@@ -5313,6 +5492,7 @@
       "38.156.189.0/24",
       "38.156.190.0/24",
       "38.156.191.0/24",
+      "38.156.225.0/24",
       "38.156.242.0/24",
       "38.156.243.0/24",
       "38.158.85.0/24",
@@ -5599,7 +5779,6 @@
       "38.224.154.0/23",
       "38.224.154.0/24",
       "38.224.155.0/24",
-      "38.224.214.0/24",
       "38.224.215.0/24",
       "38.252.12.0/24",
       "38.252.13.0/24",
@@ -5926,6 +6105,7 @@
       "86.54.20.0/24",
       "86.54.28.0/24",
       "86.54.29.0/24",
+      "86.54.31.0/24",
       "86.54.228.0/24",
       "86.54.235.0/24",
       "86.54.249.0/24",
@@ -6009,6 +6189,12 @@
       "94.241.178.0/23",
       "94.241.180.0/23",
       "94.241.182.0/23",
+      "95.134.88.0/24",
+      "95.134.95.0/24",
+      "95.134.128.0/24",
+      "95.134.134.0/24",
+      "95.134.151.0/24",
+      "95.135.104.0/24",
       "96.62.33.0/24",
       "96.62.34.0/24",
       "96.62.35.0/24",
@@ -6020,26 +6206,71 @@
       "96.62.67.0/24",
       "96.62.68.0/24",
       "96.62.70.0/24",
+      "96.62.102.0/24",
+      "96.62.104.0/24",
       "96.62.106.0/24",
+      "96.62.107.0/24",
       "96.62.108.0/24",
+      "96.62.109.0/24",
       "96.62.110.0/24",
       "96.62.112.0/24",
+      "96.62.113.0/24",
+      "96.62.116.0/24",
       "96.62.117.0/24",
+      "96.62.118.0/24",
+      "96.62.119.0/24",
+      "96.62.120.0/24",
+      "96.62.121.0/24",
       "96.62.122.0/24",
       "96.62.123.0/24",
+      "96.62.124.0/24",
+      "96.62.125.0/24",
       "96.62.136.0/24",
+      "96.62.141.0/24",
       "96.62.142.0/24",
+      "96.62.143.0/24",
+      "96.62.146.0/24",
       "96.62.147.0/24",
+      "96.62.160.0/24",
+      "96.62.161.0/24",
+      "96.62.162.0/24",
+      "96.62.163.0/24",
+      "96.62.164.0/24",
+      "96.62.165.0/24",
+      "96.62.166.0/24",
+      "96.62.167.0/24",
+      "96.62.168.0/24",
+      "96.62.169.0/24",
+      "96.62.170.0/24",
       "96.62.171.0/24",
       "96.62.172.0/24",
       "96.62.173.0/24",
       "96.62.174.0/24",
+      "96.62.175.0/24",
+      "96.62.177.0/24",
       "96.62.178.0/24",
+      "96.62.179.0/24",
       "96.62.188.0/24",
+      "96.62.189.0/24",
+      "96.62.196.0/24",
+      "96.62.198.0/24",
+      "96.62.199.0/24",
+      "96.62.212.0/24",
       "96.62.213.0/24",
+      "96.62.215.0/24",
       "96.62.225.0/24",
       "96.62.226.0/24",
+      "96.62.228.0/24",
       "96.62.230.0/24",
+      "96.62.236.0/24",
+      "96.62.237.0/24",
+      "96.62.238.0/24",
+      "96.62.239.0/24",
+      "96.62.240.0/24",
+      "96.62.241.0/24",
+      "96.62.245.0/24",
+      "96.62.246.0/24",
+      "96.62.252.0/24",
       "98.159.96.0/22",
       "100.43.22.0/23",
       "102.129.145.0/24",
@@ -6063,6 +6294,7 @@
       "104.37.56.0/23",
       "104.129.249.0/24",
       "104.152.4.0/23",
+      "104.164.75.0/24",
       "104.167.229.0/24",
       "104.171.192.0/24",
       "104.192.120.0/21",
@@ -6510,7 +6742,6 @@
       "154.3.26.0/24",
       "154.3.31.0/24",
       "154.3.41.0/24",
-      "154.3.44.0/24",
       "154.3.46.0/24",
       "154.3.52.0/23",
       "154.3.54.0/23",
@@ -6594,7 +6825,6 @@
       "154.7.222.0/24",
       "154.7.223.0/24",
       "154.9.0.0/16",
-      "154.9.1.0/24",
       "154.9.8.0/21",
       "154.9.18.0/23",
       "154.9.20.0/23",
@@ -6604,7 +6834,6 @@
       "154.9.40.0/22",
       "154.9.44.0/22",
       "154.9.48.0/22",
-      "154.9.52.0/22",
       "154.9.56.0/22",
       "154.9.60.0/22",
       "154.9.65.0/24",
@@ -6624,7 +6853,6 @@
       "154.9.208.0/22",
       "154.9.212.0/23",
       "154.12.0.0/15",
-      "154.12.0.0/24",
       "154.12.1.0/24",
       "154.12.3.0/24",
       "154.12.4.0/23",
@@ -6788,6 +7016,7 @@
       "154.19.41.0/24",
       "154.19.42.0/24",
       "154.19.43.0/24",
+      "154.19.160.0/24",
       "154.21.0.0/16",
       "154.21.8.0/23",
       "154.21.10.0/23",
@@ -7056,7 +7285,15 @@
       "154.38.129.0/24",
       "154.38.130.0/23",
       "154.38.144.0/22",
+      "154.38.144.0/24",
+      "154.38.145.0/24",
+      "154.38.146.0/24",
+      "154.38.147.0/24",
       "154.38.148.0/22",
+      "154.38.148.0/24",
+      "154.38.149.0/24",
+      "154.38.150.0/24",
+      "154.38.151.0/24",
       "154.38.152.0/22",
       "154.38.156.0/22",
       "154.39.1.0/24",
@@ -7090,6 +7327,14 @@
       "154.64.135.0/24",
       "154.64.232.0/21",
       "154.64.240.0/22",
+      "154.88.32.0/24",
+      "154.88.33.0/24",
+      "154.88.34.0/24",
+      "154.88.35.0/24",
+      "154.88.41.0/24",
+      "154.202.105.0/24",
+      "154.202.134.0/24",
+      "154.202.135.0/24",
       "154.214.0.0/24",
       "156.46.0.0/16",
       "157.238.178.0/24",
@@ -7199,6 +7444,7 @@
       "185.236.192.0/24",
       "185.244.16.0/22",
       "185.253.122.0/24",
+      "188.191.48.0/22",
       "188.214.35.0/24",
       "190.93.110.0/24",
       "190.93.120.0/22",
@@ -8176,6 +8422,7 @@
       "2001:49f0:d07b::/48",
       "2001:49f0:d085::/48",
       "2001:49f0:d086::/48",
+      "2001:49f0:d0ad::/48",
       "2001:49f0:d0b0::/48",
       "2001:49f0:d0b8::/48",
       "2001:49f0:d0bf::/48",
@@ -8316,18 +8563,21 @@
   "175": {
     "asn": "175",
     "descr": "PL-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "176": {
     "asn": "176",
     "descr": "BCN-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "177": {
     "asn": "177",
     "descr": "UMICH-AS-1, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Michigan",
@@ -8345,54 +8595,63 @@
   "178": {
     "asn": "178",
     "descr": "UMICH-AS-2, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "179": {
     "asn": "179",
     "descr": "UMICH-AS-3, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "180": {
     "asn": "180",
     "descr": "UMICH-AS-4, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "181": {
     "asn": "181",
     "descr": "MERIT-AS-1, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "182": {
     "asn": "182",
     "descr": "MERIT-AS-2, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "183": {
     "asn": "183",
     "descr": "MERIT-AS-3, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "184": {
     "asn": "184",
     "descr": "MERIT-AS-4, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "185": {
     "asn": "185",
     "descr": "MERIT-AS-5, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "186": {
     "asn": "186",
     "descr": "CUA-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "The Catholic University of America",
@@ -8409,6 +8668,7 @@
   "187": {
     "asn": "187",
     "descr": "DNSCAST-AS, US",
+    "abuser_score": "0.0002 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DNScast",
@@ -8460,6 +8720,7 @@
   "188": {
     "asn": "188",
     "descr": "SAIC-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "SAIC",
@@ -8514,12 +8775,14 @@
   "189": {
     "asn": "189",
     "descr": "LUMEN-LEGACY-L3-PARTITION, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "190": {
     "asn": "190",
     "descr": "DNIC-AS-00190, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Navy Network Information Center (NNIC)",
@@ -8540,24 +8803,28 @@
   "191": {
     "asn": "191",
     "descr": "DNIC-AS-00191, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "192": {
     "asn": "192",
     "descr": "ROCHINSTTECH, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "193": {
     "asn": "193",
     "descr": "FORD-ASN, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "194": {
     "asn": "194",
     "descr": "NCAR-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University Corporation for Atmospheric Research",
@@ -8580,6 +8847,7 @@
   "195": {
     "asn": "195",
     "descr": "SDSC-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "San Diego Supercomputer Center",
@@ -8626,6 +8894,7 @@
   "196": {
     "asn": "196",
     "descr": "BOEING196, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "The Boeing Company",
@@ -8656,36 +8925,42 @@
   "197": {
     "asn": "197",
     "descr": "RAYTHEON-AS-2, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "198": {
     "asn": "198",
     "descr": "DNIC-AS-00198, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "199": {
     "asn": "199",
     "descr": "CENTURYLINK-LEGACY-LVLT-199, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "200": {
     "asn": "200",
     "descr": "CENTURYLINK-LEGACY-LVLT-200, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "201": {
     "asn": "201",
     "descr": "CENTURYLINK-LEGACY-LVLT-201, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "202": {
     "asn": "202",
     "descr": "CENTURYLINK-LEGACY-LVLT-202, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Level 3 Parent, LLC",
@@ -8702,6 +8977,7 @@
   "203": {
     "asn": "203",
     "descr": "CENTURYLINK-LEGACY-LVLT-203, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Level 3 Parent, LLC",
@@ -8750,6 +9026,7 @@
       "158.120.127.0/24",
       "161.209.225.0/24",
       "170.22.90.0/24",
+      "176.65.75.0/24",
       "185.69.224.0/24",
       "189.125.51.0/24",
       "192.42.110.0/24",
@@ -8780,7 +9057,7 @@
       "199.68.18.0/24",
       "199.68.19.0/24",
       "200.1.175.0/24",
-      "201.221.124.0/24",
+      "201.221.124.0/23",
       "204.17.143.0/24",
       "204.153.154.0/24",
       "204.153.155.0/24",
@@ -8805,12 +9082,14 @@
   "204": {
     "asn": "204",
     "descr": "PSCNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "205": {
     "asn": "205",
     "descr": "MONTCLAIR-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Montclair State University",
@@ -8828,6 +9107,7 @@
   "206": {
     "asn": "206",
     "descr": "CSC-IGN-AMER-AS206, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DXC US Latin America Corporation",
@@ -8851,18 +9131,21 @@
   "207": {
     "asn": "207",
     "descr": "CLI-GW-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "208": {
     "asn": "208",
     "descr": "DNIC-AS-00208, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "209": {
     "asn": "209",
     "descr": "CENTURYLINK-US-LEGACY-QWEST, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "CenturyLink Communications, LLC",
@@ -10586,6 +10869,7 @@
   "210": {
     "asn": "210",
     "descr": "WEST-NET-WEST, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Utah Education Network",
@@ -10633,18 +10917,21 @@
   "211": {
     "asn": "211",
     "descr": "RADC-ROME-AIR-DEVELMENT-CENTER, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "212": {
     "asn": "212",
     "descr": "RESERVED, ZZ",
+    "abuser_score": "0 (Very Low)",
     "country": "ZZ",
     "active": false
   },
   "213": {
     "asn": "213",
     "descr": "DNIC-AS-00213, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Headquarters, USAISC",
@@ -10664,24 +10951,28 @@
   "214": {
     "asn": "214",
     "descr": "DNIC-AS-00214, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "215": {
     "asn": "215",
     "descr": "DNIC-AS-00215, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "216": {
     "asn": "216",
     "descr": "LMSC-HOSTNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "217": {
     "asn": "217",
     "descr": "UMN-SYSTEM, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Minnesota",
@@ -10705,36 +10996,42 @@
   "218": {
     "asn": "218",
     "descr": "AFOTECPCNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "219": {
     "asn": "219",
     "descr": "DNIC-AS-00219, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "220": {
     "asn": "220",
     "descr": "OOALC-HOSTNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "221": {
     "asn": "221",
     "descr": "WRALC-HOSTNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "222": {
     "asn": "222",
     "descr": "SMALC-HOSTNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "223": {
     "asn": "223",
     "descr": "AS223, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Parsons Corporation",
@@ -10762,6 +11059,7 @@
   "224": {
     "asn": "224",
     "descr": "UNINETT UNINETT, The Norwegian University & Research Network, NO",
+    "abuser_score": "0 (Very Low)",
     "country": "NO",
     "active": true,
     "org": "SIKT - KUNNSKAPSSEKTORENS TJENESTELEVERANDOR",
@@ -10794,6 +11092,7 @@
   "225": {
     "asn": "225",
     "descr": "VIRGINIA-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Virginia",
@@ -10829,6 +11128,7 @@
   "226": {
     "asn": "226",
     "descr": "LOS-NETTOS-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Los Nettos",
@@ -10861,12 +11161,14 @@
   "227": {
     "asn": "227",
     "descr": "DNIC-AS-00227, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "228": {
     "asn": "228",
     "descr": "DNIC-AS-00228, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -10889,6 +11191,7 @@
   "229": {
     "asn": "229",
     "descr": "MERIT-AS-6, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Merit Network Inc.",
@@ -10909,12 +11212,14 @@
   "230": {
     "asn": "230",
     "descr": "MERIT-AS-7, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "231": {
     "asn": "231",
     "descr": "MISU-231, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Michigan State University",
@@ -10941,36 +11246,42 @@
   "232": {
     "asn": "232",
     "descr": "MERIT-AS-9, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "233": {
     "asn": "233",
     "descr": "MERIT-AS-10, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "234": {
     "asn": "234",
     "descr": "NETHER-RESEARCH, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "235": {
     "asn": "235",
     "descr": "MERIT-AS-12, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "236": {
     "asn": "236",
     "descr": "MERIT-AS-13, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "237": {
     "asn": "237",
     "descr": "MERIT-AS-14, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Merit Network Inc.",
@@ -11053,7 +11364,6 @@
       "192.138.137.0/24",
       "192.160.192.0/24",
       "192.160.204.0/24",
-      "192.188.100.0/24",
       "192.203.195.0/24",
       "192.245.252.0/24",
       "192.245.254.0/24",
@@ -11081,12 +11391,14 @@
   "238": {
     "asn": "238",
     "descr": "MERIT-AS-15, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "239": {
     "asn": "239",
     "descr": "UTORONTO-AS, CA",
+    "abuser_score": "0 (Very Low)",
     "country": "CA",
     "active": true,
     "org": "University of Toronto",
@@ -11122,24 +11434,28 @@
   "240": {
     "asn": "240",
     "descr": "SAALC-HOSTNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "241": {
     "asn": "241",
     "descr": "OCALC-HOSTNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "242": {
     "asn": "242",
     "descr": "SSSD-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "243": {
     "asn": "243",
     "descr": "HARRIS-ATD-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "L3Harris Technologies, Inc.",
@@ -11233,36 +11549,42 @@
   "244": {
     "asn": "244",
     "descr": "DNIC-AS-00244, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "245": {
     "asn": "245",
     "descr": "PRC-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "246": {
     "asn": "246",
     "descr": "ASIFICS-GW-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "247": {
     "asn": "247",
     "descr": "ROMENET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "248": {
     "asn": "248",
     "descr": "IDDQD-AS IDDQD-AS, EU",
+    "abuser_score": "0 (Very Low)",
     "country": "EU",
     "active": false
   },
   "249": {
     "asn": "249",
     "descr": "PACKETSTAR European Network, EU",
+    "abuser_score": "0 (Very Low)",
     "country": "EU",
     "active": true,
     "org": "European Network",
@@ -11278,6 +11600,7 @@
   "250": {
     "asn": "250",
     "descr": "SACREDCHAO-AS AS250.net Foundation, EU",
+    "abuser_score": "0.0008 (Low)",
     "country": "EU",
     "active": true,
     "org": "SACREDCHAO AS",
@@ -11298,12 +11621,14 @@
   "251": {
     "asn": "251",
     "descr": "DENISKLIMEK-AS Denis Klimek, EU",
+    "abuser_score": "0 (Very Low)",
     "country": "EU",
     "active": false
   },
   "252": {
     "asn": "252",
     "descr": "DNIC-AS-00252, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Headquarters, USAISC",
@@ -11327,12 +11652,14 @@
   "253": {
     "asn": "253",
     "descr": "NTTA-253, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "254": {
     "asn": "254",
     "descr": "OPENTEXT, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Attachmate Corp.",
@@ -11370,18 +11697,21 @@
   "255": {
     "asn": "255",
     "descr": "PAFB-GW, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "256": {
     "asn": "256",
     "descr": "DNIC-AS-00256, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "257": {
     "asn": "257",
     "descr": "DNIC-AS-00257, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Navy Network Information Center (NNIC)",
@@ -11405,6 +11735,7 @@
   "258": {
     "asn": "258",
     "descr": "BRAGGSRI-EGP-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Headquarters, USAISC",
@@ -11422,12 +11753,14 @@
   "259": {
     "asn": "259",
     "descr": "SCUBED-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "260": {
     "asn": "260",
     "descr": "GTT-DXB, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "GTT",
@@ -11452,12 +11785,14 @@
   "261": {
     "asn": "261",
     "descr": "FR-CINES-MONTPELLIER FR, EU",
+    "abuser_score": "0 (Very Low)",
     "country": "EU",
     "active": false
   },
   "262": {
     "asn": "262",
     "descr": "VERIO, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "NTT America, Inc.",
@@ -11477,12 +11812,14 @@
   "263": {
     "asn": "263",
     "descr": "NTTA-263, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "264": {
     "asn": "264",
     "descr": "SRINET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "SRI International",
@@ -11514,18 +11851,21 @@
   "265": {
     "asn": "265",
     "descr": "DSI-WR-16, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "266": {
     "asn": "266",
     "descr": "RESERVED, ZZ",
+    "abuser_score": "0 (Very Low)",
     "country": "ZZ",
     "active": false
   },
   "267": {
     "asn": "267",
     "descr": "NETHER-NET, US",
+    "abuser_score": "0.0014 (Low)",
     "country": "US",
     "active": true,
     "org": "Nether.Net",
@@ -11550,6 +11890,7 @@
   "268": {
     "asn": "268",
     "descr": "USUHSNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Uniformed Services University of the Health Sciences",
@@ -11566,12 +11907,14 @@
   "269": {
     "asn": "269",
     "descr": "INCSYS-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "270": {
     "asn": "270",
     "descr": "AS270, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "National Aeronautics and Space Administration",
@@ -11749,6 +12092,7 @@
   "271": {
     "asn": "271",
     "descr": "BCNET-AS, CA",
+    "abuser_score": "0 (Very Low)",
     "country": "CA",
     "active": true,
     "org": "BCNET",
@@ -11846,12 +12190,14 @@
   "272": {
     "asn": "272",
     "descr": "CTNOSC-ASN-272, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "273": {
     "asn": "273",
     "descr": "DNIC-AS-00273, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -11869,12 +12215,14 @@
   "274": {
     "asn": "274",
     "descr": "AINET-AS274, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "275": {
     "asn": "275",
     "descr": "NTTA-275, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "NTT America, Inc.",
@@ -11894,6 +12242,7 @@
   "276": {
     "asn": "276",
     "descr": "OTS-AS-276, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of Texas System",
@@ -11913,12 +12262,14 @@
   "277": {
     "asn": "277",
     "descr": "DXC-AS277, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "278": {
     "asn": "278",
     "descr": "Universidad Nacional Autonoma de Mexico, MX",
+    "abuser_score": "0.0003 (Very Low)",
     "country": "MX",
     "active": true,
     "org": "Universidad Nacional Autonoma de Mexico",
@@ -12003,7 +12354,6 @@
       "132.247.214.0/24",
       "132.247.219.0/24",
       "132.247.224.0/24",
-      "132.247.228.0/24",
       "132.247.229.0/24",
       "132.248.0.0/17",
       "132.248.1.0/24",
@@ -12051,6 +12401,7 @@
       "132.248.109.0/24",
       "132.248.114.0/24",
       "132.248.118.0/24",
+      "132.248.120.0/24",
       "132.248.121.0/24",
       "132.248.127.0/24",
       "132.248.128.0/17",
@@ -12149,7 +12500,6 @@
       "2001:1218:6046::/48",
       "2001:1218:604c::/48",
       "2001:1218:6054::/48",
-      "2001:1218:6055::/48",
       "2001:1218:6062::/48",
       "2001:1218:60b1::/48",
       "2001:1218:60b2::/48",
@@ -12165,9 +12515,6 @@
       "2806:1020:1501::/48",
       "2806:1030:1103::/48",
       "2806:1040:1100::/48",
-      "2806:1050:701::/48",
-      "2806:1050:702::/48",
-      "2806:1050:a01::/48",
       "2806:1060:303::/48",
       "2806:1060:b02::/48",
       "2806:1060:f03::/48",
@@ -12178,30 +12525,35 @@
   "279": {
     "asn": "279",
     "descr": "LVLT-279, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "280": {
     "asn": "280",
     "descr": "NTTA-280, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "281": {
     "asn": "281",
     "descr": "LVLT-281, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "282": {
     "asn": "282",
     "descr": "RESERVED, ZZ",
+    "abuser_score": "0 (Very Low)",
     "country": "ZZ",
     "active": false
   },
   "283": {
     "asn": "283",
     "descr": "MPOWERLABS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "MPower Labs, Inc.",
@@ -12219,30 +12571,35 @@
   "284": {
     "asn": "284",
     "descr": "UUNET-IPV6, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "285": {
     "asn": "285",
     "descr": "DNIC-AS-00285, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "286": {
     "asn": "286",
     "descr": "KPN, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "287": {
     "asn": "287",
     "descr": "DNIC-AS-00287, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "288": {
     "asn": "288",
     "descr": "ESA Robert Bosch Strasse 5, DE",
+    "abuser_score": "0 (Very Low)",
     "country": "DE",
     "active": true,
     "org": "European Space Agency (ESA)",
@@ -12323,6 +12680,7 @@
   "289": {
     "asn": "289",
     "descr": "DNIC-AS-00289, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Headquarters, USAISC",
@@ -12343,12 +12701,14 @@
   "290": {
     "asn": "290",
     "descr": "SHOWNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "291": {
     "asn": "291",
     "descr": "ESNET-EAST, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "ESnet",
@@ -12365,6 +12725,7 @@
   "292": {
     "asn": "292",
     "descr": "ESNET-WEST, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "ESnet",
@@ -12381,6 +12742,7 @@
   "293": {
     "asn": "293",
     "descr": "ESNET, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "ESnet",
@@ -12417,24 +12779,28 @@
   "294": {
     "asn": "294",
     "descr": "FRANCE-IP-NET-AS Institut National de Recherche en Informatique et Automatique, EU",
+    "abuser_score": "0 (Very Low)",
     "country": "EU",
     "active": false
   },
   "295": {
     "asn": "295",
     "descr": "USTCCLOUD, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "296": {
     "asn": "296",
     "descr": "ACFP-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "297": {
     "asn": "297",
     "descr": "AS297, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "National Aeronautics and Space Administration",
@@ -12489,12 +12855,14 @@
   "298": {
     "asn": "298",
     "descr": "RADC-LONEX-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "299": {
     "asn": "299",
     "descr": "UCINET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "University of California, Irvine",
@@ -12515,6 +12883,7 @@
   "300": {
     "asn": "300",
     "descr": "DNIC-AS-00300, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -12567,12 +12936,14 @@
   "301": {
     "asn": "301",
     "descr": "C3PO-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "302": {
     "asn": "302",
     "descr": "BCM-INFO-NET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Baylor College of Medicine",
@@ -12603,24 +12974,28 @@
   "303": {
     "asn": "303",
     "descr": "DNIC-AS-00303, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "304": {
     "asn": "304",
     "descr": "SRIEXPRIGNET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "305": {
     "asn": "305",
     "descr": "DNIC-AS-00305, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "306": {
     "asn": "306",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -12975,6 +13350,7 @@
   "307": {
     "asn": "307",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -12991,54 +13367,63 @@
   "308": {
     "asn": "308",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "309": {
     "asn": "309",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "310": {
     "asn": "310",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "311": {
     "asn": "311",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "312": {
     "asn": "312",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "313": {
     "asn": "313",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "314": {
     "asn": "314",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "315": {
     "asn": "315",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "316": {
     "asn": "316",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13061,6 +13446,7 @@
   "317": {
     "asn": "317",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13085,12 +13471,14 @@
   "318": {
     "asn": "318",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "319": {
     "asn": "319",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13114,6 +13502,7 @@
   "320": {
     "asn": "320",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13133,6 +13522,7 @@
   "321": {
     "asn": "321",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13161,6 +13551,7 @@
   "322": {
     "asn": "322",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13178,6 +13569,7 @@
   "323": {
     "asn": "323",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13196,6 +13588,7 @@
   "324": {
     "asn": "324",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13217,6 +13610,7 @@
   "325": {
     "asn": "325",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13262,6 +13656,7 @@
   "326": {
     "asn": "326",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13312,6 +13707,7 @@
   "327": {
     "asn": "327",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13329,6 +13725,7 @@
   "328": {
     "asn": "328",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13339,21 +13736,13 @@
     "updated": "2009-05-14",
     "rir": "ARIN",
     "prefixes": [
-      "55.53.0.0/16",
-      "55.53.192.0/24",
-      "55.53.193.0/24",
-      "55.53.194.0/24",
-      "55.53.195.0/24",
-      "55.53.196.0/24",
-      "55.53.198.0/23",
-      "55.53.202.0/24",
-      "55.53.206.0/24",
-      "55.53.208.0/24"
+      "55.53.0.0/16"
     ]
   },
   "329": {
     "asn": "329",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13378,12 +13767,14 @@
   "330": {
     "asn": "330",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "331": {
     "asn": "331",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13407,18 +13798,21 @@
   "332": {
     "asn": "332",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "333": {
     "asn": "333",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "334": {
     "asn": "334",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13480,6 +13874,7 @@
   "335": {
     "asn": "335",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13708,6 +14103,7 @@
   "336": {
     "asn": "336",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13747,6 +14143,7 @@
   "337": {
     "asn": "337",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13826,6 +14223,7 @@
   "338": {
     "asn": "338",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13844,6 +14242,7 @@
   "339": {
     "asn": "339",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13863,6 +14262,7 @@
   "340": {
     "asn": "340",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13884,6 +14284,7 @@
   "341": {
     "asn": "341",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13905,6 +14306,7 @@
   "342": {
     "asn": "342",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13926,6 +14328,7 @@
   "343": {
     "asn": "343",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -13943,6 +14346,7 @@
   "344": {
     "asn": "344",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14088,6 +14492,7 @@
   "345": {
     "asn": "345",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14115,6 +14520,7 @@
   "346": {
     "asn": "346",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14138,6 +14544,7 @@
   "347": {
     "asn": "347",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14160,6 +14567,7 @@
   "348": {
     "asn": "348",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14182,7 +14590,6 @@
       "55.22.94.0/24",
       "55.22.130.0/24",
       "55.22.158.0/24",
-      "55.22.170.0/24",
       "55.22.174.0/24",
       "55.22.176.0/24"
     ]
@@ -14190,6 +14597,7 @@
   "349": {
     "asn": "349",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14219,6 +14627,7 @@
   "350": {
     "asn": "350",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14237,6 +14646,7 @@
   "351": {
     "asn": "351",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14255,6 +14665,7 @@
   "352": {
     "asn": "352",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14275,6 +14686,7 @@
   "353": {
     "asn": "353",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14298,12 +14710,14 @@
   "354": {
     "asn": "354",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "355": {
     "asn": "355",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14314,21 +14728,85 @@
     "updated": "2009-05-14",
     "rir": "ARIN",
     "prefixes": [
-      "55.46.0.0/16",
+      "55.46.2.0/24",
+      "55.46.12.0/24",
+      "55.46.13.0/24",
+      "55.46.30.0/23",
       "55.46.33.0/24",
+      "55.46.40.0/23",
       "55.46.43.0/24",
+      "55.46.46.0/23",
+      "55.46.100.0/22",
+      "55.46.104.0/22",
+      "55.46.108.0/24",
       "55.46.112.0/24",
+      "55.46.132.0/24",
+      "55.46.133.0/24",
+      "55.46.135.0/24",
+      "55.46.140.0/24",
+      "55.46.142.0/24",
+      "55.46.143.0/24",
+      "55.46.145.0/24",
+      "55.46.146.0/24",
+      "55.46.151.0/24",
+      "55.46.153.0/24",
+      "55.46.158.0/24",
+      "55.46.159.0/24",
+      "55.46.161.0/24",
+      "55.46.162.0/24",
+      "55.46.164.0/24",
+      "55.46.168.0/24",
+      "55.46.170.0/24",
+      "55.46.171.0/24",
+      "55.46.173.0/24",
+      "55.46.174.0/24",
+      "55.46.175.0/24",
+      "55.46.176.0/24",
+      "55.46.177.0/24",
+      "55.46.178.0/24",
+      "55.46.179.0/24",
+      "55.46.180.0/24",
+      "55.46.181.0/24",
+      "55.46.182.0/24",
+      "55.46.184.0/24",
+      "55.46.186.0/24",
+      "55.46.192.0/24",
+      "55.46.193.0/24",
       "55.46.194.0/24",
+      "55.46.195.0/24",
       "55.46.196.0/24",
+      "55.46.198.0/24",
+      "55.46.202.0/24",
+      "55.46.206.0/24",
+      "55.46.208.0/24",
+      "55.46.210.0/24",
+      "55.46.212.0/24",
+      "55.46.214.0/24",
+      "55.46.216.0/24",
+      "55.46.218.0/24",
+      "55.46.220.0/24",
+      "55.46.222.0/24",
+      "55.46.224.0/24",
+      "55.46.226.0/23",
+      "55.46.228.0/24",
+      "55.46.230.0/24",
+      "55.46.233.0/24",
       "55.46.234.0/24",
       "55.46.236.0/24",
+      "55.46.238.0/24",
       "55.46.240.0/22",
-      "55.46.244.0/24"
+      "55.46.244.0/24",
+      "55.46.245.0/24",
+      "55.46.246.0/23",
+      "55.46.248.0/21",
+      "55.46.248.0/24",
+      "55.46.250.0/24"
     ]
   },
   "356": {
     "asn": "356",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14357,6 +14835,7 @@
       "55.89.19.0/24",
       "55.89.20.0/24",
       "55.89.21.0/24",
+      "55.89.22.0/24",
       "55.89.23.0/24",
       "55.89.24.0/24",
       "55.89.25.0/24",
@@ -14385,7 +14864,6 @@
       "55.89.53.0/24",
       "55.89.54.0/24",
       "55.89.57.0/24",
-      "55.89.58.0/24",
       "55.89.59.0/24",
       "55.89.60.0/24",
       "55.89.61.0/24",
@@ -14455,6 +14933,7 @@
   "357": {
     "asn": "357",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14486,6 +14965,7 @@
   "358": {
     "asn": "358",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14502,6 +14982,7 @@
   "359": {
     "asn": "359",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14518,6 +14999,7 @@
   "360": {
     "asn": "360",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14644,6 +15126,7 @@
   "361": {
     "asn": "361",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14666,6 +15149,7 @@
   "362": {
     "asn": "362",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14683,7 +15167,6 @@
       "55.7.245.0/24",
       "55.7.246.0/24",
       "55.7.247.0/24",
-      "55.7.248.0/24",
       "55.60.0.0/16",
       "55.60.1.0/24",
       "55.60.21.0/24",
@@ -14702,19 +15185,20 @@
       "55.60.245.0/24",
       "55.60.246.0/24",
       "55.60.247.0/24",
-      "55.60.248.0/24",
       "55.60.253.0/24"
     ]
   },
   "363": {
     "asn": "363",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "364": {
     "asn": "364",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14731,6 +15215,7 @@
   "365": {
     "asn": "365",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14749,6 +15234,7 @@
   "366": {
     "asn": "366",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -14769,6 +15255,7 @@
   "367": {
     "asn": "367",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -15298,11 +15785,6 @@
       "130.22.41.0/24",
       "130.22.42.0/24",
       "130.22.47.0/24",
-      "130.22.49.0/24",
-      "130.22.50.0/23",
-      "130.22.52.0/23",
-      "130.22.54.0/24",
-      "130.22.56.0/23",
       "130.22.63.0/24",
       "130.22.64.0/23",
       "130.22.66.0/24",
@@ -16290,16 +16772,13 @@
       "143.69.83.0/24",
       "143.69.87.0/24",
       "143.69.96.0/23",
-      "143.70.232.0/24",
+      "143.70.86.0/24",
       "143.70.233.0/24",
-      "143.70.234.0/23",
-      "143.70.236.0/22",
       "143.71.0.0/16",
       "143.72.0.0/16",
-      "143.73.1.0/24",
       "143.73.126.0/24",
-      "143.73.192.0/21",
       "143.74.1.0/24",
+      "143.74.7.0/24",
       "143.74.42.0/24",
       "143.74.252.0/24",
       "143.76.9.0/24",
@@ -16362,8 +16841,6 @@
       "143.84.237.0/24",
       "143.86.53.0/24",
       "143.86.58.0/23",
-      "143.86.118.0/23",
-      "143.86.120.0/22",
       "143.86.160.0/20",
       "143.86.182.0/24",
       "143.86.217.0/24",
@@ -16385,6 +16862,7 @@
       "143.147.88.0/21",
       "143.156.224.0/19",
       "143.157.88.0/21",
+      "143.194.60.0/24",
       "143.194.64.0/20",
       "143.194.98.0/23",
       "143.194.100.0/23",
@@ -16397,6 +16875,7 @@
       "143.194.240.0/20",
       "143.249.58.0/24",
       "143.249.64.0/23",
+      "143.249.71.0/24",
       "143.249.72.0/24",
       "143.249.85.0/24",
       "143.249.90.0/24",
@@ -16421,7 +16900,6 @@
       "144.104.116.0/24",
       "144.105.0.0/24",
       "144.105.1.0/24",
-      "144.105.6.0/23",
       "144.105.79.0/24",
       "144.105.118.0/23",
       "144.105.176.0/20",
@@ -16449,7 +16927,6 @@
       "146.16.45.0/24",
       "146.16.46.0/24",
       "146.16.144.0/20",
-      "146.16.202.0/23",
       "146.16.245.0/24",
       "146.53.0.0/16",
       "146.54.0.0/16",
@@ -16465,11 +16942,8 @@
       "147.74.0.0/16",
       "147.74.245.0/24",
       "147.103.0.0/16",
-      "147.104.76.0/23",
-      "147.104.79.0/24",
       "147.104.90.0/24",
       "147.104.96.0/24",
-      "147.104.99.0/24",
       "147.104.244.0/23",
       "147.130.0.0/17",
       "147.130.128.0/23",
@@ -16632,14 +17106,11 @@
       "155.19.144.0/21",
       "155.19.154.0/24",
       "155.19.160.0/19",
-      "155.20.48.0/24",
-      "155.20.50.0/24",
       "155.20.67.0/24",
       "155.20.79.0/24",
       "155.20.92.0/24",
       "155.20.93.0/24",
       "155.20.156.0/22",
-      "155.20.174.0/24",
       "155.20.182.0/23",
       "155.21.16.0/22",
       "155.21.130.0/23",
@@ -16649,6 +17120,7 @@
       "155.21.170.0/23",
       "155.21.172.0/23",
       "155.21.174.0/23",
+      "155.21.178.0/23",
       "155.21.186.0/24",
       "155.21.187.0/24",
       "155.22.0.0/18",
@@ -16661,8 +17133,6 @@
       "155.22.126.0/23",
       "155.22.160.0/21",
       "155.25.0.0/16",
-      "155.26.96.0/24",
-      "155.26.98.0/24",
       "155.26.148.0/24",
       "155.26.160.0/20",
       "155.26.196.0/24",
@@ -16735,7 +17205,6 @@
       "155.30.193.0/24",
       "155.30.194.0/24",
       "155.30.195.0/24",
-      "155.30.216.0/22",
       "155.74.245.0/24",
       "155.74.246.0/24",
       "155.74.248.0/24",
@@ -16847,14 +17316,13 @@
       "158.9.253.0/24",
       "158.9.254.0/24",
       "158.9.255.0/24",
-      "158.11.18.0/23",
+      "158.11.62.0/23",
+      "158.11.62.0/24",
       "158.11.69.0/24",
       "158.11.70.0/24",
       "158.11.72.0/24",
-      "158.11.76.0/23",
-      "158.11.76.0/24",
       "158.11.90.0/24",
-      "158.11.229.0/24",
+      "158.11.232.0/24",
       "158.13.120.0/21",
       "158.13.128.0/21",
       "158.13.154.0/24",
@@ -17245,6 +17713,7 @@
       "214.29.133.0/24",
       "214.29.134.0/24",
       "214.29.135.0/24",
+      "214.37.194.0/24",
       "214.37.198.0/24",
       "214.37.205.0/24",
       "214.43.128.0/24",
@@ -17293,6 +17762,7 @@
       "2608:147:61d0::/48",
       "2608:149:1b80::/48",
       "2608:149:3f80::/48",
+      "2608:162:1660::/48",
       "2608:165:1bc0::/48",
       "2608:181:4290::/48",
       "2608:183:1e::/48",
@@ -17304,6 +17774,7 @@
   "368": {
     "asn": "368",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -17340,6 +17811,7 @@
   "369": {
     "asn": "369",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -17410,6 +17882,7 @@
   "370": {
     "asn": "370",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -17445,8 +17918,8 @@
       "55.54.234.0/24",
       "55.54.235.0/24",
       "55.54.236.0/24",
+      "55.54.237.0/24",
       "55.79.0.0/16",
-      "55.79.128.0/24",
       "55.79.143.0/24",
       "55.79.144.0/24",
       "55.79.145.0/24",
@@ -17472,10 +17945,10 @@
       "55.79.174.0/24",
       "55.79.175.0/24",
       "55.79.176.0/24",
+      "55.79.177.0/24",
       "55.79.180.0/24",
       "55.79.188.0/24",
       "55.93.0.0/16",
-      "55.93.128.0/22",
       "55.93.133.0/24",
       "55.93.134.0/24",
       "55.93.135.0/24",
@@ -17514,7 +17987,6 @@
       "55.93.174.0/24",
       "55.93.175.0/24",
       "55.93.176.0/24",
-      "55.93.182.0/24",
       "55.93.184.0/24",
       "55.93.188.0/24",
       "55.93.190.0/24",
@@ -17522,7 +17994,6 @@
       "55.93.196.0/24",
       "55.93.198.0/24",
       "55.93.200.0/24",
-      "55.93.202.0/24",
       "55.93.204.0/24",
       "55.93.205.0/24",
       "55.93.207.0/24",
@@ -17548,6 +18019,8 @@
       "55.93.234.0/24",
       "55.93.235.0/24",
       "55.93.236.0/24",
+      "55.93.237.0/24",
+      "55.93.239.0/24",
       "55.93.243.0/24",
       "55.93.245.0/24",
       "55.93.247.0/24",
@@ -17558,6 +18031,7 @@
   "371": {
     "asn": "371",
     "descr": "DNIC-ASBLK-00306-00371, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "DoD Network Information Center",
@@ -17576,6 +18050,7 @@
   "372": {
     "asn": "372",
     "descr": "AS372, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "National Aeronautics and Space Administration",
@@ -17596,18 +18071,21 @@
   "373": {
     "asn": "373",
     "descr": "MITRE-AS-4, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "374": {
     "asn": "374",
     "descr": "BROOKS-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "375": {
     "asn": "375",
     "descr": "TIETOTIE-AS Keilalahdentie 2-4 02150 Espoo Finland, FI",
+    "abuser_score": "0 (Very Low)",
     "country": "FI",
     "active": true,
     "org": "Tietoevry Oyj",
@@ -17677,6 +18155,7 @@
   "376": {
     "asn": "376",
     "descr": "RISQ-AS, CA",
+    "abuser_score": "0 (Very Low)",
     "country": "CA",
     "active": true,
     "org": "Reseau d'Informations Scientifiques du Quebec (RISQ Inc.)",
@@ -17717,10 +18196,8 @@
       "162.244.230.0/24",
       "192.26.210.0/23",
       "192.26.210.0/24",
-      "192.26.211.0/24",
       "192.77.46.0/24",
       "192.77.49.0/24",
-      "192.77.52.0/24",
       "192.77.63.0/24",
       "192.77.69.0/24",
       "192.77.70.0/24",
@@ -17972,6 +18449,7 @@
   "377": {
     "asn": "377",
     "descr": "SNLA-NET-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Sandia National Laboratories",
@@ -17997,6 +18475,7 @@
   "378": {
     "asn": "378",
     "descr": "MACHBA-AS ILAN, IL",
+    "abuser_score": "0 (Very Low)",
     "country": "IL",
     "active": true,
     "org": "IUCC - Israel InterUniversity Computation Center",
@@ -18051,78 +18530,91 @@
   "379": {
     "asn": "379",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "380": {
     "asn": "380",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "381": {
     "asn": "381",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "382": {
     "asn": "382",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "383": {
     "asn": "383",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "384": {
     "asn": "384",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "385": {
     "asn": "385",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "386": {
     "asn": "386",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "387": {
     "asn": "387",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "388": {
     "asn": "388",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "389": {
     "asn": "389",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "390": {
     "asn": "390",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "391": {
     "asn": "391",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18161,42 +18653,49 @@
   "392": {
     "asn": "392",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "393": {
     "asn": "393",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "394": {
     "asn": "394",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "395": {
     "asn": "395",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "396": {
     "asn": "396",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "397": {
     "asn": "397",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "398": {
     "asn": "398",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18213,6 +18712,7 @@
   "399": {
     "asn": "399",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18227,8 +18727,6 @@
       "131.38.120.0/24",
       "131.49.0.0/16",
       "132.3.0.0/22",
-      "132.7.135.0/24",
-      "134.165.101.0/24",
       "143.146.192.0/19",
       "143.147.80.0/21",
       "143.156.192.0/19",
@@ -18238,6 +18736,7 @@
   "400": {
     "asn": "400",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18254,18 +18753,21 @@
   "401": {
     "asn": "401",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "402": {
     "asn": "402",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "403": {
     "asn": "403",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0.0013 (Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18287,12 +18789,14 @@
   "404": {
     "asn": "404",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "405": {
     "asn": "405",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18309,6 +18813,7 @@
   "406": {
     "asn": "406",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18329,18 +18834,21 @@
   "407": {
     "asn": "407",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "408": {
     "asn": "408",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "409": {
     "asn": "409",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18369,108 +18877,126 @@
   "410": {
     "asn": "410",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "411": {
     "asn": "411",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "412": {
     "asn": "412",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "413": {
     "asn": "413",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "414": {
     "asn": "414",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "415": {
     "asn": "415",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "416": {
     "asn": "416",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "417": {
     "asn": "417",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "418": {
     "asn": "418",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "419": {
     "asn": "419",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "420": {
     "asn": "420",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "421": {
     "asn": "421",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "422": {
     "asn": "422",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "423": {
     "asn": "423",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "424": {
     "asn": "424",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "425": {
     "asn": "425",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "426": {
     "asn": "426",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "427": {
     "asn": "427",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18493,144 +19019,168 @@
   "428": {
     "asn": "428",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "429": {
     "asn": "429",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "430": {
     "asn": "430",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "431": {
     "asn": "431",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "432": {
     "asn": "432",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "433": {
     "asn": "433",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "434": {
     "asn": "434",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "435": {
     "asn": "435",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "436": {
     "asn": "436",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "437": {
     "asn": "437",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "438": {
     "asn": "438",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "439": {
     "asn": "439",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "440": {
     "asn": "440",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "441": {
     "asn": "441",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "442": {
     "asn": "442",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "443": {
     "asn": "443",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "444": {
     "asn": "444",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "445": {
     "asn": "445",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "446": {
     "asn": "446",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "447": {
     "asn": "447",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "448": {
     "asn": "448",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "449": {
     "asn": "449",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "450": {
     "asn": "450",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "451": {
     "asn": "451",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18648,6 +19198,7 @@
   "452": {
     "asn": "452",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18665,54 +19216,63 @@
   "453": {
     "asn": "453",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "454": {
     "asn": "454",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "455": {
     "asn": "455",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "456": {
     "asn": "456",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "457": {
     "asn": "457",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "458": {
     "asn": "458",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "459": {
     "asn": "459",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "460": {
     "asn": "460",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "461": {
     "asn": "461",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18729,12 +19289,14 @@
   "462": {
     "asn": "462",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "463": {
     "asn": "463",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18751,24 +19313,28 @@
   "464": {
     "asn": "464",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "465": {
     "asn": "465",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "466": {
     "asn": "466",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "467": {
     "asn": "467",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18785,6 +19351,7 @@
   "468": {
     "asn": "468",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18801,102 +19368,119 @@
   "469": {
     "asn": "469",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "470": {
     "asn": "470",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "471": {
     "asn": "471",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "472": {
     "asn": "472",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "473": {
     "asn": "473",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "474": {
     "asn": "474",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "475": {
     "asn": "475",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "476": {
     "asn": "476",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "477": {
     "asn": "477",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "478": {
     "asn": "478",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "479": {
     "asn": "479",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "480": {
     "asn": "480",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "481": {
     "asn": "481",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "482": {
     "asn": "482",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "483": {
     "asn": "483",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "484": {
     "asn": "484",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "485": {
     "asn": "485",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -18913,90 +19497,105 @@
   "486": {
     "asn": "486",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "487": {
     "asn": "487",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "488": {
     "asn": "488",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "489": {
     "asn": "489",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "490": {
     "asn": "490",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "491": {
     "asn": "491",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "492": {
     "asn": "492",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "493": {
     "asn": "493",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "494": {
     "asn": "494",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "495": {
     "asn": "495",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "496": {
     "asn": "496",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "497": {
     "asn": "497",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "498": {
     "asn": "498",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "499": {
     "asn": "499",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   },
   "500": {
     "asn": "500",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": true,
     "org": "Air Force Systems Networking",
@@ -19018,6 +19617,7 @@
   "501": {
     "asn": "501",
     "descr": "AFCONC-BLOCK1-AS, US",
+    "abuser_score": "0 (Very Low)",
     "country": "US",
     "active": false
   }
