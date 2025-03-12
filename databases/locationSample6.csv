@@ -1,22 +1,22 @@
 startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,latitude,longitude,accuracy
 2000::,2000:ffff:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,0,46.92827,7.11715,2
-2001::,2001:0:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,0,33.96168,-118.35313,2
+2001::,2001:0:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,1,33.96168,-118.35313,2
 2001:1::,2001:1:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,0,46.92827,7.11715,2
-2001:2::,2001:2:0:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,0,33.96168,-118.35313,2
+2001:2::,2001:2:0:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,1,33.96168,-118.35313,2
 2001:2:1::,2001:2:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,0,46.92827,7.11715,2
-2001:3::,2001:3:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,0,33.96168,-118.35313,2
+2001:3::,2001:3:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,1,33.96168,-118.35313,2
 2001:4::,2001:4:111:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,0,46.92827,7.11715,2
-2001:4:112::,2001:4:112:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Indiana,Indianapolis,46262,America/Indiana/Indianapolis,0,39.76838,-86.15804,2
+2001:4:112::,2001:4:112:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Indiana,Indianapolis,46262,America/Indiana/Indianapolis,1,39.76838,-86.15804,2
 2001:4:113::,2001:4:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,0,46.92827,7.11715,2
 2001:5::,2001:5:0:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,0,52.37403,4.88969,2
 2001:5:1::,2001:5:1:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Istanbul,Üsküdar,34700,Europe/Istanbul,0,41.02274,29.01366,2
 2001:5:2::,2001:5:2:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,0,52.37403,4.88969,2
-2001:5:3::,2001:5:3:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,San Jose (New Almaden),,America/Los_Angeles,0,37.1948,-121.817,2
+2001:5:3::,2001:5:3:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,San Jose (New Almaden),,America/Los_Angeles,1,37.1948,-121.817,2
 2001:5:4::,2001:5:4:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,0,52.37403,4.88969,2
 2001:5:5::,2001:5:5:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Flanders,Dendermonde,9290,Europe/Brussels,0,51.02869,4.10106,2
 2001:5:6::,2001:5:ffff:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,0,52.37403,4.88969,2
 2001:6::,2001:f:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,0,46.92827,7.11715,2
-2001:10::,2001:2f:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,0,33.96168,-118.35313,2
+2001:10::,2001:2f:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Inglewood,93599,America/Los_Angeles,1,33.96168,-118.35313,2
 2001:30::,2001:1ff:ffff:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Fribourg,Murten/Morat,3285,Europe/Zurich,0,46.92827,7.11715,2
 2001:200::,2001:200:101:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:200:102::,2001:200:104:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
@@ -28,7 +28,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:200:12b::,2001:200:130:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:200:131::,2001:200:131:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:200:132::,2001:200:134:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:200:135::,2001:200:135:ffff:ffff:ffff:ffff:ffff,NA,US,United States,District of Columbia,Silver Spring,20997,America/New_York,0,38.99067,-77.02609,2
+2001:200:135::,2001:200:135:ffff:ffff:ffff:ffff:ffff,NA,US,United States,District of Columbia,Silver Spring,20997,America/New_York,1,38.99067,-77.02609,2
 2001:200:136::,2001:200:136:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:200:137::,2001:200:13c:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:200:13d::,2001:200:13d:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
@@ -47,7 +47,7 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:200:16a::,2001:200:16a:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:200:16b::,2001:200:177:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:200:178::,2001:200:179:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:200:17a::,2001:200:17b:ffff:ffff:ffff:ffff:ffff,NA,US,United States,District of Columbia,Silver Spring,20997,America/New_York,0,38.99067,-77.02609,2
+2001:200:17a::,2001:200:17b:ffff:ffff:ffff:ffff:ffff,NA,US,United States,District of Columbia,Silver Spring,20997,America/New_York,1,38.99067,-77.02609,2
 2001:200:17c::,2001:200:17f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Fujisawa,252-0888,Asia/Tokyo,0,35.34926,139.47666,2
 2001:200:180::,2001:200:180:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Kanagawa,Den’enchōfu,146-8677,Asia/Tokyo,0,35.59548,139.66535,2
 2001:200:181::,2001:200:185:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
@@ -127,12 +127,12 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:218:1f02::,2001:218:2000:c:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:218:2000:d::,2001:218:2000:11:ffff:ffff:ffff:ffff,AS,JP,Japan,Osaka,Osaka,531-8787,Asia/Tokyo,0,34.69379,135.50107,2
 2001:218:2000:12::,2001:218:200f:0:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:218:200f:1::,2001:218:200f:2:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,0,47.60621,-122.33207,2
+2001:218:200f:1::,2001:218:200f:2:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,1,47.60621,-122.33207,2
 2001:218:200f:3::,2001:218:3000:3:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
-2001:218:3000:4::,2001:218:3000:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,0,47.60621,-122.33207,2
+2001:218:3000:4::,2001:218:3000:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,1,47.60621,-122.33207,2
 2001:218:3001::,2001:218:3003:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:218:3004::,2001:218:3004:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1384,Europe/Amsterdam,0,52.37403,4.88969,2
-2001:218:3005::,2001:218:3005:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,0,47.60621,-122.33207,2
+2001:218:3005::,2001:218:3005:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,1,47.60621,-122.33207,2
 2001:218:3006::,2001:218:4000:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 2001:218:4001::,2001:218:4001:0:ffff:ffff:ffff:ffff,AS,SG,Singapore,,Iskandar Puteri,80500,Asia/Singapore,0,1.39324,103.62322,2
 2001:218:4001:1::,2001:218:6001:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2

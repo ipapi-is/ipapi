@@ -49,8 +49,8 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.0.193.0,1.0.193.255,4,23969,0.0013 (Low),1.0.193.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.194.0,1.0.194.255,4,23969,0.0013 (Low),1.0.194.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.195.0,1.0.195.255,4,23969,0.0013 (Low),1.0.195.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
-1.0.196.0,1.0.196.255,4,23974,0.0014 (Low),1.0.196.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
-1.0.197.0,1.0.197.255,4,23974,0.0014 (Low),1.0.197.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
+1.0.196.0,1.0.196.255,4,23974,0.0013 (Low),1.0.196.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
+1.0.197.0,1.0.197.255,4,23974,0.0013 (Low),1.0.197.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
 1.0.198.0,1.0.198.255,4,23969,0.0013 (Low),1.0.198.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.199.0,1.0.199.255,4,23969,0.0013 (Low),1.0.199.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.200.0,1.0.200.255,4,23969,0.0013 (Low),1.0.200.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
@@ -426,6 +426,16 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.7.28.0,1.7.28.255,4,9583,0.0001 (Very Low),1.7.28.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.29.0,1.7.29.255,4,9583,0.0001 (Very Low),1.7.29.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.30.0,1.7.30.255,4,9583,0.0001 (Very Low),1.7.30.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.31.0,1.7.31.255,4,9583,0.0001 (Very Low),1.7.31.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.32.0,1.7.32.255,4,9583,0.0001 (Very Low),1.7.32.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.33.0,1.7.33.255,4,9583,0.0001 (Very Low),1.7.33.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.34.0,1.7.34.255,4,9583,0.0001 (Very Low),1.7.34.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.35.0,1.7.35.255,4,9583,0.0001 (Very Low),1.7.35.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.36.0,1.7.36.255,4,9583,0.0001 (Very Low),1.7.36.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.37.0,1.7.37.255,4,9583,0.0001 (Very Low),1.7.37.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.38.0,1.7.38.255,4,9583,0.0001 (Very Low),1.7.38.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.39.0,1.7.39.255,4,9583,0.0001 (Very Low),1.7.39.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
+1.7.40.0,1.7.40.255,4,9583,0.0001 (Very Low),1.7.40.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.128.0,1.7.131.255,4,9583,0.0001 (Very Low),1.7.128.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.132.0,1.7.135.255,4,9583,0.0001 (Very Low),1.7.132.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.132.0,1.7.132.255,4,9583,0.0001 (Very Low),1.7.132.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sifycorp.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
@@ -519,7 +529,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.10.132.0,1.10.132.255,4,23969,0.0013 (Low),1.10.132.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.10.133.0,1.10.133.255,4,23969,0.0013 (Low),1.10.133.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.10.134.0,1.10.134.255,4,23969,0.0013 (Low),1.10.134.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
-1.10.135.0,1.10.135.255,4,23974,0.0014 (Low),1.10.135.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
+1.10.135.0,1.10.135.255,4,23974,0.0013 (Low),1.10.135.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
 1.10.136.0,1.10.143.255,4,23969,0.0013 (Low),1.10.136.0/21,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.10.139.0,1.10.139.255,4,23969,0.0013 (Low),1.10.139.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.10.140.0,1.10.140.255,4,23969,0.0013 (Low),1.10.140.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
@@ -620,9 +630,9 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.11.231.0,1.11.231.255,4,17839,0.0004 (Very Low),1.11.231.0/24,"DREAMPLUS-AS-KR LG HelloVision Corp., KR",kr,true,,,,,,,
 1.12.0.0,1.15.255.255,4,45090,0.001 (Low),1.12.0.0/14,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
 1.12.0.0,1.12.63.255,4,45090,0.001 (Low),1.12.0.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
-1.12.0.0,1.12.15.255,4,132203,0.0027 (Low),1.12.0.0/20,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
-1.12.14.0,1.12.15.255,4,132203,0.0027 (Low),1.12.14.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
-1.12.34.0,1.12.35.255,4,132203,0.0027 (Low),1.12.34.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
+1.12.0.0,1.12.15.255,4,132203,0.0028 (Low),1.12.0.0/20,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
+1.12.14.0,1.12.15.255,4,132203,0.0028 (Low),1.12.14.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
+1.12.34.0,1.12.35.255,4,132203,0.0028 (Low),1.12.34.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,hosting,,2020-07-22,APNIC
 1.12.64.0,1.12.127.255,4,45090,0.001 (Low),1.12.64.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
 1.12.128.0,1.12.191.255,4,45090,0.001 (Low),1.12.128.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
 1.12.192.0,1.12.255.255,4,45090,0.001 (Low),1.12.192.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,hosting,,2021-10-27,APNIC
@@ -802,7 +812,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.20.243.0,1.20.243.255,4,23969,0.0013 (Low),1.20.243.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.244.0,1.20.244.255,4,23969,0.0013 (Low),1.20.244.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.246.0,1.20.246.255,4,23969,0.0013 (Low),1.20.246.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
-1.20.247.0,1.20.247.255,4,23974,0.0014 (Low),1.20.247.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
+1.20.247.0,1.20.247.255,4,23974,0.0013 (Low),1.20.247.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
 1.20.248.0,1.20.248.255,4,23969,0.0013 (Low),1.20.248.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.249.0,1.20.249.255,4,23969,0.0013 (Low),1.20.249.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.251.0,1.20.251.255,4,23969,0.0013 (Low),1.20.251.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,totisp.net,abuse@totisp.net,isp,,2020-07-09,APNIC
@@ -988,13 +998,3 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.22.184.0,1.22.185.255,4,45528,0.0014 (Low),1.22.184.0/23,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
 1.22.184.0,1.22.184.255,4,45528,0.0014 (Low),1.22.184.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
 1.22.185.0,1.22.185.255,4,45528,0.0014 (Low),1.22.185.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.186.0,1.22.186.255,4,45528,0.0014 (Low),1.22.186.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.187.0,1.22.187.255,4,45528,0.0014 (Low),1.22.187.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.188.0,1.22.188.255,4,45528,0.0014 (Low),1.22.188.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.189.0,1.22.189.255,4,45528,0.0014 (Low),1.22.189.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.192.0,1.22.193.255,4,45528,0.0014 (Low),1.22.192.0/23,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.192.0,1.22.192.255,4,45528,0.0014 (Low),1.22.192.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.193.0,1.22.193.255,4,45528,0.0014 (Low),1.22.193.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.194.0,1.22.195.255,4,45528,0.0014 (Low),1.22.194.0/23,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.194.0,1.22.194.255,4,45528,0.0014 (Low),1.22.194.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
-1.22.195.0,1.22.195.255,4,45528,0.0014 (Low),1.22.195.0/24,"TIKONAIN-AS Tikona Infinet Ltd., IN",in,true,Tikona Infinet Ltd.,tikona.in,Sudhir.Kumar@tikona.in,isp,,2017-10-24,APNIC
