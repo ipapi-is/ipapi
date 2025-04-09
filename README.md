@@ -8,6 +8,8 @@ Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](ht
 + [IP to Geolocation Database](https://ipapi.is/geolocation.html) - **Free** - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks.
 + [IP to ASN Database](https://ipapi.is/asn.html) - **Commercial** - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85.000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
 + [IP to VPN Database](https://ipapi.is/vpn-detection.html) - **Commercial** - The IP to VPN Database is a database that contains VPN IP addresses from well-known providers like ExpressVPN and NordVPN. Additionally, the database contains IP ranges from other VPN providers from which the provider's name is not known.
++ [IP to Abuser Database](https://ipapi.is/ip-to-abuser.html) - **Commercial** - Contains IP addresses that are known to be involved in malicious activities such as hacking attempts, spam, and DDoS attacks.
++ [IP to Company Database](https://ipapi.is/ip-to-company.html) - **Commercial** - Maps IP addresses to the companies that own them, providing detailed information about the organization behind each IP.
 
 ## IP to Hosting Database
 
@@ -231,3 +233,49 @@ which outputs:
   "serviceName": "NordVPN"
 }
 ```
+
+## IP to Abuser Database
+
+The IP to Abuser Database is a database that contains IP addresses known for abusive behavior. The database is updated on a regular basis and is available for purchase in CSV or MMDB format.
+
+Abusive IP addresses can be used for various malicious activities, including spam, hacking attempts, and DDoS attacks. The IP to Abuser Database is a valuable tool for businesses that want to detect and prevent abuse on their website or app and to take appropriate measures to protect their services.
+
+The IP to Abuser Database is provided as a CSV or MMDB file with the following fields:
+
++ `ipVersion` - Either `4` (IPv4) or `6` (IPv6), determining the IP type of the network.
++ `startIp` - The start IP address of the range in string format. Example: `45.86.210.31`
++ `endIp` - The end IP address of the range in string format. Example: `45.86.210.31`
++ `isAbuser` - A boolean value indicating whether the IP is known for abusive behavior. Example: `true`
+
+## IP to Company Database
+
+The IP to Company Database contains the name, domain and type for every company / organization in the Internet that owns an IP address or IP network. IP ownership of companies is obtained by querying the five major WHOIS registries responsible for number resources: ARIN, RIPE, APNIC, LACNIC, and AFRINIC. The IP to Company Database is updated in regular intervals to ensure the correctness of the firmographic data.
+
+The IP to Company Database allows you to accurately classify traffic according to different criteria, such by company name or type. For example, traffic from an organization classified as hosting tends to have a lower reputation compared to traffic from a government or education network.
+
+The file format of the IP to Company Database is either in CSV or MMDB format and contains the following fields:
+
++ `startIp` - The start IP address of the range in string format. Example: `117.200.64.0`
++ `endIp` - The end IP address of the range in string format. Example: `117.200.239.255`
++ `ipVersion` - Either `4` (IPv4) or `6` (IPv6), determining the IP type of the network.
++ `company` - The name of the company. Example: `Broadband Networks`
++ `abuser_score` - The field `abuser_score` represents the quota of abusive IP addresses of the network belonging to the organization (company). The higher this number is, the more abusive the whole network is. `abuser_score = Number of Abusive IPs / Number of Total IPs in the Network`
+  - Example: `0.0183 (Elevated)`
+  - `Very High` - More than 20% of all IPs of the network are abusive
+  - `High` - Between 3% to 20% of all IPs of the network are abusive
+  - `Elevated` - Between 0.85% to 3% of all IPs of the network are abusive
+  - `Low` - Between 0.85% to 0.05% of all IPs of the network are abusive
+  - `Very Low` - Less than 0.05% of all IPs of the network are abusive
++ `domain` - The domain of the Company. Example: `bsnl.co.in`
++ `type` - The field `type` contains the type of the company. The following company types exist:
+  - `hosting` - The company is a hosting provider (Example: `5.161.56.240`)
+  - `education` - The company is a university or other kind of educational institution (Example: `129.114.137.255`)
+  - `government` - The company is a governmental institution (Example: `137.75.167.171`)
+  - `banking` - The company is a banking/financial institution (Example: `199.67.175.0`)
+  - `isp` - The company is an Internet Service Provider (ISP) (Example: `117.200.226.44`)
+  - `business` - If the type is not one of the above, the type is the generic business type (Example: `17.133.85.230`)
++ `rir` - The Regional Internet Registry responsible for the IP range. Example: `APNIC`
++ `abuseName` - The abuse contact name, the name of the identity that receives abuse complaints about the network provided in `company.network`. The abuse contact name is mostly the same name as in `company.name`. Example: `ABUSE BSNLIN`
++ `abuseAddress` - The abuse contact address. This is the physical address of abuse contact of the entity that owns the network specified in `company.network`. Example: `Internet Cell, Bharat Sanchar Nigam Limited., 8th Floor,148-B Statesman House, Barakhamba Road, New Delhi - 110 001`
++ `abuseEmail` - The abuse contact email. This email address takes abuse complaints about incidents associated with the network specified in `company.network`. Example: `abuse1@bsnl.co.in`
++ `abusePhone` - The abuse contact phone number. This phone number takes abuse complaints about incidents associated with the network specified in `company.network`. Example: `+000000000`
