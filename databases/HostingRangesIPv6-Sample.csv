@@ -1,127 +1,132 @@
 startIp,endIp,ipVersion,datacenter,domain
-2a02:e180:0000:0000:0000:0000:0000:0000,2a02:e187:ffff:ffff:ffff:ffff:ffff:ffff,6,Oracle Svenska AB,oracle.com
-2001:4d78:0104:00c1:0000:0000:0000:0000,2001:4d78:0104:00c1:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.nl
-2a00:19c0:c078:0000:0000:0000:0000:0000,2a00:19c0:c078:ffff:ffff:ffff:ffff:ffff,6,Qweb Internet Services B.V.,www.qweb.nl
-2a01:04f8:0120:73a1:0000:0000:0000:0000,2a01:04f8:0120:73a1:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
-2a01:a500:1242:0000:0000:0000:0000:0000,2a01:a500:1242:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,uksrv.co.uk
-2a01:a500:2204:0000:0000:0000:0000:0000,2a01:a500:2204:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,uksrv.co.uk
-2a0f:9400:802c:1000:0000:0000:0000:0000,2a0f:9400:802c:1fff:ffff:ffff:ffff:ffff,6,Cagir Ltd,as213234.net.tr
-2a02:0408:8093:0000:0000:0000:0000:0000,2a02:0408:8093:ffff:ffff:ffff:ffff:ffff,6,JSC RU-CENTER,nic.ru
-2a02:0ab0:0000:0000:0000:0000:0000:0000,2a02:0ab7:ffff:ffff:ffff:ffff:ffff:ffff,6,NorthC Schweiz AG,northcdatacenters.com
-2a01:a500:0656:0000:0000:0000:0000:0000,2a01:a500:0656:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,uksrv.co.uk
-2a0a:6040:0000:0000:0000:0000:0000:0000,2a0a:6040:ffff:ffff:ffff:ffff:ffff:ffff,6,"Cloudie Networks, LLC.",cloudie.sh
-2a06:3b40:0000:0000:0000:0000:0000:0000,2a06:3b47:ffff:ffff:ffff:ffff:ffff:ffff,6,UniWeb bvba,uniweb.be
-2a01:04f8:0201:92c4:0000:0000:0000:0000,2a01:04f8:0201:92c4:ffff:ffff:ffff:ffff,6,EXTREME SOLUTIONS SRL,boo.ro
-2a12:bec4:13f3:0000:0000:0000:0000:0000,2a12:bec4:13f3:ffff:ffff:ffff:ffff:ffff,6,LAZYCLOUD LTD,lazycloud.net
-2a01:04f8:0221:06e7:0000:0000:0000:0000,2a01:04f8:0221:06e7:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
-2a05:91c0:0427:0000:0000:0000:0000:0000,2a05:91c0:0427:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
-2401:c0c0:0000:0000:0000:0000:0000:0000,2401:c0c0:ffff:ffff:ffff:ffff:ffff:ffff,6,China Dedicated Company,chinadedi.com
-2a02:26f0:2b80:0000:0000:0000:0000:0000,2a02:26f0:2b80:ffff:ffff:ffff:ffff:ffff,6,Akamai International B.V.,akamai.com
-2a0e:1a86:0000:0000:0000:0000:0000:0000,2a0e:1a86:ffff:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
-2003:0047:e02d:0000:0000:0000:0000:0000,2003:0047:e02d:ffff:ffff:ffff:ffff:ffff,6,Wichmann Internet Services GmbH,wichmann.net
-2001:41d0:0c00:3f00:0000:0000:0000:0000,2001:41d0:0c00:3fff:ffff:ffff:ffff:ffff,6,OVH SAS,ovhcloud.com
-2a11:4ec0:0000:0000:0000:0000:0000:0000,2a11:4ec3:ffff:ffff:ffff:ffff:ffff:ffff,6,Panq B.V.,panq.nl
-2001:0550:0002:0022:0000:0000:0008:0000,2001:0550:0002:0022:0000:0000:0008:ffff,6,HAProxy Technologies LLC,www.haproxy.com
-2001:067c:073c:0000:0000:0000:0000:0000,2001:067c:073c:ffff:ffff:ffff:ffff:ffff,6,LIMITED LIABILITY COMPANY CLOUD SOLUTIONS,cloudsolutions-global.com
-2a02:20aa:8010:000b:0000:0000:0000:0000,2a02:20aa:8010:000b:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.nl
-2001:09a8:0217:0000:0000:0000:0000:0000,2001:09a8:0217:ffff:ffff:ffff:ffff:ffff,6,TrueFullstaq B.V.,true.nl
-2a13:cf04:0000:0000:0000:0000:0000:0000,2a13:cf04:ffff:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
-2a01:04f8:00a0:840e:0000:0000:0000:0000,2a01:04f8:00a0:840e:ffff:ffff:ffff:ffff,6,BUNNYWAY INFORMACIJSKE STORITVE DOO,bunny.net
-2a01:a500:1096:0000:0000:0000:0000:0000,2a01:a500:1096:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,uksrv.co.uk
-2a01:04f8:0121:20ce:0000:0000:0000:0000,2a01:04f8:0121:20ce:ffff:ffff:ffff:ffff,6,Cloud Commerce Group Ltd,hetzner.com
-2a01:04f8:0222:0ed0:0000:0000:0000:0000,2a01:04f8:0222:0ed0:ffff:ffff:ffff:ffff,6,HostMaster Corp,hetzner.com
-2001:4d78:0743:003b:0000:0000:0000:0000,2001:4d78:0743:003b:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.nl
-2804:8ae0:0000:0000:0000:0000:0000:0000,2804:8ae0:ffff:ffff:ffff:ffff:ffff:ffff,6,ELEA DATA CENTERS,eleadatacenters.com
-2001:0a88:0000:0000:0000:0000:0000:0000,2001:0a88:0000:ffff:ffff:ffff:ffff:ffff,6,Claranet Limited,clara.net
-2a0b:c840:0000:0000:0000:0000:0000:0000,2a0b:c847:ffff:ffff:ffff:ffff:ffff:ffff,6,IPCom Ltd,ipcom.at
-2a14:4f80:0000:0000:0000:0000:0000:0000,2a14:4f80:03ff:ffff:ffff:ffff:ffff:ffff,6,viphost,viphost.cloud
-2a00:14d8:1001:0936:0000:0000:0000:0000,2a00:14d8:1001:0936:ffff:ffff:ffff:ffff,6,Intility AS,intility.no
-2001:0550:0002:002a:0000:0000:0173:0000,2001:0550:0002:002a:0000:0000:0173:ffff,6,GLOBALTELEHOST CORP.,globaltelehost.com
-2a01:04f8:0161:7306:0000:0000:0000:0000,2a01:04f8:0161:7306:ffff:ffff:ffff:ffff,6,MANAGED SERVER S.R.L.,hetzner.com
-2001:4d78:fe18:0008:0000:0000:0000:0000,2001:4d78:fe18:0008:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.nl
-2a02:cf80:0002:0000:0000:0000:0000:0000,2a02:cf80:0002:ffff:ffff:ffff:ffff:ffff,6,Vinetu Technologies - ELI MELAMED LTD,emcloud.co.il
-2a0d:2146:8640:0000:0000:0000:0000:0000,2a0d:2146:864f:ffff:ffff:ffff:ffff:ffff,6,Felipe Mendes da Cruz trading as LostHost,losthost.com.br
-2a0a:e340:1000:0000:0000:0000:0000:0000,2a0a:e340:10ff:ffff:ffff:ffff:ffff:ffff,6,Whatbox Inc.,whatbox.ca
-2a02:26f0:d100:0000:0000:0000:0000:0000,2a02:26f0:d100:ffff:ffff:ffff:ffff:ffff,6,Akamai International B.V.,akamai.com
-2a01:07c8:bb0b:0000:0000:0000:0000:0000,2a01:07c8:bb0b:ffff:ffff:ffff:ffff:ffff,6,TransIP BV,www.transip.nl
-2a0f:9400:616e:0000:0000:0000:0000:0000,2a0f:9400:616e:ffff:ffff:ffff:ffff:ffff,6,"Apple Network, LLC",zentop.net
-2400:a4a0:a100:0000:0000:0000:0000:0000,2400:a4a0:a100:ffff:ffff:ffff:ffff:ffff,6,Atmail Pty Ltd,atmail.com
-2a03:b000:0700:0000:0000:0000:0000:0000,2a03:b000:07ff:ffff:ffff:ffff:ffff:ffff,6,Cleura AB,cleura.com
-2001:4d78:0204:002e:0000:0000:0000:0000,2001:4d78:0204:002e:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.nl
-2a01:04f8:0191:50c2:0000:0000:0000:0000,2a01:04f8:0191:50c2:ffff:ffff:ffff:ffff,6,Fritz Datacenter Services,hetzner.com
-2001:1a50:508d:0000:0000:0000:0000:0000,2001:1a50:508d:ffff:ffff:ffff:ffff:ffff,6,rh-tec Business GmbH,rh-tec.de
-2001:0550:0002:0007:0000:0000:0009:0000,2001:0550:0002:0007:0000:0000:0009:ffff,6,"Akamai Technologies, Inc",akamai.com
-2001:4d78:0104:0160:0000:0000:0000:0000,2001:4d78:0104:0160:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.nl
-2a0a:8200:0000:0000:0000:0000:0000:0000,2a0a:8207:ffff:ffff:ffff:ffff:ffff:ffff,6,CATO NETWORKS LTD,catonetworks.com
-2a01:04f8:0201:530a:0000:0000:0000:0000,2a01:04f8:0201:530a:ffff:ffff:ffff:ffff,6,FastVPS Eesti O�,fastvps.ee
-2a05:f440:0006:0000:0000:0000:0000:0000,2a05:f440:0006:ffff:ffff:ffff:ffff:ffff,6,F5 Networks SARL,f5.com
-2a01:04f9:002b:0c49:0000:0000:0000:0000,2a01:04f9:002b:0c49:ffff:ffff:ffff:ffff,6,Hostia.Ru,hetzner.com
-2401:c080:0000:0000:0000:0000:0000:0000,2401:c080:ffff:ffff:ffff:ffff:ffff:ffff,6,"The Constant Company, LLC",constant.com
-2a05:91c0:1560:0000:0000:0000:0000:0000,2a05:91c0:1560:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
-2a01:04f8:00d0:9f00:0000:0000:0000:0000,2a01:04f8:00d0:9fff:ffff:ffff:ffff:ffff,6,Hetzner Online GmbH,hetzner.com
-2400:8500:1302:0774:0000:0000:0000:0000,2400:8500:1302:0774:ffff:ffff:ffff:ffff,6,"GMO Internet Group, Inc.",gmo.jp
-2001:0df3:54c0:0000:0000:0000:0000:0000,2001:0df3:54c0:ffff:ffff:ffff:ffff:ffff,6,"DAUN PENH DATA CENTER CO., LTD.",dpdatacenter.com.kh
-2a0c:9a40:9b09:0000:0000:0000:0000:0000,2a0c:9a40:9b09:ffff:ffff:ffff:ffff:ffff,6,Homura Network Limited,homura.network
-2a01:04f8:00d0:fe00:0000:0000:0000:0000,2a01:04f8:00d0:feff:ffff:ffff:ffff:ffff,6,Hetzner Online GmbH,hetzner.com
-2a01:04f8:00d1:7f00:0000:0000:0000:0000,2a01:04f8:00d1:7fff:ffff:ffff:ffff:ffff,6,Hetzner Online GmbH,hetzner.com
-2a01:a500:1040:0000:0000:0000:0000:0000,2a01:a500:1040:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,uksrv.co.uk
-2404:8100:0000:0000:0000:0000:0000:0000,2404:8100:ffff:ffff:ffff:ffff:ffff:ffff,6,SKALI,skali.net
-2a0a:6040:0001:0000:0000:0000:0000:0000,2a0a:6040:0001:ffff:ffff:ffff:ffff:ffff,6,MythicalKitten,kitten.network
-2a01:04f8:2220:218d:0000:0000:0000:0000,2a01:04f8:2220:218d:ffff:ffff:ffff:ffff,6,IPSERVER LTD,hetzner.com
-2a05:91c0:3947:0000:0000:0000:0000:0000,2a05:91c0:3947:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
-2a12:ecc0:0011:0000:0000:0000:0000:0000,2a12:ecc0:0011:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
-2a01:04f8:0140:9144:0000:0000:0000:0000,2a01:04f8:0140:9144:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
-2402:4480:0002:0002:0000:0000:00d8:0000,2402:4480:0002:0002:0000:0000:00d8:ffff,6,LeaseWeb Network B.V.,leaseweb.com
-2a01:04f8:0221:2a47:0000:0000:0000:0000,2a01:04f8:0221:2a47:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
-2001:067c:0c6c:0000:0000:0000:0000:0000,2001:067c:0c6c:ffff:ffff:ffff:ffff:ffff,6,QHost LLC,qhost.net.ua
-2a01:04f8:0251:1596:0000:0000:0000:0000,2a01:04f8:0251:1596:ffff:ffff:ffff:ffff,6,internex GmbH,internex.at
-2a05:91c0:0139:0000:0000:0000:0000:0000,2a05:91c0:0139:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
-2a01:04f9:3070:348a:0000:0000:0000:0000,2a01:04f9:3070:348a:ffff:ffff:ffff:ffff,6,BUNNYWAY INFORMACIJSKE STORITVE DOO,bunny.net
-2a04:2b00:14bb:0000:0000:0000:0000:0000,2a04:2b00:14bb:ffff:ffff:ffff:ffff:ffff,6,CentralNic Ltd,centralnic.com
-2a11:e100:0344:0000:0000:0000:0000:0000,2a11:e100:0344:ffff:ffff:ffff:ffff:ffff,6,EVA ISP,c1vhosting.it
-2a0f:e1c7:0000:0000:0000:0000:0000:0000,2a0f:e1c7:ffff:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
-2a01:04f8:0211:0f63:0000:0000:0000:0000,2a01:04f8:0211:0f63:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
-2801:001c:2000:0000:0000:0000:0000:0000,2801:001c:2000:ffff:ffff:ffff:ffff:ffff,6,NAP Peru,nap.pe
-2a0f:b340:0000:0000:0000:0000:0000:0000,2a0f:b347:ffff:ffff:ffff:ffff:ffff:ffff,6,Marina Maus,mykor.de
-2a00:fb00:0000:0000:0000:0000:0000:0000,2a00:fb07:ffff:ffff:ffff:ffff:ffff:ffff,6,EveryWare AG,everyware.ch
-2a06:1180:00aa:0000:0000:0000:0000:0000,2a06:1180:00aa:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
-2a06:1c80:0000:0000:0000:0000:0000:0000,2a06:1c87:ffff:ffff:ffff:ffff:ffff:ffff,6,Mythic Beasts Ltd,mythic-beasts.com
-2a01:0430:0046:0000:0000:0000:0000:0000,2a01:0430:0046:ffff:ffff:ffff:ffff:ffff,6,Master Internet s.r.o.,master.cz
-2001:41d0:0f00:6b00:0000:0000:0000:0000,2001:41d0:0f00:6bff:ffff:ffff:ffff:ffff,6,OVH GmbH,ovhcloud.com
-2605:9a40:0000:0000:0000:0000:0000:0000,2605:9a40:ffff:ffff:ffff:ffff:ffff:ffff,6,"TenHats, LLC",shdatacenters.com
-2001:0550:0002:0006:0000:0000:000f:0000,2001:0550:0002:0006:0000:0000:000f:ffff,6,PlanetHoster,planethoster.com
-2602:ffd1:0000:0000:0000:0000:0000:0000,2602:ffd1:0fff:ffff:ffff:ffff:ffff:ffff,6,Catalyst Host LLC,catalysthost.com
-2001:0978:0002:0019:0000:0000:0136:0000,2001:0978:0002:0019:0000:0000:0136:ffff,6,"WEDOS Internet, a.s.",wedos.com
-2001:09a8:01cf:0000:0000:0000:0000:0000,2001:09a8:01cf:ffff:ffff:ffff:ffff:ffff,6,TrueFullstaq B.V.,true.nl
-2a01:a500:2858:0000:0000:0000:0000:0000,2a01:a500:2858:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,uksrv.co.uk
-2a05:4140:014d:0000:0000:0000:0000:0000,2a05:4140:014d:ffff:ffff:ffff:ffff:ffff,6,C1V ISP,c1vhosting.it
-2001:41d0:0f00:1000:0000:0000:0000:0000,2001:41d0:0f00:10ff:ffff:ffff:ffff:ffff,6,OVH GmbH,ovhcloud.com
-2001:4d78:0407:0053:0000:0000:0000:0000,2001:4d78:0407:0053:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.nl
-2001:0780:0006:0100:0000:0000:0000:0000,2001:0780:0006:01ff:ffff:ffff:ffff:ffff,6,noris network AG,noris.de
-2a0e:f601:bf89:0000:0000:0000:0000:0000,2a0e:f601:bf89:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
-2a00:14b0:4200:0000:0000:0000:0000:0000,2a00:14b0:4200:ffff:ffff:ffff:ffff:ffff,6,Wieske's Crew GmbH,irz42.net
-2a0d:5600:0138:0000:0000:0000:0000:0000,2a0d:5600:0138:ffff:ffff:ffff:ffff:ffff,6,M247 Ltd Brussels,m247.com
-2a01:04f9:3080:18d8:0000:0000:0000:0000,2a01:04f9:3080:18d8:ffff:ffff:ffff:ffff,6,PromptCloud  Inc,hetzner.com
-2a01:53c0:ff06:0000:0000:0000:0000:0000,2a01:53c0:ff06:0000:ffff:ffff:ffff:ffff,6,CDNetworks Inc,cdnetworks.com
-2a01:a500:1685:0000:0000:0000:0000:0000,2a01:a500:1685:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,uksrv.co.uk
-2a02:5320:2000:0000:0000:0000:0000:0000,2a02:5320:20ff:ffff:ffff:ffff:ffff:ffff,6,Phoenix NAP Ltd.,phoenixnap.com
-2a00:11c0:0082:1115:0000:0000:0000:0000,2a00:11c0:0082:1115:ffff:ffff:ffff:ffff,6,powered by ANX,anexia.at
-2c0f:fe90:0000:0000:0000:0000:0000:0000,2c0f:fe90:ffff:ffff:ffff:ffff:ffff:ffff,6,1 GRID (PTY) LTD,1-grid.com
-2a0c:9a40:9400:0000:0000:0000:0000:0000,2a0c:9a40:9400:ffff:ffff:ffff:ffff:ffff,6,Partner Hosting LTD,partnerhostingltd.com
-2a05:fc84:0014:0000:0000:0000:0000:0000,2a05:fc84:0014:ffff:ffff:ffff:ffff:ffff,6,CommunityRack.org Verein,communityrack.org
-2406:0840:f400:0000:0000:0000:0000:0000,2406:0840:f400:ffff:ffff:ffff:ffff:ffff,6,Zhejiang Aiyun Network Technology Co Ltd,iaclouds.com
-2a12:be40:0009:0000:0000:0000:0000:0000,2a12:be40:0009:ffff:ffff:ffff:ffff:ffff,6,sector7 GmbH,sector7.de
-2a01:a500:1303:0000:0000:0000:0000:0000,2a01:a500:1303:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,uksrv.co.uk
-2a0e:97c0:4b5d:0000:0000:0000:0000:0000,2a0e:97c0:4b5d:ffff:ffff:ffff:ffff:ffff,6,4b42 UG,4b42.com
-2a05:91c0:3309:0000:0000:0000:0000:0000,2a05:91c0:3309:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
-2a01:04f8:010b:1cc1:0000:0000:0000:0000,2a01:04f8:010b:1cc1:ffff:ffff:ffff:ffff,6,FastVPS Eesti O�,fastvps.ee
-2001:0550:0002:004a:0000:0000:00e8:0000,2001:0550:0002:004a:0000:0000:00e8:ffff,6,G-Core Labs S.A.,gcore.com
-2a04:92c1:ffea:0000:0000:0000:0000:0000,2a04:92c1:ffea:ffff:ffff:ffff:ffff:ffff,6,Clouvider Limited,clouvider.com
-2a00:bd40:0000:0000:0000:0000:0000:0000,2a00:bd40:0000:ffff:ffff:ffff:ffff:ffff,6,Hosterov IPv6 Infrastructure,life.ru
-2a03:da40:0000:0000:0000:0000:0000:0000,2a03:da47:ffff:ffff:ffff:ffff:ffff:ffff,6,ServerBase AG,serverbase.ch
-2a00:16d8:0010:0000:0000:0000:0000:0000,2a00:16d8:0010:ffff:ffff:ffff:ffff:ffff,6,City Network International AB,citynetwork.se
-2a11:e100:01a3:0000:0000:0000:0000:0000,2a11:e100:01a3:ffff:ffff:ffff:ffff:ffff,6,EVA ISP,c1vhosting.it
-2a0d:2583:9c00:0000:0000:0000:0000:0000,2a0d:2583:9cff:ffff:ffff:ffff:ffff:ffff,6,Keibiin's Holdings Limited,keibiins.net
-2a05:91c0:0952:0000:0000:0000:0000:0000,2a05:91c0:0952:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
-2a0d:5940:0001:0000:0000:0000:0000:0000,2a0d:5940:0001:ffff:ffff:ffff:ffff:ffff,6,dataforest GmbH,dataforest.net
-2a03:2740:0000:0000:0000:0000:0000:0000,2a03:2740:ffff:ffff:ffff:ffff:ffff:ffff,6,team.blue Denmark A/S,team.blue
+2a0f:a886:0000:0000:0000:0000:0000:0000,2a0f:a886:ffff:ffff:ffff:ffff:ffff:ffff,6,Keminet SHPK,keminet.net
+2a10:3f00:0000:0000:0000:0000:0000:0000,2a10:3f07:ffff:ffff:ffff:ffff:ffff:ffff,6,Advania Sverige AB,advania.com
+2001:0550:0002:001d:0000:0000:018e:0000,2001:0550:0002:001d:0000:0000:018e:ffff,6,"Markley Network Services, LLC",markleygroup.com
+2001:0a7a:009e:0000:0000:0000:0000:0000,2001:0a7a:009e:ffff:ffff:ffff:ffff:ffff,6,q.beyond AG,qbeyond.de
+2a01:04f9:3070:348f:0000:0000:0000:0000,2a01:04f9:3070:348f:ffff:ffff:ffff:ffff,6,BUNNYWAY INFORMACIJSKE STORITVE DOO,bunny.net
+2a01:04f8:0202:542c:0000:0000:0000:0000,2a01:04f8:0202:542c:ffff:ffff:ffff:ffff,6,FastVPS Eesti O�,fastvps.ee
+2a01:04f8:013a:1e15:0000:0000:0000:0000,2a01:04f8:013a:1e15:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
+2a05:91c0:3628:0000:0000:0000:0000:0000,2a05:91c0:3628:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
+2a04:5201:0006:0000:0000:0000:0000:0000,2a04:5201:0006:ffff:ffff:ffff:ffff:ffff,6,FIRST SERVER LIMITED,first-server.net
+2001:1b50:0248:0048:0000:0000:0000:0000,2001:1b50:0248:0048:ffff:ffff:ffff:ffff,6,Genotec AG,genotec.ch
+2402:8940:0000:0000:0000:0000:0000:0000,2402:8940:ffff:ffff:ffff:ffff:ffff:ffff,6,"Cloud Union (HuBei) Network Technology Co., Ltd",cloudunion.cn
+2a01:07c8:1016:0000:0000:0000:0000:0000,2a01:07c8:1016:ffff:ffff:ffff:ffff:ffff,6,TransIP B.V. Admin,transip.nl
+2a01:04f8:0162:73a4:0000:0000:0000:0000,2a01:04f8:0162:73a4:ffff:ffff:ffff:ffff,6,MANAGED SERVER S.R.L.,hetzner.com
+2a01:04f8:0241:48d0:0000:0000:0000:0000,2a01:04f8:0241:48d0:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
+2403:e800:0410:0100:0000:0000:0000:0014,2403:e800:0410:0100:0000:0000:0000:0017,6,TELSTRA_AKAMAI,www.akamai.com
+2a01:04f8:0201:6022:0000:0000:0000:0000,2a01:04f8:0201:6022:ffff:ffff:ffff:ffff,6,FastVPS Eesti O�,fastvps.ee
+2a04:52c0:0101:0000:0000:0000:0000:0000,2a04:52c0:0101:ffff:ffff:ffff:ffff:ffff,6,The Infrastructure Group B.V. - NOC Department,liteserver.nl
+2a05:91c0:0203:0000:0000:0000:0000:0000,2a05:91c0:0203:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
+2001:0370:3000:0001:0000:0000:0000:0000,2001:0370:3000:0001:ffff:ffff:ffff:ffff,6,"BroadBand Tower, Inc.",bbtower.co.jp
+2a01:a500:3203:0000:0000:0000:0000:0000,2a01:a500:3203:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,ukservers.com
+2a0f:1380:0000:0000:0000:0000:0000:0000,2a0f:1387:ffff:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
+2001:0978:0002:000d:0000:0000:0032:0000,2001:0978:0002:000d:0000:0000:0032:ffff,6,Fastly,www.fastly.com
+2a01:07a7:0002:143a:0000:0000:0000:0000,2a01:07a7:0002:143a:ffff:ffff:ffff:ffff,6,HOSTED DATACENTRE INC.,velia.net
+2a00:1630:014f:0000:0000:0000:0000:0000,2a00:1630:014f:ffff:ffff:ffff:ffff:ffff,6,i3D.net B.V,i3d.net
+2606:c680:0000:0000:0000:0000:0000:0000,2606:c680:ffff:ffff:ffff:ffff:ffff:ffff,6,HostPapa,hostpapa.com
+2a11:4147:5202:0000:0000:0000:0000:0000,2a11:4147:5202:ffff:ffff:ffff:ffff:ffff,6,Inter.link GmbH,inter.link
+2001:0978:0002:002e:0000:0000:000f:0000,2001:0978:0002:002e:0000:0000:000f:ffff,6,Hosting Services Inc,uk2group.com
+2a05:7b00:0000:0000:0000:0000:0000:0000,2a05:7b07:ffff:ffff:ffff:ffff:ffff:ffff,6,ADVANIA NORGE AS,advania.no
+2a01:04f8:010a:201f:0000:0000:0000:0000,2a01:04f8:010a:201f:ffff:ffff:ffff:ffff,6,BUNNYWAY INFORMACIJSKE STORITVE DOO,bunny.net
+2001:0df3:7180:0000:0000:0000:0000:0000,2001:0df3:7180:ffff:ffff:ffff:ffff:ffff,6,CV Glori Cipta Mandiri,glorihoster.my.id
+2a05:91c0:3590:0000:0000:0000:0000:0000,2a05:91c0:3590:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
+2a01:04f8:fff3:0066:0000:0000:0000:0000,2a01:04f8:fff3:0066:ffff:ffff:ffff:ffff,6,Alfahosting GmbH,alfahosting.de
+2a01:04f8:2190:159b:0000:0000:0000:0000,2a01:04f8:2190:159b:ffff:ffff:ffff:ffff,6,SHELLRENT SPA,www.shellrent.com
+2a02:20a8:0100:0053:0000:0000:0000:0000,2a02:20a8:0100:0053:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.com
+2a06:a000:01e0:0000:0000:0000:0000:0000,2a06:a000:01ef:ffff:ffff:ffff:ffff:ffff,6,ESTNOC-GLOBAL,estnoc.ee
+2a01:a500:2056:0000:0000:0000:0000:0000,2a01:a500:2056:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,ukservers.com
+2a00:1d26:0096:0000:0000:0000:0000:0000,2a00:1d26:0096:ffff:ffff:ffff:ffff:ffff,6,i3D.net B.V,i3d.net
+2a00:11c0:000e:0001:0000:0000:0000:0000,2a00:11c0:000e:0001:ffff:ffff:ffff:ffff,6,powered by ANX,anexia.at
+2001:0df4:3500:0000:0000:0000:0000:0000,2001:0df4:3500:ffff:ffff:ffff:ffff:ffff,6,E2E Networks Limited,e2enetworks.com
+2a06:1283:d000:0000:0000:0000:0000:0000,2a06:1283:d0ff:ffff:ffff:ffff:ffff:ffff,6,PawHost,pawhost.de
+2a05:91c0:1740:0000:0000:0000:0000:0000,2a05:91c0:1740:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
+2a0d:2144:0200:0000:0000:0000:0000:0000,2a0d:2144:0200:ffff:ffff:ffff:ffff:ffff,6,IT-Service David Froehlich,it-df.net
+2a01:04f8:0231:4e10:0000:0000:0000:0000,2a01:04f8:0231:4e10:ffff:ffff:ffff:ffff,6,Webhosting Franken,hetzner.com
+2a07:0b40:0000:0000:0000:0000:0000:0000,2a07:0b47:ffff:ffff:ffff:ffff:ffff:ffff,6,Inmarsoft LLC,inmarsoft.ru
+2a02:0a20:0000:0000:0000:0000:0000:0000,2a02:0a20:ffff:ffff:ffff:ffff:ffff:ffff,6,ServeTheWorld AS,servetheworld.net
+2a05:91c0:2256:0000:0000:0000:0000:0000,2a05:91c0:2256:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
+2001:41d0:a800:0700:0000:0000:0000:0000,2001:41d0:a800:07ff:ffff:ffff:ffff:ffff,6,OVH Sp. z o. o.,ovh.com
+2a12:dd47:5004:0000:0000:0000:0000:0000,2a12:dd47:5004:ffff:ffff:ffff:ffff:ffff,6,MIHAILA VALENTIN-EUGEN,hostingfuze.net
+2a00:6d40:0072:4e00:0000:0000:0000:0000,2a00:6d40:0072:4eff:ffff:ffff:ffff:ffff,6,Aruba S.p.A. - Cloud Services Farm2,aruba.it
+2a05:f700:0003:0000:0000:0000:0000:0000,2a05:f700:0003:ffff:ffff:ffff:ffff:ffff,6,IT Relation A/S,itrelation.dk
+2a06:a005:2310:0000:0000:0000:0000:0000,2a06:a005:231f:ffff:ffff:ffff:ffff:ffff,6,"C/O Cloudie Networks, LLC",cloudie.hk
+2620:0134:1000:0000:0000:0000:0000:0000,2620:0134:100f:ffff:ffff:ffff:ffff:ffff,6,Richmond-IX Corporation,richmondix.com
+2a13:3940:0000:0000:0000:0000:0000:0000,2a13:3947:ffff:ffff:ffff:ffff:ffff:ffff,6,ITGLOBALCOM KAZ LLP,itglobal.com.kz
+2001:41d0:a800:0f00:0000:0000:0000:0000,2001:41d0:a800:0fff:ffff:ffff:ffff:ffff,6,OVH Sp. z o. o.,ovh.com
+2a0c:c640:0000:0000:0000:0000:0000:0000,2a0c:c647:ffff:ffff:ffff:ffff:ffff:ffff,6,Ori Industries 1 Limited,ori.co
+2a01:a500:1074:0000:0000:0000:0000:0000,2a01:a500:1074:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,ukservers.com
+2a00:7b80:3012:002b:0000:0000:0000:0000,2a00:7b80:3012:002b:ffff:ffff:ffff:ffff,6,Snel.com B.V.,snel.com
+2001:0978:0002:0012:0000:0000:0101:0000,2001:0978:0002:0012:0000:0000:0101:ffff,6,HAProxy Technologies LLC,haproxy.com
+2a03:6981:8010:001c:0000:0000:0000:0000,2a03:6981:8010:001c:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.com
+2a02:02c0:0005:0000:0000:0000:0000:0000,2a02:02c0:0005:ffff:ffff:ffff:ffff:ffff,6,regfish GmbH,regfish.de
+2a03:90c0:03e5:0000:0000:0000:0000:0000,2a03:90c0:03e5:ffff:ffff:ffff:ffff:ffff,6,G-Core Innovations S.a r.l.,gcore.com
+2001:4d78:0300:1237:0000:0000:0000:0000,2001:4d78:0300:1237:ffff:ffff:ffff:ffff,6,Equinix (Netherlands) B.V.,equinix.com
+2a0d:1e00:2044:0000:0000:0000:0000:0000,2a0d:1e00:2044:ffff:ffff:ffff:ffff:ffff,6,VMware International Ltd,vmware.com
+2a04:c600:1118:0000:0000:0000:0000:0000,2a04:c600:1118:ffff:ffff:ffff:ffff:ffff,6,i3D.net B.V,i3d.net
+2406:2c80:0000:0000:0000:0000:0000:0000,2406:2c80:ffff:ffff:ffff:ffff:ffff:ffff,6,"Guangdong Aofei Data Technology Co., Ltd.",ofidc.com
+2a03:2100:0008:0000:0000:0000:0000:0000,2a03:2100:0008:ffff:ffff:ffff:ffff:ffff,6,Netinternet Bilisim Teknolojileri AS,netinternet.com.tr
+2403:e800:0510:0100:0000:0000:0000:0020,2403:e800:0510:0100:0000:0000:0000:0023,6,TELSTRA_LINODE,www.linode.com
+2a01:6e60:0010:1200:0000:0000:0000:0000,2a01:6e60:0010:12ff:ffff:ffff:ffff:ffff,6,Aruba S.p.A. - CLoud Services UK,aruba.it
+2001:0830:00fc:000c:0000:0000:0000:0000,2001:0830:00fc:000c:ffff:ffff:ffff:ffff,6,PlusServer GmbH,plusserver.com
+2a01:04f8:0202:5281:0000:0000:0000:0000,2a01:04f8:0202:5281:ffff:ffff:ffff:ffff,6,Evolus IT Solutions GmbH,evolus-ix.com
+2a14:6900:0000:0000:0000:0000:0000:0000,2a14:6907:ffff:ffff:ffff:ffff:ffff:ffff,6,TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi,talido.com.tr
+2800:0490:e800:2700:0000:0000:0000:0000,2800:0490:e800:27ff:ffff:ffff:ffff:ffff,6,Genesis Data SAS,genesisdat.com
+2a14:4900:2306:0000:0000:0000:0000:0000,2a14:4900:2306:ffff:ffff:ffff:ffff:ffff,6,BAGE CLOUD LLC,bage.dev
+2001:067c:2630:0000:0000:0000:0000:0000,2001:067c:2630:ffff:ffff:ffff:ffff:ffff,6,CentralNic Ltd,centralnic.com
+2a02:5be0:0005:0000:0000:0000:0000:0000,2a02:5be0:0005:ffff:ffff:ffff:ffff:ffff,6,Mimecast Services Limited,mimecast.com
+2a01:baa0:0200:0000:0000:0000:0000:0000,2a01:baa0:02ff:ffff:ffff:ffff:ffff:ffff,6,OGD IAAS Cloud 2 v6,ogd.nl
+2a02:26f0:00ff:0000:0000:0000:0000:0000,2a02:26f0:00ff:ffff:ffff:ffff:ffff:ffff,6,Akamai International B.V.,akamai.com
+2a0f:1206:1312:0000:0000:0000:0000:0000,2a0f:1206:1312:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
+2a10:31c0:0000:0000:0000:0000:0000:0000,2a10:31c7:ffff:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
+2001:0978:0002:009d:0000:0000:0020:0000,2001:0978:0002:009d:0000:0000:0020:ffff,6,BETA DATA CENTER SLU,betadatacenter.com
+2a01:07a7:0002:3987:0000:0000:0000:0000,2a01:07a7:0002:3987:ffff:ffff:ffff:ffff,6,Host-World OUE,velia.net
+2a01:04f8:00d0:e200:0000:0000:0000:0000,2a01:04f8:00d0:e2ff:ffff:ffff:ffff:ffff,6,Hetzner Online GmbH,hetzner.com
+2a00:bd60:0000:0000:0000:0000:0000:0000,2a00:bd60:ffff:ffff:ffff:ffff:ffff:ffff,6,Scalability AB,scalability.io
+2a10:90c0:0000:0000:0000:0000:0000:0000,2a10:90c7:ffff:ffff:ffff:ffff:ffff:ffff,6,Global Communications LLC,vps.house
+2a0e:eb47:0000:0000:0000:0000:0000:0000,2a0e:eb47:ffff:ffff:ffff:ffff:ffff:ffff,6,Access2.IT Group B.V.,access2.it
+2a10:b440:0000:0000:0000:0000:0000:0000,2a10:b447:ffff:ffff:ffff:ffff:ffff:ffff,6,CoreTech s.r.l.,coretech.it
+2001:2030:0000:0035:0000:0000:0000:0000,2001:2030:0000:0035:ffff:ffff:ffff:ffff,6,Google Inc,google.com
+2605:b6c0:0000:0000:0000:0000:0000:0000,2605:b6c0:0fff:ffff:ffff:ffff:ffff:ffff,6,ServerGuy.com,serverguy.com
+2a05:91c0:0211:0000:0000:0000:0000:0000,2a05:91c0:0211:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
+2001:41d0:0b00:3800:0000:0000:0000:0000,2001:41d0:0b00:38ff:ffff:ffff:ffff:ffff,6,OVH SAS,ovh.com
+2a00:11c0:0043:0004:0000:0000:0000:0000,2a00:11c0:0043:0004:ffff:ffff:ffff:ffff,6,powered by ANX,anexia.at
+2a01:a500:0755:0000:0000:0000:0000:0000,2a01:a500:0755:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,ukservers.com
+2a0e:8784:0000:0000:0000:0000:0000:0000,2a0e:8787:ffff:ffff:ffff:ffff:ffff:ffff,6,Panq B.V.,panq.nl
+2a01:07a0:0002:1f14:0000:0000:0000:0000,2a01:07a0:0002:1f14:ffff:ffff:ffff:ffff,6,Hundertserver GmbH,hundertserver.de
+2a01:04f8:0222:13e0:0000:0000:0000:0000,2a01:04f8:0222:13e0:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
+2a01:04f8:0251:050a:0000:0000:0000:0000,2a01:04f8:0251:050a:ffff:ffff:ffff:ffff,6,Xtreme Webdesign Fa. T. M�ller,hetzner.com
+2a01:04f8:0221:278e:0000:0000:0000:0000,2a01:04f8:0221:278e:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
+2a01:0130:0000:0000:0000:0000:0000:0000,2a01:0130:0000:ffff:ffff:ffff:ffff:ffff,6,INTERNET AG Global Network,inet.de
+2a01:04f8:0202:32cd:0000:0000:0000:0000,2a01:04f8:0202:32cd:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
+2a01:04f8:0212:4786:0000:0000:0000:0000,2a01:04f8:0212:4786:ffff:ffff:ffff:ffff,6,Timme Hosting GmbH & Co. KG,timmehosting.de
+2a01:a500:0760:0000:0000:0000:0000:0000,2a01:a500:0760:ffff:ffff:ffff:ffff:ffff,6,UK Dedicated Servers Ltd,ukservers.com
+2a14:67c1:09d9:0000:0000:0000:0000:0000,2a14:67c1:09d9:ffff:ffff:ffff:ffff:ffff,6,Xkrme Network LLC,xkrme.net
+2400:8500:2002:3341:0000:0000:0000:0000,2400:8500:2002:3341:ffff:ffff:ffff:ffff,6,"GMO Internet Group, Inc.",gmo.jp
+2a13:4900:0000:0000:0000:0000:0000:0000,2a13:4907:ffff:ffff:ffff:ffff:ffff:ffff,6,RapidSeedbox Ltd,rapidseedbox.com
+2001:14c8:100d:0000:0000:0000:0000:0000,2001:14c8:100d:ffff:ffff:ffff:ffff:ffff,6,AGARIK SAS,agarik.com
+2a13:82c4:ff0d:0000:0000:0000:0000:0000,2a13:82c4:ff0d:ffff:ffff:ffff:ffff:ffff,6,MoeChuang Network Limited,moechuang.net
+2a0c:c480:0000:0000:0000:0000:0000:0000,2a0c:c487:ffff:ffff:ffff:ffff:ffff:ffff,6,Core2u i Sverige AB,core2u.se
+2a01:53c0:ffef:0000:0000:0000:0000:0000,2a01:53c0:ffef:0000:ffff:ffff:ffff:ffff,6,CDNetworks Inc,cdnetworks.com
+2a0f:7700:0000:0000:0000:0000:0000:0000,2a0f:7707:ffff:ffff:ffff:ffff:ffff:ffff,6,EDGOO NETWORKS UNIPESSOAL LDA,edgoo.com
+2c0f:feb1:0003:0000:0000:0000:0000:0000,2c0f:feb1:0003:ffff:ffff:ffff:ffff:ffff,6,Assignment made to the Akamai Technologies CDN.,www.akamai.com
+2001:0978:0002:002a:0000:0000:00bf:0000,2001:0978:0002:002a:0000:0000:00bf:ffff,6,BZSolutions SRL,bzsolutions.it
+2a01:04f8:00a0:9190:0000:0000:0000:0000,2a01:04f8:00a0:9190:ffff:ffff:ffff:ffff,6,Hetzner (Pty) Ltd,hetzner.com
+2001:0550:0002:001d:0000:0000:011d:0000,2001:0550:0002:001d:0000:0000:011d:ffff,6,Dawn US Holdings LLC dba Evoque Data Center Solutions,eu.centurylink.net
+2a0d:1dc4:0000:0000:0000:0000:0000:0000,2a0d:1dc4:ffff:ffff:ffff:ffff:ffff:ffff,6,KeminetLtd,www.keminet.net
+2001:0550:0002:0002:0000:0000:0054:0000,2001:0550:0002:0002:0000:0000:0054:ffff,6,HiVelocity Ventures Corporation,www.hivelocity.net
+2a00:2381:c483:0000:0000:0000:0000:0000,2a00:2381:c483:ffff:ffff:ffff:ffff:ffff,6,0013635390-Fortress Leisure Ltd,www.dedicatednow.com
+2a01:04f8:0172:0b31:0000:0000:0000:0000,2a01:04f8:0172:0b31:ffff:ffff:ffff:ffff,6,HNIELSEN TECHNOLOGIES APS,rapidseedbox.com
+2a00:1636:0745:0000:0000:0000:0000:0000,2a00:1636:0745:ffff:ffff:ffff:ffff:ffff,6,i3D.net B.V,i3d.net
+2c0f:ecb0:0000:0000:0000:0000:0000:0000,2c0f:ecb0:0000:ffff:ffff:ffff:ffff:ffff,6,Hosting services for clients,null
+2a01:04f8:010b:26e8:0000:0000:0000:0000,2a01:04f8:010b:26e8:ffff:ffff:ffff:ffff,6,ENARTIA Single Member S.A.,enartia.com
+2a0e:b107:211e:0000:0000:0000:0000:0000,2a0e:b107:211e:ffff:ffff:ffff:ffff:ffff,6,eu,eunetworks.com
+2a05:91c0:1199:0000:0000:0000:0000:0000,2a05:91c0:1199:ffff:ffff:ffff:ffff:ffff,6,Chroot Network SRL,chroot.ro
+2a00:1748:0000:0000:0000:0000:0000:0000,2a00:1748:ffff:ffff:ffff:ffff:ffff:ffff,6,Metaways Infosystems GmbH,metaways.de
+2a01:04f8:0191:3309:0000:0000:0000:0000,2a01:04f8:0191:3309:ffff:ffff:ffff:ffff,6,Fritz Datacenter Services,hetzner.com
+2001:0550:0002:0029:0000:0000:00dc:0000,2001:0550:0002:0029:0000:0000:00dc:ffff,6,Pulsant Limited,pulsant.com
+2a01:04f8:0162:41ce:0000:0000:0000:0000,2a01:04f8:0162:41ce:ffff:ffff:ffff:ffff,6,Poolarserver GmbH,hetzner.com
+2a07:4dc4:0000:0000:0000:0000:0000:0000,2a07:4dc7:ffff:ffff:ffff:ffff:ffff:ffff,6,King Servers,kingservers.com
+2001:0678:0bbc:0000:0000:0000:0000:0000,2001:0678:0bbc:ffff:ffff:ffff:ffff:ffff,6,Cryptoshell AG,cryptoshell.li
+2a0e:5b40:0000:0000:0000:0000:0000:0000,2a0e:5b47:ffff:ffff:ffff:ffff:ffff:ffff,6,Qupra B.V.,qupra.nl
+2a0e:8f01:0000:0000:0000:0000:0000:0000,2a0e:8f01:ffff:ffff:ffff:ffff:ffff:ffff,6,Navice Consulting,navice.eu
+2a01:04f8:0110:142d:0000:0000:0000:0000,2a01:04f8:0110:142d:ffff:ffff:ffff:ffff,6,nomino GmbH,nomino.pl
