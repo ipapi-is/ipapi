@@ -370,10 +370,10 @@ startIp,endIp,continent,country_code,country,state,city,zip,timezone,is_dst,lati
 2001:250:3400::,2001:250:3400:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangxi,Guilin,541000,Asia/Shanghai,0,25.28022,110.29639,2
 2001:250:3401::,2001:250:3401:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangxi,Nanning,530000,Asia/Shanghai,0,22.81667,108.31667,2
 2001:250:3402::,2001:250:3bff:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Haidian (Haidian Qu),,Asia/Shanghai,0,39.9999,116.315,2
-2001:250:3c00::,2001:250:3c00:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Xin’an,518000,Asia/Shanghai,0,22.57274,113.91615,2
+2001:250:3c00::,2001:250:3c00:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Bao'an,524500,Asia/Shanghai,0,22.55213,113.88288,2
 2001:250:3c01::,2001:250:3c01:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Shekou,518000,Asia/Shanghai,0,22.49359,113.9156,2
-2001:250:3c02::,2001:250:3c02:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Xin’an,518000,Asia/Shanghai,0,22.57274,113.91615,2
-2001:250:3c03::,2001:250:3c03:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Xin’an,518000,Asia/Shanghai,0,22.57274,113.91615,2
+2001:250:3c02::,2001:250:3c02:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Bao'an,524500,Asia/Shanghai,0,22.55213,113.88288,2
+2001:250:3c03::,2001:250:3c03:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Bao'an Centre,518000,Asia/Shanghai,0,22.57953,113.9163,2
 2001:250:3c04::,2001:250:3c07:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Haidian (Haidian Qu),,Asia/Shanghai,0,39.9999,116.315,2
 2001:250:3c08::,2001:250:3c08:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Guangdong,Longcheng,,Asia/Shanghai,0,22.7024,114.215,2
 2001:250:3c09::,2001:250:3fff:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Beijing,Haidian (Haidian Qu),,Asia/Shanghai,0,39.9999,116.315,2
