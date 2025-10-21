@@ -89,9 +89,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.0.175.0,1.0.175.255,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,1
 1.0.176.0,1.0.189.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.0.190.0,1.0.190.255,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,,Asia/Jakarta,0,8.43333,99.9667,2
-1.0.191.0,1.0.194.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-1.0.195.0,1.0.195.255,AS,TH,Thailand,Surat Thani,Surat Thani,84150,Asia/Jakarta,0,9.14011,99.33311,2
-1.0.196.0,1.0.197.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+1.0.191.0,1.0.197.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.0.198.0,1.0.198.255,AS,TH,Thailand,Surat Thani,Ko Samui,,Asia/Jakarta,0,9.53567,99.9357,2
 1.0.199.0,1.0.200.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.0.201.0,1.0.201.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
@@ -112,8 +110,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.0.218.0,1.0.218.255,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,1
 1.0.219.0,1.0.219.255,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79038,98.98468,2
 1.0.220.0,1.0.220.255,AS,TH,Thailand,Trang,Trang,92140,Asia/Jakarta,0,7.55633,99.61141,2
-1.0.221.0,1.0.223.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-1.0.224.0,1.0.224.255,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,1
+1.0.221.0,1.0.224.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.0.225.0,1.0.225.255,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,1
 1.0.226.0,1.0.226.255,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
 1.0.227.0,1.0.227.255,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
@@ -191,7 +188,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.1.181.0,1.1.184.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.1.185.0,1.1.187.255,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
 1.1.188.0,1.1.188.255,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,1
-1.1.189.0,1.1.189.255,AS,TH,Thailand,Phuket,Phuket,,Asia/Jakarta,0,7.89059,98.3981,1
+1.1.189.0,1.1.189.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.1.190.0,1.1.190.255,AS,TH,Thailand,Kalasin,Chai Wari,46130,Asia/Jakarta,0,16.32827,103.77033,2
 1.1.191.0,1.1.191.255,AS,TH,Thailand,Sakon Nakhon,Tao Ngoi,47260,Asia/Jakarta,0,16.99689,104.16672,2
 1.1.192.0,1.1.192.255,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
@@ -201,7 +198,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.1.197.0,1.1.197.255,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
 1.1.198.0,1.1.198.255,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
 1.1.199.0,1.1.199.255,AS,TH,Thailand,Sakon Nakhon,Phang Khon,,Asia/Jakarta,0,17.3905,103.717,1
-1.1.200.0,1.1.200.255,AS,TH,Thailand,Loei,Pak Chom,42150,Asia/Jakarta,0,18.02061,101.89828,2
+1.1.200.0,1.1.200.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.1.201.0,1.1.201.255,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
 1.1.202.0,1.1.202.255,AS,TH,Thailand,Mukdahan,Khamcha-i,49110,Asia/Jakarta,0,16.57764,104.41956,2
 1.1.203.0,1.1.203.255,AS,TH,Thailand,Kalasin,Kamalasai,46130,Asia/Jakarta,0,16.33839,103.57564,2
@@ -390,8 +387,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.4.168.0,1.4.168.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.4.169.0,1.4.169.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.4.170.0,1.4.171.255,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
-1.4.172.0,1.4.175.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-1.4.176.0,1.4.176.255,AS,TH,Thailand,Sakon Nakhon,Sawang Daen Din,47110,Asia/Jakarta,0,17.47531,103.45753,2
+1.4.172.0,1.4.176.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.4.177.0,1.4.177.255,AS,TH,Thailand,Kalasin,Somdet,,Asia/Jakarta,0,16.7046,103.749,1
 1.4.178.0,1.4.178.255,AS,TH,Thailand,Roi Et,Ban Selaphum,,Asia/Jakarta,0,16.0167,103.95,2
 1.4.179.0,1.4.179.255,AS,TH,Thailand,Nong Khai,Seka,43150,Asia/Jakarta,0,17.92851,103.95519,2
@@ -498,3 +494,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.6.122.0,1.6.122.255,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
 1.6.123.0,1.6.123.255,AS,IN,India,Karnataka,Bengaluru,560067,Asia/Kolkata,0,12.97194,77.59369,2
 1.6.124.0,1.6.127.255,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
+1.6.128.0,1.6.128.255,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
+1.6.129.0,1.6.135.255,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
+1.6.136.0,1.6.136.255,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
+1.6.137.0,1.6.139.255,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
