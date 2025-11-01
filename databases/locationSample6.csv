@@ -19,8 +19,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:100:5600,::ffff:100:56ff,AS,JP,Japan,Tottori Ken,Tottori-shi,689-1326,Asia/Tokyo,0,35.5,134.23333,2
 ::ffff:100:5700,::ffff:100:58ff,AS,JP,Japan,Yamaguchi Ken,Yamaguchi,759-1602,Asia/Tokyo,0,34.18333,131.46667,2
 ::ffff:100:5900,::ffff:100:59ff,AS,JP,Japan,Hiroshima Ken,Hiroshima,730-0801,Asia/Tokyo,0,34.4,132.45,2
-::ffff:100:5a00,::ffff:100:5aff,AS,JP,Japan,Tottori Ken,Tottori-shi,689-1326,Asia/Tokyo,0,35.5,134.23333,2
-::ffff:100:5b00,::ffff:100:5bff,AS,JP,Japan,Hiroshima Ken,Hiroshima,730-0801,Asia/Tokyo,0,34.4,132.45,2
+::ffff:100:5a00,::ffff:100:5bff,AS,JP,Japan,Tottori Ken,Tottori-shi,689-1326,Asia/Tokyo,0,35.5,134.23333,2
 ::ffff:100:5c00,::ffff:100:5cff,AS,JP,Japan,Tottori Ken,Yonago,689-3592,Asia/Tokyo,0,35.43333,133.33333,2
 ::ffff:100:5d00,::ffff:100:5dff,AS,JP,Japan,Tottori Ken,Tottori-shi,689-1326,Asia/Tokyo,0,35.5,134.23333,2
 ::ffff:100:5e00,::ffff:100:5fff,AS,JP,Japan,Hiroshima Ken,Hiroshima,730-0801,Asia/Tokyo,0,34.4,132.45,2
@@ -51,41 +50,42 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:100:7f00,::ffff:100:7fff,AS,JP,Japan,Yamaguchi Ken,Yamaguchi,759-1602,Asia/Tokyo,0,34.18333,131.46667,2
 ::ffff:100:8000,::ffff:100:80ff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
 ::ffff:100:8100,::ffff:100:87ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:100:8800,::ffff:100:88ff,AS,TH,Thailand,Prachuap Khiri Khan,Prachuap Khiri Khan,,Asia/Jakarta,0,11.821,99.7841,2
+::ffff:100:8800,::ffff:100:88ff,AS,TH,Thailand,Bangkok,Bang Khae,10160,Asia/Jakarta,0,13.69196,100.40691,2
 ::ffff:100:8900,::ffff:100:89ff,AS,TH,Thailand,Surat Thani,Surat Thani,84150,Asia/Jakarta,0,9.14011,99.33311,2
 ::ffff:100:8a00,::ffff:100:8aff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
-::ffff:100:8b00,::ffff:100:8fff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:100:9000,::ffff:100:90ff,AS,TH,Thailand,Nakhon Si Thammarat,Pak Phanang,80140,Asia/Jakarta,0,8.35109,100.20195,2
+::ffff:100:8b00,::ffff:100:8cff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:100:8d00,::ffff:100:8dff,AS,TH,Thailand,Phetchaburi,Pattaya,76130,Asia/Jakarta,0,12.93333,100.88333,2
+::ffff:100:8e00,::ffff:100:8fff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:100:9000,::ffff:100:90ff,AS,TH,Thailand,Phang Nga,Phang Nga,82130,Asia/Jakarta,0,8.45091,98.52985,2
 ::ffff:100:9100,::ffff:100:91ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,2
-::ffff:100:9200,::ffff:100:92ff,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,,Asia/Jakarta,0,8.43333,99.9667,2
-::ffff:100:9300,::ffff:100:93ff,AS,TH,Thailand,Chumphon,Tha Sae,,Asia/Jakarta,0,10.6646,99.1728,2
+::ffff:100:9200,::ffff:100:92ff,AS,TH,Thailand,Chumphon,Tha Sae,,Asia/Jakarta,0,10.6646,99.1728,2
+::ffff:100:9300,::ffff:100:93ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
 ::ffff:100:9400,::ffff:100:94ff,AS,TH,Thailand,Tanintharyi Region,Kawthaung,,Asia/Yangon,0,9.98238,98.5503,2
-::ffff:100:9500,::ffff:100:95ff,AS,TH,Thailand,Nakhon Si Thammarat,Chawang,80150,Asia/Jakarta,0,8.42614,99.50472,2
-::ffff:100:9600,::ffff:100:96ff,AS,TH,Thailand,Chumphon,Tha Sae,,Asia/Jakarta,0,10.6646,99.1728,2
-::ffff:100:9700,::ffff:100:97ff,AS,TH,Thailand,Chumphon,Chumphon,,Asia/Jakarta,0,10.4957,99.1797,2
-::ffff:100:9800,::ffff:100:98ff,AS,TH,Thailand,Chumphon,Sawi,,Asia/Jakarta,0,10.2367,99.1094,2
-::ffff:100:9900,::ffff:100:99ff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
-::ffff:100:9a00,::ffff:100:9aff,AS,TH,Thailand,Phang Nga,Phang Nga,82130,Asia/Jakarta,0,8.45091,98.52985,2
+::ffff:100:9500,::ffff:100:95ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
+::ffff:100:9600,::ffff:100:96ff,AS,TH,Thailand,Nakhon Si Thammarat,Chawang,80150,Asia/Jakarta,0,8.42614,99.50472,2
+::ffff:100:9700,::ffff:100:97ff,AS,TH,Thailand,Phangnga,Khura Buri,82150,Asia/Jakarta,0,9.19397,98.41514,2
+::ffff:100:9800,::ffff:100:98ff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
+::ffff:100:9900,::ffff:100:99ff,AS,TH,Thailand,Surat Thani,Don Sak,84220,Asia/Jakarta,0,9.31676,99.69184,2
+::ffff:100:9a00,::ffff:100:9aff,AS,TH,Thailand,Ranong province,Kapoe,,Asia/Jakarta,0,9.58522,98.5961,2
 ::ffff:100:9b00,::ffff:100:9bff,AS,TH,Thailand,Chumphon,Chumphon,,Asia/Jakarta,0,10.4957,99.1797,2
 ::ffff:100:9c00,::ffff:100:9cff,AS,TH,Thailand,Phuket,Kathu,83120,Asia/Jakarta,0,7.91779,98.33322,2
 ::ffff:100:9d00,::ffff:100:9dff,AS,TH,Thailand,Nakhon Si Thammarat,Tha Sala,80160,Asia/Jakarta,0,8.66733,99.93078,2
 ::ffff:100:9e00,::ffff:100:9eff,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,,Asia/Jakarta,0,8.43333,99.9667,2
-::ffff:100:9f00,::ffff:100:9fff,AS,TH,Thailand,Chumphon,Chumphon,,Asia/Jakarta,0,10.4957,99.1797,2
+::ffff:100:9f00,::ffff:100:9fff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
 ::ffff:100:a000,::ffff:100:a0ff,AS,TH,Thailand,Phuket,Phuket,,Asia/Jakarta,0,7.89059,98.3981,2
-::ffff:100:a100,::ffff:100:a1ff,AS,TH,Thailand,Satun,Satun,91130,Asia/Jakarta,0,6.62314,100.06676,2
+::ffff:100:a100,::ffff:100:a1ff,AS,TH,Thailand,Trang,Ratsada,,Asia/Jakarta,0,7.97467,99.6335,2
 ::ffff:100:a200,::ffff:100:a2ff,AS,TH,Thailand,Phuket,Kathu,83120,Asia/Jakarta,0,7.91779,98.33322,2
 ::ffff:100:a300,::ffff:100:a3ff,AS,TH,Thailand,Surat Thani,Don Sak,84220,Asia/Jakarta,0,9.31676,99.69184,2
 ::ffff:100:a400,::ffff:100:a4ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
-::ffff:100:a500,::ffff:100:a5ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:100:a500,::ffff:100:a5ff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
 ::ffff:100:a600,::ffff:100:a6ff,AS,TH,Thailand,Surat Thani,Ko Pha Ngan,84280,Asia/Jakarta,0,9.75778,100.02914,2
-::ffff:100:a700,::ffff:100:a7ff,AS,TH,Thailand,Surat Thani,Phanom,84250,Asia/Jakarta,0,8.85475,98.81267,2
-::ffff:100:a800,::ffff:100:a8ff,AS,TH,Thailand,Ratchaburi,Ratchaburi,70000,Asia/Jakarta,0,13.53671,99.81712,2
-::ffff:100:a900,::ffff:100:a9ff,AS,TH,Thailand,Kanchanaburi,Si Sawat,71250,Asia/Jakarta,0,14.59922,99.11406,2
+::ffff:100:a700,::ffff:100:a7ff,AS,TH,Thailand,Trang,Wang Wiset,,Asia/Jakarta,0,7.73631,99.3987,2
+::ffff:100:a800,::ffff:100:a9ff,AS,TH,Thailand,Ratchaburi,Ratchaburi,70000,Asia/Jakarta,0,13.53671,99.81712,2
 ::ffff:100:aa00,::ffff:100:aaff,AS,TH,Thailand,Suphanburi,Suphan Buri,72150,Asia/Jakarta,0,14.47418,100.12218,2
 ::ffff:100:ab00,::ffff:100:abff,AS,TH,Thailand,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,13120,Asia/Jakarta,0,14.35167,100.57739,2
-::ffff:100:ac00,::ffff:100:acff,AS,TH,Thailand,Ranong,La-Un,85130,Asia/Jakarta,0,10.11556,98.74992,2
-::ffff:100:ad00,::ffff:100:adff,AS,TH,Thailand,Trang,Huai Yot,92130,Asia/Jakarta,0,7.78937,99.63469,2
-::ffff:100:ae00,::ffff:100:aeff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
+::ffff:100:ac00,::ffff:100:acff,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,,Asia/Jakarta,0,8.43333,99.9667,2
+::ffff:100:ad00,::ffff:100:adff,AS,TH,Thailand,Phuket,Phuket,,Asia/Jakarta,0,7.89059,98.3981,2
+::ffff:100:ae00,::ffff:100:aeff,AS,TH,Thailand,Satun,Satun,91130,Asia/Jakarta,0,6.62314,100.06676,2
 ::ffff:100:af00,::ffff:100:afff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,2
 ::ffff:100:b000,::ffff:100:bdff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:100:be00,::ffff:100:beff,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,,Asia/Jakarta,0,8.43333,99.9667,2
@@ -93,52 +93,50 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:100:c600,::ffff:100:c6ff,AS,TH,Thailand,Surat Thani,Ko Samui,,Asia/Jakarta,0,9.53567,99.9357,2
 ::ffff:100:c700,::ffff:100:c8ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:100:c900,::ffff:100:c9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:100:ca00,::ffff:100:caff,AS,TH,Thailand,Trang,Trang,92140,Asia/Jakarta,0,7.55633,99.61141,2
-::ffff:100:cb00,::ffff:100:cbff,AS,TH,Thailand,Chumphon,Thung Tako,86220,Asia/Jakarta,0,10.11022,99.08306,2
+::ffff:100:ca00,::ffff:100:cbff,AS,TH,Thailand,Trang,Trang,92140,Asia/Jakarta,0,7.55633,99.61141,2
 ::ffff:100:cc00,::ffff:100:ccff,AS,TH,Thailand,Kanchanaburi,Nong Prue,71220,Asia/Jakarta,0,14.61144,99.45033,2
 ::ffff:100:cd00,::ffff:100:cfff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:100:d000,::ffff:100:d0ff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79038,98.98468,2
-::ffff:100:d100,::ffff:100:d1ff,AS,TH,Thailand,Lamphun,Lamphun,51000,Asia/Jakarta,0,18.58054,99.00745,2
-::ffff:100:d200,::ffff:100:d2ff,AS,TH,Thailand,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,13120,Asia/Jakarta,0,14.35167,100.57739,2
-::ffff:100:d300,::ffff:100:d3ff,AS,TH,Thailand,Ang Thong,Wiset Chaichan,14110,Asia/Jakarta,0,14.5945,100.33825,2
-::ffff:100:d400,::ffff:100:d4ff,AS,TH,Thailand,Chiang Rai,Wiang Chiang Rung,,Asia/Jakarta,0,20.0133,100.056,2
+::ffff:100:d100,::ffff:100:d1ff,AS,TH,Thailand,Mae Hong Son,Khun Yuam,58140,Asia/Jakarta,0,18.82958,97.93347,2
+::ffff:100:d200,::ffff:100:d2ff,AS,TH,Thailand,Saraburi,Lop Buri,18120,Asia/Jakarta,0,14.79808,100.65397,2
+::ffff:100:d300,::ffff:100:d3ff,AS,TH,Thailand,Saraburi,Lop Buri,18120,Asia/Jakarta,0,14.79808,100.65397,2
+::ffff:100:d400,::ffff:100:d4ff,AS,TH,Thailand,Nan,Nan,55000,Asia/Jakarta,0,18.78378,100.77899,2
 ::ffff:100:d500,::ffff:100:d5ff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79038,98.98468,2
 ::ffff:100:d600,::ffff:100:d6ff,AS,TH,Thailand,Narathiwat,Rueso,,Asia/Jakarta,0,6.39364,101.518,2
-::ffff:100:d700,::ffff:100:d7ff,AS,TH,Thailand,Amnat Charoen,Phana,37180,Asia/Jakarta,0,15.68529,104.84334,2
+::ffff:100:d700,::ffff:100:d7ff,AS,TH,Thailand,Surin,Sangkha,,Asia/Jakarta,0,14.6362,103.853,2
 ::ffff:100:d800,::ffff:100:d8ff,AS,TH,Thailand,Phuket,Phuket,,Asia/Jakarta,0,7.89059,98.3981,2
 ::ffff:100:d900,::ffff:100:d9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:100:da00,::ffff:100:daff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
-::ffff:100:db00,::ffff:100:dbff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79038,98.98468,2
+::ffff:100:db00,::ffff:100:dbff,AS,TH,Thailand,Lampang,Lampang,52000,Asia/Jakarta,0,18.29232,99.49277,2
 ::ffff:100:dc00,::ffff:100:dcff,AS,TH,Thailand,Trang,Trang,92140,Asia/Jakarta,0,7.55633,99.61141,2
-::ffff:100:dd00,::ffff:100:e0ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:100:e100,::ffff:100:e1ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
+::ffff:100:dd00,::ffff:100:dfff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:100:e000,::ffff:100:e0ff,AS,TH,Thailand,Sakon Nakhon,Wanon Niwat,,Asia/Jakarta,0,17.6339,103.752,2
+::ffff:100:e100,::ffff:100:e1ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:100:e200,::ffff:100:e2ff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
 ::ffff:100:e300,::ffff:100:e3ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
-::ffff:100:e400,::ffff:100:e4ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
+::ffff:100:e400,::ffff:100:e4ff,AS,TH,Thailand,Udon Thani,Ban Phan Don,41000,Asia/Jakarta,0,17.14272,102.97261,2
 ::ffff:100:e500,::ffff:100:e5ff,AS,TH,Thailand,Udon Thani,Nam Som,42210,Asia/Jakarta,0,17.77036,102.18947,2
-::ffff:100:e600,::ffff:100:e8ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
-::ffff:100:e900,::ffff:100:e9ff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
+::ffff:100:e600,::ffff:100:e9ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:100:ea00,::ffff:100:eaff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
 ::ffff:100:eb00,::ffff:100:ebff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:100:ec00,::ffff:100:ecff,AS,TH,Thailand,Bolikhamsai,Pakxan,,Asia/Jakarta,0,18.3942,103.661,2
 ::ffff:100:ed00,::ffff:100:edff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
 ::ffff:100:ee00,::ffff:100:eeff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:100:ef00,::ffff:100:efff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
-::ffff:100:f000,::ffff:100:f0ff,AS,TH,Thailand,Chumphon,Tha Sae,,Asia/Jakarta,0,10.6646,99.1728,2
+::ffff:100:f000,::ffff:100:f0ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
 ::ffff:100:f100,::ffff:100:f1ff,AS,TH,Thailand,Tanintharyi Region,Kawthaung,,Asia/Yangon,0,9.98238,98.5503,2
 ::ffff:100:f200,::ffff:100:f2ff,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,,Asia/Jakarta,0,8.43333,99.9667,2
-::ffff:100:f300,::ffff:100:f3ff,AS,TH,Thailand,Krabi,Saladan,81150,Asia/Jakarta,0,7.61342,99.03651,2
+::ffff:100:f300,::ffff:100:f3ff,AS,TH,Thailand,Chumphon,Lang Suan,86110,Asia/Jakarta,0,9.94561,99.07847,2
 ::ffff:100:f400,::ffff:100:f4ff,AS,TH,Thailand,Phangnga,Ko Yao,82160,Asia/Jakarta,0,8.11014,98.59231,2
-::ffff:100:f500,::ffff:100:f5ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,2
-::ffff:100:f600,::ffff:100:f6ff,AS,TH,Thailand,Chumphon,Lang Suan,86110,Asia/Jakarta,0,9.94561,99.07847,2
+::ffff:100:f500,::ffff:100:f5ff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
+::ffff:100:f600,::ffff:100:f6ff,AS,TH,Thailand,Nakhon Si Thammarat,Nopphitam,,Asia/Jakarta,0,8.72206,99.7488,2
 ::ffff:100:f700,::ffff:100:f7ff,AS,TH,Thailand,Chumphon,Pathio,,Asia/Jakarta,0,10.7091,99.3182,2
 ::ffff:100:f800,::ffff:100:f8ff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
 ::ffff:100:f900,::ffff:100:f9ff,AS,TH,Thailand,Yala,Ka Bang,95120,Asia/Jakarta,0,6.41536,101.05456,2
 ::ffff:100:fa00,::ffff:100:fbff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
 ::ffff:100:fc00,::ffff:100:fcff,AS,TH,Thailand,Songkhla,Sadao,,Asia/Jakarta,0,6.63883,100.423,2
-::ffff:100:fd00,::ffff:100:fdff,AS,TH,Thailand,Narathiwat,Su-ngai Kolok,96120,Asia/Jakarta,0,6.02977,101.96586,2
-::ffff:100:fe00,::ffff:100:feff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
-::ffff:100:ff00,::ffff:100:ffff,AS,TH,Thailand,Yala,Yala,95000,Asia/Jakarta,0,6.53995,101.28128,2
+::ffff:100:fd00,::ffff:100:fdff,AS,TH,Thailand,Narathiwat,Narathiwat,,Asia/Jakarta,0,6.42639,101.823,2
+::ffff:100:fe00,::ffff:100:ffff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
 ::ffff:101:0,::ffff:101:ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,2
 ::ffff:101:100,::ffff:101:1ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46794,153.02809,2
 ::ffff:101:200,::ffff:101:7ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,2
@@ -150,9 +148,8 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:8200,::ffff:101:82ff,AS,TH,Thailand,Nong Bua Lam Phu,Na Klang,39170,Asia/Jakarta,0,17.3072,102.18886,2
 ::ffff:101:8300,::ffff:101:83ff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
 ::ffff:101:8400,::ffff:101:84ff,AS,TH,Thailand,Loei,Tha Li,42140,Asia/Jakarta,0,17.62355,101.42099,2
-::ffff:101:8500,::ffff:101:85ff,AS,TH,Thailand,Kalasin,Kamalasai,46130,Asia/Jakarta,0,16.33839,103.57564,2
-::ffff:101:8600,::ffff:101:86ff,AS,TH,Thailand,Mukdahan,Khamcha-i,49110,Asia/Jakarta,0,16.57764,104.41956,2
-::ffff:101:8700,::ffff:101:87ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
+::ffff:101:8500,::ffff:101:86ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
+::ffff:101:8700,::ffff:101:87ff,AS,TH,Thailand,Roi Et,Suwannaphum,45130,Asia/Jakarta,0,15.60348,103.80207,2
 ::ffff:101:8800,::ffff:101:88ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:101:8900,::ffff:101:89ff,AS,TH,Thailand,Bueng Kan,Ban Non Chai Si,-,Asia/Jakarta,0,18.2987,103.314,2
 ::ffff:101:8a00,::ffff:101:8bff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
@@ -162,55 +159,56 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:9800,::ffff:101:98ff,AS,TH,Thailand,Surat Thani,Koh Tao,84280,Asia/Jakarta,0,10.09808,99.83809,2
 ::ffff:101:9900,::ffff:101:99ff,AS,TH,Thailand,Surat Thani,Ko Samui,,Asia/Jakarta,0,9.53567,99.9357,2
 ::ffff:101:9a00,::ffff:101:9aff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
-::ffff:101:9b00,::ffff:101:9bff,AS,TH,Thailand,Chumphon,Pathio,,Asia/Jakarta,0,10.7091,99.3182,2
-::ffff:101:9c00,::ffff:101:9cff,AS,TH,Thailand,Trang,Ratsada,,Asia/Jakarta,0,7.97467,99.6335,2
-::ffff:101:9d00,::ffff:101:9dff,AS,TH,Thailand,Tanintharyi Region,Kawthaung,,Asia/Yangon,0,9.98238,98.5503,2
-::ffff:101:9e00,::ffff:101:9eff,AS,TH,Thailand,Chumphon,Sawi,,Asia/Jakarta,0,10.2367,99.1094,2
-::ffff:101:9f00,::ffff:101:9fff,AS,TH,Thailand,Surat Thani,Ko Samui,,Asia/Jakarta,0,9.53567,99.9357,2
-::ffff:101:a000,::ffff:101:a0ff,AS,TH,Thailand,Lampang,Wang Nuea,52140,Asia/Jakarta,0,19.14678,99.61933,2
-::ffff:101:a100,::ffff:101:a1ff,AS,TH,Thailand,Chiang Rai,Phaya Mengrai,57160,Asia/Jakarta,0,19.84922,100.15358,2
+::ffff:101:9b00,::ffff:101:9cff,AS,TH,Thailand,Chumphon,Pathio,,Asia/Jakarta,0,10.7091,99.3182,2
+::ffff:101:9d00,::ffff:101:9dff,AS,TH,Thailand,Ranong,La-Un,85130,Asia/Jakarta,0,10.11556,98.74992,2
+::ffff:101:9e00,::ffff:101:9eff,AS,TH,Thailand,Nakhon Si Thammarat,Bang Khan,,Asia/Jakarta,0,8.02689,99.4737,2
+::ffff:101:9f00,::ffff:101:9fff,AS,TH,Thailand,Chumphon,Sawi,,Asia/Jakarta,0,10.2367,99.1094,2
+::ffff:101:a000,::ffff:101:a0ff,AS,TH,Thailand,Chiang Mai,Hot,,Asia/Jakarta,0,18.1932,98.6104,2
+::ffff:101:a100,::ffff:101:a1ff,AS,TH,Thailand,Phrae,Phrae,54000,Asia/Jakarta,0,18.14589,100.14103,2
 ::ffff:101:a200,::ffff:101:a2ff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,58000,Asia/Jakarta,0,19.30029,97.96852,2
-::ffff:101:a300,::ffff:101:a3ff,AS,TH,Thailand,Chiang Rai,Wiang Chiang Rung,,Asia/Jakarta,0,20.0133,100.056,2
-::ffff:101:a400,::ffff:101:a4ff,AS,TH,Thailand,Mae Hong Son,Pai,58130,Asia/Jakarta,0,19.36168,98.43973,2
+::ffff:101:a300,::ffff:101:a3ff,AS,TH,Thailand,Phrae,Phrae,54000,Asia/Jakarta,0,18.14589,100.14103,2
+::ffff:101:a400,::ffff:101:a4ff,AS,TH,Thailand,Chiang Rai,Phaya Mengrai,57160,Asia/Jakarta,0,19.84922,100.15358,2
 ::ffff:101:a500,::ffff:101:a5ff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79038,98.98468,2
 ::ffff:101:a600,::ffff:101:a6ff,AS,TH,Thailand,Mae Hong Son,Pai,58130,Asia/Jakarta,0,19.36168,98.43973,2
 ::ffff:101:a700,::ffff:101:a7ff,AS,TH,Thailand,Phrae,Phrae,54000,Asia/Jakarta,0,18.14589,100.14103,2
-::ffff:101:a800,::ffff:101:a8ff,AS,TH,Thailand,Chiang Rai,Phan,57120,Asia/Jakarta,0,19.55395,99.74046,2
-::ffff:101:a900,::ffff:101:a9ff,AS,TH,Thailand,Phrae,Long,54150,Asia/Jakarta,0,18.07422,99.83073,2
-::ffff:101:aa00,::ffff:101:aaff,AS,TH,Thailand,Chiang Rai,Chiang Saen,57110,Asia/Jakarta,0,20.27511,100.08689,2
-::ffff:101:ab00,::ffff:101:abff,AS,TH,Thailand,Chiang Rai,Mae Chan,57110,Asia/Jakarta,0,20.14675,99.85256,2
-::ffff:101:ac00,::ffff:101:acff,AS,TH,Thailand,Chiang Mai,Ban Mae Waen,50190,Asia/Jakarta,0,19.31414,99.18842,2
+::ffff:101:a800,::ffff:101:a8ff,AS,TH,Thailand,Nan,Nan,55000,Asia/Jakarta,0,18.78378,100.77899,2
+::ffff:101:a900,::ffff:101:a9ff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79038,98.98468,2
+::ffff:101:aa00,::ffff:101:aaff,AS,TH,Thailand,Chiang Rai,Wiang Chiang Rung,,Asia/Jakarta,0,20.0133,100.056,2
+::ffff:101:ab00,::ffff:101:abff,AS,TH,Thailand,Mae Hong Son,Pai,58130,Asia/Jakarta,0,19.36168,98.43973,2
+::ffff:101:ac00,::ffff:101:acff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79038,98.98468,2
 ::ffff:101:ad00,::ffff:101:adff,AS,TH,Thailand,Chiang Mai,Fang,50110,Asia/Jakarta,0,19.91689,99.2145,2
 ::ffff:101:ae00,::ffff:101:aeff,AS,TH,Thailand,Chiang Rai,Phan,57120,Asia/Jakarta,0,19.55395,99.74046,2
-::ffff:101:af00,::ffff:101:afff,AS,TH,Thailand,Chiang Rai,Chiang Saen,57110,Asia/Jakarta,0,20.27511,100.08689,2
+::ffff:101:af00,::ffff:101:afff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,58000,Asia/Jakarta,0,19.30029,97.96852,2
 ::ffff:101:b000,::ffff:101:b3ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:101:b400,::ffff:101:b4ff,AS,TH,Thailand,Surin,Chom Phra,32180,Asia/Jakarta,0,15.11814,103.60743,2
-::ffff:101:b500,::ffff:101:b8ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:101:b900,::ffff:101:bbff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
+::ffff:101:b500,::ffff:101:b7ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:101:b800,::ffff:101:b8ff,AS,TH,Thailand,Roi Et,Roi Et,45000,Asia/Jakarta,0,16.0567,103.65309,2
+::ffff:101:b900,::ffff:101:b9ff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
+::ffff:101:ba00,::ffff:101:baff,AS,TH,Thailand,Nakhon Phanom,Si Songkhram,,Asia/Jakarta,0,17.6275,104.251,2
+::ffff:101:bb00,::ffff:101:bbff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
 ::ffff:101:bc00,::ffff:101:bcff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
-::ffff:101:bd00,::ffff:101:bdff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:101:be00,::ffff:101:beff,AS,TH,Thailand,Kalasin,Chai Wari,46130,Asia/Jakarta,0,16.32827,103.77033,2
-::ffff:101:bf00,::ffff:101:bfff,AS,TH,Thailand,Sakon Nakhon,Tao Ngoi,47260,Asia/Jakarta,0,16.99689,104.16672,2
+::ffff:101:bd00,::ffff:101:bdff,AS,TH,Thailand,Phuket,Phuket,,Asia/Jakarta,0,7.89059,98.3981,2
+::ffff:101:be00,::ffff:101:beff,AS,TH,Thailand,Kalasin,Khao Wong,46160,Asia/Jakarta,0,16.70008,104.09019,2
+::ffff:101:bf00,::ffff:101:bfff,AS,TH,Thailand,Udon Thani,Nam Som,42210,Asia/Jakarta,0,17.77036,102.18947,2
 ::ffff:101:c000,::ffff:101:c0ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
-::ffff:101:c100,::ffff:101:c1ff,AS,TH,Thailand,Udon Thani,Ban Phue,41160,Asia/Jakarta,0,17.68742,102.47256,2
+::ffff:101:c100,::ffff:101:c1ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
 ::ffff:101:c200,::ffff:101:c2ff,AS,TH,Thailand,Loei,Tha Li,42140,Asia/Jakarta,0,17.62355,101.42099,2
 ::ffff:101:c300,::ffff:101:c4ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
 ::ffff:101:c500,::ffff:101:c5ff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
-::ffff:101:c600,::ffff:101:c6ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
-::ffff:101:c700,::ffff:101:c7ff,AS,TH,Thailand,Sakon Nakhon,Phang Khon,,Asia/Jakarta,0,17.3905,103.717,2
-::ffff:101:c800,::ffff:101:c8ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:101:c600,::ffff:101:c6ff,AS,TH,Thailand,Kalasin,Chai Wari,46130,Asia/Jakarta,0,16.32827,103.77033,2
+::ffff:101:c700,::ffff:101:c7ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
+::ffff:101:c800,::ffff:101:c8ff,AS,TH,Thailand,Nong Bua Lam Phu,Nong Bua Lamphu,39170,Asia/Jakarta,0,17.20406,102.44068,2
 ::ffff:101:c900,::ffff:101:c9ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
 ::ffff:101:ca00,::ffff:101:caff,AS,TH,Thailand,Mukdahan,Khamcha-i,49110,Asia/Jakarta,0,16.57764,104.41956,2
-::ffff:101:cb00,::ffff:101:cbff,AS,TH,Thailand,Kalasin,Kamalasai,46130,Asia/Jakarta,0,16.33839,103.57564,2
-::ffff:101:cc00,::ffff:101:ccff,AS,TH,Thailand,Sakon Nakhon,Phang Khon,,Asia/Jakarta,0,17.3905,103.717,2
-::ffff:101:cd00,::ffff:101:cdff,AS,TH,Thailand,Kalasin,Kalasin,46000,Asia/Jakarta,0,16.43281,103.50658,2
-::ffff:101:ce00,::ffff:101:ceff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
+::ffff:101:cb00,::ffff:101:cbff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
+::ffff:101:cc00,::ffff:101:ccff,AS,TH,Thailand,Sakon Nakhon,Sawang Daen Din,47110,Asia/Jakarta,0,17.47531,103.45753,2
+::ffff:101:cd00,::ffff:101:ceff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
 ::ffff:101:cf00,::ffff:101:cfff,AS,TH,Thailand,Sakon Nakhon,Phang Khon,,Asia/Jakarta,0,17.3905,103.717,2
 ::ffff:101:d000,::ffff:101:d0ff,AS,TH,Thailand,Nakhon Phanom,That Phanom,48110,Asia/Jakarta,0,16.93636,104.71039,2
-::ffff:101:d100,::ffff:101:d1ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
+::ffff:101:d100,::ffff:101:d1ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
 ::ffff:101:d200,::ffff:101:d2ff,AS,TH,Thailand,Bueng Kan,Ban Si Pramuan,-,Asia/Jakarta,0,18.0871,103.564,2
 ::ffff:101:d300,::ffff:101:d3ff,AS,TH,Thailand,Kalasin,Chai Wari,46130,Asia/Jakarta,0,16.32827,103.77033,2
-::ffff:101:d400,::ffff:101:d4ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
+::ffff:101:d400,::ffff:101:d4ff,AS,TH,Thailand,Nong Bua Lam Phu,Si Bun Rueang,39180,Asia/Jakarta,0,16.96705,102.27607,2
 ::ffff:101:d500,::ffff:101:d5ff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
 ::ffff:101:d600,::ffff:101:d6ff,AS,TH,Thailand,Loei,Dan Sai,,Asia/Jakarta,0,17.2801,101.147,2
 ::ffff:101:d700,::ffff:101:d7ff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
@@ -220,31 +218,31 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:df00,::ffff:101:dfff,AS,TH,Thailand,Nakhon Pathom,Nakhon Pathom,73000,Asia/Jakarta,0,13.8196,100.04427,2
 ::ffff:101:e000,::ffff:101:e0ff,AS,TH,Thailand,Maha Sarakham,Yang Talat,44150,Asia/Jakarta,0,16.39982,103.36785,2
 ::ffff:101:e100,::ffff:101:e1ff,AS,TH,Thailand,Yasothon,Amnat Charoen,35150,Asia/Jakarta,0,15.85851,104.62883,2
-::ffff:101:e200,::ffff:101:e2ff,AS,TH,Thailand,Ubon Ratchathani,Det Udom,,Asia/Jakarta,0,14.906,105.078,2
+::ffff:101:e200,::ffff:101:e2ff,AS,TH,Thailand,Nakhon Ratchasima,Bua Yai,30120,Asia/Jakarta,0,15.58552,102.42587,2
 ::ffff:101:e300,::ffff:101:e3ff,AS,TH,Thailand,Si Sa Ket,Si Sa Ket,33000,Asia/Jakarta,0,15.11481,104.32938,2
 ::ffff:101:e400,::ffff:101:e4ff,AS,TH,Thailand,Nakhon Ratchasima,Pak Chong,30130,Asia/Jakarta,0,14.70802,101.41614,2
 ::ffff:101:e500,::ffff:101:e5ff,AS,TH,Thailand,Chaiyaphum,Kaeng Khro,36150,Asia/Jakarta,0,16.10864,102.25808,2
 ::ffff:101:e600,::ffff:101:e6ff,AS,TH,Thailand,Maha Sarakham,Borabue,44130,Asia/Jakarta,0,16.03847,103.11906,2
-::ffff:101:e700,::ffff:101:e7ff,AS,TH,Thailand,Nakhon Ratchasima,Amphoe Sikhiu,30140,Asia/Jakarta,0,14.89944,101.70833,2
-::ffff:101:e800,::ffff:101:e8ff,AS,TH,Thailand,Kalasin,Kalasin,46000,Asia/Jakarta,0,16.43281,103.50658,2
+::ffff:101:e700,::ffff:101:e7ff,AS,TH,Thailand,Si Sa Ket,Phu Sing,,Asia/Jakarta,0,14.5474,104.132,2
+::ffff:101:e800,::ffff:101:e8ff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
 ::ffff:101:e900,::ffff:101:e9ff,AS,TH,Thailand,Loei,Dan Sai,,Asia/Jakarta,0,17.2801,101.147,2
-::ffff:101:ea00,::ffff:101:eaff,AS,TH,Thailand,Nong Bua Lam Phu,Nong Bua Lamphu,39170,Asia/Jakarta,0,17.20406,102.44068,2
+::ffff:101:ea00,::ffff:101:eaff,AS,TH,Thailand,Sakon Nakhon,Phang Khon,,Asia/Jakarta,0,17.3905,103.717,2
 ::ffff:101:eb00,::ffff:101:ebff,AS,TH,Thailand,Kalasin,Kalasin,46000,Asia/Jakarta,0,16.43281,103.50658,2
-::ffff:101:ec00,::ffff:101:ecff,AS,TH,Thailand,Khammouan,Thakhek,-,Asia/Jakarta,0,17.41027,104.83068,2
+::ffff:101:ec00,::ffff:101:ecff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
 ::ffff:101:ed00,::ffff:101:edff,AS,TH,Thailand,Kalasin,Kamalasai,46130,Asia/Jakarta,0,16.33839,103.57564,2
-::ffff:101:ee00,::ffff:101:eeff,AS,TH,Thailand,Loei,Dan Sai,,Asia/Jakarta,0,17.2801,101.147,2
+::ffff:101:ee00,::ffff:101:eeff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
 ::ffff:101:ef00,::ffff:101:efff,AS,TH,Thailand,Nong Bua Lam Phu,Nong Bua Lamphu,39170,Asia/Jakarta,0,17.20406,102.44068,2
-::ffff:101:f000,::ffff:101:f0ff,AS,TH,Thailand,Maha Sarakham,Yang Talat,44150,Asia/Jakarta,0,16.39982,103.36785,2
-::ffff:101:f100,::ffff:101:f1ff,AS,TH,Thailand,Amnat Charoen,Phana,37180,Asia/Jakarta,0,15.68529,104.84334,2
-::ffff:101:f200,::ffff:101:f2ff,AS,TH,Thailand,Maha Sarakham,Yang Talat,44150,Asia/Jakarta,0,16.39982,103.36785,2
-::ffff:101:f300,::ffff:101:f3ff,AS,TH,Thailand,Nakhon Ratchasima,Chok Chai,30190,Asia/Jakarta,0,14.72844,102.16524,2
-::ffff:101:f400,::ffff:101:f4ff,AS,TH,Thailand,Nakhon Ratchasima,Amphoe Sikhiu,30140,Asia/Jakarta,0,14.89944,101.70833,2
-::ffff:101:f500,::ffff:101:f5ff,AS,TH,Thailand,Surin,Sangkha,,Asia/Jakarta,0,14.6362,103.853,2
-::ffff:101:f600,::ffff:101:f6ff,AS,TH,Thailand,Nakhon Ratchasima,Phimai,30110,Asia/Jakarta,0,15.22324,102.49473,2
-::ffff:101:f700,::ffff:101:f7ff,AS,TH,Thailand,Si Sa Ket,Phu Sing,,Asia/Jakarta,0,14.5474,104.132,2
+::ffff:101:f000,::ffff:101:f0ff,AS,TH,Thailand,Yasothon,Amnat Charoen,35150,Asia/Jakarta,0,15.85851,104.62883,2
+::ffff:101:f100,::ffff:101:f1ff,AS,TH,Thailand,Maha Sarakham,Maha Sarakham,,Asia/Jakarta,0,16.1821,103.3,2
+::ffff:101:f200,::ffff:101:f2ff,AS,TH,Thailand,Buri Ram,Nang Rong,31110,Asia/Jakarta,0,14.6377,102.79138,2
+::ffff:101:f300,::ffff:101:f3ff,AS,TH,Thailand,Buriram,Ban Kruat,,Asia/Jakarta,0,14.4231,103.1,2
+::ffff:101:f400,::ffff:101:f4ff,AS,TH,Thailand,Amnat Charoen,Lue Amnat,37000,Asia/Jakarta,0,15.69521,104.64817,2
+::ffff:101:f500,::ffff:101:f5ff,AS,TH,Thailand,Nakhon Ratchasima,Chok Chai,30190,Asia/Jakarta,0,14.72844,102.16524,2
+::ffff:101:f600,::ffff:101:f6ff,AS,TH,Thailand,Si Sa Ket,Prang Ku,33170,Asia/Jakarta,0,14.85672,104.03981,2
+::ffff:101:f700,::ffff:101:f7ff,AS,TH,Thailand,Si Sa Ket,Si Sa Ket,33000,Asia/Jakarta,0,15.11481,104.32938,2
 ::ffff:101:f800,::ffff:101:f9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:101:fa00,::ffff:101:faff,AS,TH,Thailand,Nakhon Ratchasima,Soeng Sang,30330,Asia/Jakarta,0,14.42642,102.46058,2
-::ffff:101:fb00,::ffff:101:fbff,AS,TH,Thailand,Chaiyaphum,Thep Sathit,36160,Asia/Jakarta,0,15.39247,101.45061,2
+::ffff:101:fa00,::ffff:101:faff,AS,TH,Thailand,Bolikhamsai,Pakxan,,Asia/Jakarta,0,18.3942,103.661,2
+::ffff:101:fb00,::ffff:101:fbff,AS,TH,Thailand,Nakhon Ratchasima,Bua Yai,30120,Asia/Jakarta,0,15.58552,102.42587,2
 ::ffff:101:fc00,::ffff:101:fcff,AS,TH,Thailand,Surin,Surin,,Asia/Jakarta,0,14.8829,103.494,2
 ::ffff:101:fd00,::ffff:101:ffff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:0,::ffff:102:1ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,2
@@ -255,60 +253,60 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:102:800,::ffff:102:8ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.39723,2
 ::ffff:102:900,::ffff:102:7fff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.11667,113.25,2
 ::ffff:102:8000,::ffff:102:80ff,AS,TH,Thailand,Nong Bua Lam Phu,Na Klang,39170,Asia/Jakarta,0,17.3072,102.18886,2
-::ffff:102:8100,::ffff:102:81ff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
+::ffff:102:8100,::ffff:102:81ff,AS,TH,Thailand,Mukdahan,Nikhom Kham Soi,,Asia/Jakarta,0,16.3717,104.551,2
 ::ffff:102:8200,::ffff:102:83ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:102:8400,::ffff:102:84ff,AS,TH,Thailand,Nong Bua Lam Phu,Na Klang,39170,Asia/Jakarta,0,17.3072,102.18886,2
 ::ffff:102:8500,::ffff:102:85ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
-::ffff:102:8600,::ffff:102:86ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
-::ffff:102:8700,::ffff:102:87ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
-::ffff:102:8800,::ffff:102:88ff,AS,TH,Thailand,Nong Bua Lam Phu,Na Klang,39170,Asia/Jakarta,0,17.3072,102.18886,2
+::ffff:102:8600,::ffff:102:88ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:102:8900,::ffff:102:89ff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
-::ffff:102:8a00,::ffff:102:8aff,AS,TH,Thailand,Udon Thani,Non Sa-at,,Asia/Jakarta,0,16.9791,102.894,2
+::ffff:102:8a00,::ffff:102:8aff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
 ::ffff:102:8b00,::ffff:102:8bff,AS,TH,Thailand,Udon Thani,Ban Phue,41160,Asia/Jakarta,0,17.68742,102.47256,2
 ::ffff:102:8c00,::ffff:102:8cff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
-::ffff:102:8d00,::ffff:102:8dff,AS,TH,Thailand,Roi Et,Kaset Wisai,45150,Asia/Jakarta,0,15.65558,103.58361,2
-::ffff:102:8e00,::ffff:102:8eff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
-::ffff:102:8f00,::ffff:102:90ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
+::ffff:102:8d00,::ffff:102:8dff,AS,TH,Thailand,Roi Et,Waeng,,Asia/Jakarta,0,16.3001,103.978,2
+::ffff:102:8e00,::ffff:102:8eff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,2
+::ffff:102:8f00,::ffff:102:8fff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
+::ffff:102:9000,::ffff:102:90ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:102:9100,::ffff:102:91ff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
 ::ffff:102:9200,::ffff:102:92ff,AS,TH,Thailand,Udon Thani,Nam Som,42210,Asia/Jakarta,0,17.77036,102.18947,2
-::ffff:102:9300,::ffff:102:93ff,AS,TH,Thailand,Udon Thani,Ban Phue,41160,Asia/Jakarta,0,17.68742,102.47256,2
+::ffff:102:9300,::ffff:102:93ff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
 ::ffff:102:9400,::ffff:102:94ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:102:9500,::ffff:102:95ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
-::ffff:102:9600,::ffff:102:96ff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
-::ffff:102:9700,::ffff:102:97ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
-::ffff:102:9800,::ffff:102:98ff,AS,TH,Thailand,Udon Thani,Ban Phue,41160,Asia/Jakarta,0,17.68742,102.47256,2
-::ffff:102:9900,::ffff:102:99ff,AS,TH,Thailand,Nong Bua Lam Phu,Na Klang,39170,Asia/Jakarta,0,17.3072,102.18886,2
-::ffff:102:9a00,::ffff:102:9aff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
-::ffff:102:9b00,::ffff:102:9dff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
+::ffff:102:9600,::ffff:102:97ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
+::ffff:102:9800,::ffff:102:98ff,AS,TH,Thailand,,Huai Mek,,Asia/Jakarta,0,16.58975,103.23547,2
+::ffff:102:9900,::ffff:102:99ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
+::ffff:102:9a00,::ffff:102:9aff,AS,TH,Thailand,Sakon Nakhon,Phang Khon,,Asia/Jakarta,0,17.3905,103.717,2
+::ffff:102:9b00,::ffff:102:9bff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
+::ffff:102:9c00,::ffff:102:9cff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
+::ffff:102:9d00,::ffff:102:9dff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:102:9e00,::ffff:102:9eff,AS,TH,Thailand,Nong Khai,Seka,43150,Asia/Jakarta,0,17.92851,103.95519,2
 ::ffff:102:9f00,::ffff:102:9fff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
 ::ffff:102:a000,::ffff:102:a3ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:a400,::ffff:102:a4ff,AS,TH,Thailand,Phitsanulok,Phitsanulok,65000,Asia/Jakarta,0,16.82481,100.25858,2
-::ffff:102:a500,::ffff:102:a5ff,AS,TH,Thailand,Tak,Phop Phra,,Asia/Jakarta,0,16.3846,98.6903,2
+::ffff:102:a400,::ffff:102:a4ff,AS,TH,Thailand,Sing Buri,In Buri,16110,Asia/Jakarta,0,15.00787,100.32691,2
+::ffff:102:a500,::ffff:102:a5ff,AS,TH,Thailand,Kayin State,Myawadi,,Asia/Yangon,0,16.6891,98.5089,2
 ::ffff:102:a600,::ffff:102:a6ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:a700,::ffff:102:a7ff,AS,TH,Thailand,Pattani,Sai Buri,94110,Asia/Jakarta,0,6.70131,101.61675,2
 ::ffff:102:a800,::ffff:102:a9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:aa00,::ffff:102:aaff,AS,TH,Thailand,Uthai Thani,Uthai Thani,61000,Asia/Jakarta,0,15.37939,100.0245,2
-::ffff:102:ab00,::ffff:102:abff,AS,TH,Thailand,Ratchaburi,Ratchaburi,70000,Asia/Jakarta,0,13.53671,99.81712,2
+::ffff:102:aa00,::ffff:102:aaff,AS,TH,Thailand,Kayin State,Myawadi,,Asia/Yangon,0,16.6891,98.5089,2
+::ffff:102:ab00,::ffff:102:abff,AS,TH,Thailand,Ratchaburi,Ban Pong,70110,Asia/Jakarta,0,13.81629,99.87739,2
 ::ffff:102:ac00,::ffff:102:acff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:ad00,::ffff:102:adff,AS,TH,Thailand,Narathiwat,Ra-ngae,96130,Asia/Jakarta,0,6.29678,101.72844,2
-::ffff:102:ae00,::ffff:102:aeff,AS,TH,Thailand,Chai Nat,Chai Nat,17000,Asia/Jakarta,0,15.18636,100.12353,2
+::ffff:102:ad00,::ffff:102:adff,AS,TH,Thailand,Pattani,Pattani,94170,Asia/Jakarta,0,6.86814,101.25009,2
+::ffff:102:ae00,::ffff:102:aeff,AS,TH,Thailand,Kayin State,Myawadi,,Asia/Yangon,0,16.6891,98.5089,2
 ::ffff:102:af00,::ffff:102:afff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:b000,::ffff:102:b0ff,AS,TH,Thailand,Trat,Trat,23000,Asia/Jakarta,0,12.24364,102.51514,2
-::ffff:102:b100,::ffff:102:b1ff,AS,TH,Thailand,Mukdahan,Wan Yai,,Asia/Jakarta,0,16.7223,104.741,2
+::ffff:102:b100,::ffff:102:b1ff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
 ::ffff:102:b200,::ffff:102:b2ff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
 ::ffff:102:b300,::ffff:102:b3ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:b400,::ffff:102:b4ff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
 ::ffff:102:b500,::ffff:102:b5ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:b600,::ffff:102:b6ff,AS,TH,Thailand,Phuket,Phuket,,Asia/Jakarta,0,7.89059,98.3981,2
+::ffff:102:b600,::ffff:102:b6ff,AS,TH,Thailand,Satun,Satun,91130,Asia/Jakarta,0,6.62314,100.06676,2
 ::ffff:102:b700,::ffff:102:b7ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:b800,::ffff:102:b8ff,AS,TH,Thailand,Phitsanulok,Phitsanulok,65000,Asia/Jakarta,0,16.82481,100.25858,2
 ::ffff:102:b900,::ffff:102:b9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:ba00,::ffff:102:baff,AS,TH,Thailand,Yala,Than To,,Asia/Jakarta,0,6.16739,101.18,2
-::ffff:102:bb00,::ffff:102:bbff,AS,TH,Thailand,Prachuap Khiri Khan,Pran Buri,77120,Asia/Jakarta,0,12.38487,99.90157,2
-::ffff:102:bc00,::ffff:102:bcff,AS,TH,Thailand,Saraburi,Lop Buri,18120,Asia/Jakarta,0,14.79808,100.65397,2
-::ffff:102:bd00,::ffff:102:bdff,AS,TH,Thailand,Suphanburi,Suphan Buri,72150,Asia/Jakarta,0,14.47418,100.12218,2
-::ffff:102:be00,::ffff:102:beff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
+::ffff:102:bb00,::ffff:102:bbff,AS,TH,Thailand,Bangkok,Bang Khae,10160,Asia/Jakarta,0,13.69196,100.40691,2
+::ffff:102:bc00,::ffff:102:bcff,AS,TH,Thailand,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,13120,Asia/Jakarta,0,14.35167,100.57739,2
+::ffff:102:bd00,::ffff:102:bdff,AS,TH,Thailand,Saraburi,Lop Buri,18120,Asia/Jakarta,0,14.79808,100.65397,2
+::ffff:102:be00,::ffff:102:beff,AS,TH,Thailand,Songkhla,Rattaphum,90110,Asia/Jakarta,0,7.13478,100.25647,2
 ::ffff:102:bf00,::ffff:102:c1ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:c200,::ffff:102:c2ff,AS,TH,Thailand,Kamphaeng Phet,Khanu Woralaksaburi,62130,Asia/Jakarta,0,16.0617,99.86058,2
 ::ffff:102:c300,::ffff:102:c3ff,AS,TH,Thailand,Uthai Thani,Uthai Thani,61000,Asia/Jakarta,0,15.37939,100.0245,2
@@ -316,61 +314,74 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:102:c500,::ffff:102:c5ff,AS,TH,Thailand,Nakhon Sawan,Phai Sali,60220,Asia/Jakarta,0,15.60003,100.64937,2
 ::ffff:102:c600,::ffff:102:c6ff,AS,TH,Thailand,Phichit,Phichit,66000,Asia/Jakarta,0,16.44184,100.34879,2
 ::ffff:102:c700,::ffff:102:c7ff,AS,TH,Thailand,Nakhon Sawan,Takhli,,Asia/Jakarta,0,15.2634,100.344,2
-::ffff:102:c800,::ffff:102:c8ff,AS,TH,Thailand,Phetchabun,Si Thep,,Asia/Jakarta,0,15.4521,101.067,2
-::ffff:102:c900,::ffff:102:c9ff,AS,TH,Thailand,Phetchaburi,Phetchabun,67000,Asia/Jakarta,0,16.41904,101.16056,2
-::ffff:102:ca00,::ffff:102:caff,AS,TH,Thailand,Chai Nat,Chai Nat,17000,Asia/Jakarta,0,15.18636,100.12353,2
-::ffff:102:cb00,::ffff:102:cbff,AS,TH,Thailand,Kamphaeng Phet,Khanu Woralaksaburi,62130,Asia/Jakarta,0,16.0617,99.86058,2
+::ffff:102:c800,::ffff:102:c8ff,AS,TH,Thailand,Chai Nat,Huai Khot,17100,Asia/Jakarta,0,15.29095,99.61661,2
+::ffff:102:c900,::ffff:102:c9ff,AS,TH,Thailand,Nakhon Sawan,Nakhon Sawan,,Asia/Jakarta,0,15.7047,100.137,2
+::ffff:102:ca00,::ffff:102:caff,AS,TH,Thailand,Kamphaeng Phet,Khanu Woralaksaburi,62130,Asia/Jakarta,0,16.0617,99.86058,2
+::ffff:102:cb00,::ffff:102:cbff,AS,TH,Thailand,Chai Nat,Chai Nat,17000,Asia/Jakarta,0,15.18636,100.12353,2
 ::ffff:102:cc00,::ffff:102:ccff,AS,TH,Thailand,Nakhon Sawan,Nakhon Sawan,,Asia/Jakarta,0,15.7047,100.137,2
-::ffff:102:cd00,::ffff:102:cdff,AS,TH,Thailand,Chai Nat,Chai Nat,17000,Asia/Jakarta,0,15.18636,100.12353,2
+::ffff:102:cd00,::ffff:102:cdff,AS,TH,Thailand,Nakhon Sawan,Phai Sali,60220,Asia/Jakarta,0,15.60003,100.64937,2
 ::ffff:102:ce00,::ffff:102:ceff,AS,TH,Thailand,Phetchaburi,Phetchabun,67000,Asia/Jakarta,0,16.41904,101.16056,2
 ::ffff:102:cf00,::ffff:102:cfff,AS,TH,Thailand,Kamphaeng Phet,Khanu Woralaksaburi,62130,Asia/Jakarta,0,16.0617,99.86058,2
-::ffff:102:d000,::ffff:102:d0ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:d100,::ffff:102:d2ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:d300,::ffff:102:d3ff,AS,TH,Thailand,Pathum Thani,Khlong Luang,12120,Asia/Jakarta,0,14.06467,100.64578,2
-::ffff:102:d400,::ffff:102:d4ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:d000,::ffff:102:d0ff,AS,TH,Thailand,Bangkok,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,2
+::ffff:102:d100,::ffff:102:d1ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:d200,::ffff:102:d2ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:d300,::ffff:102:d4ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:d500,::ffff:102:d5ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:d600,::ffff:102:d6ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:d700,::ffff:102:d7ff,AS,TH,Thailand,Nonthaburi,Pak Kret,11120,Asia/Jakarta,0,13.91301,100.49883,2
-::ffff:102:d800,::ffff:102:daff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:db00,::ffff:102:dbff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
-::ffff:102:dc00,::ffff:102:dcff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:102:dd00,::ffff:102:deff,AS,TH,Thailand,Nonthaburi,Pak Kret,11120,Asia/Jakarta,0,13.91301,100.49883,2
-::ffff:102:df00,::ffff:102:dfff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
-::ffff:102:e000,::ffff:102:e0ff,AS,TH,Thailand,Si Sa Ket,Prang Ku,33170,Asia/Jakarta,0,14.85672,104.03981,2
-::ffff:102:e100,::ffff:102:e1ff,AS,TH,Thailand,Si Sa Ket,Phrai Bueng,33180,Asia/Jakarta,0,14.74833,104.36261,2
-::ffff:102:e200,::ffff:102:e2ff,AS,TH,Thailand,Amnat Charoen,Hua Taphan,37290,Asia/Jakarta,0,15.69714,104.49139,2
-::ffff:102:e300,::ffff:102:e3ff,AS,TH,Thailand,Ubon Ratchathani,Ubon Ratchathani,,Asia/Jakarta,0,15.2448,104.847,2
-::ffff:102:e400,::ffff:102:e4ff,AS,TH,Thailand,Buri Ram,Nang Rong,31110,Asia/Jakarta,0,14.6377,102.79138,2
-::ffff:102:e500,::ffff:102:e5ff,AS,TH,Thailand,Buri Ram,Nang Rong,31110,Asia/Jakarta,0,14.6377,102.79138,2
-::ffff:102:e600,::ffff:102:e6ff,AS,TH,Thailand,Chaiyaphum,Phu Khiao,36110,Asia/Jakarta,0,16.3765,102.12853,2
-::ffff:102:e700,::ffff:102:e7ff,AS,TH,Thailand,Nakhon Ratchasima,Nakhon Ratchasima,30280,Asia/Jakarta,0,14.97066,102.10196,2
-::ffff:102:e800,::ffff:102:e9ff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
-::ffff:102:ea00,::ffff:102:ebff,AS,TH,Thailand,Surat Thani,Ko Samui,,Asia/Jakarta,0,9.53567,99.9357,2
+::ffff:102:d700,::ffff:102:d7ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:d800,::ffff:102:d8ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:d900,::ffff:102:d9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:da00,::ffff:102:daff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:db00,::ffff:102:dbff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:dc00,::ffff:102:deff,AS,TH,Thailand,Nonthaburi,Pak Kret,11120,Asia/Jakarta,0,13.91301,100.49883,2
+::ffff:102:df00,::ffff:102:dfff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:e000,::ffff:102:e0ff,AS,TH,Thailand,Chaiyaphum,Khon Sawan,,Asia/Jakarta,0,15.9319,102.281,2
+::ffff:102:e100,::ffff:102:e1ff,AS,TH,Thailand,Amnat Charoen,Senangkhanikhom,,Asia/Jakarta,0,16.0397,104.669,2
+::ffff:102:e200,::ffff:102:e2ff,AS,TH,Thailand,Chaiyaphum,Noen Sa-nga,36130,Asia/Jakarta,0,15.56428,102.00128,2
+::ffff:102:e300,::ffff:102:e3ff,AS,TH,Thailand,Maha Sarakham,Yang Talat,44150,Asia/Jakarta,0,16.39982,103.36785,2
+::ffff:102:e400,::ffff:102:e4ff,AS,TH,Thailand,Ubon Ratchathani,Khueang Nai,,Asia/Jakarta,0,15.3899,104.551,2
+::ffff:102:e500,::ffff:102:e5ff,AS,TH,Thailand,Buri Ram,Ban Huai Thalaeng,31220,Asia/Jakarta,0,14.98333,102.65,2
+::ffff:102:e600,::ffff:102:e6ff,AS,TH,Thailand,Maha Sarakham,Yang Talat,44150,Asia/Jakarta,0,16.39982,103.36785,2
+::ffff:102:e700,::ffff:102:e7ff,AS,TH,Thailand,Khon Kaen,Pueai Noi,40340,Asia/Jakarta,0,15.86978,102.90767,2
+::ffff:102:e800,::ffff:102:e8ff,AS,TH,Thailand,Chumphon,Chumphon,,Asia/Jakarta,0,10.4957,99.1797,2
+::ffff:102:e900,::ffff:102:e9ff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
+::ffff:102:ea00,::ffff:102:eaff,AS,TH,Thailand,Surat Thani,Ko Samui,,Asia/Jakarta,0,9.53567,99.9357,2
+::ffff:102:eb00,::ffff:102:ebff,AS,TH,Thailand,Tanintharyi Region,Kawthaung,,Asia/Yangon,0,9.98238,98.5503,2
 ::ffff:102:ec00,::ffff:102:edff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:ee00,::ffff:102:eeff,AS,TH,Thailand,Nakhon Si Thammarat,Pak Phanang,80140,Asia/Jakarta,0,8.35109,100.20195,2
-::ffff:102:ef00,::ffff:102:efff,AS,TH,Thailand,Nan,Mae Charim,55170,Asia/Jakarta,0,18.70614,101.0057,2
+::ffff:102:ef00,::ffff:102:efff,AS,TH,Thailand,Chiang Rai,Phan,57120,Asia/Jakarta,0,19.55395,99.74046,2
 ::ffff:102:f000,::ffff:102:f0ff,AS,TH,Thailand,Tak,Tak,63000,Asia/Jakarta,0,16.86968,99.12898,2
 ::ffff:102:f100,::ffff:102:f1ff,AS,TH,Thailand,Sukhothai,Ban Na,64140,Asia/Jakarta,0,17.01717,99.73283,2
-::ffff:102:f200,::ffff:102:f3ff,AS,TH,Thailand,Kayin State,Myawadi,,Asia/Yangon,0,16.6891,98.5089,2
-::ffff:102:f400,::ffff:102:f4ff,AS,TH,Thailand,Tak,Tak,63000,Asia/Jakarta,0,16.86968,99.12898,2
+::ffff:102:f200,::ffff:102:f2ff,AS,TH,Thailand,Uttaradit,Uttaradit,,Asia/Jakarta,0,17.6256,100.094,2
+::ffff:102:f300,::ffff:102:f3ff,AS,TH,Thailand,Tak,Tak,63000,Asia/Jakarta,0,16.86968,99.12898,2
+::ffff:102:f400,::ffff:102:f4ff,AS,TH,Thailand,Sukhothai,Ban Na,64140,Asia/Jakarta,0,17.01717,99.73283,2
 ::ffff:102:f500,::ffff:102:f5ff,AS,TH,Thailand,Uttaradit,Uttaradit,,Asia/Jakarta,0,17.6256,100.094,2
-::ffff:102:f600,::ffff:102:f6ff,AS,TH,Thailand,Uthai Thani,Uthai Thani,61000,Asia/Jakarta,0,15.37939,100.0245,2
+::ffff:102:f600,::ffff:102:f6ff,AS,TH,Thailand,Tak,Tak,63000,Asia/Jakarta,0,16.86968,99.12898,2
 ::ffff:102:f700,::ffff:102:f7ff,AS,TH,Thailand,Uttaradit,Uttaradit,,Asia/Jakarta,0,17.6256,100.094,2
-::ffff:102:f800,::ffff:102:ffff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:f800,::ffff:102:fbff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:fc00,::ffff:102:fcff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:fd00,::ffff:102:ffff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:103:0,::ffff:103:ffff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.11667,113.25,2
 ::ffff:104:0,::ffff:104:ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46794,153.02809,2
 ::ffff:104:100,::ffff:104:3ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,2
 ::ffff:104:400,::ffff:104:4ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.39723,2
 ::ffff:104:500,::ffff:104:7ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,2
 ::ffff:104:800,::ffff:104:7fff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.11667,113.25,2
-::ffff:104:8000,::ffff:104:82ff,AS,TH,Thailand,Udon Thani,Phen,,Asia/Jakarta,0,17.6961,102.907,2
+::ffff:104:8000,::ffff:104:80ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,,Asia/Jakarta,0,17.9651,104.215,2
+::ffff:104:8100,::ffff:104:81ff,AS,TH,Thailand,Udon Thani,Ban Dung,,Asia/Jakarta,0,17.699,103.26,2
+::ffff:104:8200,::ffff:104:82ff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,2
 ::ffff:104:8300,::ffff:104:83ff,AS,TH,Thailand,Udon Thani,Ban Dung,,Asia/Jakarta,0,17.699,103.26,2
-::ffff:104:8400,::ffff:104:86ff,AS,TH,Thailand,Udon Thani,Phen,,Asia/Jakarta,0,17.6961,102.907,2
-::ffff:104:8700,::ffff:104:87ff,AS,TH,Thailand,Khon Kaen,Ban Phai,40110,Asia/Jakarta,0,16.05997,102.73097,2
+::ffff:104:8400,::ffff:104:84ff,AS,TH,Thailand,Udon Thani,Phen,,Asia/Jakarta,0,17.6961,102.907,2
+::ffff:104:8500,::ffff:104:85ff,AS,TH,Thailand,Udon Thani,Ban Dung,,Asia/Jakarta,0,17.699,103.26,2
+::ffff:104:8600,::ffff:104:87ff,AS,TH,Thailand,Udon Thani,Phen,,Asia/Jakarta,0,17.6961,102.907,2
 ::ffff:104:8800,::ffff:104:89ff,AS,TH,Thailand,Nong Bua Lam Phu,Nong Bua Lamphu,39170,Asia/Jakarta,0,17.20406,102.44068,2
 ::ffff:104:8a00,::ffff:104:8aff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
-::ffff:104:8b00,::ffff:104:8bff,AS,TH,Thailand,Kalasin,Kalasin,46000,Asia/Jakarta,0,16.43281,103.50658,2
-::ffff:104:8c00,::ffff:104:97ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:8b00,::ffff:104:8bff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
+::ffff:104:8c00,::ffff:104:90ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:9100,::ffff:104:91ff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
+::ffff:104:9200,::ffff:104:92ff,AS,TH,Thailand,Nonthaburi,Pak Kret,11120,Asia/Jakarta,0,13.91301,100.49883,2
+::ffff:104:9300,::ffff:104:96ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:9700,::ffff:104:97ff,AS,TH,Thailand,Nonthaburi,Pak Kret,11120,Asia/Jakarta,0,13.91301,100.49883,2
 ::ffff:104:9800,::ffff:104:98ff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
 ::ffff:104:9900,::ffff:104:99ff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
 ::ffff:104:9a00,::ffff:104:9aff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
@@ -380,70 +391,72 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:104:9e00,::ffff:104:9eff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:104:9f00,::ffff:104:9fff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
 ::ffff:104:a000,::ffff:104:a0ff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
-::ffff:104:a100,::ffff:104:a2ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:104:a300,::ffff:104:a4ff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
-::ffff:104:a500,::ffff:104:a5ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:104:a600,::ffff:104:a7ff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
-::ffff:104:a800,::ffff:104:a8ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:104:a900,::ffff:104:a9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:a100,::ffff:104:a3ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:a400,::ffff:104:a4ff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
+::ffff:104:a500,::ffff:104:a7ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:a800,::ffff:104:a9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:104:aa00,::ffff:104:abff,AS,TH,Thailand,Pathum Thani,Sai Mai,12150,Asia/Jakarta,0,13.92068,100.64552,2
-::ffff:104:ac00,::ffff:104:b0ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:104:b100,::ffff:104:b1ff,AS,TH,Thailand,Kalasin,Somdet,,Asia/Jakarta,0,16.7046,103.749,2
+::ffff:104:ac00,::ffff:104:acff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:ad00,::ffff:104:adff,AS,TH,Thailand,Samut Prakan,Samut Prakan,10560,Asia/Jakarta,0,13.5976,100.5972,2
+::ffff:104:ae00,::ffff:104:b0ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:b100,::ffff:104:b1ff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
 ::ffff:104:b200,::ffff:104:b2ff,AS,TH,Thailand,Roi Et,Ban Selaphum,,Asia/Jakarta,0,16.0167,103.95,2
 ::ffff:104:b300,::ffff:104:b3ff,AS,TH,Thailand,Nong Khai,Seka,43150,Asia/Jakarta,0,17.92851,103.95519,2
-::ffff:104:b400,::ffff:104:b4ff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
+::ffff:104:b400,::ffff:104:b4ff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
 ::ffff:104:b500,::ffff:104:b5ff,AS,TH,Thailand,Khon Kaen,Chum Phae,40130,Asia/Jakarta,0,16.5443,102.09924,2
 ::ffff:104:b600,::ffff:104:b6ff,AS,TH,Thailand,Nong Khai,Sangkhom,43130,Asia/Jakarta,0,18.06389,102.27364,2
 ::ffff:104:b700,::ffff:104:b7ff,AS,TH,Thailand,Kalasin,Somdet,,Asia/Jakarta,0,16.7046,103.749,2
 ::ffff:104:b800,::ffff:104:b8ff,AS,TH,Thailand,Kalasin,Chai Wari,46130,Asia/Jakarta,0,16.32827,103.77033,2
 ::ffff:104:b900,::ffff:104:bbff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
-::ffff:104:bc00,::ffff:104:bcff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,2
+::ffff:104:bc00,::ffff:104:bcff,AS,TH,Thailand,Sakon Nakhon,Phu Phan,47260,Asia/Jakarta,0,16.99891,103.97347,2
 ::ffff:104:bd00,::ffff:104:bdff,AS,TH,Thailand,Khon Kaen,Ban Phai,40110,Asia/Jakarta,0,16.05997,102.73097,2
 ::ffff:104:be00,::ffff:104:bfff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,,Asia/Jakarta,0,17.1612,104.147,2
-::ffff:104:c000,::ffff:104:c3ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:104:c400,::ffff:104:c4ff,AS,TH,Thailand,Si Sa Ket,Phrai Bueng,33180,Asia/Jakarta,0,14.74833,104.36261,2
+::ffff:104:c000,::ffff:104:c0ff,AS,TH,Thailand,Bangkok,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,2
+::ffff:104:c100,::ffff:104:c1ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:c200,::ffff:104:c3ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:c400,::ffff:104:c4ff,AS,TH,Thailand,Surin,Sangkha,,Asia/Jakarta,0,14.6362,103.853,2
 ::ffff:104:c500,::ffff:104:c5ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:104:c600,::ffff:104:c6ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
-::ffff:104:c700,::ffff:104:c7ff,AS,TH,Thailand,Nakhon Ratchasima,Nakhon Ratchasima,30280,Asia/Jakarta,0,14.97066,102.10196,2
-::ffff:104:c800,::ffff:104:c8ff,AS,TH,Thailand,Rayong,Klaeng,21110,Asia/Jakarta,0,12.77972,101.64831,2
-::ffff:104:c900,::ffff:104:c9ff,AS,TH,Thailand,Chanthaburi,Chanthaburi,22000,Asia/Jakarta,0,12.60961,102.10447,2
-::ffff:104:ca00,::ffff:104:caff,AS,TH,Thailand,Rayong,Rayong,21000,Asia/Jakarta,0,12.68095,101.25798,2
-::ffff:104:cb00,::ffff:104:cbff,AS,TH,Thailand,Rayong,Klaeng,21110,Asia/Jakarta,0,12.77972,101.64831,2
+::ffff:104:c700,::ffff:104:c7ff,AS,TH,Thailand,Surin,Sangkha,,Asia/Jakarta,0,14.6362,103.853,2
+::ffff:104:c800,::ffff:104:c8ff,AS,TH,Thailand,Phetchaburi,Pattaya,76130,Asia/Jakarta,0,12.93333,100.88333,2
+::ffff:104:c900,::ffff:104:c9ff,AS,TH,Thailand,Chanthaburi,Pong Nam Ron,22140,Asia/Jakarta,0,12.90575,102.26225,2
+::ffff:104:ca00,::ffff:104:caff,AS,TH,Thailand,Rayong,Wang Chan,21210,Asia/Jakarta,0,12.93646,101.52303,2
+::ffff:104:cb00,::ffff:104:cbff,AS,TH,Thailand,Phetchaburi,Pattaya,76130,Asia/Jakarta,0,12.93333,100.88333,2
 ::ffff:104:cc00,::ffff:104:cdff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:104:ce00,::ffff:104:ceff,AS,TH,Thailand,Udon Thani,Phen,,Asia/Jakarta,0,17.6961,102.907,2
+::ffff:104:ce00,::ffff:104:ceff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
 ::ffff:104:cf00,::ffff:104:cfff,AS,TH,Thailand,,Ta Lo Wow,,Asia/Jakarta,0,6.70237,99.66539,2
 ::ffff:104:d000,::ffff:104:d8ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:104:d900,::ffff:104:d9ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,2
-::ffff:104:da00,::ffff:104:dbff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
-::ffff:104:dc00,::ffff:104:dcff,AS,TH,Thailand,Kanchanaburi,Si Sawat,71250,Asia/Jakarta,0,14.59922,99.11406,2
-::ffff:104:dd00,::ffff:104:ddff,AS,TH,Thailand,Ratchaburi,Chom Bueng,70150,Asia/Jakarta,0,13.62,99.59169,2
+::ffff:104:d900,::ffff:104:d9ff,AS,TH,Thailand,Phuket,Phuket,,Asia/Jakarta,0,7.89059,98.3981,2
+::ffff:104:da00,::ffff:104:dcff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:dd00,::ffff:104:ddff,AS,TH,Thailand,Kanchanaburi,Kanchanaburi,71170,Asia/Jakarta,0,14.00412,99.54832,2
 ::ffff:104:de00,::ffff:104:dfff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:104:e000,::ffff:104:e0ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
-::ffff:104:e100,::ffff:104:e2ff,AS,TH,Thailand,Nong Bua Lam Phu,Na Klang,39170,Asia/Jakarta,0,17.3072,102.18886,2
+::ffff:104:e100,::ffff:104:e1ff,AS,TH,Thailand,Nong Bua Lam Phu,Na Klang,39170,Asia/Jakarta,0,17.3072,102.18886,2
+::ffff:104:e200,::ffff:104:e2ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
 ::ffff:104:e300,::ffff:104:e3ff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,2
 ::ffff:104:e400,::ffff:104:e4ff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
-::ffff:104:e500,::ffff:104:e5ff,AS,TH,Thailand,Roi Et,Waeng,,Asia/Jakarta,0,16.3001,103.978,2
-::ffff:104:e600,::ffff:104:e6ff,AS,TH,Thailand,Roi Et,Mueang Suang,,Asia/Jakarta,0,15.8219,103.729,2
-::ffff:104:e700,::ffff:104:e7ff,AS,TH,Thailand,Mukdahan,Khamcha-i,49110,Asia/Jakarta,0,16.57764,104.41956,2
+::ffff:104:e500,::ffff:104:e7ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
 ::ffff:104:e800,::ffff:104:e8ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
-::ffff:104:e900,::ffff:104:e9ff,AS,TH,Thailand,Udon Thani,Ban Phue,41160,Asia/Jakarta,0,17.68742,102.47256,2
-::ffff:104:ea00,::ffff:104:eaff,AS,TH,Thailand,Udon Thani,Non Sa-at,,Asia/Jakarta,0,16.9791,102.894,2
-::ffff:104:eb00,::ffff:104:eeff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
-::ffff:104:ef00,::ffff:104:efff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
-::ffff:104:f000,::ffff:104:f1ff,AS,TH,Thailand,Chumphon,Chumphon,,Asia/Jakarta,0,10.4957,99.1797,2
-::ffff:104:f200,::ffff:104:f2ff,AS,TH,Thailand,Nakhon Si Thammarat,Chawang,80150,Asia/Jakarta,0,8.42614,99.50472,2
+::ffff:104:e900,::ffff:104:e9ff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
+::ffff:104:ea00,::ffff:104:eaff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.4157,102.786,2
+::ffff:104:eb00,::ffff:104:edff,AS,TH,Thailand,Savannakhet Province,Savannakhet,,Asia/Jakarta,0,16.5703,104.762,2
+::ffff:104:ee00,::ffff:104:efff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
+::ffff:104:f000,::ffff:104:f0ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
+::ffff:104:f100,::ffff:104:f1ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,2
+::ffff:104:f200,::ffff:104:f2ff,AS,TH,Thailand,Chumphon,Sawi,,Asia/Jakarta,0,10.2367,99.1094,2
 ::ffff:104:f300,::ffff:104:f3ff,AS,TH,Thailand,Chumphon,Lang Suan,86110,Asia/Jakarta,0,9.94561,99.07847,2
 ::ffff:104:f400,::ffff:104:f4ff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
 ::ffff:104:f500,::ffff:104:f5ff,AS,TH,Thailand,Nakhon Si Thammarat,Hua Sai,80170,Asia/Jakarta,0,8.04408,100.30586,2
-::ffff:104:f600,::ffff:104:f6ff,AS,TH,Thailand,Surat Thani,Ko Samui,,Asia/Jakarta,0,9.53567,99.9357,2
-::ffff:104:f700,::ffff:104:f7ff,AS,TH,Thailand,Phang Nga,Phang Nga,82130,Asia/Jakarta,0,8.45091,98.52985,2
-::ffff:104:f800,::ffff:104:f8ff,AS,TH,Thailand,Surin,Sangkha,,Asia/Jakarta,0,14.6362,103.853,2
-::ffff:104:f900,::ffff:104:f9ff,AS,TH,Thailand,Nakhon Ratchasima,Non Thai,30160,Asia/Jakarta,0,15.1958,102.07145,2
+::ffff:104:f600,::ffff:104:f6ff,AS,TH,Thailand,Chumphon,Chumphon,,Asia/Jakarta,0,10.4957,99.1797,2
+::ffff:104:f700,::ffff:104:f7ff,AS,TH,Thailand,Chumphon,Tha Sae,,Asia/Jakarta,0,10.6646,99.1728,2
+::ffff:104:f800,::ffff:104:f8ff,AS,TH,Thailand,Chaiyaphum,Phu Khiao,36110,Asia/Jakarta,0,16.3765,102.12853,2
+::ffff:104:f900,::ffff:104:f9ff,AS,TH,Thailand,Yasothon,Pa Tio,35150,Asia/Jakarta,0,15.83156,104.38644,2
 ::ffff:104:fa00,::ffff:104:faff,AS,TH,Thailand,Chon Buri,Chon Buri,,Asia/Jakarta,0,13.3622,100.983,2
-::ffff:104:fb00,::ffff:104:fbff,AS,TH,Thailand,Nakhon Nayok,Nakhon Nayok,26000,Asia/Jakarta,0,14.20463,101.21295,2
-::ffff:104:fc00,::ffff:104:fdff,AS,TH,Thailand,Yala,Yala,95000,Asia/Jakarta,0,6.53995,101.28128,2
+::ffff:104:fb00,::ffff:104:fbff,AS,TH,Thailand,Kaoh Kong,Krong Kaoh Kong,-,Asia/Jakarta,0,11.6175,102.98056,2
+::ffff:104:fc00,::ffff:104:fcff,AS,TH,Thailand,Yala,Yala,95000,Asia/Jakarta,0,6.53995,101.28128,2
+::ffff:104:fd00,::ffff:104:fdff,AS,TH,Thailand,Narathiwat,Narathiwat,,Asia/Jakarta,0,6.42639,101.823,2
 ::ffff:104:fe00,::ffff:104:feff,AS,TH,Thailand,Yala,Betong,95110,Asia/Jakarta,0,5.77434,101.07231,2
-::ffff:104:ff00,::ffff:104:ffff,AS,TH,Thailand,Narathiwat,Rueso,,Asia/Jakarta,0,6.39364,101.518,2
+::ffff:104:ff00,::ffff:104:ffff,AS,TH,Thailand,Narathiwat,Ra-ngae,96130,Asia/Jakarta,0,6.29678,101.72844,2
 ::ffff:105:0,::ffff:105:feff,AS,JP,Japan,Tokyo To,Tokyo,100-2211,Asia/Tokyo,0,35.6895,139.69171,2
 ::ffff:105:ff00,::ffff:105:ffff,AS,JP,Japan,Gifu Ken,Gifu,502-8792,Asia/Tokyo,0,35.42291,136.76039,2
 ::ffff:106:0,::ffff:106:2ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
@@ -485,16 +498,3 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:106:7000,::ffff:106:70ff,AS,IN,India,Maharashtra,Nagpur,440003,Asia/Kolkata,0,21.14631,79.08491,2
 ::ffff:106:7100,::ffff:106:71ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
 ::ffff:106:7200,::ffff:106:72ff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
-::ffff:106:7300,::ffff:106:79ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
-::ffff:106:7a00,::ffff:106:7aff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
-::ffff:106:7b00,::ffff:106:7bff,AS,IN,India,Karnataka,Bengaluru,560067,Asia/Kolkata,0,12.97194,77.59369,2
-::ffff:106:7c00,::ffff:106:7fff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
-::ffff:106:8000,::ffff:106:80ff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
-::ffff:106:8100,::ffff:106:87ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
-::ffff:106:8800,::ffff:106:88ff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
-::ffff:106:8900,::ffff:106:8bff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
-::ffff:106:8c00,::ffff:106:8cff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
-::ffff:106:8d00,::ffff:106:8dff,AS,IN,India,Madhya Pradesh,Gwalior,474005,Asia/Kolkata,0,26.22983,78.17337,2
-::ffff:106:8e00,::ffff:106:8eff,AS,IN,India,Maharashtra,Nagpur,440003,Asia/Kolkata,0,21.14631,79.08491,2
-::ffff:106:8f00,::ffff:106:91ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
-::ffff:106:9200,::ffff:106:92ff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2

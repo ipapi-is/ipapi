@@ -12,14 +12,14 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.0.16.0,1.0.31.255,4,"i2ts,inc.",0.0007 (Low),i2ts.com,business,JPNIC,,,,
 1.0.17.0,1.0.17.255,4,i2ts inc.,0 (Very Low),null,business,JPNIC,,,,
 1.0.32.0,1.0.63.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.0.64.0,1.0.79.255,4,"Enecom,Inc.",0.0007 (Low),enecom.co.jp,isp,JPNIC,,,,
+1.0.64.0,1.0.79.255,4,"Enecom,Inc.",0.001 (Low),enecom.co.jp,isp,JPNIC,,,,
 1.0.64.0,1.0.127.255,4,"Enecom,Inc.",0 (Very Low),enecom.co.jp,isp,JPNIC,,,,
 1.0.80.0,1.0.95.255,4,"Enecom,Inc.",0.0005 (Very Low),enecom.co.jp,isp,JPNIC,,,,
 1.0.96.0,1.0.111.255,4,"Enecom,Inc.",0.0012 (Low),enecom.co.jp,isp,JPNIC,,,,
 1.0.112.0,1.0.127.255,4,"Enecom,Inc.",0.0012 (Low),enecom.co.jp,isp,JPNIC,,,,
-1.0.128.0,1.0.191.255,4,TOT Public Company Limited,0.0239 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.0.128.0,1.0.191.255,4,TOT Public Company Limited,0.0247 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.0.128.0,1.0.255.255,4,TOT Public Company Limited,0 (Very Low),tot.co.th,isp,APNIC,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.0.192.0,1.0.255.255,4,TOT Public Company Limited,0.0615 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.0.192.0,1.0.255.255,4,TOT Public Company Limited,0.0588 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.1.0.0,1.1.0.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.1.1.0,1.1.1.255,4,APNIC Research and Development,0.0352 (High),apnic.net,business,APNIC,APNIC Research and Development,6 Cordelia St,helpdesk@apnic.net,+61-7-38583100
 1.1.2.0,1.1.3.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
@@ -74,9 +74,9 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.1.116.0,1.1.116.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,,,,
 1.1.126.0,1.1.126.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,,,,
 1.1.127.0,1.1.127.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,,,,
-1.1.128.0,1.1.191.255,4,TOT Public Company Limited,0.016 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.1.128.0,1.1.191.255,4,TOT Public Company Limited,0.0153 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.1.128.0,1.1.255.255,4,TOT Public Company Limited,0 (Very Low),tot.co.th,isp,APNIC,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.1.192.0,1.1.255.255,4,TOT Public Company Limited,0.0102 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.1.192.0,1.1.255.255,4,TOT Public Company Limited,0.0106 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.2.0.0,1.2.1.255,4,CHINANET FUJIAN PROVINCE NETWORK,0.002 (Low),chinatelecom.cn,isp,APNIC,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
 1.2.2.0,1.2.2.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",0 (Very Low),knet.cn,business,APNIC,ABUSE CNNICCN,"Beijing, China",lwz@knet.cn,+000000000
 1.2.3.0,1.2.3.255,4,Resource Quality Assurance,0.0039 (Low),apnic.net,business,APNIC,Resource Quality Assurance,"6 Cordelia Street, South Brisbane",helpdesk@apnic.net,
@@ -86,9 +86,9 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.2.16.0,1.2.31.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.2.32.0,1.2.63.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.2.64.0,1.2.127.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.2.128.0,1.2.191.255,4,TOT Public Company Limited,0.0812 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.2.128.0,1.2.191.255,4,TOT Public Company Limited,0.0776 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.2.128.0,1.2.255.255,4,TOT Public Company Limited,0 (Very Low),tot.co.th,isp,APNIC,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.2.192.0,1.2.255.255,4,TOT Public Company Limited,0.0453 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.2.192.0,1.2.255.255,4,TOT Public Company Limited,0.0417 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.3.0.0,1.3.255.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.4.0.0,1.4.0.255,4,Resource Quality Assurance,0 (Very Low),apnic.net,business,APNIC,Resource Quality Assurance,"6 Cordelia Street, South Brisbane",helpdesk@apnic.net,
 1.4.1.0,1.4.1.255,4,CHINANET FUJIAN PROVINCE NETWORK,0.0039 (Low),chinatelecom.cn,isp,APNIC,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
@@ -100,9 +100,9 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.4.16.0,1.4.31.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.4.32.0,1.4.63.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.4.64.0,1.4.127.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.128.0,1.4.191.255,4,TOT Public Company Limited,0.0223 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.4.128.0,1.4.191.255,4,TOT Public Company Limited,0.0214 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.4.128.0,1.4.255.255,4,TOT Public Company Limited,0 (Very Low),tot.co.th,isp,APNIC,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.4.192.0,1.4.255.255,4,TOT Public Company Limited,0.0364 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.4.192.0,1.4.255.255,4,TOT Public Company Limited,0.0342 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
 1.5.0.0,1.5.255.255,4,SoftBank Corp.,0 (Very Low),softbank.jp,isp,JPNIC,,,,
 1.6.0.0,1.7.255.255,4,Sify Limited,0.0004 (Very Low),sify.com,isp,APNIC,IRT-SIFYNET-IN,"Sify Limited, 5th, 6th & 7th floor Reliable Plaza, Kalwa industrial Area, Thane Belapur Road, Airoli, Navi Mumbai-400708",abuse@sifycorp.com,
 1.6.70.136,1.6.70.143,4,LITMUS7 SYSTEMS CONSULTING PVT LTD,0 (Very Low),,business,APNIC,,,,
@@ -110,7 +110,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.8.0.0,1.8.17.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",0.0002 (Very Low),knet.cn,business,APNIC,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
 1.8.18.0,1.8.18.255,4,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,0 (Very Low),zdns.cn,business,APNIC,ABUSE CNNICCN,"Beijing, China",xingzhijie@knet.cn,+000000000
 1.8.19.0,1.8.255.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",0 (Very Low),knet.cn,business,APNIC,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
-1.9.0.0,1.9.255.255,4,TM TECHNOLOGY SERVICES SDN BHD,0.0008 (Low),tm.com.my,isp,APNIC,TM TECHNOLOGY SERVICES SDN BHD,"Level 49 South Wing, Menara TM",abuse@tm.com.my,+6013-3128147
+1.9.0.0,1.9.255.255,4,TM TECHNOLOGY SERVICES SDN BHD,0.0009 (Low),tm.com.my,isp,APNIC,TM TECHNOLOGY SERVICES SDN BHD,"Level 49 South Wing, Menara TM",abuse@tm.com.my,+6013-3128147
 1.9.0.128,1.9.0.159,4,mollogistics kelana jaya,0 (Very Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.2.0,1.9.2.255,4,Kementerian Pengajian Tinggi Malaysia,0.0078 (Low),mohe.gov.my,government,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.12.0,1.9.12.255,4,KUALA LUMPUR,0 (Very Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
@@ -134,14 +134,14 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.9.44.0,1.9.47.255,4,HSBB BUSINESS,0.0029 (Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.48.0,1.9.49.255,4,HSBB BUSINESS,0.002 (Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.50.0,1.9.51.255,4,HSBB BUSINESS,0 (Very Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.52.0,1.9.55.255,4,HSBB HOME,0.002 (Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
+1.9.52.0,1.9.55.255,4,HSBB HOME,0.0029 (Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.67.144,1.9.67.159,4,VITROX TECHNOLOGIES SDN BHD,0 (Very Low),,business,APNIC,,,,
 1.9.70.128,1.9.70.143,4,Muda Paper Mills Sdn. Bhd.,0 (Very Low),,business,APNIC,,,,
 1.9.96.0,1.9.97.255,4,LSN STREAMYX-KO,0 (Very Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.98.0,1.9.99.255,4,LSN STREAMYX-TL,0 (Very Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.100.0,1.9.101.255,4,LSN STREAMYX-KU,0.0039 (Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.102.0,1.9.103.255,4,LSN STREAMYX-SGT,0 (Very Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.104.0,1.9.105.255,4,LSN STREAMYX-KBU,0.0039 (Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.9.104.0,1.9.105.255,4,LSN STREAMYX-KBU,0.002 (Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.106.0,1.9.107.255,4,LSN STREAMYX-STM,0.0078 (Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.108.0,1.9.111.255,4,HSBB BUSINESS,0.002 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.112.0,1.9.115.255,4,HSBB HOME,0.002 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
@@ -151,14 +151,14 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.9.122.0,1.9.123.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.124.0,1.9.127.255,4,HSBB BUSINESS,0.001 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.133.0,1.9.133.127,4,Jabatan Ketua Menteri,0 (Very Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.152.0,1.9.159.255,4,HSBB HOME CENTRAL,0.0034 (Low),tm.com.my,business,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
+1.9.152.0,1.9.159.255,4,HSBB HOME CENTRAL,0.002 (Low),tm.com.my,business,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.160.0,1.9.160.255,4,Universiti Tenaga Nasional (Muadzam Shah),0 (Very Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.162.0,1.9.162.255,4,Universiti Malaysia Pahang,0 (Very Low),tm.com.my,business,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.9.172.0,1.9.175.255,4,HSBB BUSINESS,0.0029 (Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.176.0,1.9.176.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.177.0,1.9.177.255,4,HSBB HOME,0.0039 (Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
+1.9.177.0,1.9.177.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.178.0,1.9.179.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.180.0,1.9.183.255,4,HSBB HOME,0.0029 (Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
+1.9.180.0,1.9.183.255,4,HSBB HOME,0.002 (Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.184.0,1.9.184.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.185.0,1.9.185.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
 1.9.186.0,1.9.186.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
@@ -175,10 +175,10 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.10.16.0,1.10.31.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.10.32.0,1.10.63.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
 1.10.64.0,1.10.127.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.10.128.0,1.10.255.255,4,TOT Public Company Limited,0.0098 (Elevated),tot.co.th,isp,APNIC,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.10.128.0,1.10.139.255,4,TOT Public Company Limited,0.013 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.10.192.0,1.10.255.255,4,TOT Public Company Limited,0.0461 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.11.0.0,1.11.255.255,4,LG HelloVision Corp.,0.0013 (Low),lghellovision.net,isp,KRNIC,IP Manager,"Seoul Mapo-gu World Cup buk-ro 56-gil 19, 6 Floor",lghvnoc@LGHelloVision365.onmicrosoft.com,+82-70-7373-1751
+1.10.128.0,1.10.255.255,4,TOT Public Company Limited,0.0103 (Elevated),tot.co.th,isp,APNIC,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
+1.10.128.0,1.10.139.255,4,TOT Public Company Limited,0.0133 (Elevated),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.10.192.0,1.10.255.255,4,TOT Public Company Limited,0.0448 (High),tot.co.th,isp,APNIC,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
+1.11.0.0,1.11.255.255,4,LG HelloVision Corp.,0.0014 (Low),lghellovision.net,isp,KRNIC,IP Manager,"Seoul Mapo-gu World Cup buk-ro 56-gil 19, 6 Floor",lghvnoc@LGHelloVision365.onmicrosoft.com,+82-70-7373-1751
 1.12.0.0,1.15.255.255,4,"Tencent cloud computing (Beijing) Co., Ltd.",0.0041 (Low),tencent.com,isp,APNIC,ABUSE CNNICCN,"Beijing, China",tencent_noc@tencent.com,+000000000
 1.16.0.0,1.16.63.255,4,DAOU TECHNOLOGY,0 (Very Low),daou.co.kr,business,KRNIC,IP Manager,"Gyeonggi-do Sujeong-gu, Seongnam-si Geumto-ro 69, 6F",infra-tech@daou.co.kr,+82-70-8707-1793
 1.18.116.0,1.18.116.255,4,Korea Internet Security Agency,0 (Very Low),www.kisa.or.kr,government,KRNIC,IP Manager,"Jeollanam-do Naju-si Jinheung-gil, 9",hostmaster@nic.or.kr,+82-2-405-5118
@@ -187,14 +187,14 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.18.119.0,1.18.119.255,4,Korea Internet Security Agency,0 (Very Low),www.kisa.or.kr,government,KRNIC,IP Manager,"Jeollanam-do Naju-si Jinheung-gil, 9",hostmaster@nic.or.kr,+82-2-405-5118
 1.18.120.0,1.18.135.255,4,Korea Internet Security Agency,0 (Very Low),www.kisa.or.kr,government,KRNIC,IP Manager,"Jeollanam-do Naju-si Jinheung-gil, 9",hostmaster@nic.or.kr,+82-2-405-5118
 1.18.136.0,1.19.255.255,4,Korea Internet Security Agency,0 (Very Low),www.kisa.or.kr,government,APNIC,IRT-KRNIC-KR,"9, Jinheung-gil, Naju-si, Jeollanam-do",irt@nic.or.kr,
-1.20.0.0,1.20.255.255,4,TOT Mobile Co LTD,0.0149 (Elevated),ntplc.co.th,isp,APNIC,TOT Mobile Co LTD,"National Telecom Public Company Limited (Branch 00001), Chaengwatthana Office, 89/2 Chaengwatthana Rd, Thungsonghong Lak Si",abuse@totidc.net,+66-2-5749178
+1.20.0.0,1.20.255.255,4,TOT Mobile Co LTD,0.0143 (Elevated),ntplc.co.th,isp,APNIC,TOT Mobile Co LTD,"National Telecom Public Company Limited (Branch 00001), Chaengwatthana Office, 89/2 Chaengwatthana Rd, Thungsonghong Lak Si",abuse@totidc.net,+66-2-5749178
 1.21.0.0,1.21.95.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.1.0,1.21.1.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.2.0,1.21.2.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.3.0,1.21.3.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.4.180,1.21.4.183,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.8.0,1.21.8.7,4,ARTERIA Networks Corp.,0.125 (High),arteria-net.com,isp,JPNIC,,,,
-1.21.10.0,1.21.10.255,4,21Company,0.0039 (Low),null,business,JPNIC,,,,
+1.21.10.0,1.21.10.255,4,21Company,0.0078 (Low),null,business,JPNIC,,,,
 1.21.11.0,1.21.11.255,4,21Company,0 (Very Low),null,business,JPNIC,,,,
 1.21.12.0,1.21.12.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.13.0,1.21.13.255,4,21Company,0 (Very Low),null,business,JPNIC,,,,
@@ -278,7 +278,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.21.116.0,1.21.116.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,,,,
 1.21.117.0,1.21.117.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.118.0,1.21.118.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
-1.21.119.0,1.21.119.255,4,ARTERIA Networks Corporation,0.0156 (Elevated),arteria-net.com,isp,JPNIC,,,,
+1.21.119.0,1.21.119.255,4,ARTERIA Networks Corporation,0.0117 (Elevated),arteria-net.com,isp,JPNIC,,,,
 1.21.120.0,1.21.120.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.121.0,1.21.121.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.122.0,1.21.122.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
@@ -293,7 +293,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.21.145.0,1.21.145.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,,,,
 1.21.146.0,1.21.146.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,,,,
 1.21.147.0,1.21.147.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,,,,
-1.21.148.0,1.21.148.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,,,,
+1.21.148.0,1.21.148.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.149.0,1.21.149.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.150.0,1.21.150.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.151.0,1.21.151.255,4,ARTERIA Networks Corporation,0.0078 (Low),arteria-net.com,isp,JPNIC,,,,
@@ -346,7 +346,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.21.198.0,1.21.198.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.199.0,1.21.199.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.200.0,1.21.200.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
-1.21.201.0,1.21.201.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,,,,
+1.21.201.0,1.21.201.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
 1.21.202.0,1.21.202.255,4,ARTERIA Networks Corporation,0.0078 (Low),arteria-net.com,isp,JPNIC,,,,
 1.21.203.0,1.21.203.255,4,ARTERIA Networks Corporation,0.0078 (Low),arteria-net.com,isp,JPNIC,,,,
 1.21.204.0,1.21.204.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,,,,
@@ -369,36 +369,36 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.21.223.0,1.21.223.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.com,isp,JPNIC,,,,
 1.21.224.0,1.21.255.254,4,Byteplus Pte Ltd administrator,0 (Very Low),byteplus.com,hosting,APNIC,ABUSE BYTEPLUSSG,"1 Raffles Quay, # 26-10, South Tower, Singapore Singapore 048583",bd_abuse@bytedance.com,+000000000
 1.21.224.0,1.21.255.255,4,Byteplus Pte. Ltd.,0 (Very Low),byteplus.com,hosting,APNIC,Byteplus Pte. Ltd.,"1 Raffles Quay, # 26-10, South Tower",bd_abuse@bytedance.com,+65-6950-4420
-1.22.0.0,1.23.255.255,4,Tikona Infinet Ltd.,0.0041 (Low),tikona.in,isp,APNIC,IRT-TIKONAIN-IN,"C69, Sector 58, Noida,NOIDA,Uttar Pradesh-201307",Sudhir.Kumar@tikona.in,
+1.22.0.0,1.23.255.255,4,Tikona Infinet Ltd.,0.0042 (Low),tikona.in,isp,APNIC,IRT-TIKONAIN-IN,"C69, Sector 58, Noida,NOIDA,Uttar Pradesh-201307",Sudhir.Kumar@tikona.in,
 1.22.156.192,1.22.156.255,4,Sheela Foam Pvt. Ltd.,0 (Very Low),tikona.in,business,APNIC,IRT-TIKONA-IN,"Tikona Digital Networks, Corpora,Office No 3A, 3rd Floor, LBS Marg, Bhandup (W), Mumbai 400 078",abuse@tikona.in,
 1.24.0.0,1.31.255.255,4,China unicom InnerMongolia province network,0.001 (Low),chinaunicom.cn,isp,APNIC,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",zhaoyz3@chinaunicom.cn,+000000000
-1.32.0.0,1.32.15.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0005 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.32.0.0,1.32.15.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0007 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.0.0,1.32.127.255,4,TM TECHNOLOGY SERVICES SDN BHD,0 (Very Low),tm.com.my,isp,APNIC,TM TECHNOLOGY SERVICES SDN BHD,"Level 49 South Wing, Menara TM",abuse@tm.com.my,+6013-3128147
-1.32.16.0,1.32.19.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0059 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.32.16.0,1.32.19.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0068 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.20.0,1.32.23.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.002 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.24.0,1.32.31.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.002 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.32.0,1.32.33.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.34.0,1.32.34.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.35.0,1.32.35.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0117 (Elevated),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.36.0,1.32.39.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.001 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.40.0,1.32.47.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0088 (Elevated),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.32.36.0,1.32.39.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.002 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.32.40.0,1.32.47.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0083 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.48.0,1.32.55.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0063 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.56.0,1.32.59.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0059 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.60.0,1.32.61.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.32.60.0,1.32.61.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0059 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.62.0,1.32.63.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0059 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.64.0,1.32.79.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.80.0,1.32.95.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.96.0,1.32.97.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.98.0,1.32.99.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0176 (Elevated),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.100.0,1.32.103.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0029 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.104.0,1.32.107.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0029 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.32.100.0,1.32.103.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.32.104.0,1.32.107.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.109.0,1.32.109.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0117 (Elevated),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.110.0,1.32.110.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.111.0,1.32.111.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.115.0,1.32.115.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.117.0,1.32.117.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.118.0,1.32.119.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.002 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.120.0,1.32.123.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0049 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+1.32.120.0,1.32.123.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0059 (Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.126.0,1.32.127.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
 1.32.128.0,1.32.191.255,4,"Singapore Telecom, ConnectPlus",0 (Very Low),singtel.com,isp,APNIC,"Singapore Telecom, ConnectPlus","31 Exeter Road, Comcentre Podium Block, # 05-00",rajeshm@singtel.com,+65-9838-4411
 1.32.192.0,1.32.199.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),rackip.com,hosting,APNIC,ABUSE RCPLSG,,abuse@bgp.net,+000000000
@@ -413,7 +413,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.32.205.0,1.32.205.255,4,CTG Server Ltd.,0 (Very Low),ctgserver.com,hosting,APNIC,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
 1.32.206.0,1.32.207.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),rackip.com,hosting,APNIC,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
 1.32.208.0,1.32.215.255,4,"BGP Network Limited Co.,Ltd",0.001 (Low),rackip.com,hosting,APNIC,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.216.0,1.32.216.255,4,CTG Server Ltd.,0.0352 (High),ctgserver.com,hosting,APNIC,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",cs.mail@ctgserver.com,+000000000
+1.32.216.0,1.32.216.255,4,CTG Server Ltd.,0.0234 (Elevated),ctgserver.com,hosting,APNIC,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",cs.mail@ctgserver.com,+000000000
 1.32.217.0,1.32.217.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),rackip.com,hosting,APNIC,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
 1.32.218.0,1.32.218.255,4,CTG Server Ltd.,0 (Very Low),ctgserver.com,hosting,APNIC,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",cs.mail@ctgserver.com,+000000000
 1.32.219.0,1.32.219.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),rackip.com,hosting,APNIC,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
@@ -433,7 +433,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.33.0.0,1.33.0.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.1.0,1.33.1.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.2.0,1.33.2.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
-1.33.3.0,1.33.3.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
+1.33.3.0,1.33.3.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0078 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.4.0,1.33.4.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0078 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.5.0,1.33.5.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.6.0,1.33.6.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0078 (Low),nttpc.co.jp,isp,JPNIC,,,,
@@ -445,7 +445,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.33.12.0,1.33.12.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.13.0,1.33.13.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.14.0,1.33.14.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0117 (Elevated),nttpc.co.jp,isp,JPNIC,,,,
-1.33.15.0,1.33.15.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
+1.33.15.0,1.33.15.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.16.0,1.33.16.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.17.0,1.33.17.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.18.0,1.33.18.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
@@ -460,7 +460,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.33.27.0,1.33.27.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.28.0,1.33.28.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.29.0,1.33.29.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
-1.33.30.0,1.33.30.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
+1.33.30.0,1.33.30.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0078 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.31.0,1.33.31.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.32.0,1.33.32.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.33.0,1.33.33.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
@@ -469,7 +469,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,abuseName,abuseAddr
 1.33.36.0,1.33.36.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.37.0,1.33.37.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0117 (Elevated),nttpc.co.jp,isp,JPNIC,,,,
 1.33.38.0,1.33.38.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
-1.33.39.0,1.33.39.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
+1.33.39.0,1.33.39.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.40.0,1.33.40.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.41.0,1.33.41.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,,,,
 1.33.42.0,1.33.42.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,,,,
