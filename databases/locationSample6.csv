@@ -58,7 +58,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:100:8e00,::ffff:100:8fff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:100:9000,::ffff:100:90ff,AS,TH,Thailand,Phang Nga,Phang Nga,82130,Asia/Jakarta,0,8.45091,98.52985,2
 ::ffff:100:9100,::ffff:100:91ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,2
-::ffff:100:9200,::ffff:100:92ff,AS,TH,Thailand,Chumphon,Tha Sae,,Asia/Jakarta,0,10.6646,99.1728,2
+::ffff:100:9200,::ffff:100:92ff,AS,TH,Thailand,Chumphon,Tha Sae,86140,Asia/Jakarta,0,10.66461,99.17281,2
 ::ffff:100:9300,::ffff:100:93ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
 ::ffff:100:9400,::ffff:100:94ff,AS,TH,Thailand,Tanintharyi Region,Kawthaung,,Asia/Yangon,0,9.98238,98.5503,2
 ::ffff:100:9500,::ffff:100:95ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
@@ -162,7 +162,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:9b00,::ffff:101:9cff,AS,TH,Thailand,Chumphon,Pathio,,Asia/Jakarta,0,10.7091,99.3182,2
 ::ffff:101:9d00,::ffff:101:9dff,AS,TH,Thailand,Ranong,La-Un,85130,Asia/Jakarta,0,10.11556,98.74992,2
 ::ffff:101:9e00,::ffff:101:9eff,AS,TH,Thailand,Nakhon Si Thammarat,Bang Khan,,Asia/Jakarta,0,8.02689,99.4737,2
-::ffff:101:9f00,::ffff:101:9fff,AS,TH,Thailand,Chumphon,Sawi,,Asia/Jakarta,0,10.2367,99.1094,2
+::ffff:101:9f00,::ffff:101:9fff,AS,TH,Thailand,Chumphon,Sawi,86130,Asia/Jakarta,0,10.23683,99.10958,2
 ::ffff:101:a000,::ffff:101:a0ff,AS,TH,Thailand,Chiang Mai,Hot,,Asia/Jakarta,0,18.1932,98.6104,2
 ::ffff:101:a100,::ffff:101:a1ff,AS,TH,Thailand,Phrae,Phrae,54000,Asia/Jakarta,0,18.14589,100.14103,2
 ::ffff:101:a200,::ffff:101:a2ff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,58000,Asia/Jakarta,0,19.30029,97.96852,2
@@ -238,12 +238,12 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:f300,::ffff:101:f3ff,AS,TH,Thailand,Buriram,Ban Kruat,,Asia/Jakarta,0,14.4231,103.1,2
 ::ffff:101:f400,::ffff:101:f4ff,AS,TH,Thailand,Amnat Charoen,Lue Amnat,37000,Asia/Jakarta,0,15.69521,104.64817,2
 ::ffff:101:f500,::ffff:101:f5ff,AS,TH,Thailand,Nakhon Ratchasima,Chok Chai,30190,Asia/Jakarta,0,14.72844,102.16524,2
-::ffff:101:f600,::ffff:101:f6ff,AS,TH,Thailand,Si Sa Ket,Prang Ku,33170,Asia/Jakarta,0,14.85672,104.03981,2
+::ffff:101:f600,::ffff:101:f6ff,AS,TH,Thailand,Si Sa Ket,Prang Ku,,Asia/Jakarta,0,14.8567,104.04,2
 ::ffff:101:f700,::ffff:101:f7ff,AS,TH,Thailand,Si Sa Ket,Si Sa Ket,33000,Asia/Jakarta,0,15.11481,104.32938,2
 ::ffff:101:f800,::ffff:101:f9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:101:fa00,::ffff:101:faff,AS,TH,Thailand,Bolikhamsai,Pakxan,,Asia/Jakarta,0,18.3942,103.661,2
 ::ffff:101:fb00,::ffff:101:fbff,AS,TH,Thailand,Nakhon Ratchasima,Bua Yai,30120,Asia/Jakarta,0,15.58552,102.42587,2
-::ffff:101:fc00,::ffff:101:fcff,AS,TH,Thailand,Surin,Surin,,Asia/Jakarta,0,14.8829,103.494,2
+::ffff:101:fc00,::ffff:101:fcff,AS,TH,Thailand,Surin,Surin,,Asia/Jakarta,0,14.8818,103.494,2
 ::ffff:101:fd00,::ffff:101:ffff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:0,::ffff:102:1ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,2
 ::ffff:102:200,::ffff:102:2ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.39723,2
@@ -339,7 +339,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:102:e100,::ffff:102:e1ff,AS,TH,Thailand,Amnat Charoen,Senangkhanikhom,,Asia/Jakarta,0,16.0397,104.669,2
 ::ffff:102:e200,::ffff:102:e2ff,AS,TH,Thailand,Chaiyaphum,Noen Sa-nga,36130,Asia/Jakarta,0,15.56428,102.00128,2
 ::ffff:102:e300,::ffff:102:e3ff,AS,TH,Thailand,Maha Sarakham,Yang Talat,44150,Asia/Jakarta,0,16.39982,103.36785,2
-::ffff:102:e400,::ffff:102:e4ff,AS,TH,Thailand,Ubon Ratchathani,Khueang Nai,,Asia/Jakarta,0,15.3899,104.551,2
+::ffff:102:e400,::ffff:102:e4ff,AS,TH,Thailand,Ubon Ratchathani,Khueang Nai,34150,Asia/Jakarta,0,15.38989,104.55083,2
 ::ffff:102:e500,::ffff:102:e5ff,AS,TH,Thailand,Buri Ram,Ban Huai Thalaeng,31220,Asia/Jakarta,0,14.98333,102.65,2
 ::ffff:102:e600,::ffff:102:e6ff,AS,TH,Thailand,Maha Sarakham,Yang Talat,44150,Asia/Jakarta,0,16.39982,103.36785,2
 ::ffff:102:e700,::ffff:102:e7ff,AS,TH,Thailand,Khon Kaen,Pueai Noi,40340,Asia/Jakarta,0,15.86978,102.90767,2
@@ -371,9 +371,9 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:104:8100,::ffff:104:81ff,AS,TH,Thailand,Udon Thani,Ban Dung,,Asia/Jakarta,0,17.699,103.26,2
 ::ffff:104:8200,::ffff:104:82ff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,2
 ::ffff:104:8300,::ffff:104:83ff,AS,TH,Thailand,Udon Thani,Ban Dung,,Asia/Jakarta,0,17.699,103.26,2
-::ffff:104:8400,::ffff:104:84ff,AS,TH,Thailand,Udon Thani,Phen,,Asia/Jakarta,0,17.6961,102.907,2
+::ffff:104:8400,::ffff:104:84ff,AS,TH,Thailand,Udon Thani,Phen,41150,Asia/Jakarta,0,17.69614,102.90689,2
 ::ffff:104:8500,::ffff:104:85ff,AS,TH,Thailand,Udon Thani,Ban Dung,,Asia/Jakarta,0,17.699,103.26,2
-::ffff:104:8600,::ffff:104:87ff,AS,TH,Thailand,Udon Thani,Phen,,Asia/Jakarta,0,17.6961,102.907,2
+::ffff:104:8600,::ffff:104:87ff,AS,TH,Thailand,Udon Thani,Phen,41150,Asia/Jakarta,0,17.69614,102.90689,2
 ::ffff:104:8800,::ffff:104:89ff,AS,TH,Thailand,Nong Bua Lam Phu,Nong Bua Lamphu,39170,Asia/Jakarta,0,17.20406,102.44068,2
 ::ffff:104:8a00,::ffff:104:8aff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,2
 ::ffff:104:8b00,::ffff:104:8bff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,2
@@ -404,8 +404,8 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:104:b300,::ffff:104:b3ff,AS,TH,Thailand,Nong Khai,Seka,43150,Asia/Jakarta,0,17.92851,103.95519,2
 ::ffff:104:b400,::ffff:104:b4ff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
 ::ffff:104:b500,::ffff:104:b5ff,AS,TH,Thailand,Khon Kaen,Chum Phae,40130,Asia/Jakarta,0,16.5443,102.09924,2
-::ffff:104:b600,::ffff:104:b6ff,AS,TH,Thailand,Nong Khai,Sangkhom,43130,Asia/Jakarta,0,18.06389,102.27364,2
-::ffff:104:b700,::ffff:104:b7ff,AS,TH,Thailand,Kalasin,Somdet,,Asia/Jakarta,0,16.7046,103.749,2
+::ffff:104:b600,::ffff:104:b6ff,AS,TH,Thailand,Nong Khai,Sangkhom,,Asia/Jakarta,0,18.0639,102.274,2
+::ffff:104:b700,::ffff:104:b7ff,AS,TH,Thailand,Kalasin,Somdet,46150,Asia/Jakarta,0,16.70462,103.74934,2
 ::ffff:104:b800,::ffff:104:b8ff,AS,TH,Thailand,Kalasin,Chai Wari,46130,Asia/Jakarta,0,16.32827,103.77033,2
 ::ffff:104:b900,::ffff:104:bbff,AS,TH,Thailand,Vientiane Prefecture,Vientiane,,Asia/Jakarta,0,17.967,102.602,2
 ::ffff:104:bc00,::ffff:104:bcff,AS,TH,Thailand,Sakon Nakhon,Phu Phan,47260,Asia/Jakarta,0,16.99891,103.97347,2
@@ -443,12 +443,12 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:104:ee00,::ffff:104:efff,AS,TH,Thailand,Loei,Phu Ruea,,Asia/Jakarta,0,17.4538,101.362,2
 ::ffff:104:f000,::ffff:104:f0ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,2
 ::ffff:104:f100,::ffff:104:f1ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,2
-::ffff:104:f200,::ffff:104:f2ff,AS,TH,Thailand,Chumphon,Sawi,,Asia/Jakarta,0,10.2367,99.1094,2
+::ffff:104:f200,::ffff:104:f2ff,AS,TH,Thailand,Chumphon,Sawi,86130,Asia/Jakarta,0,10.23683,99.10958,2
 ::ffff:104:f300,::ffff:104:f3ff,AS,TH,Thailand,Chumphon,Lang Suan,86110,Asia/Jakarta,0,9.94561,99.07847,2
 ::ffff:104:f400,::ffff:104:f4ff,AS,TH,Thailand,Phang Nga,Ban Khao Lak,82000,Asia/Jakarta,0,8.61501,98.23994,2
-::ffff:104:f500,::ffff:104:f5ff,AS,TH,Thailand,Nakhon Si Thammarat,Hua Sai,80170,Asia/Jakarta,0,8.04408,100.30586,2
+::ffff:104:f500,::ffff:104:f5ff,AS,TH,Thailand,Nakhon Si Thammarat,Hua Sai,,Asia/Jakarta,0,8.04408,100.306,2
 ::ffff:104:f600,::ffff:104:f6ff,AS,TH,Thailand,Chumphon,Chumphon,,Asia/Jakarta,0,10.4957,99.1797,2
-::ffff:104:f700,::ffff:104:f7ff,AS,TH,Thailand,Chumphon,Tha Sae,,Asia/Jakarta,0,10.6646,99.1728,2
+::ffff:104:f700,::ffff:104:f7ff,AS,TH,Thailand,Chumphon,Tha Sae,86140,Asia/Jakarta,0,10.66461,99.17281,2
 ::ffff:104:f800,::ffff:104:f8ff,AS,TH,Thailand,Chaiyaphum,Phu Khiao,36110,Asia/Jakarta,0,16.3765,102.12853,2
 ::ffff:104:f900,::ffff:104:f9ff,AS,TH,Thailand,Yasothon,Pa Tio,35150,Asia/Jakarta,0,15.83156,104.38644,2
 ::ffff:104:fa00,::ffff:104:faff,AS,TH,Thailand,Chon Buri,Chon Buri,,Asia/Jakarta,0,13.3622,100.983,2

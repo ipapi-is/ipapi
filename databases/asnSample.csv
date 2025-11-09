@@ -1,9 +1,9 @@
 startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,abuse,type,created,updated,rir
-1.0.0.0,1.0.0.255,4,13335,0.0138 (Elevated),1.0.0.0/24,"CLOUDFLARENET, US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
-1.0.4.0,1.0.4.255,4,38803,0.0003 (Very Low),1.0.4.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
-1.0.5.0,1.0.5.255,4,38803,0.0003 (Very Low),1.0.5.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
-1.0.6.0,1.0.6.255,4,38803,0.0003 (Very Low),1.0.6.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
-1.0.7.0,1.0.7.255,4,38803,0.0003 (Very Low),1.0.7.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
+1.0.0.0,1.0.0.255,4,13335,0.0132 (Elevated),1.0.0.0/24,"CLOUDFLARENET, US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
+1.0.4.0,1.0.4.255,4,38803,0.0006 (Low),1.0.4.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
+1.0.5.0,1.0.5.255,4,38803,0.0006 (Low),1.0.5.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
+1.0.6.0,1.0.6.255,4,38803,0.0006 (Low),1.0.6.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
+1.0.7.0,1.0.7.255,4,38803,0.0006 (Low),1.0.7.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
 1.0.16.0,1.0.16.255,4,2519,0.0004 (Very Low),1.0.16.0/24,"VECTANT ARTERIA Networks Corporation, JP",jp,true,ARTERIA Networks Corporation,arteria-net.com,,isp,,2019/08/09,JPNIC
 1.0.64.0,1.0.127.255,4,18144,0.0005 (Very Low),1.0.64.0/18,"AS-ENECOM Enecom,Inc., JP",jp,true,"Enecom,Inc.",enecom.co.jp,,isp,2002/07/04,2024/01/22,JPNIC
 1.0.128.0,1.0.255.255,4,23969,0.0022 (Low),1.0.128.0/17,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
@@ -47,8 +47,8 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.0.193.0,1.0.193.255,4,23969,0.0022 (Low),1.0.193.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.194.0,1.0.194.255,4,23969,0.0022 (Low),1.0.194.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.195.0,1.0.195.255,4,23969,0.0022 (Low),1.0.195.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
-1.0.196.0,1.0.196.255,4,23974,0.0007 (Low),1.0.196.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
-1.0.197.0,1.0.197.255,4,23974,0.0007 (Low),1.0.197.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
+1.0.196.0,1.0.196.255,4,23974,0.0009 (Low),1.0.196.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
+1.0.197.0,1.0.197.255,4,23974,0.0009 (Low),1.0.197.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
 1.0.198.0,1.0.198.255,4,23969,0.0022 (Low),1.0.198.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.199.0,1.0.199.255,4,23969,0.0022 (Low),1.0.199.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.200.0,1.0.200.255,4,23969,0.0022 (Low),1.0.200.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
@@ -73,7 +73,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.0.224.0,1.0.239.255,4,23969,0.0022 (Low),1.0.224.0/20,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.240.0,1.0.247.255,4,23969,0.0022 (Low),1.0.240.0/21,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.248.0,1.0.255.255,4,23969,0.0022 (Low),1.0.248.0/21,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
-1.1.1.0,1.1.1.255,4,13335,0.0138 (Elevated),1.1.1.0/24,"CLOUDFLARENET, US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
+1.1.1.0,1.1.1.255,4,13335,0.0132 (Elevated),1.1.1.0/24,"CLOUDFLARENET, US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
 1.1.8.0,1.1.8.255,4,138421,0.0007 (Low),1.1.8.0/24,"CU-CN-AS China Unicom, CN",cn,true,China Unicom,chinaunicom.cn,zhaoyz3@chinaunicom.cn,isp,,2023-10-21,APNIC
 1.1.64.0,1.1.95.255,4,2519,0.0004 (Very Low),1.1.64.0/19,"VECTANT ARTERIA Networks Corporation, JP",jp,true,ARTERIA Networks Corporation,arteria-net.com,,isp,,2019/08/09,JPNIC
 1.1.96.0,1.1.96.255,4,2519,0.0004 (Very Low),1.1.96.0/24,"VECTANT ARTERIA Networks Corporation, JP",jp,true,ARTERIA Networks Corporation,arteria-net.com,,isp,,2019/08/09,JPNIC
@@ -332,7 +332,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.6.132.0,1.6.132.255,4,9583,0.0001 (Very Low),1.6.132.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.134.0,1.6.135.255,4,9583,0.0001 (Very Low),1.6.134.0/23,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.136.0,1.6.139.255,4,9583,0.0001 (Very Low),1.6.136.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.136.0,1.6.136.255,4,132215,0.0001 (Very Low),1.6.136.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.6.136.0,1.6.136.255,4,132215,0.0002 (Very Low),1.6.136.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
 1.6.138.0,1.6.138.255,4,9583,0.0001 (Very Low),1.6.138.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.139.0,1.6.139.255,4,9583,0.0001 (Very Low),1.6.139.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.140.0,1.6.143.255,4,9583,0.0001 (Very Low),1.6.140.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
@@ -391,10 +391,10 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.6.220.0,1.6.220.255,4,9583,0.0001 (Very Low),1.6.220.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.224.0,1.6.227.255,4,9583,0.0001 (Very Low),1.6.224.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.6.224.0,1.6.224.255,4,9583,0.0001 (Very Low),1.6.224.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.226.0,1.6.226.255,4,132215,0.0001 (Very Low),1.6.226.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
-1.6.227.0,1.6.227.255,4,132215,0.0001 (Very Low),1.6.227.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.6.226.0,1.6.226.255,4,132215,0.0002 (Very Low),1.6.226.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.6.227.0,1.6.227.255,4,132215,0.0002 (Very Low),1.6.227.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
 1.6.228.0,1.6.231.255,4,9583,0.0001 (Very Low),1.6.228.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.6.228.0,1.6.228.255,4,132215,0.0001 (Very Low),1.6.228.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.6.228.0,1.6.228.255,4,132215,0.0002 (Very Low),1.6.228.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
 1.6.229.0,1.6.229.255,4,4755,0.0001 (Very Low),1.6.229.0/24,"TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",in,true,Tata Communications Limited,tatacommunications.com,4755abuse@tatacommunications.com,isp,,2020-12-08,APNIC
 1.6.230.0,1.6.230.255,4,4755,0.0001 (Very Low),1.6.230.0/24,"TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN",in,true,Tata Communications Limited,tatacommunications.com,4755abuse@tatacommunications.com,isp,,2020-12-08,APNIC
 1.6.232.0,1.6.235.255,4,9583,0.0001 (Very Low),1.6.232.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
@@ -487,20 +487,20 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.7.140.0,1.7.143.255,4,9583,0.0001 (Very Low),1.7.140.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.140.0,1.7.140.255,4,9583,0.0001 (Very Low),1.7.140.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.141.0,1.7.141.255,4,9583,0.0001 (Very Low),1.7.141.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.142.0,1.7.142.255,4,132215,0.0001 (Very Low),1.7.142.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.7.142.0,1.7.142.255,4,132215,0.0002 (Very Low),1.7.142.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
 1.7.143.0,1.7.143.255,4,9583,0.0001 (Very Low),1.7.143.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.144.0,1.7.147.255,4,9583,0.0001 (Very Low),1.7.144.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.148.0,1.7.151.255,4,9583,0.0001 (Very Low),1.7.148.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.150.0,1.7.150.255,4,9583,0.0001 (Very Low),1.7.150.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.151.0,1.7.151.255,4,132215,0.0001 (Very Low),1.7.151.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.7.151.0,1.7.151.255,4,132215,0.0002 (Very Low),1.7.151.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
 1.7.152.0,1.7.155.255,4,9583,0.0001 (Very Low),1.7.152.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.152.0,1.7.152.255,4,9583,0.0001 (Very Low),1.7.152.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.153.0,1.7.153.255,4,9583,0.0001 (Very Low),1.7.153.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.156.0,1.7.159.255,4,9583,0.0001 (Very Low),1.7.156.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.160.0,1.7.163.255,4,9583,0.0001 (Very Low),1.7.160.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.160.0,1.7.160.255,4,9583,0.0001 (Very Low),1.7.160.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.161.0,1.7.161.255,4,132215,0.0001 (Very Low),1.7.161.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
-1.7.162.0,1.7.162.255,4,132215,0.0001 (Very Low),1.7.162.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.7.161.0,1.7.161.255,4,132215,0.0002 (Very Low),1.7.161.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.7.162.0,1.7.162.255,4,132215,0.0002 (Very Low),1.7.162.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
 1.7.163.0,1.7.163.255,4,9583,0.0001 (Very Low),1.7.163.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.164.0,1.7.167.255,4,9583,0.0001 (Very Low),1.7.164.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.164.0,1.7.164.255,4,9583,0.0001 (Very Low),1.7.164.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
@@ -515,7 +515,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.7.176.0,1.7.176.255,4,9583,0.0001 (Very Low),1.7.176.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.177.0,1.7.177.255,4,9583,0.0001 (Very Low),1.7.177.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.180.0,1.7.183.255,4,9583,0.0001 (Very Low),1.7.180.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.180.0,1.7.180.255,4,132215,0.0001 (Very Low),1.7.180.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.7.180.0,1.7.180.255,4,132215,0.0002 (Very Low),1.7.180.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
 1.7.182.0,1.7.182.255,4,9583,0.0001 (Very Low),1.7.182.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.184.0,1.7.187.255,4,9583,0.0001 (Very Low),1.7.184.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.185.0,1.7.185.255,4,9583,0.0001 (Very Low),1.7.185.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
@@ -527,9 +527,9 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.7.196.0,1.7.199.255,4,9583,0.0001 (Very Low),1.7.196.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.198.0,1.7.198.255,4,9583,0.0001 (Very Low),1.7.198.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.199.0,1.7.199.255,4,9583,0.0001 (Very Low),1.7.199.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
-1.7.200.0,1.7.200.255,4,132215,0.0001 (Very Low),1.7.200.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
-1.7.201.0,1.7.201.255,4,132215,0.0001 (Very Low),1.7.201.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
-1.7.202.0,1.7.202.255,4,132215,0.0001 (Very Low),1.7.202.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.7.200.0,1.7.200.255,4,132215,0.0002 (Very Low),1.7.200.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.7.201.0,1.7.201.255,4,132215,0.0002 (Very Low),1.7.201.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
+1.7.202.0,1.7.202.255,4,132215,0.0002 (Very Low),1.7.202.0/24,"TELPOWER-AS-IN Powergrid Teleservices Limited, IN",in,true,Powergrid Teleservices Limited,powergrid.in,mplsnoc@powergrid.in,isp,,2024-09-04,APNIC
 1.7.204.0,1.7.207.255,4,9583,0.0001 (Very Low),1.7.204.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.206.0,1.7.206.255,4,9583,0.0001 (Very Low),1.7.206.0/24,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
 1.7.208.0,1.7.211.255,4,9583,0.0001 (Very Low),1.7.208.0/22,"SIFY-AS-IN Sify Limited, IN",in,true,Sify Limited,sify.com,abuse@sifycorp.com,isp,,2013-04-07,APNIC
@@ -567,7 +567,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.10.132.0,1.10.132.255,4,23969,0.0022 (Low),1.10.132.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.10.133.0,1.10.133.255,4,23969,0.0022 (Low),1.10.133.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.10.134.0,1.10.134.255,4,23969,0.0022 (Low),1.10.134.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
-1.10.135.0,1.10.135.255,4,23974,0.0007 (Low),1.10.135.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
+1.10.135.0,1.10.135.255,4,23974,0.0009 (Low),1.10.135.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
 1.10.136.0,1.10.143.255,4,23969,0.0022 (Low),1.10.136.0/21,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.10.139.0,1.10.139.255,4,23969,0.0022 (Low),1.10.139.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.10.140.0,1.10.140.255,4,23969,0.0022 (Low),1.10.140.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
@@ -643,9 +643,9 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.11.16.0,1.11.19.255,4,18318,0.0003 (Very Low),1.11.16.0/22,"SPEEDON-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.20.0,1.11.23.255,4,38091,0 (Very Low),1.11.20.0/22,"HELLONET-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.24.0,1.11.31.255,4,18313,0.0002 (Very Low),1.11.24.0/21,"PCN-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.32.0,1.11.39.255,4,17598,0.0007 (Low),1.11.32.0/21,"YBNTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.32.0,1.11.39.255,4,17598,0.0008 (Low),1.11.32.0/21,"YBNTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.40.0,1.11.47.255,4,18313,0.0002 (Very Low),1.11.40.0/21,"PCN-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.48.0,1.11.48.255,4,17598,0.0007 (Low),1.11.48.0/24,"YBNTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.48.0,1.11.48.255,4,17598,0.0008 (Low),1.11.48.0/24,"YBNTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.49.0,1.11.49.255,4,9770,0.0006 (Low),1.11.49.0/24,"SPEEDONSTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.50.0,1.11.50.255,4,9770,0.0006 (Low),1.11.50.0/24,"SPEEDONSTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.51.0,1.11.51.255,4,9770,0.0006 (Low),1.11.51.0/24,"SPEEDONSTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
@@ -662,22 +662,22 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.11.88.0,1.11.95.255,4,38091,0 (Very Low),1.11.88.0/21,"HELLONET-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.92.0,1.11.93.255,4,45996,0.0003 (Very Low),1.11.92.0/23,"DAOU-AS-KR DAOU TECHNOLOGY, KR",kr,true,DAOU TECHNOLOGY,daou.co.kr,idc_sales@daou.co.kr,business,,,KRNIC
 1.11.94.0,1.11.94.255,4,45996,0.0003 (Very Low),1.11.94.0/24,"DAOU-AS-KR DAOU TECHNOLOGY, KR",kr,true,DAOU TECHNOLOGY,daou.co.kr,idc_sales@daou.co.kr,business,,,KRNIC
-1.11.96.0,1.11.99.255,4,38669,0.0006 (Low),1.11.96.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.100.0,1.11.103.255,4,38669,0.0006 (Low),1.11.100.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.104.0,1.11.107.255,4,38669,0.0006 (Low),1.11.104.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.108.0,1.11.111.255,4,38669,0.0006 (Low),1.11.108.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.112.0,1.11.115.255,4,38669,0.0006 (Low),1.11.112.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.116.0,1.11.119.255,4,38669,0.0006 (Low),1.11.116.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.120.0,1.11.123.255,4,38669,0.0006 (Low),1.11.120.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
-1.11.124.0,1.11.127.255,4,38669,0.0006 (Low),1.11.124.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.96.0,1.11.99.255,4,38669,0.0005 (Very Low),1.11.96.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.100.0,1.11.103.255,4,38669,0.0005 (Very Low),1.11.100.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.104.0,1.11.107.255,4,38669,0.0005 (Very Low),1.11.104.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.108.0,1.11.111.255,4,38669,0.0005 (Very Low),1.11.108.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.112.0,1.11.115.255,4,38669,0.0005 (Very Low),1.11.112.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.116.0,1.11.119.255,4,38669,0.0005 (Very Low),1.11.116.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.120.0,1.11.123.255,4,38669,0.0005 (Very Low),1.11.120.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
+1.11.124.0,1.11.127.255,4,38669,0.0005 (Very Low),1.11.124.0/22,"CNBTV-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.128.0,1.11.255.255,4,17839,0.0005 (Very Low),1.11.128.0/17,"DREAMPLUS-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.230.0,1.11.230.255,4,17839,0.0005 (Very Low),1.11.230.0/24,"DREAMPLUS-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.11.231.0,1.11.231.255,4,17839,0.0005 (Very Low),1.11.231.0/24,"DREAMPLUS-AS-KR LG HelloVision Corp., KR",kr,true,LG HelloVision Corp.,lghellovision.net,lghvnoc@LGHelloVision365.onmicrosoft.com,isp,,,KRNIC
 1.12.0.0,1.15.255.255,4,45090,0.0011 (Low),1.12.0.0/14,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,business,,2021-10-27,APNIC
 1.12.0.0,1.12.63.255,4,45090,0.0011 (Low),1.12.0.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,business,,2021-10-27,APNIC
-1.12.0.0,1.12.15.255,4,132203,0.0038 (Low),1.12.0.0/20,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,business,,2020-07-22,APNIC
-1.12.14.0,1.12.15.255,4,132203,0.0038 (Low),1.12.14.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,business,,2020-07-22,APNIC
-1.12.34.0,1.12.35.255,4,132203,0.0038 (Low),1.12.34.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,business,,2020-07-22,APNIC
+1.12.0.0,1.12.15.255,4,132203,0.0039 (Low),1.12.0.0/20,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,business,,2020-07-22,APNIC
+1.12.14.0,1.12.15.255,4,132203,0.0039 (Low),1.12.14.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,business,,2020-07-22,APNIC
+1.12.34.0,1.12.35.255,4,132203,0.0039 (Low),1.12.34.0/23,"TENCENT-NET-AP-CN Tencent Building, Kejizhongyi Avenue, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,qcloud_net_duty@tencent.com,business,,2020-07-22,APNIC
 1.12.64.0,1.12.127.255,4,45090,0.0011 (Low),1.12.64.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,business,,2021-10-27,APNIC
 1.12.128.0,1.12.191.255,4,45090,0.0011 (Low),1.12.128.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,business,,2021-10-27,APNIC
 1.12.192.0,1.12.255.255,4,45090,0.0011 (Low),1.12.192.0/18,"TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN",cn,true,Shenzhen Tencent Computer Systems Company Limited,tencent.com,tencent_noc@tencent.com,business,,2021-10-27,APNIC
@@ -858,7 +858,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.20.243.0,1.20.243.255,4,23969,0.0022 (Low),1.20.243.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.244.0,1.20.244.255,4,23969,0.0022 (Low),1.20.244.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.246.0,1.20.246.255,4,23969,0.0022 (Low),1.20.246.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
-1.20.247.0,1.20.247.255,4,23974,0.0007 (Low),1.20.247.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
+1.20.247.0,1.20.247.255,4,23974,0.0009 (Low),1.20.247.0/24,"MOE-AS-AP Ministry of education, TH",th,true,Ministry of Education - EMISC,moe.go.th,apipolg@tot.co.th,government,,2020-07-09,APNIC
 1.20.248.0,1.20.248.255,4,23969,0.0022 (Low),1.20.248.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.249.0,1.20.249.255,4,23969,0.0022 (Low),1.20.249.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.20.251.0,1.20.251.255,4,23969,0.0022 (Low),1.20.251.0/24,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
