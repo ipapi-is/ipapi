@@ -243,7 +243,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:f800,::ffff:101:f9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:101:fa00,::ffff:101:faff,AS,TH,Thailand,Surin,Sanom,32160,Asia/Jakarta,0,15.2036,103.76054,2
 ::ffff:101:fb00,::ffff:101:fbff,AS,TH,Thailand,Amnat Charoen,Senangkhanikhom,,Asia/Jakarta,0,16.0397,104.669,2
-::ffff:101:fc00,::ffff:101:fcff,AS,TH,Thailand,,,,Asia/Jakarta,0,16.04252,105.21836,2
+::ffff:101:fc00,::ffff:101:fcff,AS,TH,Thailand,Ubon Ratchathani,Khemarat,34170,Asia/Jakarta,0,16.04252,105.21836,2
 ::ffff:101:fd00,::ffff:101:ffff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:0,::ffff:102:1ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,2
 ::ffff:102:200,::ffff:102:2ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.39723,2

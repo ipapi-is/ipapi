@@ -138,7 +138,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.0.253.0,1.0.253.255,AS,TH,Thailand,Narathiwat,Narathiwat,,Asia/Jakarta,0,6.42639,101.823,2
 1.0.254.0,1.0.255.255,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,2
 1.1.0.0,1.1.0.255,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1
-1.1.1.0,1.1.1.255,AS,HK,Hong Kong,Wan Chai,Wan Chai,,Asia/Hong_Kong,0,22.28,114.174,2
+1.1.1.0,1.1.1.255,AS,HK,Hong Kong,Wan Chai,Wan Chai,,Asia/Hong_Kong,0,22.28,114.174,1
 1.1.2.0,1.1.7.255,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1
 1.1.8.0,1.1.8.255,AS,CN,China,Zhejiang,Shanghai,202400,Asia/Shanghai,0,31.22222,121.45806,1
 1.1.9.0,1.1.63.255,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.11667,113.25,1
@@ -243,7 +243,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.1.248.0,1.1.249.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.1.250.0,1.1.250.255,AS,TH,Thailand,Surin,Sanom,32160,Asia/Jakarta,0,15.2036,103.76054,2
 1.1.251.0,1.1.251.255,AS,TH,Thailand,Amnat Charoen,Senangkhanikhom,,Asia/Jakarta,0,16.0397,104.669,2
-1.1.252.0,1.1.252.255,AS,TH,Thailand,,,,Asia/Jakarta,0,16.04252,105.21836,2
+1.1.252.0,1.1.252.255,AS,TH,Thailand,Ubon Ratchathani,Khemarat,34170,Asia/Jakarta,0,16.04252,105.21836,2
 1.1.253.0,1.1.255.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.2.0.0,1.2.1.255,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1
 1.2.2.0,1.2.2.255,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.39723,1
