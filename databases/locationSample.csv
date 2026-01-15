@@ -291,8 +291,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.2.167.0,1.2.167.255,AS,TH,Thailand,Pattani,Sai Buri,94110,Asia/Jakarta,0,6.70131,101.61675,1
 1.2.168.0,1.2.169.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.2.170.0,1.2.170.255,AS,TH,Thailand,Kayin State,Myawadi,,Asia/Yangon,0,16.6891,98.5089,2
-1.2.171.0,1.2.171.255,AS,TH,Thailand,Suphan Buri,Song Phi Nong,,Asia/Jakarta,0,14.2241,100.021,2
-1.2.172.0,1.2.172.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+1.2.171.0,1.2.172.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 1.2.173.0,1.2.173.255,AS,TH,Thailand,Pattani,Pattani,94170,Asia/Jakarta,0,6.86814,101.25009,1
 1.2.174.0,1.2.174.255,AS,TH,Thailand,Chai Nat,Chai Nat,17000,Asia/Jakarta,0,15.18636,100.12353,2
 1.2.175.0,1.2.175.255,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
@@ -498,3 +497,4 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.6.102.0,1.6.102.255,AS,IN,India,Maharashtra,Nagpur,440003,Asia/Kolkata,0,21.14631,79.08491,2
 1.6.103.0,1.6.104.255,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
 1.6.105.0,1.6.105.175,AS,IN,India,Madhya Pradesh,Bhopal,462030,Asia/Kolkata,0,23.25469,77.40289,2
+1.6.105.176,1.6.105.183,AS,IN,India,Karnataka,Bengaluru,560067,Asia/Kolkata,0,12.97194,77.59369,1

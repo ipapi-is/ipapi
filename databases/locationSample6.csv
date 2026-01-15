@@ -291,8 +291,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:102:a700,::ffff:102:a7ff,AS,TH,Thailand,Pattani,Sai Buri,94110,Asia/Jakarta,0,6.70131,101.61675,2
 ::ffff:102:a800,::ffff:102:a9ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:aa00,::ffff:102:aaff,AS,TH,Thailand,Kayin State,Myawadi,,Asia/Yangon,0,16.6891,98.5089,2
-::ffff:102:ab00,::ffff:102:abff,AS,TH,Thailand,Suphan Buri,Song Phi Nong,,Asia/Jakarta,0,14.2241,100.021,2
-::ffff:102:ac00,::ffff:102:acff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:102:ab00,::ffff:102:acff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:102:ad00,::ffff:102:adff,AS,TH,Thailand,Pattani,Pattani,94170,Asia/Jakarta,0,6.86814,101.25009,2
 ::ffff:102:ae00,::ffff:102:aeff,AS,TH,Thailand,Chai Nat,Chai Nat,17000,Asia/Jakarta,0,15.18636,100.12353,2
 ::ffff:102:af00,::ffff:102:afff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
@@ -498,3 +497,4 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:106:6700,::ffff:106:68ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
 ::ffff:106:6900,::ffff:106:69ff,AS,IN,India,Madhya Pradesh,Bhopal,462030,Asia/Kolkata,0,23.25469,77.40289,2
 ::ffff:106:6a00,::ffff:106:6aff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
+::ffff:106:6b00,::ffff:106:6bff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
