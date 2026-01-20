@@ -427,7 +427,8 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:104:cc00,::ffff:104:cdff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:104:ce00,::ffff:104:ceff,AS,TH,Thailand,Khon Kaen,Phu Wiang,,Asia/Jakarta,0,16.6526,102.376,2
 ::ffff:104:cf00,::ffff:104:cfff,AS,TH,Thailand,,Ta Lo Wow,,Asia/Jakarta,0,6.70237,99.66539,2
-::ffff:104:d000,::ffff:104:d8ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:d000,::ffff:104:d0ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
+::ffff:104:d100,::ffff:104:d8ff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:104:d900,::ffff:104:d9ff,AS,TH,Thailand,Phuket,Phuket,83120,Asia/Jakarta,0,7.890479,98.398106,2
 ::ffff:104:da00,::ffff:104:dbff,AS,TH,Thailand,Khon Kaen,Bangkok,40350,Asia/Jakarta,0,13.75398,100.50144,2
 ::ffff:104:dc00,::ffff:104:dcff,AS,TH,Thailand,Nakhon Pathom,Nakhon Pathom,73000,Asia/Jakarta,0,13.8196,100.04427,2
@@ -497,4 +498,3 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:106:6600,::ffff:106:66ff,AS,IN,India,Maharashtra,Nagpur,440003,Asia/Kolkata,0,21.14631,79.08491,2
 ::ffff:106:6700,::ffff:106:68ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.08784,80.27847,2
 ::ffff:106:6900,::ffff:106:69ff,AS,IN,India,Madhya Pradesh,Bhopal,462030,Asia/Kolkata,0,23.25469,77.40289,2
-::ffff:106:6a00,::ffff:106:6aff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.65195,77.23149,2
