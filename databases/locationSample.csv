@@ -100,9 +100,10 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.0.173.0,1.0.173.255,AS,TH,Thailand,Phuket,Phuket,83120,Asia/Jakarta,0,7.89048,98.39811,3.6,ownVeryLow;tp1;tp2;tp4
 1.0.174.0,1.0.174.255,AS,TH,Thailand,Krabi,Saladan,81150,Asia/Jakarta,0,7.61342,99.03651,3.5,ownVeryLow;tp1;tp2;tp4
 1.0.175.0,1.0.175.255,AS,TH,Thailand,Nakhon Si Thammarat,Chulabhorn,80130,Asia/Jakarta,0,8.07597,99.86947,3.6,ownVeryLow;tp1;tp2;tp4
-1.0.176.0,1.0.189.255,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,3.2,ownVeryLow;tp1;tp2;tp4
+1.0.176.0,1.0.189.255,AS,TH,Thailand,Krabi,Ko Lanta,81150,Asia/Jakarta,0,7.5336,99.0865,3.2,ownVeryLow;tp1;tp2;tp4
 1.0.190.0,1.0.190.255,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,80230,Asia/Jakarta,0,8.43333,99.96667,3.4,ownVeryLow;tp1;tp2;tp4
-1.0.191.0,1.0.197.255,AS,TH,Thailand,Bangkok,Lak Si,10220,Asia/Jakarta,0,13.8983,100.582,3.2,ownVeryLow;tp1;tp2;tp4
+1.0.191.0,1.0.191.255,AS,TH,Thailand,Krabi,Ko Lanta,81150,Asia/Jakarta,0,7.5336,99.0865,3.2,ownVeryLow;tp1;tp2;tp4
+1.0.192.0,1.0.197.255,AS,TH,Thailand,Bangkok,Lak Si,10220,Asia/Jakarta,0,13.8983,100.582,3.2,ownVeryLow;tp1;tp2;tp4
 1.0.198.0,1.0.198.255,AS,TH,Thailand,Surat Thani,Ko Samui,84140,Asia/Jakarta,0,9.53567,99.93567,3.4,ownVeryLow;tp1;tp2;tp4
 1.0.199.0,1.0.200.255,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,3.3,ownVeryLow;tp1;tp2;tp4
 1.0.201.0,1.0.201.255,AS,TH,Thailand,Samut Prakan,Phra Pradaeng,10130,Asia/Jakarta,0,13.65831,100.53348,3.4,ownVeryLow;tp1;tp2;tp4
@@ -497,4 +498,3 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.4.231.0,1.4.231.255,AS,TH,Thailand,Mukdahan,Khamcha-i,49110,Asia/Jakarta,0,16.5776,104.42,3.4,ownVeryLow;tp1;tp2;tp4
 1.4.232.0,1.4.232.255,AS,TH,Thailand,Udon Thani,Kut Chap,,Asia/Jakarta,0,17.4257,102.567,3.4,ownVeryLow;tp1;tp2;tp4
 1.4.233.0,1.4.233.255,AS,TH,Thailand,Nong Khai,Bueng Khong Long,43210,Asia/Jakarta,0,17.9613,104.047,3.4,ownVeryLow;tp1;tp2;tp4
-1.4.234.0,1.4.234.255,AS,TH,Thailand,Udon Thani,Kut Chap,,Asia/Jakarta,0,17.4257,102.567,3.4,ownVeryLow;tp1;tp2;tp4
