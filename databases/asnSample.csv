@@ -1,5 +1,5 @@
 startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,abuse,type,created,updated,rir
-1.0.0.0,1.0.0.255,4,13335,0.012 (Elevated),1.0.0.0/24,"CLOUDFLARENET - Cloudflare, Inc., US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
+1.0.0.0,1.0.0.255,4,13335,0.0124 (Elevated),1.0.0.0/24,"CLOUDFLARENET - Cloudflare, Inc., US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
 1.0.4.0,1.0.4.255,4,38803,0.0006 (Low),1.0.4.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
 1.0.5.0,1.0.5.255,4,38803,0.0006 (Low),1.0.5.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
 1.0.6.0,1.0.6.255,4,38803,0.0006 (Low),1.0.6.0/24,"GTELECOM-AS-AP Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
@@ -74,7 +74,7 @@ startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,a
 1.0.224.0,1.0.239.255,4,23969,0.0021 (Low),1.0.224.0/20,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.240.0,1.0.247.255,4,23969,0.0021 (Low),1.0.240.0/21,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
 1.0.248.0,1.0.255.255,4,23969,0.0021 (Low),1.0.248.0/21,"TOT-NET TOT Public Company Limited, TH",th,true,TOT Public Company Limited,tot.co.th,abuse@totisp.net,isp,,2020-07-09,APNIC
-1.1.1.0,1.1.1.255,4,13335,0.012 (Elevated),1.1.1.0/24,"CLOUDFLARENET - Cloudflare, Inc., US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
+1.1.1.0,1.1.1.255,4,13335,0.0124 (Elevated),1.1.1.0/24,"CLOUDFLARENET - Cloudflare, Inc., US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
 1.1.8.0,1.1.8.255,4,138421,0.0005 (Very Low),1.1.8.0/24,"CU-CN-AS China Unicom, CN",cn,true,China Unicom,chinaunicom.cn,zhaoyz3@chinaunicom.cn,isp,,2023-10-21,APNIC
 1.1.64.0,1.1.95.255,4,2519,0.0007 (Low),1.1.64.0/19,"VECTANT ARTERIA Networks Corporation, JP",jp,true,ARTERIA Networks Corporation,arteria-net.com,hostmaster@nic.ad.jp,isp,,2024-08-22,APNIC
 1.1.96.0,1.1.96.255,4,2519,0.0007 (Low),1.1.96.0/24,"VECTANT ARTERIA Networks Corporation, JP",jp,true,ARTERIA Networks Corporation,arteria-net.com,hostmaster@nic.ad.jp,isp,,2024-08-22,APNIC
