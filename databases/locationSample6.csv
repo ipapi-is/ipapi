@@ -365,9 +365,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:102:f500,::ffff:102:f5ff,AS,TH,Thailand,Sukhothai,Sawankhalok,64110,Asia/Jakarta,0,17.31597,99.83186,1.2,tp1
 ::ffff:102:f600,::ffff:102:f6ff,AS,TH,Thailand,Sukhothai,Sukhothai,64140,Asia/Jakarta,0,17.00778,99.823,1.2,tp1
 ::ffff:102:f700,::ffff:102:f7ff,AS,TH,Thailand,Uttaradit,Uttaradit,53140,Asia/Jakarta,0,17.62557,100.09421,1.2,tp1
-::ffff:102:f800,::ffff:102:f8ff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2,tp1
-::ffff:102:f900,::ffff:102:f9ff,AS,TH,Thailand,Chon Buri,Ban Talat Bueng,20170,Asia/Jakarta,0,13.07147,101.00314,1.2,tp1
-::ffff:102:fa00,::ffff:102:ffff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2,tp1
+::ffff:102:f800,::ffff:102:ffff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2,tp1
 ::ffff:103:0,::ffff:103:ffff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,1.2,tp1
 ::ffff:104:0,::ffff:104:ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,1.2,tp1
 ::ffff:104:100,::ffff:104:3ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1.2,tp1
@@ -472,8 +470,8 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:105:ff00,::ffff:105:ffff,AS,JP,Japan,Gifu Ken,Gifu,502-8792,Asia/Tokyo,0,35.41708,136.76702,1.2,tp1
 ::ffff:106:0,::ffff:106:2ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2,tp1
 ::ffff:106:300,::ffff:106:3ff,AS,IN,India,Karnataka,Bengaluru,562130,Asia/Kolkata,0,12.97623,77.60329,1.2,tp1
-::ffff:106:400,::ffff:106:5ff,AS,IN,India,Maharashtra,Mumbai,415213,Asia/Kolkata,0,19.07597,72.87738,1.2,tp1
-::ffff:106:600,::ffff:106:6ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2,tp1
+::ffff:106:400,::ffff:106:4ff,AS,IN,India,Maharashtra,Mumbai,415213,Asia/Kolkata,0,19.07597,72.87738,1.2,tp1
+::ffff:106:500,::ffff:106:6ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2,tp1
 ::ffff:106:700,::ffff:106:7ff,AS,IN,India,Maharashtra,Mumbai,415213,Asia/Kolkata,0,19.07597,72.87738,1.2,tp1
 ::ffff:106:800,::ffff:106:8ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2,tp1
 ::ffff:106:900,::ffff:106:9ff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.66678,77.21668,1.2,tp1
@@ -498,3 +496,5 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:106:4100,::ffff:106:41ff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.66678,77.21668,1.2,tp1
 ::ffff:106:4200,::ffff:106:44ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2,tp1
 ::ffff:106:4500,::ffff:106:45ff,AS,IN,India,Karnataka,Bengaluru,562130,Asia/Kolkata,0,12.97623,77.60329,1.2,tp1
+::ffff:106:4600,::ffff:106:48ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2,tp1
+::ffff:106:4900,::ffff:106:49ff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.66678,77.21668,1.2,tp1
