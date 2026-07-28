@@ -1,5 +1,5 @@
 startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitude,longitude,accuracy,sources
-::ffff:100:0,::ffff:100:ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,1.2,tp1
+::ffff:100:0,::ffff:100:ff,OC,AU,Australia,Queensland,Brisbane,4101,Australia/Brisbane,0,-27.46754,153.02809,1.2,tp1
 ::ffff:100:100,::ffff:100:3ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1.2,tp1
 ::ffff:100:400,::ffff:100:6ff,OC,AU,Australia,Victoria,Melbourne,8383,Australia/Melbourne,0,-37.81401,144.96317,1.2,tp1
 ::ffff:100:700,::ffff:100:7ff,OC,AU,Australia,Queensland,Warren,4702,Australia/Brisbane,0,-23.5,150.28333,1.2,tp1
@@ -92,7 +92,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:100:cc00,::ffff:100:ccff,AS,TH,Thailand,Kanchanaburi,Nong Prue,71220,Asia/Jakarta,0,14.61144,99.45033,1.2,tp1
 ::ffff:100:cd00,::ffff:100:cfff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2,tp1
 ::ffff:100:d000,::ffff:100:d0ff,AS,TH,Thailand,Lamphun,Li,51110,Asia/Jakarta,0,17.8027,98.95097,1.2,tp1
-::ffff:100:d100,::ffff:100:d1ff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,58000,Asia/Jakarta,0,19.30029,97.96852,1.2,tp1
+::ffff:100:d100,::ffff:100:d1ff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,,Asia/Jakarta,0,19.30029,97.96852,1.2,tp1
 ::ffff:100:d200,::ffff:100:d3ff,AS,TH,Thailand,Suphan Buri,Song Phi Nong,72110,Asia/Jakarta,0,14.22408,100.02094,1.2,tp1
 ::ffff:100:d400,::ffff:100:d4ff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79069,98.98468,1.2,tp1
 ::ffff:100:d500,::ffff:100:d5ff,AS,TH,Thailand,Chiang Rai,Thoeng,57160,Asia/Jakarta,0,19.68508,100.19456,1.2,tp1
@@ -132,7 +132,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:100:fe00,::ffff:100:feff,AS,TH,Thailand,Songkhla,Songkhla,90120,Asia/Jakarta,0,7.19882,100.5951,1.2,tp1
 ::ffff:100:ff00,::ffff:100:ffff,AS,TH,Thailand,Songkhla,Rattaphum,90110,Asia/Jakarta,0,7.13478,100.25647,1.2,tp1
 ::ffff:101:0,::ffff:101:ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1.2,tp1
-::ffff:101:100,::ffff:101:1ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,1.2,tp1
+::ffff:101:100,::ffff:101:1ff,OC,AU,Australia,Queensland,Brisbane,4101,Australia/Brisbane,0,-27.46754,153.02809,1.2,tp1
 ::ffff:101:200,::ffff:101:7ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1.2,tp1
 ::ffff:101:800,::ffff:101:8ff,AS,CN,China,Shanghai,Shanghai,202400,Asia/Shanghai,0,31.22433,121.46895,1.2,tp1
 ::ffff:101:900,::ffff:101:3fff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,1.2,tp1
@@ -170,7 +170,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:a900,::ffff:101:a9ff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79069,98.98468,1.2,tp1
 ::ffff:101:aa00,::ffff:101:aaff,AS,TH,Thailand,Chiang Rai,Khun Tan,57160,Asia/Jakarta,0,19.83353,100.25858,1.2,tp1
 ::ffff:101:ab00,::ffff:101:abff,AS,TH,Thailand,Phrae,Phrae,54000,Asia/Jakarta,0,18.14589,100.14103,1.2,tp1
-::ffff:101:ac00,::ffff:101:acff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,58000,Asia/Jakarta,0,19.30029,97.96852,1.2,tp1
+::ffff:101:ac00,::ffff:101:acff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,,Asia/Jakarta,0,19.30029,97.96852,1.2,tp1
 ::ffff:101:ad00,::ffff:101:adff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79069,98.98468,1.2,tp1
 ::ffff:101:ae00,::ffff:101:aeff,AS,TH,Thailand,Chiang Rai,Chiang Rai,57000,Asia/Jakarta,0,19.90858,99.8325,1.2,tp1
 ::ffff:101:af00,::ffff:101:afff,AS,TH,Thailand,Chiang Rai,Wiang Pa Pao,57170,Asia/Jakarta,0,19.34778,99.50772,1.2,tp1
@@ -240,7 +240,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:f900,::ffff:101:f9ff,AS,TH,Thailand,Tak,Mae Sot,63110,Asia/Jakarta,0,16.71667,98.56667,1.2,tp1
 ::ffff:101:fa00,::ffff:101:faff,AS,TH,Thailand,Chaiyaphum,Phu Khiao,36110,Asia/Jakarta,0,16.3765,102.12853,1.2,tp1
 ::ffff:101:fb00,::ffff:101:fbff,AS,TH,Thailand,Surin,Rattanaburi,33220,Asia/Jakarta,0,15.31788,103.84859,1.2,tp1
-::ffff:101:fc00,::ffff:101:fcff,AS,TH,Thailand,Surin,Chom Phra,32180,Asia/Jakarta,0,15.11814,103.60743,1.2,tp1
+::ffff:101:fc00,::ffff:101:fcff,AS,TH,Thailand,Surin,Chom Phra,,Asia/Jakarta,0,15.11814,103.60743,1.2,tp1
 ::ffff:101:fd00,::ffff:101:ffff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2,tp1
 ::ffff:102:0,::ffff:102:1ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1.2,tp1
 ::ffff:102:200,::ffff:102:2ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.3971,1.2,tp1
@@ -280,7 +280,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:102:a500,::ffff:102:a5ff,AS,TH,Thailand,Nakhon Sawan,Lat Yao,60150,Asia/Jakarta,0,15.751,99.78925,1.2,tp1
 ::ffff:102:a600,::ffff:102:a6ff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2,tp1
 ::ffff:102:a700,::ffff:102:a7ff,AS,TH,Thailand,Narathiwat,Rueso,96150,Asia/Jakarta,0,6.39364,101.51847,1.2,tp1
-::ffff:102:a800,::ffff:102:a8ff,AS,TH,Thailand,Surin,Chom Phra,32180,Asia/Jakarta,0,15.11814,103.60743,1.2,tp1
+::ffff:102:a800,::ffff:102:a8ff,AS,TH,Thailand,Surin,Chom Phra,,Asia/Jakarta,0,15.11814,103.60743,1.2,tp1
 ::ffff:102:a900,::ffff:102:a9ff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2,tp1
 ::ffff:102:aa00,::ffff:102:aaff,AS,TH,Thailand,Sukhothai,Si Samrong,64120,Asia/Jakarta,0,17.164,99.86222,1.2,tp1
 ::ffff:102:ab00,::ffff:102:abff,AS,TH,Thailand,Nakhon Pathom,Kamphaeng Saen,73130,Asia/Jakarta,0,13.9977,99.99215,1.2,tp1
@@ -350,7 +350,7 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:102:f900,::ffff:102:f9ff,AS,TH,Thailand,Chon Buri,Chon Buri,20160,Asia/Jakarta,0,13.3622,100.98345,1.2,tp1
 ::ffff:102:fa00,::ffff:102:ffff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2,tp1
 ::ffff:103:0,::ffff:103:ffff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,1.2,tp1
-::ffff:104:0,::ffff:104:ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,1.2,tp1
+::ffff:104:0,::ffff:104:ff,OC,AU,Australia,Queensland,Brisbane,4101,Australia/Brisbane,0,-27.46754,153.02809,1.2,tp1
 ::ffff:104:100,::ffff:104:3ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1.2,tp1
 ::ffff:104:400,::ffff:104:4ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.3971,1.2,tp1
 ::ffff:104:500,::ffff:104:7ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,1.2,tp1
@@ -358,11 +358,11 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:104:8000,::ffff:104:80ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,1.2,tp1
 ::ffff:104:8100,::ffff:104:81ff,AS,TH,Thailand,Roi Et,Chiang Khwan,45110,Asia/Jakarta,0,16.16328,103.75359,1.2,tp1
 ::ffff:104:8200,::ffff:104:82ff,AS,TH,Thailand,Nong Khai,Fao Rai,43120,Asia/Jakarta,0,18.01792,103.30388,1.2,tp1
-::ffff:104:8300,::ffff:104:83ff,AS,TH,Thailand,Udon Thani,Kut Chap,,Asia/Jakarta,0,17.4257,102.56692,1.2,tp1
+::ffff:104:8300,::ffff:104:83ff,AS,TH,Thailand,Udon Thani,Kut Chap,41250,Asia/Jakarta,0,17.4257,102.56692,1.2,tp1
 ::ffff:104:8400,::ffff:104:84ff,AS,TH,Thailand,Khon Kaen,Nong Ruea,40210,Asia/Jakarta,0,16.49333,102.43339,1.2,tp1
-::ffff:104:8500,::ffff:104:85ff,AS,TH,Thailand,Udon Thani,Kut Chap,,Asia/Jakarta,0,17.4257,102.56692,1.2,tp1
+::ffff:104:8500,::ffff:104:85ff,AS,TH,Thailand,Udon Thani,Kut Chap,41250,Asia/Jakarta,0,17.4257,102.56692,1.2,tp1
 ::ffff:104:8600,::ffff:104:86ff,AS,TH,Thailand,Sakon Nakhon,Wanon Niwat,47120,Asia/Jakarta,0,17.63391,103.75241,1.2,tp1
-::ffff:104:8700,::ffff:104:87ff,AS,TH,Thailand,Udon Thani,Kut Chap,,Asia/Jakarta,0,17.4257,102.56692,1.2,tp1
+::ffff:104:8700,::ffff:104:87ff,AS,TH,Thailand,Udon Thani,Kut Chap,41250,Asia/Jakarta,0,17.4257,102.56692,1.2,tp1
 ::ffff:104:8800,::ffff:104:88ff,AS,TH,Thailand,Sakon Nakhon,Warichaphum,47150,Asia/Jakarta,0,17.29409,103.63816,1.2,tp1
 ::ffff:104:8900,::ffff:104:89ff,AS,TH,Thailand,Loei,Phu Luang,42230,Asia/Jakarta,0,17.1392,101.66392,1.2,tp1
 ::ffff:104:8a00,::ffff:104:8aff,AS,TH,Thailand,Nakhon Phanom,Si Songkhram,48150,Asia/Jakarta,0,17.62745,104.2507,1.2,tp1
