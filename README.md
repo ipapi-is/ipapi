@@ -249,7 +249,7 @@ ip_version,start_ip,end_ip,continent,country_code,country,state,city,zip,timezon
 4,1.0.4.0,1.0.4.255,OC,AU,Australia,New South Wales,Warren,2824,Australia/Sydney,-31.70224,147.83392,3,whoisDescrAttr
 ```
 
-There is also a commercial version of the geolocation database with higher accuracy, more meta data (such as `isDst` and geofeed sources) and MMDB support: [CSV IPv4 Sample](databases/locationSample.csv), [MMDB IPv4 Sample](databases/locationSample.mmdb), [CSV IPv6 Sample](databases/locationSample6.csv), [MMDB IPv6 Sample](databases/locationSample6.mmdb). Learn more on the [IP to Geolocation page](https://ipapi.is/geolocation.html).
+There is also a commercial version of the geolocation database with higher accuracy, more meta data (such as `isDst`) and MMDB support: [CSV IPv4 Sample](databases/locationSample.csv), [MMDB IPv4 Sample](databases/locationSample.mmdb), [CSV IPv6 Sample](databases/locationSample6.csv), [MMDB IPv6 Sample](databases/locationSample6.mmdb). Learn more on the [IP to Geolocation page](https://ipapi.is/geolocation.html).
 
 ### Convert Geolocation Database to MMDB Format
 
