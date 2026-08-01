@@ -204,7 +204,8 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:101:cd00,::ffff:101:cdff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,1.2
 ::ffff:101:ce00,::ffff:101:ceff,AS,TH,Thailand,Sakon Nakhon,Akat Amnuai,48180,Asia/Jakarta,0,17.59639,103.9816,1.2
 ::ffff:101:cf00,::ffff:101:cfff,AS,TH,Thailand,Nakhon Phanom,Si Songkhram,48150,Asia/Jakarta,0,17.62745,104.2507,1.2
-::ffff:101:d000,::ffff:101:d1ff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,1.2
+::ffff:101:d000,::ffff:101:d0ff,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2
+::ffff:101:d100,::ffff:101:d1ff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,1.2
 ::ffff:101:d200,::ffff:101:d3ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,1.2
 ::ffff:101:d400,::ffff:101:d4ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,1.2
 ::ffff:101:d500,::ffff:101:d5ff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,1.2
@@ -490,11 +491,10 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 ::ffff:106:5200,::ffff:106:53ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2
 ::ffff:106:5400,::ffff:106:54ff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.66678,77.21668,1.2
 ::ffff:106:5500,::ffff:106:5dff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2
-::ffff:106:5e00,::ffff:106:5eff,AS,IN,India,Maharashtra,Mumbai,415213,Asia/Kolkata,0,19.07597,72.87738,1.2
-::ffff:106:5f00,::ffff:106:65ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2
+::ffff:106:5e00,::ffff:106:5fff,AS,IN,India,Maharashtra,Mumbai,415213,Asia/Kolkata,0,19.07597,72.87738,1.2
+::ffff:106:6000,::ffff:106:65ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2
 ::ffff:106:6600,::ffff:106:66ff,AS,IN,India,Maharashtra,Mumbai,415213,Asia/Kolkata,0,19.07597,72.87738,1.2
 ::ffff:106:6700,::ffff:106:68ff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2
 ::ffff:106:6900,::ffff:106:69ff,AS,IN,India,Madhya Pradesh,Bhopal,464993,Asia/Kolkata,0,23.26657,77.39997,1.2
 ::ffff:106:6a00,::ffff:106:6aff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.66678,77.21668,1.2
 ::ffff:106:6b00,::ffff:106:6bff,AS,IN,India,Tamil Nadu,Chennai,600118,Asia/Kolkata,0,13.0879,80.27848,1.2
-::ffff:106:6c00,::ffff:106:6cff,AS,IN,India,Delhi,Delhi,110001,Asia/Kolkata,0,28.66678,77.21668,1.2

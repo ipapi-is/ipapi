@@ -223,7 +223,8 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.1.205.0,1.1.205.255,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,1.5
 1.1.206.0,1.1.206.255,AS,TH,Thailand,Sakon Nakhon,Akat Amnuai,48180,Asia/Jakarta,0,17.59639,103.9816,1.2
 1.1.207.0,1.1.207.255,AS,TH,Thailand,Nakhon Phanom,Si Songkhram,48150,Asia/Jakarta,0,17.62745,104.2507,1.5
-1.1.208.0,1.1.209.255,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,1.4
+1.1.208.0,1.1.208.255,AS,TH,Thailand,Bangkok,Sathorn,10200,Asia/Jakarta,0,13.74998,100.51682,1.2
+1.1.209.0,1.1.209.255,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,1.5
 1.1.210.0,1.1.210.255,AS,TH,Thailand,Sakon Nakhon,Akat Amnuai,48180,Asia/Jakarta,0,17.5964,103.982,1.2
 1.1.211.0,1.1.211.255,AS,TH,Thailand,Roi Et,Nong Hi,45140,Asia/Jakarta,0,15.6112,103.995,1.2
 1.1.212.0,1.1.212.255,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,1.2
@@ -497,4 +498,3 @@ startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitu
 1.4.227.0,1.4.227.255,AS,TH,Thailand,Loei,Phu Ruea,42160,Asia/Jakarta,0,17.4538,101.362,1.2
 1.4.228.0,1.4.228.255,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,1.2
 1.4.229.0,1.4.229.255,AS,TH,Thailand,Loei,Phu Ruea,42160,Asia/Jakarta,0,17.4538,101.36231,1.5
-1.4.230.0,1.4.230.255,AS,TH,Thailand,Loei,Wang Saphung,42130,Asia/Jakarta,0,17.301,101.769,1.2
