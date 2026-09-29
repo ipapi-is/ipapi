@@ -1,0 +1,48 @@
+ipapi.is Free IP Geolocation Database - License
+===============================================
+
+Copyright (c) ipapi.is - Nikolai Tschacher
+
+The free IP geolocation database (geolocationDatabaseIPv4.csv and
+geolocationDatabaseIPv6.csv) is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):
+
+    https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+This file is a plain-language summary. The license text at the address
+above is what is legally binding.
+
+
+ATTRIBUTION
+-----------
+
+You may use the database for any purpose, including commercial ones, as
+long as you credit ipapi.is with a link to https://ipapi.is/. Put the
+credit wherever you show data from the database; if you do not show any
+(for example because you only use it to route or score traffic), put it
+in your documentation, credits or about page instead.
+
+Plain text:
+
+    IP geolocation data by ipapi.is (https://ipapi.is/)
+
+HTML:
+
+    IP geolocation data by <a href="https://ipapi.is/">ipapi.is</a>
+
+
+SHAREALIKE
+----------
+
+If you publish a modified version of the database, or another database
+built from it, you must license it under CC BY-SA 4.0 as well. Looking up
+addresses in the database from your own application does not make that
+application a modified version of the database.
+
+
+THE COMMERCIAL DATABASES
+------------------------
+
+This license covers the free geolocation database only. The commercial
+databases sold on https://ipapi.is/ are licensed under the ipapi.is
+Terms of Service (https://ipapi.is/terms.html).
