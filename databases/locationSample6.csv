@@ -1,500 +1,501 @@
 startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitude,longitude,accuracy
-::ffff:100:0,::ffff:100:ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,4
-::ffff:100:100,::ffff:100:3ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,4
-::ffff:100:400,::ffff:100:7ff,OC,AU,Australia,Victoria,Melbourne,8383,Australia/Melbourne,1,-37.81401,144.96317,4
-::ffff:100:800,::ffff:100:fff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,4
-::ffff:100:1000,::ffff:100:1fff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:2000,::ffff:100:3fff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,4
-::ffff:100:4000,::ffff:100:42ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:4300,::ffff:100:43ff,AS,JP,Japan,Hiroshima,Gion,731-3351,Asia/Tokyo,0,34.53333,132.4,4
-::ffff:100:4400,::ffff:100:4aff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:4b00,::ffff:100:4bff,AS,JP,Japan,Hiroshima,Hiroshima,730-0042,Asia/Tokyo,0,34.38587,132.45543,4
-::ffff:100:4c00,::ffff:100:52ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:5300,::ffff:100:53ff,AS,JP,Japan,Tottori,Kurayoshi,682-0874,Asia/Tokyo,0,35.433,133.817,4
-::ffff:100:5400,::ffff:100:55ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:5600,::ffff:100:56ff,AS,JP,Japan,Tottori,Tottori-shi,680-0056,Asia/Tokyo,0,35.50011,134.23284,4
-::ffff:100:5700,::ffff:100:57ff,AS,JP,Japan,Yamaguchi,Yamaguchi,753-0073,Asia/Tokyo,0,34.183,131.467,4
-::ffff:100:5800,::ffff:100:59ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:5a00,::ffff:100:5bff,AS,JP,Japan,Tottori,Tottori-shi,680-0056,Asia/Tokyo,0,35.50011,134.23284,4
-::ffff:100:5c00,::ffff:100:5cff,AS,JP,Japan,Tottori,Yonago,683-0813,Asia/Tokyo,0,35.43274,133.3334,4
-::ffff:100:5d00,::ffff:100:5dff,AS,JP,Japan,Tottori,Tottori-shi,680-0056,Asia/Tokyo,0,35.50011,134.23284,4
-::ffff:100:5e00,::ffff:100:5fff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:6000,::ffff:100:60ff,AS,JP,Japan,Tottori,Yonago,683-0813,Asia/Tokyo,0,35.43274,133.3334,4
-::ffff:100:6100,::ffff:100:64ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:6500,::ffff:100:65ff,AS,JP,Japan,Tottori,Tottori-shi,680-0056,Asia/Tokyo,0,35.50011,134.23284,4
-::ffff:100:6600,::ffff:100:66ff,AS,JP,Japan,Shimane,Izumo,693-0017,Asia/Tokyo,0,35.367,132.767,4
-::ffff:100:6700,::ffff:100:67ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:6800,::ffff:100:68ff,AS,JP,Japan,Tottori,Yonago,683-0813,Asia/Tokyo,0,35.43274,133.3334,4
-::ffff:100:6900,::ffff:100:6bff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:6c00,::ffff:100:6cff,AS,JP,Japan,Shimane,Izumo,693-0017,Asia/Tokyo,0,35.367,132.767,4
-::ffff:100:6d00,::ffff:100:6dff,AS,JP,Japan,Yamaguchi,Yamaguchi,753-0073,Asia/Tokyo,0,34.183,131.467,4
-::ffff:100:6e00,::ffff:100:6fff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:7000,::ffff:100:70ff,AS,JP,Japan,Tottori,Yonago,683-0813,Asia/Tokyo,0,35.43274,133.3334,4
-::ffff:100:7100,::ffff:100:72ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:7300,::ffff:100:73ff,AS,JP,Japan,Yamaguchi,Iwakuni,740-0501,Asia/Tokyo,0,34.15,132.183,4
-::ffff:100:7400,::ffff:100:74ff,AS,JP,Japan,Shimane,Matsue,690-0846,Asia/Tokyo,0,35.467,133.05,4
-::ffff:100:7500,::ffff:100:75ff,AS,JP,Japan,Yamaguchi,Yamaguchi,753-0073,Asia/Tokyo,0,34.183,131.467,4
-::ffff:100:7600,::ffff:100:77ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:7800,::ffff:100:78ff,AS,JP,Japan,Shimane,Matsue,690-0846,Asia/Tokyo,0,35.467,133.05,4
-::ffff:100:7900,::ffff:100:79ff,AS,JP,Japan,Shimane,Izumo,693-0017,Asia/Tokyo,0,35.367,132.767,4
-::ffff:100:7a00,::ffff:100:7bff,AS,JP,Japan,Tottori,Kurayoshi,682-0874,Asia/Tokyo,0,35.433,133.817,4
-::ffff:100:7c00,::ffff:100:7dff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:7e00,::ffff:100:7eff,AS,JP,Japan,Tottori,Tottori-shi,680-0056,Asia/Tokyo,0,35.50011,134.23284,4
-::ffff:100:7f00,::ffff:100:7fff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:100:8000,::ffff:100:80ff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,4
-::ffff:100:8100,::ffff:100:83ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:8400,::ffff:100:84ff,AS,TH,Thailand,Saraburi,Phra Phutthabat,18120,Asia/Jakarta,0,14.72526,100.79536,4
-::ffff:100:8500,::ffff:100:87ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:8800,::ffff:100:88ff,AS,TH,Thailand,Prachuap Khiri Khan,Bang Saphan,77140,Asia/Jakarta,0,11.21259,99.51167,4
-::ffff:100:8900,::ffff:100:89ff,AS,TH,Thailand,Surat Thani,Ko Samui,84140,Asia/Jakarta,0,9.53567,99.93567,4
-::ffff:100:8a00,::ffff:100:8aff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,4
-::ffff:100:8b00,::ffff:100:8bff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:8c00,::ffff:100:8cff,AS,TH,Thailand,Nakhon Sawan,Phai Sali,60220,Asia/Jakarta,0,15.59764,100.65853,4
-::ffff:100:8d00,::ffff:100:8dff,AS,TH,Thailand,Rayong,Klaeng,21110,Asia/Jakarta,0,12.77972,101.64831,4
-::ffff:100:8e00,::ffff:100:8fff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:9000,::ffff:100:90ff,AS,TH,Thailand,Phang Nga,Thai Mueang,82120,Asia/Jakarta,0,8.39914,98.26061,4
-::ffff:100:9100,::ffff:100:91ff,AS,TH,Thailand,Phang Nga,Khura Buri,82150,Asia/Jakarta,0,9.19397,98.41514,4
-::ffff:100:9200,::ffff:100:92ff,AS,TH,Thailand,Ranong province,Ranong,85000,Asia/Jakarta,0,9.96583,98.63476,4
-::ffff:100:9300,::ffff:100:93ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,4
-::ffff:100:9400,::ffff:100:94ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Yai,80240,Asia/Jakarta,0,8.30119,99.3661,4
-::ffff:100:9500,::ffff:100:95ff,AS,TH,Thailand,Nakhon Si Thammarat,Pak Phanang,80140,Asia/Jakarta,0,8.35109,100.20195,4
-::ffff:100:9600,::ffff:100:96ff,AS,TH,Thailand,Chumphon,Chumphon,86140,Asia/Jakarta,0,10.5,99.16667,4
-::ffff:100:9700,::ffff:100:97ff,AS,TH,Thailand,Nakhon Si Thammarat,Tha Sala,80160,Asia/Jakarta,0,8.61667,99.88333,4
-::ffff:100:9800,::ffff:100:98ff,AS,TH,Thailand,Phang Nga,Phang Nga,82130,Asia/Jakarta,0,8.4509,98.52985,4
-::ffff:100:9900,::ffff:100:99ff,AS,TH,Thailand,Nakhon Si Thammarat,Na Bon,80220,Asia/Jakarta,0,8.26167,99.59472,4
-::ffff:100:9a00,::ffff:100:9aff,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,80230,Asia/Jakarta,0,8.43333,99.96667,4
-::ffff:100:9b00,::ffff:100:9bff,AS,TH,Thailand,Nakhon Si Thammarat,Tha Sala,80160,Asia/Jakarta,0,8.66733,99.93078,4
-::ffff:100:9c00,::ffff:100:9cff,AS,TH,Thailand,Nakhon Si Thammarat,Lan Saka,80230,Asia/Jakarta,0,8.37097,99.80564,4
-::ffff:100:9d00,::ffff:100:9dff,AS,TH,Thailand,Phang Nga,Khura Buri,82150,Asia/Jakarta,0,9.19397,98.41514,4
-::ffff:100:9e00,::ffff:100:9eff,AS,TH,Thailand,Chumphon,Tha Sae,86140,Asia/Jakarta,0,10.66461,99.17281,4
-::ffff:100:9f00,::ffff:100:9fff,AS,TH,Thailand,Phang Nga,Phang Nga,82130,Asia/Jakarta,0,8.4509,98.52985,4
-::ffff:100:a000,::ffff:100:a1ff,AS,TH,Thailand,Krabi,Plai Phraya,81160,Asia/Jakarta,0,8.53278,98.8637,4
-::ffff:100:a200,::ffff:100:a2ff,AS,TH,Thailand,Satun,Khuan Kalong,91130,Asia/Jakarta,0,6.84538,100.07148,4
-::ffff:100:a300,::ffff:100:a3ff,AS,TH,Thailand,Krabi,Plai Phraya,81160,Asia/Jakarta,0,8.53278,98.8637,4
-::ffff:100:a400,::ffff:100:a4ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:a500,::ffff:100:a5ff,AS,TH,Thailand,Songkhla,Songkhla,90120,Asia/Jakarta,0,7.19882,100.5951,4
-::ffff:100:a600,::ffff:100:a6ff,AS,TH,Thailand,Surat Thani,Ko Pha Ngan,84280,Asia/Jakarta,0,9.71945,99.99511,4
-::ffff:100:a700,::ffff:100:a7ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,4
-::ffff:100:a800,::ffff:100:a8ff,AS,TH,Thailand,Phetchaburi,Cha-am,76120,Asia/Jakarta,0,12.80013,99.96611,4
-::ffff:100:a900,::ffff:100:a9ff,AS,TH,Thailand,Kanchanaburi,Tha Maka,71120,Asia/Jakarta,0,13.92081,99.76553,4
-::ffff:100:aa00,::ffff:100:abff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:ac00,::ffff:100:acff,AS,TH,Thailand,Surat Thani,Surat Thani,84150,Asia/Jakarta,0,9.14011,99.33311,4
-::ffff:100:ad00,::ffff:100:adff,AS,TH,Thailand,Trang,Kantang,92110,Asia/Jakarta,0,7.40542,99.51561,4
-::ffff:100:ae00,::ffff:100:aeff,AS,TH,Thailand,Phuket,Thalang,83110,Asia/Jakarta,0,8.0317,98.33408,4
-::ffff:100:af00,::ffff:100:afff,AS,TH,Thailand,Phang Nga,Kapong,82000,Asia/Jakarta,0,8.69697,98.40914,4
-::ffff:100:b000,::ffff:100:c5ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:c600,::ffff:100:c6ff,AS,TH,Thailand,Surat Thani,Ko Samui,84140,Asia/Jakarta,0,9.53567,99.93567,4
-::ffff:100:c700,::ffff:100:c9ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:ca00,::ffff:100:caff,AS,TH,Thailand,Chumphon,Thung Tako,86220,Asia/Jakarta,0,10.11022,99.08306,4
-::ffff:100:cb00,::ffff:100:cbff,AS,TH,Thailand,Ranong province,Kapoe,85120,Asia/Jakarta,0,9.58522,98.59611,4
-::ffff:100:cc00,::ffff:100:cfff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:d000,::ffff:100:d0ff,AS,TH,Thailand,Lampang,Lampang,52000,Asia/Jakarta,0,18.29232,99.49277,4
-::ffff:100:d100,::ffff:100:d1ff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,,Asia/Jakarta,0,19.30029,97.96852,4
-::ffff:100:d200,::ffff:100:d2ff,AS,TH,Thailand,Suphan Buri,Song Phi Nong,72110,Asia/Jakarta,0,14.22408,100.02094,4
-::ffff:100:d300,::ffff:100:d3ff,AS,TH,Thailand,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,13120,Asia/Jakarta,0,14.35167,100.57739,4
-::ffff:100:d400,::ffff:100:d4ff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,,Asia/Jakarta,0,19.30029,97.96852,4
-::ffff:100:d500,::ffff:100:d5ff,AS,TH,Thailand,Chiang Rai,Thoeng,57160,Asia/Jakarta,0,19.68508,100.19456,4
-::ffff:100:d600,::ffff:100:d6ff,AS,TH,Thailand,Yala,Yala,95000,Asia/Jakarta,0,6.53995,101.28128,4
-::ffff:100:d700,::ffff:100:d7ff,AS,TH,Thailand,Yasothon,Pa Tio,35150,Asia/Jakarta,0,15.83156,104.38644,4
-::ffff:100:d800,::ffff:100:d8ff,AS,TH,Thailand,Surat Thani,Ko Samui,84140,Asia/Jakarta,0,9.53567,99.93567,4
-::ffff:100:d900,::ffff:100:d9ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:da00,::ffff:100:daff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,4
-::ffff:100:db00,::ffff:100:dbff,AS,TH,Thailand,Phrae,Nong Muang Khai,54000,Asia/Jakarta,0,18.26397,100.18911,4
-::ffff:100:dc00,::ffff:100:dcff,AS,TH,Thailand,Trang,Kantang,92110,Asia/Jakarta,0,7.40542,99.51561,4
-::ffff:100:dd00,::ffff:100:e0ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:100:e100,::ffff:100:e1ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:100:e200,::ffff:100:e2ff,AS,TH,Thailand,Udon Thani,Ban Na Muang,41000,Asia/Jakarta,0,17.23824,103.00892,4
-::ffff:100:e300,::ffff:100:e3ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.41567,102.78589,4
-::ffff:100:e400,::ffff:100:e4ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:100:e500,::ffff:100:e5ff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,4
-::ffff:100:e600,::ffff:100:e6ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.41567,102.78589,4
-::ffff:100:e700,::ffff:100:e7ff,AS,TH,Thailand,Bueng Kan,Bueng Khong Long,43210,Asia/Jakarta,0,17.9439,104.048,4
-::ffff:100:e800,::ffff:100:e8ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:100:e900,::ffff:100:e9ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,4
-::ffff:100:ea00,::ffff:100:eaff,AS,TH,Thailand,Sakon Nakhon,Sawang Daen Din,47110,Asia/Jakarta,0,17.47531,103.45753,4
-::ffff:100:eb00,::ffff:100:ebff,AS,TH,Thailand,Loei,Dan Sai,42120,Asia/Jakarta,0,17.28011,101.14686,4
-::ffff:100:ec00,::ffff:100:ecff,AS,TH,Thailand,Khon Kaen,Nam Phong,40140,Asia/Jakarta,0,16.70228,102.8557,4
-::ffff:100:ed00,::ffff:100:edff,AS,TH,Thailand,Nong Bua Lamphu,Na Wang,39170,Asia/Jakarta,0,17.32444,102.0783,4
-::ffff:100:ee00,::ffff:100:eeff,AS,TH,Thailand,Udon Thani,Kut Chap,,Asia/Jakarta,0,17.4257,102.56692,4
-::ffff:100:ef00,::ffff:100:efff,AS,TH,Thailand,Mukdahan,Nikhom Kham Soi,49130,Asia/Jakarta,0,16.37167,104.55147,4
-::ffff:100:f000,::ffff:100:f0ff,AS,TH,Thailand,Krabi,Ban Ao Nang,81130,Asia/Jakarta,0,8.0458,98.81035,4
-::ffff:100:f100,::ffff:100:f1ff,AS,TH,Thailand,Chumphon,Chumphon,86140,Asia/Jakarta,0,10.5,99.16667,4
-::ffff:100:f200,::ffff:100:f2ff,AS,TH,Thailand,Nakhon Si Thammarat,Ron Phibun,80130,Asia/Jakarta,0,8.17911,99.85425,4
-::ffff:100:f300,::ffff:100:f3ff,AS,TH,Thailand,Phang Nga,Phang Nga,82130,Asia/Jakarta,0,8.4509,98.52985,4
-::ffff:100:f400,::ffff:100:f4ff,AS,TH,Thailand,Nakhon Si Thammarat,Cha-uat,80180,Asia/Jakarta,0,7.96773,99.99985,4
-::ffff:100:f500,::ffff:100:f5ff,AS,TH,Thailand,Chumphon,Sawi,86130,Asia/Jakarta,0,10.23683,99.10958,4
-::ffff:100:f600,::ffff:100:f6ff,AS,TH,Thailand,Nakhon Si Thammarat,Lan Saka,80230,Asia/Jakarta,0,8.37097,99.80564,4
-::ffff:100:f700,::ffff:100:f7ff,AS,TH,Thailand,Phang Nga,Takua Pa,82110,Asia/Jakarta,0,8.8705,98.34383,4
-::ffff:100:f800,::ffff:100:f9ff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,4
-::ffff:100:fa00,::ffff:100:faff,AS,TH,Thailand,Songkhla,Khuan Niang,90110,Asia/Jakarta,0,7.19138,100.35355,4
-::ffff:100:fb00,::ffff:100:fbff,AS,TH,Thailand,Songkhla,Rattaphum,90110,Asia/Jakarta,0,7.13478,100.25647,4
-::ffff:100:fc00,::ffff:100:fdff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,4
-::ffff:100:fe00,::ffff:100:feff,AS,TH,Thailand,Narathiwat,Waeng,96160,Asia/Jakarta,0,5.928,101.88382,4
-::ffff:100:ff00,::ffff:100:ffff,AS,TH,Thailand,Yala,Yala,95000,Asia/Jakarta,0,6.53995,101.28128,4
-::ffff:101:0,::ffff:101:ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,4
-::ffff:101:100,::ffff:101:1ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,4
-::ffff:101:200,::ffff:101:7ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,4
-::ffff:101:800,::ffff:101:8ff,AS,CN,China,Shanghai,Shanghai,202400,Asia/Shanghai,0,31.22433,121.46895,4
-::ffff:101:900,::ffff:101:3fff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,4
-::ffff:101:4000,::ffff:101:7fff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:101:8000,::ffff:101:80ff,AS,TH,Thailand,Bueng Kan,So Phisai,43170,Asia/Jakarta,0,18.2151,103.482,4
-::ffff:101:8100,::ffff:101:81ff,AS,TH,Thailand,Sakon Nakhon,Phang Khon,47160,Asia/Jakarta,0,17.3905,103.71692,4
-::ffff:101:8200,::ffff:101:82ff,AS,TH,Thailand,Sakon Nakhon,Warichaphum,47150,Asia/Jakarta,0,17.29409,103.63816,4
-::ffff:101:8300,::ffff:101:83ff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,4
-::ffff:101:8400,::ffff:101:84ff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,4
-::ffff:101:8500,::ffff:101:85ff,AS,TH,Thailand,Nong Khai,Sangkhom,43130,Asia/Jakarta,0,18.06389,102.27364,4
-::ffff:101:8600,::ffff:101:86ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,4
-::ffff:101:8700,::ffff:101:87ff,AS,TH,Thailand,Roi Et,Nong Hi,45140,Asia/Jakarta,0,15.61117,103.99484,4
-::ffff:101:8800,::ffff:101:88ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:8900,::ffff:101:89ff,AS,TH,Thailand,Nong Khai,Pakkhat,43190,Asia/Jakarta,0,18.2987,103.314,4
-::ffff:101:8a00,::ffff:101:8bff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:8c00,::ffff:101:8cff,AS,TH,Thailand,Narathiwat,Rueso,96150,Asia/Jakarta,0,6.39364,101.51847,4
-::ffff:101:8d00,::ffff:101:8dff,AS,TH,Thailand,Chon Buri,Sattahip,20180,Asia/Jakarta,0,12.66644,100.90073,4
-::ffff:101:8e00,::ffff:101:93ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:9400,::ffff:101:94ff,AS,TH,Thailand,Songkhla,Hat Yai,90110,Asia/Jakarta,0,7.00836,100.47668,4
-::ffff:101:9500,::ffff:101:97ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:9800,::ffff:101:98ff,AS,TH,Thailand,Chumphon,Chumphon,86140,Asia/Jakarta,0,10.5,99.16667,4
-::ffff:101:9900,::ffff:101:99ff,AS,TH,Thailand,Nakhon Si Thammarat,Cha-uat,80180,Asia/Jakarta,0,7.96773,99.99985,4
-::ffff:101:9a00,::ffff:101:9aff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Yai,80240,Asia/Jakarta,0,8.30119,99.3661,4
-::ffff:101:9b00,::ffff:101:9bff,AS,TH,Thailand,Nakhon Si Thammarat,Chaloem Phra Kiat,80190,Asia/Jakarta,0,8.17689,100.03581,4
-::ffff:101:9c00,::ffff:101:9cff,AS,TH,Thailand,Chumphon,Thung Tako,86220,Asia/Jakarta,0,10.11022,99.08306,4
-::ffff:101:9d00,::ffff:101:9dff,AS,TH,Thailand,Phang Nga,Kapong,82000,Asia/Jakarta,0,8.69697,98.40914,4
-::ffff:101:9e00,::ffff:101:9eff,AS,TH,Thailand,Chumphon,Thung Tako,86220,Asia/Jakarta,0,10.11022,99.08306,4
-::ffff:101:9f00,::ffff:101:9fff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,4
-::ffff:101:a000,::ffff:101:a0ff,AS,TH,Thailand,Lamphun,Thung Hua Chang,51160,Asia/Jakarta,0,18,99.03333,4
-::ffff:101:a100,::ffff:101:a1ff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,,Asia/Jakarta,0,19.30029,97.96852,4
-::ffff:101:a200,::ffff:101:a2ff,AS,TH,Thailand,Phrae,Nong Muang Khai,54000,Asia/Jakarta,0,18.26397,100.18911,4
-::ffff:101:a300,::ffff:101:a3ff,AS,TH,Thailand,Chiang Rai,Chiang Rai,57000,Asia/Jakarta,0,19.90858,99.8325,4
-::ffff:101:a400,::ffff:101:a4ff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,,Asia/Jakarta,0,19.30029,97.96852,4
-::ffff:101:a500,::ffff:101:a5ff,AS,TH,Thailand,Chiang Mai,Chiang Dao,50170,Asia/Jakarta,0,19.36542,98.96453,4
-::ffff:101:a600,::ffff:101:a6ff,AS,TH,Thailand,Phayao,Dok Kham Tai,56000,Asia/Jakarta,0,19.16242,99.99342,4
-::ffff:101:a700,::ffff:101:a7ff,AS,TH,Thailand,Phayao,Chiang Kham,56110,Asia/Jakarta,0,19.52331,100.3,4
-::ffff:101:a800,::ffff:101:a9ff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79069,98.98468,4
-::ffff:101:aa00,::ffff:101:aaff,AS,TH,Thailand,Chiang Mai,Mae Chaem,50270,Asia/Jakarta,0,18.49926,98.36494,4
-::ffff:101:ab00,::ffff:101:acff,AS,TH,Thailand,Chiang Rai,Chiang Saen,57110,Asia/Jakarta,0,20.27511,100.08689,4
-::ffff:101:ad00,::ffff:101:adff,AS,TH,Thailand,Chiang Mai,Chiang Mai,50000,Asia/Jakarta,0,18.79069,98.98468,4
-::ffff:101:ae00,::ffff:101:aeff,AS,TH,Thailand,Mae Hong Son,Mae Hong Son,,Asia/Jakarta,0,19.30029,97.96852,4
-::ffff:101:af00,::ffff:101:afff,AS,TH,Thailand,Chiang Mai,Mae Taeng,50150,Asia/Jakarta,0,19.11712,98.94176,4
-::ffff:101:b000,::ffff:101:b2ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:b300,::ffff:101:b3ff,AS,TH,Thailand,Bangkok,Din Daeng,10800,Asia/Jakarta,0,13.79037,100.57013,4
-::ffff:101:b400,::ffff:101:b5ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:b600,::ffff:101:b6ff,AS,TH,Thailand,Ubon Ratchathani,Ubon Ratchathani,34000,Asia/Jakarta,0,15.22483,104.85289,4
-::ffff:101:b700,::ffff:101:b7ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:b800,::ffff:101:b8ff,AS,TH,Thailand,Nong Khai,Fao Rai,43120,Asia/Jakarta,0,18.01792,103.30388,4
-::ffff:101:b900,::ffff:101:b9ff,AS,TH,Thailand,Khon Kaen,Chum Phae,40130,Asia/Jakarta,0,16.5443,102.09924,4
-::ffff:101:ba00,::ffff:101:baff,AS,TH,Thailand,Nong Khai,Rattanawapi,43190,Asia/Jakarta,0,18.21365,103.17967,4
-::ffff:101:bb00,::ffff:101:bbff,AS,TH,Thailand,Sakon Nakhon,Phanna Nikhom,47130,Asia/Jakarta,0,17.35245,103.85032,4
-::ffff:101:bc00,::ffff:101:bcff,AS,TH,Thailand,Satun,La-ngu,91110,Asia/Jakarta,0,6.88492,99.78836,4
-::ffff:101:bd00,::ffff:101:bdff,AS,TH,Thailand,Phang Nga,Ban Phru Nai,83110,Asia/Jakarta,0,7.93333,98.58333,4
-::ffff:101:be00,::ffff:101:beff,AS,TH,Thailand,Maha Sarakham,Chuen Chom,46170,Asia/Jakarta,0,16.55488,103.17661,4
-::ffff:101:bf00,::ffff:101:bfff,AS,TH,Thailand,Roi Et,At Samat,45160,Asia/Jakarta,0,15.84308,103.87839,4
-::ffff:101:c000,::ffff:101:c0ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:c100,::ffff:101:c1ff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,4
-::ffff:101:c200,::ffff:101:c2ff,AS,TH,Thailand,Nong Khai,Pakkhat,43190,Asia/Jakarta,0,18.1963,103.351,4
-::ffff:101:c300,::ffff:101:c3ff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,4
-::ffff:101:c400,::ffff:101:c4ff,AS,TH,Thailand,Loei,Wang Saphung,42130,Asia/Jakarta,0,17.30097,101.7685,4
-::ffff:101:c500,::ffff:101:c5ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,4
-::ffff:101:c600,::ffff:101:c6ff,AS,TH,Thailand,Sakon Nakhon,Nikhom Nam Un,47270,Asia/Jakarta,0,17.18314,103.71842,4
-::ffff:101:c700,::ffff:101:c7ff,AS,TH,Thailand,Roi Et,Pathum Rat,45190,Asia/Jakarta,0,15.6345,103.34325,4
-::ffff:101:c800,::ffff:101:c8ff,AS,TH,Thailand,Sakon Nakhon,Akat Amnuai,48180,Asia/Jakarta,0,17.59639,103.9816,4
-::ffff:101:c900,::ffff:101:c9ff,AS,TH,Thailand,Sakon Nakhon,Phanna Nikhom,47130,Asia/Jakarta,0,17.35245,103.85032,4
-::ffff:101:ca00,::ffff:101:caff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,4
-::ffff:101:cb00,::ffff:101:cbff,AS,TH,Thailand,Loei,Phu Luang,42230,Asia/Jakarta,0,17.1392,101.66392,4
-::ffff:101:cc00,::ffff:101:ccff,AS,TH,Thailand,Mukdahan,Don Tan,49120,Asia/Jakarta,0,16.31697,104.92,4
-::ffff:101:cd00,::ffff:101:cdff,AS,TH,Thailand,Udon Thani,Si That,46190,Asia/Jakarta,0,16.97361,103.21644,4
-::ffff:101:ce00,::ffff:101:ceff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,4
-::ffff:101:cf00,::ffff:101:cfff,AS,TH,Thailand,Udon Thani,Nong Wua So,39000,Asia/Jakarta,0,17.16261,102.57272,4
-::ffff:101:d000,::ffff:101:d0ff,AS,TH,Thailand,Loei,Wang Saphung,42130,Asia/Jakarta,0,17.30097,101.7685,4
-::ffff:101:d100,::ffff:101:d1ff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,4
-::ffff:101:d200,::ffff:101:d2ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,4
-::ffff:101:d300,::ffff:101:d3ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,4
-::ffff:101:d400,::ffff:101:d4ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,4
-::ffff:101:d500,::ffff:101:d5ff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,4
-::ffff:101:d600,::ffff:101:d7ff,AS,TH,Thailand,Loei,Dan Sai,42120,Asia/Jakarta,0,17.28011,101.14686,4
-::ffff:101:d800,::ffff:101:dbff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:dc00,::ffff:101:dcff,AS,TH,Thailand,Nan,Nan,55000,Asia/Jakarta,0,18.79292,100.72972,4
-::ffff:101:dd00,::ffff:101:ddff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:de00,::ffff:101:deff,AS,TH,Thailand,Ubon Ratchathani,Phibun Mangsahan,34110,Asia/Jakarta,0,15.24467,105.22908,4
-::ffff:101:df00,::ffff:101:dfff,AS,TH,Thailand,Phra Nakhon Si Ayutthaya,Lat Bua Luang,13230,Asia/Jakarta,0,14.16572,100.30789,4
-::ffff:101:e000,::ffff:101:e0ff,AS,TH,Thailand,Maha Sarakham,Maha Sarakham,44150,Asia/Jakarta,0,16.18483,103.30067,4
-::ffff:101:e100,::ffff:101:e1ff,AS,TH,Thailand,Nakhon Ratchasima,Chok Chai,30190,Asia/Jakarta,0,14.72844,102.16524,4
-::ffff:101:e200,::ffff:101:e2ff,AS,TH,Thailand,Nakhon Ratchasima,Phimai,30110,Asia/Jakarta,0,15.22324,102.49472,4
-::ffff:101:e300,::ffff:101:e3ff,AS,TH,Thailand,Si Sa Ket,Uthumphon Phisai,33120,Asia/Jakarta,0,15.11161,104.14011,4
-::ffff:101:e400,::ffff:101:e4ff,AS,TH,Thailand,Nakhon Ratchasima,Phra Thong Kham,30220,Asia/Jakarta,0,15.26686,102.02024,4
-::ffff:101:e500,::ffff:101:e5ff,AS,TH,Thailand,Maha Sarakham,Kosum Phisai,44140,Asia/Jakarta,0,16.24858,103.06739,4
-::ffff:101:e600,::ffff:101:e7ff,AS,TH,Thailand,Nakhon Ratchasima,Pak Thong Chai,30150,Asia/Jakarta,0,14.7226,102.02512,4
-::ffff:101:e800,::ffff:101:e8ff,AS,TH,Thailand,Sakon Nakhon,Kusuman,47210,Asia/Jakarta,0,17.33259,104.33147,4
-::ffff:101:e900,::ffff:101:e9ff,AS,TH,Thailand,Loei,Wang Saphung,42130,Asia/Jakarta,0,17.30097,101.7685,4
-::ffff:101:ea00,::ffff:101:eaff,AS,TH,Thailand,Nakhon Phanom,Si Songkhram,48150,Asia/Jakarta,0,17.62745,104.2507,4
-::ffff:101:eb00,::ffff:101:ebff,AS,TH,Thailand,Loei,Wang Saphung,42130,Asia/Jakarta,0,17.30097,101.7685,4
-::ffff:101:ec00,::ffff:101:ecff,AS,TH,Thailand,Udon Thani,Non Sa-at,40280,Asia/Jakarta,0,16.97914,102.8937,4
-::ffff:101:ed00,::ffff:101:edff,AS,TH,Thailand,Nong Bua Lamphu,Nong Bua Lamphu,39000,Asia/Jakarta,0,17.20406,102.44068,4
-::ffff:101:ee00,::ffff:101:eeff,AS,TH,Thailand,Loei,Pak Chom,42150,Asia/Jakarta,0,18.02061,101.89828,4
-::ffff:101:ef00,::ffff:101:efff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,4
-::ffff:101:f000,::ffff:101:f0ff,AS,TH,Thailand,Surin,Rattanaburi,33220,Asia/Jakarta,0,15.31788,103.84859,4
-::ffff:101:f100,::ffff:101:f1ff,AS,TH,Thailand,Si Sa Ket,Kanthararom,33130,Asia/Jakarta,0,15.10323,104.57343,4
-::ffff:101:f200,::ffff:101:f2ff,AS,TH,Thailand,Buriram,Nang Rong,31110,Asia/Jakarta,0,14.6377,102.79138,4
-::ffff:101:f300,::ffff:101:f3ff,AS,TH,Thailand,Surin,Rattanaburi,33220,Asia/Jakarta,0,15.31788,103.84859,4
-::ffff:101:f400,::ffff:101:f4ff,AS,TH,Thailand,Maha Sarakham,Kantharawichai,44150,Asia/Jakarta,0,16.32719,103.29864,4
-::ffff:101:f500,::ffff:101:f5ff,AS,TH,Thailand,Surin,Rattanaburi,33220,Asia/Jakarta,0,15.31788,103.84859,4
-::ffff:101:f600,::ffff:101:f6ff,AS,TH,Thailand,Maha Sarakham,Kantharawichai,44150,Asia/Jakarta,0,16.32719,103.29864,4
-::ffff:101:f700,::ffff:101:f7ff,AS,TH,Thailand,Si Sa Ket,Kantharalak,33110,Asia/Jakarta,0,14.64056,104.64992,4
-::ffff:101:f800,::ffff:101:f8ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:101:f900,::ffff:101:f9ff,AS,TH,Thailand,Tak,Mae Sot,63110,Asia/Jakarta,0,16.71667,98.56667,4
-::ffff:101:fa00,::ffff:101:faff,AS,TH,Thailand,Nong Bua Lamphu,Si Bun Rueang,39180,Asia/Jakarta,0,16.96705,102.27607,4
-::ffff:101:fb00,::ffff:101:fbff,AS,TH,Thailand,Surin,Rattanaburi,33220,Asia/Jakarta,0,15.31788,103.84859,4
-::ffff:101:fc00,::ffff:101:fcff,AS,TH,Thailand,Surin,Chom Phra,,Asia/Jakarta,0,15.11814,103.60743,4
-::ffff:101:fd00,::ffff:101:ffff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:0,::ffff:102:1ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,4
-::ffff:102:200,::ffff:102:2ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.3971,4
-::ffff:102:300,::ffff:102:3ff,EU,UA,Ukraine,Kyiv City,Kyiv,03027,Europe/Kyiv,1,50.45466,30.5238,4
-::ffff:102:400,::ffff:102:4ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.3971,4
-::ffff:102:500,::ffff:102:7ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,4
-::ffff:102:800,::ffff:102:8ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.3971,4
-::ffff:102:900,::ffff:102:7fff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,4
-::ffff:102:8000,::ffff:102:80ff,AS,TH,Thailand,Nakhon Phanom,That Phanom,48110,Asia/Jakarta,0,16.93636,104.71039,4
-::ffff:102:8100,::ffff:102:82ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:102:8300,::ffff:102:83ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,4
-::ffff:102:8400,::ffff:102:84ff,AS,TH,Thailand,Bueng Kan,Phon Charoen,47250,Asia/Jakarta,0,18.0375,103.715,4
-::ffff:102:8500,::ffff:102:86ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:102:8700,::ffff:102:88ff,AS,TH,Thailand,Loei,Phu Ruea,42160,Asia/Jakarta,0,17.4538,101.36231,4
-::ffff:102:8900,::ffff:102:89ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.41567,102.78589,4
-::ffff:102:8a00,::ffff:102:8aff,AS,TH,Thailand,Loei,Phu Luang,42230,Asia/Jakarta,0,17.1392,101.66392,4
-::ffff:102:8b00,::ffff:102:8bff,AS,TH,Thailand,Sakon Nakhon,Akat Amnuai,48180,Asia/Jakarta,0,17.59639,103.9816,4
-::ffff:102:8c00,::ffff:102:90ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:102:9100,::ffff:102:91ff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,4
-::ffff:102:9200,::ffff:102:92ff,AS,TH,Thailand,Udon Thani,Ban Phue,43110,Asia/Jakarta,0,17.68742,102.47256,4
-::ffff:102:9300,::ffff:102:93ff,AS,TH,Thailand,Udon Thani,Kumphawapi,41000,Asia/Jakarta,0,17.10875,103.01487,4
-::ffff:102:9400,::ffff:102:95ff,AS,TH,Thailand,Udon Thani,Udon Thani,,Asia/Jakarta,0,17.41567,102.78589,4
-::ffff:102:9600,::ffff:102:96ff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,4
-::ffff:102:9700,::ffff:102:97ff,AS,TH,Thailand,Sakon Nakhon,Phang Khon,47160,Asia/Jakarta,0,17.3905,103.71692,4
-::ffff:102:9800,::ffff:102:98ff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,4
-::ffff:102:9900,::ffff:102:99ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:102:9a00,::ffff:102:9aff,AS,TH,Thailand,Nong Bua Lamphu,Na Wang,39170,Asia/Jakarta,0,17.32444,102.0783,4
-::ffff:102:9b00,::ffff:102:9cff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:102:9d00,::ffff:102:9dff,AS,TH,Thailand,Loei,Phu Ruea,42160,Asia/Jakarta,0,17.4538,101.36231,4
-::ffff:102:9e00,::ffff:102:9eff,AS,TH,Thailand,Nakhon Phanom,Si Songkhram,48150,Asia/Jakarta,0,17.62745,104.2507,4
-::ffff:102:9f00,::ffff:102:9fff,AS,TH,Thailand,Nong Bua Lamphu,Na Wang,39170,Asia/Jakarta,0,17.32444,102.0783,4
-::ffff:102:a000,::ffff:102:a0ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:a100,::ffff:102:a1ff,AS,TH,Thailand,Udon Thani,Ban Dung,,Asia/Jakarta,0,17.699,103.25957,4
-::ffff:102:a200,::ffff:102:a3ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:a400,::ffff:102:a4ff,AS,TH,Thailand,Uthai Thani,Nong Chang,61110,Asia/Jakarta,0,15.39147,99.84147,4
-::ffff:102:a500,::ffff:102:a5ff,AS,TH,Thailand,Chai Nat,Sankhaburi,17140,Asia/Jakarta,0,15.04733,100.16178,4
-::ffff:102:a600,::ffff:102:a6ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:a700,::ffff:102:a7ff,AS,TH,Thailand,Pattani,Panare,94130,Asia/Jakarta,0,6.86192,101.49103,4
-::ffff:102:a800,::ffff:102:a8ff,AS,TH,Thailand,Surin,Chom Phra,,Asia/Jakarta,0,15.11814,103.60743,4
-::ffff:102:a900,::ffff:102:a9ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:aa00,::ffff:102:aaff,AS,TH,Thailand,Phitsanulok,Bang Krathum,65110,Asia/Jakarta,0,16.57831,100.30034,4
-::ffff:102:ab00,::ffff:102:abff,AS,TH,Thailand,Nakhon Pathom,Kamphaeng Saen,73130,Asia/Jakarta,0,13.9977,99.99215,4
-::ffff:102:ac00,::ffff:102:acff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:ad00,::ffff:102:adff,AS,TH,Thailand,Pattani,Panare,94130,Asia/Jakarta,0,6.86192,101.49103,4
-::ffff:102:ae00,::ffff:102:aeff,AS,TH,Thailand,Uthai Thani,Nong Chang,61110,Asia/Jakarta,0,15.39147,99.84147,4
-::ffff:102:af00,::ffff:102:afff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:b000,::ffff:102:b0ff,AS,TH,Thailand,Trat,Trat,23000,Asia/Jakarta,0,12.24364,102.51514,4
-::ffff:102:b100,::ffff:102:b1ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,4
-::ffff:102:b200,::ffff:102:b2ff,AS,TH,Thailand,Chai Nat,Sankhaburi,17140,Asia/Jakarta,0,15.04733,100.16178,4
-::ffff:102:b300,::ffff:102:b5ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:b600,::ffff:102:b6ff,AS,TH,Thailand,Krabi,Krabi,81130,Asia/Jakarta,0,8.07257,98.91052,4
-::ffff:102:b700,::ffff:102:b7ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:b800,::ffff:102:b8ff,AS,TH,Thailand,Nakhon Sawan,Banphot Phisai,60180,Asia/Jakarta,0,15.93094,99.9816,4
-::ffff:102:b900,::ffff:102:b9ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:ba00,::ffff:102:baff,AS,TH,Thailand,Narathiwat,Narathiwat,96130,Asia/Jakarta,0,6.42639,101.82308,4
-::ffff:102:bb00,::ffff:102:bbff,AS,TH,Thailand,Kanchanaburi,Tha Muang,71110,Asia/Jakarta,0,13.96118,99.64122,4
-::ffff:102:bc00,::ffff:102:bcff,AS,TH,Thailand,Lopburi,Lop Buri,15000,Asia/Jakarta,0,14.79808,100.65397,4
-::ffff:102:bd00,::ffff:102:bdff,AS,TH,Thailand,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,13120,Asia/Jakarta,0,14.35167,100.57739,4
-::ffff:102:be00,::ffff:102:beff,AS,TH,Thailand,Yala,Than To,95150,Asia/Jakarta,0,6.16739,101.18008,4
-::ffff:102:bf00,::ffff:102:c1ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:c200,::ffff:102:c3ff,AS,TH,Thailand,Nakhon Sawan,Nakhon Sawan,60000,Asia/Jakarta,0,15.70472,100.13717,4
-::ffff:102:c400,::ffff:102:c4ff,AS,TH,Thailand,Uthai Thani,Lan Sak,61160,Asia/Jakarta,0,15.45289,99.57606,4
-::ffff:102:c500,::ffff:102:c5ff,AS,TH,Thailand,Nakhon Sawan,Nakhon Sawan,60000,Asia/Jakarta,0,15.70472,100.13717,4
-::ffff:102:c600,::ffff:102:c6ff,AS,TH,Thailand,Phichit,Phichit,66000,Asia/Jakarta,0,16.44184,100.34879,4
-::ffff:102:c700,::ffff:102:c7ff,AS,TH,Thailand,Phetchabun,Lom Sak,67110,Asia/Jakarta,0,16.77983,101.24225,4
-::ffff:102:c800,::ffff:102:c8ff,AS,TH,Thailand,Uthai Thani,Ban Rai,61170,Asia/Jakarta,0,15.08417,99.52108,4
-::ffff:102:c900,::ffff:102:c9ff,AS,TH,Thailand,Nakhon Sawan,Nakhon Sawan,60000,Asia/Jakarta,0,15.70472,100.13717,4
-::ffff:102:ca00,::ffff:102:caff,AS,TH,Thailand,Nakhon Sawan,Takhli,17150,Asia/Jakarta,0,15.26336,100.34378,4
-::ffff:102:cb00,::ffff:102:cbff,AS,TH,Thailand,Nakhon Sawan,Nakhon Sawan,60000,Asia/Jakarta,0,15.70472,100.13717,4
-::ffff:102:cc00,::ffff:102:ccff,AS,TH,Thailand,Phitsanulok,Phitsanulok,65000,Asia/Jakarta,0,16.82481,100.25858,4
-::ffff:102:cd00,::ffff:102:cdff,AS,TH,Thailand,Uthai Thani,Lan Sak,61160,Asia/Jakarta,0,15.45289,99.57606,4
-::ffff:102:ce00,::ffff:102:ceff,AS,TH,Thailand,Phetchabun,Phetchabun,67000,Asia/Jakarta,0,16.41904,101.16056,4
-::ffff:102:cf00,::ffff:102:cfff,AS,TH,Thailand,Chai Nat,Chai Nat,17000,Asia/Jakarta,0,15.18636,100.12353,4
-::ffff:102:d000,::ffff:102:d4ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:d500,::ffff:102:d6ff,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,4
-::ffff:102:d700,::ffff:102:d7ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:d800,::ffff:102:d8ff,AS,TH,Thailand,Samut Prakan,Bang Bo District,10560,Asia/Jakarta,0,13.58333,100.81667,4
-::ffff:102:d900,::ffff:102:daff,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,4
-::ffff:102:db00,::ffff:102:dcff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:dd00,::ffff:102:ddff,AS,TH,Thailand,Samut Prakan,Phra Pradaeng,10130,Asia/Jakarta,0,13.65831,100.53348,4
-::ffff:102:de00,::ffff:102:deff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:df00,::ffff:102:dfff,AS,TH,Thailand,Samut Prakan,Phra Pradaeng,10130,Asia/Jakarta,0,13.65831,100.53348,4
-::ffff:102:e000,::ffff:102:e0ff,AS,TH,Thailand,Maha Sarakham,Kantharawichai,44150,Asia/Jakarta,0,16.32719,103.29864,4
-::ffff:102:e100,::ffff:102:e3ff,AS,TH,Thailand,Surin,Rattanaburi,33220,Asia/Jakarta,0,15.31788,103.84859,4
-::ffff:102:e400,::ffff:102:e4ff,AS,TH,Thailand,Maha Sarakham,Kantharawichai,44150,Asia/Jakarta,0,16.32719,103.29864,4
-::ffff:102:e500,::ffff:102:e5ff,AS,TH,Thailand,Surin,Prasat,,Asia/Jakarta,0,14.64039,103.40447,4
-::ffff:102:e600,::ffff:102:e6ff,AS,TH,Thailand,Surin,Rattanaburi,33220,Asia/Jakarta,0,15.31788,103.84859,4
-::ffff:102:e700,::ffff:102:e7ff,AS,TH,Thailand,Si Sa Ket,Si Sa Ket,33000,Asia/Jakarta,0,15.11481,104.32938,4
-::ffff:102:e800,::ffff:102:e8ff,AS,TH,Thailand,Nakhon Si Thammarat,Phra Phrom,80230,Asia/Jakarta,0,8.33911,99.90092,4
-::ffff:102:e900,::ffff:102:e9ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,4
-::ffff:102:ea00,::ffff:102:eaff,AS,TH,Thailand,Phang Nga,Phang Nga,82130,Asia/Jakarta,0,8.4509,98.52985,4
-::ffff:102:eb00,::ffff:102:ebff,AS,TH,Thailand,Phang Nga,Khura Buri,82150,Asia/Jakarta,0,9.19397,98.41514,4
-::ffff:102:ec00,::ffff:102:edff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:ee00,::ffff:102:eeff,AS,TH,Thailand,Nakhon Si Thammarat,Pak Phanang,80140,Asia/Jakarta,0,8.35109,100.20195,4
-::ffff:102:ef00,::ffff:102:efff,AS,TH,Thailand,Lampang,Soem Ngam,52210,Asia/Jakarta,0,18.06506,99.24537,4
-::ffff:102:f000,::ffff:102:f0ff,AS,TH,Thailand,Kamphaeng Phet,Thung Sai,62000,Asia/Jakarta,0,16.31489,99.83267,4
-::ffff:102:f100,::ffff:102:f1ff,AS,TH,Thailand,Phitsanulok,Bang Rakam,65140,Asia/Jakarta,0,16.75847,100.11742,4
-::ffff:102:f200,::ffff:102:f2ff,AS,TH,Thailand,Kamphaeng Phet,Kamphaeng Phet,62110,Asia/Jakarta,0,16.48365,99.52164,4
-::ffff:102:f300,::ffff:102:f3ff,AS,TH,Thailand,Uttaradit,Tron,53140,Asia/Jakarta,0,17.48181,100.11281,4
-::ffff:102:f400,::ffff:102:f4ff,AS,TH,Thailand,Chai Nat,Manorom,17110,Asia/Jakarta,0,15.30997,100.08283,4
-::ffff:102:f500,::ffff:102:f5ff,AS,TH,Thailand,Phitsanulok,Wang Thong,65130,Asia/Jakarta,0,16.82458,100.42936,4
-::ffff:102:f600,::ffff:102:f6ff,AS,TH,Thailand,Uttaradit,Uttaradit,53140,Asia/Jakarta,0,17.62557,100.09421,4
-::ffff:102:f700,::ffff:102:f7ff,AS,TH,Thailand,Sukhothai,Si Samrong,64120,Asia/Jakarta,0,17.164,99.86222,4
-::ffff:102:f800,::ffff:102:f8ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:f900,::ffff:102:f9ff,AS,TH,Thailand,Chon Buri,Chon Buri,20160,Asia/Jakarta,0,13.3622,100.98345,4
-::ffff:102:fa00,::ffff:102:fbff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:102:fc00,::ffff:102:fcff,AS,TH,Thailand,Pathum Thani,Ban Lam Luk Ka,12150,Asia/Jakarta,0,13.97738,100.77776,4
-::ffff:102:fd00,::ffff:102:ffff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:103:0,::ffff:103:ffff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,4
-::ffff:104:0,::ffff:104:ff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,4
-::ffff:104:100,::ffff:104:3ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,4
-::ffff:104:400,::ffff:104:4ff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.3971,4
-::ffff:104:500,::ffff:104:7ff,AS,CN,China,Fujian,Fuzhou,350000,Asia/Shanghai,0,26.06139,119.30611,4
-::ffff:104:800,::ffff:104:7fff,AS,CN,China,Guangdong,Guangzhou,510000,Asia/Shanghai,0,23.12736,113.26457,4
-::ffff:104:8000,::ffff:104:80ff,AS,TH,Thailand,Nakhon Phanom,Ban Phaeng,48140,Asia/Jakarta,0,17.96507,104.21534,4
-::ffff:104:8100,::ffff:104:81ff,AS,TH,Thailand,Roi Et,Suwannaphum,45130,Asia/Jakarta,0,15.60348,103.80207,4
-::ffff:104:8200,::ffff:104:82ff,AS,TH,Thailand,Nong Khai,Sa Khrai,43110,Asia/Jakarta,0,17.67544,102.7507,4
-::ffff:104:8300,::ffff:104:83ff,AS,TH,Thailand,Udon Thani,Phibun Rak,,Asia/Jakarta,0,17.55312,103.05794,4
-::ffff:104:8400,::ffff:104:84ff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,4
-::ffff:104:8500,::ffff:104:85ff,AS,TH,Thailand,Khon Kaen,Nong Ruea,40210,Asia/Jakarta,0,16.49333,102.43339,4
-::ffff:104:8600,::ffff:104:86ff,AS,TH,Thailand,Nakhon Phanom,Na Wa,48180,Asia/Jakarta,0,17.4897,104.10056,4
-::ffff:104:8700,::ffff:104:87ff,AS,TH,Thailand,Nong Khai,Sangkhom,43130,Asia/Jakarta,0,18.06389,102.27364,4
-::ffff:104:8800,::ffff:104:88ff,AS,TH,Thailand,Sakon Nakhon,Warichaphum,47150,Asia/Jakarta,0,17.29409,103.63816,4
-::ffff:104:8900,::ffff:104:89ff,AS,TH,Thailand,Loei,Phu Luang,42230,Asia/Jakarta,0,17.1392,101.66392,4
-::ffff:104:8a00,::ffff:104:8aff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,4
-::ffff:104:8b00,::ffff:104:8bff,AS,TH,Thailand,Udon Thani,Si That,46190,Asia/Jakarta,0,16.97361,103.21644,4
-::ffff:104:8c00,::ffff:104:8fff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:9000,::ffff:104:90ff,AS,TH,Thailand,Pathum Thani,Lam Luk Ka,12150,Asia/Jakarta,0,13.93226,100.74937,4
-::ffff:104:9100,::ffff:104:91ff,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,4
-::ffff:104:9200,::ffff:104:92ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:9300,::ffff:104:93ff,AS,TH,Thailand,Pathum Thani,Ban Bang Kadi,12000,Asia/Jakarta,0,13.98333,100.61667,4
-::ffff:104:9400,::ffff:104:94ff,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,4
-::ffff:104:9500,::ffff:104:95ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:9600,::ffff:104:96ff,AS,TH,Thailand,Pathum Thani,Ban Bang Kadi,12160,Asia/Jakarta,0,13.99904,100.54962,4
-::ffff:104:9700,::ffff:104:97ff,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,4
-::ffff:104:9800,::ffff:104:98ff,AS,TH,Thailand,Sakon Nakhon,Akat Amnuai,48180,Asia/Jakarta,0,17.59639,103.9816,4
-::ffff:104:9900,::ffff:104:99ff,AS,TH,Thailand,Nong Khai,Nong Khai,43110,Asia/Jakarta,0,17.87847,102.742,4
-::ffff:104:9a00,::ffff:104:9aff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,4
-::ffff:104:9b00,::ffff:104:9bff,AS,TH,Thailand,Khon Kaen,Sam Sung,44160,Asia/Jakarta,0,16.5432,103.07992,4
-::ffff:104:9c00,::ffff:104:9cff,AS,TH,Thailand,Narathiwat,Narathiwat,96130,Asia/Jakarta,0,6.42639,101.82308,4
-::ffff:104:9d00,::ffff:104:9dff,AS,TH,Thailand,Rayong,Rayong,21000,Asia/Jakarta,0,12.68081,101.25769,4
-::ffff:104:9e00,::ffff:104:9eff,AS,TH,Thailand,Phayao,Phayao,56000,Asia/Jakarta,0,19.19203,99.87883,4
-::ffff:104:9f00,::ffff:104:9fff,AS,TH,Thailand,Pattani,Pattani,94170,Asia/Jakarta,0,6.86814,101.25009,4
-::ffff:104:a000,::ffff:104:a0ff,AS,TH,Thailand,Samut Prakan,Bang Bo District,10560,Asia/Jakarta,0,13.58333,100.81667,4
-::ffff:104:a100,::ffff:104:a1ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:a200,::ffff:104:a2ff,AS,TH,Thailand,Pathum Thani,Lam Luk Ka,12150,Asia/Jakarta,0,13.93226,100.74937,4
-::ffff:104:a300,::ffff:104:a3ff,AS,TH,Thailand,Pathum Thani,Ban Lam Luk Ka,12150,Asia/Jakarta,0,13.97738,100.77776,4
-::ffff:104:a400,::ffff:104:a4ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:a500,::ffff:104:a5ff,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,4
-::ffff:104:a600,::ffff:104:a6ff,AS,TH,Thailand,Pathum Thani,Lam Luk Ka,12150,Asia/Jakarta,0,13.93226,100.74937,4
-::ffff:104:a700,::ffff:104:a9ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:aa00,::ffff:104:aaff,AS,TH,Thailand,Samut Prakan,Phra Pradaeng,10130,Asia/Jakarta,0,13.65831,100.53348,4
-::ffff:104:ab00,::ffff:104:abff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:ac00,::ffff:104:acff,AS,TH,Thailand,Pathum Thani,Ban Bang Kadi,12160,Asia/Jakarta,0,13.99904,100.54962,4
-::ffff:104:ad00,::ffff:104:adff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:ae00,::ffff:104:aeff,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.86075,100.51477,4
-::ffff:104:af00,::ffff:104:afff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:b000,::ffff:104:b0ff,AS,TH,Thailand,Nong Khai,Nong Khai,43110,Asia/Jakarta,0,17.87847,102.742,4
-::ffff:104:b100,::ffff:104:b1ff,AS,TH,Thailand,Khon Kaen,Ban Phai,40110,Asia/Jakarta,0,16.05997,102.73097,4
-::ffff:104:b200,::ffff:104:b2ff,AS,TH,Thailand,Nong Khai,Nong Khai,43110,Asia/Jakarta,0,17.87847,102.742,4
-::ffff:104:b300,::ffff:104:b3ff,AS,TH,Thailand,Sakon Nakhon,Phanna Nikhom,47130,Asia/Jakarta,0,17.35245,103.85032,4
-::ffff:104:b400,::ffff:104:b5ff,AS,TH,Thailand,Kalasin,Somdet,46150,Asia/Jakarta,0,16.70462,103.74934,4
-::ffff:104:b600,::ffff:104:b6ff,AS,TH,Thailand,Nakhon Phanom,Renu Nakhon,48170,Asia/Jakarta,0,17.05157,104.67709,4
-::ffff:104:b700,::ffff:104:b7ff,AS,TH,Thailand,Sakon Nakhon,Sakon Nakhon,47260,Asia/Jakarta,0,17.16116,104.14725,4
-::ffff:104:b800,::ffff:104:b8ff,AS,TH,Thailand,Nong Khai,Nong Khai,43110,Asia/Jakarta,0,17.87847,102.742,4
-::ffff:104:b900,::ffff:104:b9ff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,4
-::ffff:104:ba00,::ffff:104:baff,AS,TH,Thailand,Nong Khai,Nong Khai,43110,Asia/Jakarta,0,17.87847,102.742,4
-::ffff:104:bb00,::ffff:104:bbff,AS,TH,Thailand,Khon Kaen,Ban Fang,40270,Asia/Jakarta,0,16.45331,102.63892,4
-::ffff:104:bc00,::ffff:104:bcff,AS,TH,Thailand,Nong Khai,Nong Khai,43110,Asia/Jakarta,0,17.87847,102.742,4
-::ffff:104:bd00,::ffff:104:bdff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,4
-::ffff:104:be00,::ffff:104:beff,AS,TH,Thailand,Udon Thani,Sang Khom,43120,Asia/Jakarta,0,17.82649,103.09262,4
-::ffff:104:bf00,::ffff:104:bfff,AS,TH,Thailand,Nong Khai,Nong Khai,43110,Asia/Jakarta,0,17.87847,102.742,4
-::ffff:104:c000,::ffff:104:c1ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:c200,::ffff:104:c2ff,AS,TH,Thailand,Ubon Ratchathani,Na Tan,34170,Asia/Jakarta,0,15.89749,105.29318,4
-::ffff:104:c300,::ffff:104:c3ff,AS,TH,Thailand,Si Sa Ket,Mueang Chan,33120,Asia/Jakarta,0,15.16458,104.05286,4
-::ffff:104:c400,::ffff:104:c4ff,AS,TH,Thailand,Si Sa Ket,Khu Khan,33180,Asia/Jakarta,0,14.71358,104.19836,4
-::ffff:104:c500,::ffff:104:c5ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:c600,::ffff:104:c6ff,AS,TH,Thailand,Surat Thani,Tha Kham,84130,Asia/Jakarta,0,9.11072,99.23208,4
-::ffff:104:c700,::ffff:104:c7ff,AS,TH,Thailand,Surin,Bua Chet,34000,Asia/Jakarta,0,14.52814,103.94567,4
-::ffff:104:c800,::ffff:104:c8ff,AS,TH,Thailand,Chanthaburi,Chanthaburi,22000,Asia/Jakarta,0,12.60961,102.10447,4
-::ffff:104:c900,::ffff:104:caff,AS,TH,Thailand,Chon Buri,Pattaya,76130,Asia/Jakarta,0,12.93301,100.88408,4
-::ffff:104:cb00,::ffff:104:cbff,AS,TH,Thailand,Rayong,Rayong,21000,Asia/Jakarta,0,12.68081,101.25769,4
-::ffff:104:cc00,::ffff:104:cdff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:ce00,::ffff:104:ceff,AS,TH,Thailand,Sakon Nakhon,Wanon Niwat,47120,Asia/Jakarta,0,17.63391,103.75241,4
-::ffff:104:cf00,::ffff:104:cfff,AS,TH,Thailand,Satun,La-ngu,91110,Asia/Jakarta,0,6.88492,99.78836,4
-::ffff:104:d000,::ffff:104:d0ff,AS,TH,Thailand,Bangkok,Din Daeng,10800,Asia/Jakarta,0,13.79037,100.57013,4
-::ffff:104:d100,::ffff:104:d3ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:d400,::ffff:104:d4ff,AS,TH,Thailand,Samut Prakan,Bang Bo District,10560,Asia/Jakarta,0,13.58333,100.81667,4
-::ffff:104:d500,::ffff:104:d5ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:d600,::ffff:104:d6ff,AS,TH,Thailand,Samut Prakan,Bang Bo District,10560,Asia/Jakarta,0,13.58333,100.81667,4
-::ffff:104:d700,::ffff:104:d8ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:d900,::ffff:104:d9ff,AS,TH,Thailand,Phang Nga,Kapong,82000,Asia/Jakarta,0,8.69697,98.40914,4
-::ffff:104:da00,::ffff:104:e0ff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:e100,::ffff:104:e1ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:104:e200,::ffff:104:e2ff,AS,TH,Thailand,Udon Thani,Ban Na Muang,41000,Asia/Jakarta,0,17.23824,103.00892,4
-::ffff:104:e300,::ffff:104:e3ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:104:e400,::ffff:104:e4ff,AS,TH,Thailand,Loei,Phu Ruea,42160,Asia/Jakarta,0,17.4538,101.36231,4
-::ffff:104:e500,::ffff:104:e9ff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:104:ea00,::ffff:104:eaff,AS,TH,Thailand,Khon Kaen,Khon Kaen,40270,Asia/Jakarta,0,16.44671,102.833,4
-::ffff:104:eb00,::ffff:104:ecff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:104:ed00,::ffff:104:edff,AS,TH,Thailand,Loei,Loei,42000,Asia/Jakarta,0,17.49052,101.72749,4
-::ffff:104:ee00,::ffff:104:efff,AS,TH,Thailand,Mukdahan,Mukdahan,49000,Asia/Jakarta,0,16.54531,104.72351,4
-::ffff:104:f000,::ffff:104:f1ff,AS,TH,Thailand,Phang Nga,Thai Mueang,82120,Asia/Jakarta,0,8.39914,98.26061,4
-::ffff:104:f200,::ffff:104:f3ff,AS,TH,Thailand,Nakhon Si Thammarat,Thung Song,80110,Asia/Jakarta,0,8.16453,99.68039,4
-::ffff:104:f400,::ffff:104:f4ff,AS,TH,Thailand,Chumphon,Pathio,86160,Asia/Jakarta,0,10.70908,99.3182,4
-::ffff:104:f500,::ffff:104:f5ff,AS,TH,Thailand,Nakhon Si Thammarat,Phra Phrom,80230,Asia/Jakarta,0,8.33911,99.90092,4
-::ffff:104:f600,::ffff:104:f7ff,AS,TH,Thailand,Nakhon Si Thammarat,Nakhon Si Thammarat,80230,Asia/Jakarta,0,8.43333,99.96667,4
-::ffff:104:f800,::ffff:104:f9ff,AS,TH,Thailand,Surin,Rattanaburi,33220,Asia/Jakarta,0,15.31788,103.84859,4
-::ffff:104:fa00,::ffff:104:faff,AS,TH,Thailand,Bangkok,Bangkok,10200,Asia/Jakarta,0,13.74998,100.51682,4
-::ffff:104:fb00,::ffff:104:fbff,AS,TH,Thailand,Prachin Buri,Na Di,25220,Asia/Jakarta,0,14.11517,101.78189,4
-::ffff:104:fc00,::ffff:104:fcff,AS,TH,Thailand,Narathiwat,Narathiwat,96130,Asia/Jakarta,0,6.42639,101.82308,4
-::ffff:104:fd00,::ffff:104:fdff,AS,TH,Thailand,Pattani,Panare,94130,Asia/Jakarta,0,6.86192,101.49103,4
-::ffff:104:fe00,::ffff:104:feff,AS,TH,Thailand,Yala,Yala,95000,Asia/Jakarta,0,6.53995,101.28128,4
-::ffff:104:ff00,::ffff:104:ffff,AS,TH,Thailand,Narathiwat,Su-ngai Kolok,96120,Asia/Jakarta,0,6.02977,101.96586,4
-::ffff:105:0,::ffff:105:feff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:105:ff00,::ffff:105:ffff,AS,JP,Japan,Gifu,Gifu,500-8161,Asia/Tokyo,0,35.41708,136.76702,4
-::ffff:106:0,::ffff:106:2ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:300,::ffff:106:3ff,AS,IN,India,Karnataka,Bengaluru,562130,Asia/Kolkata,0,12.97623,77.60329,4
-::ffff:106:400,::ffff:106:4ff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
-::ffff:106:500,::ffff:106:6ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:700,::ffff:106:7ff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
-::ffff:106:800,::ffff:106:8ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:900,::ffff:106:9ff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:a00,::ffff:106:aff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:b00,::ffff:106:cff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:d00,::ffff:106:13ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:1400,::ffff:106:14ff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:1500,::ffff:106:17ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:1800,::ffff:106:18ff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:1900,::ffff:106:19ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:1a00,::ffff:106:1aff,AS,IN,India,Maharashtra,Pune,411005,Asia/Kolkata,0,18.51966,73.85451,4
-::ffff:106:1b00,::ffff:106:1fff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:2000,::ffff:106:20ff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
-::ffff:106:2100,::ffff:106:28ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:2900,::ffff:106:29ff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
-::ffff:106:2a00,::ffff:106:2aff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:2b00,::ffff:106:2bff,AS,IN,India,Chandigarh,Chandigarh,140119,Asia/Kolkata,0,30.73414,76.79302,4
-::ffff:106:2c00,::ffff:106:2cff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:2d00,::ffff:106:2dff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
-::ffff:106:2e00,::ffff:106:33ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:3400,::ffff:106:34ff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:3500,::ffff:106:35ff,AS,IN,India,Assam,Guwahati,781030,Asia/Kolkata,0,26.18586,91.75088,4
-::ffff:106:3600,::ffff:106:40ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:4100,::ffff:106:41ff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:4200,::ffff:106:44ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:4500,::ffff:106:45ff,AS,IN,India,Karnataka,Bengaluru,562130,Asia/Kolkata,0,12.97623,77.60329,4
-::ffff:106:4600,::ffff:106:48ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:4900,::ffff:106:49ff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:4a00,::ffff:106:50ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:5100,::ffff:106:51ff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
-::ffff:106:5200,::ffff:106:53ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:5400,::ffff:106:54ff,AS,IN,India,Delhi,Delhi,110007,Asia/Kolkata,0,28.66678,77.21668,4
-::ffff:106:5500,::ffff:106:5dff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:106:5e00,::ffff:106:5eff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
+::ffff:1ac:8700,::ffff:1ac:87ff,AS,TW,Taiwan,Taipei,Taipei,100,Asia/Taipei,0,25.03817,121.5636,4
+::ffff:251:a500,::ffff:251:a5ff,EU,PT,Portugal,Braga,Braga,4700-000,Europe/Lisbon,0,41.54995,-8.41987,4
+::ffff:508:9a00,::ffff:508:9aff,AS,LB,Lebanon,Mount Lebanon,Jdaidet el Matn,,Asia/Beirut,0,33.8907,35.56645,4
+::ffff:52f:3300,::ffff:52f:33ff,AS,TR,Turkey,Isparta,Isparta,33080,Europe/Istanbul,0,37.76444,30.55222,4
+::ffff:57a:7000,::ffff:57a:71ff,AS,IR,Iran,Kordestan,Saqqez,66816-15183,Asia/Tehran,0,36.24992,46.2735,4
+::ffff:5b3:a200,::ffff:5b3:a2ff,EU,IT,Italy,Calabria,San Marco Argentano,87018,Europe/Rome,0,39.5583,16.12009,4
+::ffff:820:1c00,::ffff:820:1fff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.76078,-111.89105,4
+::ffff:838:c600,::ffff:838:cbff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.76078,-111.89105,4
+::ffff:c44:d800,::ffff:c44:d8ff,NA,US,United States,Oklahoma,Oklahoma City,73123,America/Chicago,0,35.46756,-97.51643,4
+::ffff:c8d:b800,::ffff:c8d:c9ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:cd2:1500,::ffff:cd2:15ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:e0d:3400,::ffff:e0d:35ff,AS,JP,Japan,Yamaguchi,Yamaguchi,753-0073,Asia/Tokyo,0,34.183,131.467,4
+::ffff:1780:ac00,::ffff:1780:acff,NA,US,United States,Wisconsin,Dodgeville,53533,America/Chicago,0,42.96027,-90.13012,4
+::ffff:1b06:3a00,::ffff:1b06:3bff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
+::ffff:1bfc:2b00,::ffff:1bfc:2bff,OC,NZ,New Zealand,Canterbury,Christchurch,8440,Pacific/Auckland,1,-43.52833,172.59013,4
+::ffff:1f14:6300,::ffff:1f14:64ff,EU,NL,The Netherlands,Gelderland,Wageningen,6707,Europe/Brussels,0,51.97,5.66628,4
+::ffff:1f6f:8e00,::ffff:1f6f:8eff,EU,GB,United Kingdom,England,Ipswich,IP1,Europe/London,0,52.05917,1.15545,4
+::ffff:201f:1a00,::ffff:201f:1aff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:2020:f700,::ffff:2020:f8ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:2480:e700,::ffff:2481:3aff,AS,CN,China,Liaoning,Shenyang,110000,Asia/Shanghai,0,41.79222,123.43288,4
+::ffff:264b:fc00,::ffff:264b:fcff,SA,PY,Paraguay,San Pedro Department,Capiibary,021715,America/Asuncion,0,-24.8,-56.03333,4
+::ffff:26c4:3d00,::ffff:26c4:3eff,NA,DO,Dominican Republic,Samana,Samana,32000,America/Santo_Domingo,0,19.20561,-69.33685,4
+::ffff:2865:3000,::ffff:2865:33ff,EU,FI,Finland,Uusimaa,Helsinki,00121,Europe/Helsinki,0,60.16952,24.93545,4
+::ffff:2916:b400,::ffff:2916:b4ff,AF,ZA,South Africa,Mpumalanga,Emalahleni,1032,Africa/Johannesburg,0,-25.87133,29.23323,4
+::ffff:2b6d:bf00,::ffff:2b6d:bfff,AS,LK,Sri Lanka,Western Province,Colombo,00100,Asia/Colombo,0,6.93248,79.84759,4
+::ffff:2bfc:9200,::ffff:2bfc:93ff,AS,ID,Indonesia,West Java,Kuningan,45511,Asia/Jakarta,0,-6.97583,108.48306,4
+::ffff:2e85:3d00,::ffff:2e85:3dff,EU,UA,Ukraine,Odesa,Odesa,65000,Europe/Kyiv,0,46.47727,30.7326,4
+::ffff:3234:8800,::ffff:3234:90ff,NA,US,United States,North Carolina,Durham,27722,America/New_York,0,35.99403,-78.89893,4
+::ffff:32c9:6d00,::ffff:32c9:6dff,NA,US,United States,Alabama,Tuscaloosa,35486,America/Chicago,0,33.20967,-87.56912,4
+::ffff:32cd:f400,::ffff:32cd:f4ff,NA,US,United States,Georgia,Atlanta,30334,America/New_York,0,33.7488,-84.38754,4
+::ffff:32d9:e800,::ffff:32d9:e8ff,NA,US,United States,New Jersey,Mount Laurel,08054,America/New_York,0,39.95293,-74.9037,4
+::ffff:3912:c00,::ffff:3912:dff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.03947,-77.49181,4
+::ffff:3ae0:8000,::ffff:3ae0:80ff,AS,KR,South Korea,Gyeonggi-do,Bucheon-si,14554,Asia/Seoul,0,37.49887,126.78351,4
+::ffff:3e25:9e00,::ffff:3e25:9eff,EU,ES,Spain,Madrid,Madrid,28003,Europe/Madrid,0,40.44324,-3.71161,4
+::ffff:3e26:f100,::ffff:3e26:f1ff,EU,GR,Greece,Dytiki Ellada,Patra,262 21,Europe/Athens,0,38.24437,21.73453,4
+::ffff:3fe1:dc00,::ffff:3fe1:dfff,NA,US,United States,Arizona,Phoenix,85001,America/Phoenix,0,33.44823,-112.07405,4
+::ffff:4018:8300,::ffff:4018:83ff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
+::ffff:403d:9800,::ffff:403d:98ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:405a:a000,::ffff:405a:adff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:4089:2200,::ffff:4089:23ff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,4
+::ffff:4117:c00,::ffff:4117:cff,NA,US,United States,North Carolina,Raleigh,27697,America/New_York,0,35.77766,-78.6435,4
+::ffff:415d:1300,::ffff:415d:13ff,NA,CA,Canada,Ontario,St. Catharines,L2W,America/Toronto,0,43.16685,-79.24924,4
+::ffff:41b9:2800,::ffff:41b9:2fff,NA,US,United States,Ohio,Columbus,43215,America/New_York,0,39.96138,-82.99775,4
+::ffff:4246:af00,::ffff:4246:b2ff,NA,CA,Canada,Quebec,Montréal,H3H,America/Toronto,0,45.50884,-73.58781,4
+::ffff:427d:5d00,::ffff:427d:5eff,NA,US,United States,Virginia,Arlington,22226,America/New_York,0,38.88101,-77.10428,4
+::ffff:4292:1800,::ffff:4292:1aff,NA,US,United States,California,El Segundo,90245,America/Los_Angeles,0,33.9192,-118.41658,4
+::ffff:4296:b800,::ffff:4296:b8ff,NA,US,United States,California,Santa Monica,90406,America/Los_Angeles,0,34.0195,-118.49138,4
+::ffff:42d0:9c00,::ffff:42d0:9fff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
+::ffff:4454:f300,::ffff:4454:f3ff,NA,US,United States,Florida,Lake Mary,32746,America/New_York,0,28.75928,-81.31784,4
+::ffff:4593:e600,::ffff:4593:e6ff,NA,US,United States,Illinois,Chicago,60605,America/Chicago,0,41.87577,-87.62061,4
+::ffff:459f:7200,::ffff:459f:73ff,NA,CA,Canada,Quebec,Gatineau,K1P,America/Toronto,0,45.42761,-75.71056,4
+::ffff:4630:600,::ffff:4630:7ff,NA,CA,Canada,Ontario,Guelph,N1E,America/Toronto,0,43.5504,-80.24928,4
+::ffff:4647:9c00,::ffff:4647:9eff,NA,CA,Canada,British Columbia,Langley,V2Z,America/Vancouver,0,49.08297,-122.58589,4
+::ffff:4849:3000,::ffff:4849:31ff,NA,US,United States,Virginia,Arlington,22226,America/New_York,0,38.88101,-77.10428,4
+::ffff:4889:d500,::ffff:4889:d5ff,NA,CA,Canada,Quebec,Montréal,H3H,America/Toronto,0,45.50884,-73.58781,4
+::ffff:48a4:1600,::ffff:48a4:16ff,NA,US,United States,Pennsylvania,Philadelphia,19099,America/New_York,0,39.95234,-75.16379,4
+::ffff:49eb:3300,::ffff:49eb:33ff,NA,US,United States,California,Yuba City,95993,America/Los_Angeles,0,39.13983,-121.63124,4
+::ffff:49f9:8700,::ffff:49f9:87ff,NA,US,United States,Connecticut,Hartford,06123,America/New_York,0,41.76373,-72.6853,4
+::ffff:4a31:f700,::ffff:4a31:f7ff,NA,US,United States,Delaware,Wilmington,19884,America/New_York,0,39.74594,-75.54641,4
+::ffff:4be6:b800,::ffff:4be6:baff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
+::ffff:4c04:d00,::ffff:4c04:dff,NA,US,United States,Minnesota,Minneapolis,55473,America/Chicago,0,44.97997,-93.26391,4
+::ffff:4c4c:2200,::ffff:4c4c:23ff,NA,US,United States,Ohio,Defiance,43512,America/New_York,0,41.28449,-84.35578,4
+::ffff:4c93:e200,::ffff:4c93:e3ff,NA,US,United States,Oregon,Portland,97268,America/Los_Angeles,0,45.52346,-122.67646,4
+::ffff:4ec0:3200,::ffff:4ec0:35ff,EU,FR,France,Île-de-France,Paris 16 Passy,75016,Europe/Paris,0,48.85908,2.29349,4
+::ffff:4f08:2700,::ffff:4f08:27ff,EU,IT,Italy,Campania,Atena Lucana,84030,Europe/Rome,0,40.45511,15.55726,4
+::ffff:5115:1d00,::ffff:5115:1dff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.46434,9.18855,4
+::ffff:51d7:1900,::ffff:51d7:19ff,AS,TR,Turkey,Amasya,Amasya,05000,Europe/Istanbul,0,40.65333,35.83306,4
+::ffff:51fe:600,::ffff:51fe:6ff,EU,FR,France,Hauts-de-France,Roubaix,59051 CEDEX 1,Europe/Paris,0,50.69371,3.17444,4
+::ffff:5238:8b00,::ffff:5238:8cff,EU,IT,Italy,Piedmont,Turin,10100,Europe/Rome,0,45.07049,7.68682,4
+::ffff:529a:8100,::ffff:529a:81ff,EU,PT,Portugal,Faro,Tavira,8800-000,Europe/Lisbon,0,37.12734,-7.64861,4
+::ffff:530c:e000,::ffff:530c:e0ff,EU,PL,Poland,Pomerania,Gdynia,81-362,Europe/Warsaw,0,54.51889,18.53188,4
+::ffff:53ee:ad00,::ffff:53ee:adff,EU,PL,Poland,Pomerania,Gdańsk,80-886,Europe/Warsaw,0,54.35205,18.64637,4
+::ffff:5549:6900,::ffff:5549:69ff,EU,GR,Greece,South Aegean,Kos,,Europe/Athens,0,36.89333,27.28889,4
+::ffff:55aa:f600,::ffff:55aa:f6ff,EU,FR,France,Auvergne-Rhône-Alpes,Lyon,69000,Europe/Paris,0,45.74831,4.84658,4
+::ffff:55ea:f800,::ffff:55ea:ffff,EU,PL,Poland,Greater Poland,Poznań,61-827,Europe/Warsaw,0,52.40691,16.93,4
+::ffff:565d:b500,::ffff:565d:b5ff,EU,NL,The Netherlands,Zeeland,Goes,4461,Europe/Brussels,0,51.50417,3.88889,4
+::ffff:5668:900,::ffff:5668:9ff,EU,RO,Romania,Bucharest,Bucharest,050011,Europe/Bucharest,0,44.4323,26.10607,4
+::ffff:5683:6900,::ffff:5683:69ff,EU,GB,United Kingdom,England,Manchester,M1,Europe/London,0,53.48095,-2.23743,4
+::ffff:56d4:e400,::ffff:56d4:e4ff,EU,FR,France,Île-de-France,Aubervilliers,93300,Europe/Paris,0,48.91654,2.38431,4
+::ffff:57db:4c00,::ffff:57db:4fff,EU,ES,Spain,Andalusia,Málaga,29001,Europe/Madrid,0,36.72017,-4.42011,4
+::ffff:57ff:6300,::ffff:57ff:6bff,AF,ZA,South Africa,Gauteng,Johannesburg,2041,Africa/Johannesburg,0,-26.20227,28.04363,4
+::ffff:5813:cc00,::ffff:5813:d1ff,EU,ES,Spain,Valencia,Denia,03700,Europe/Madrid,0,38.84086,0.10572,4
+::ffff:5902:be00,::ffff:5902:beff,EU,FR,France,Île-de-France,Champs-sur-Marne,77420,Europe/Paris,0,48.85002,2.60018,4
+::ffff:5a2f:9300,::ffff:5a2f:94ff,EU,FR,France,Brittany,Lorient,56100,Europe/Paris,0,47.75007,-3.36665,4
+::ffff:5a36:5b00,::ffff:5a36:5bff,EU,FR,France,New Aquitaine,Horsarrieu,40500,Europe/Paris,0,43.70561,-0.58399,4
+::ffff:5a5b:6600,::ffff:5a5b:66ff,EU,FR,France,Île-de-France,Boulogne-Billancourt,92100,Europe/Paris,0,48.83333,2.25,4
+::ffff:5a8f:1900,::ffff:5a8f:1aff,EU,SE,Sweden,Stockholm,Stockholm,195 87,Europe/Berlin,0,59.33275,18.06484,4
+::ffff:5b7d:900,::ffff:5b7d:9ff,EU,GB,United Kingdom,England,Sunbury-on-Thames,TW16,Europe/London,0,51.40606,-0.4137,4
+::ffff:5bc6:3500,::ffff:5bc6:35ff,EU,DE,Germany,Hesse,Frankfurt am Main,60275,Europe/Berlin,0,50.11088,8.682,4
+::ffff:5bd1:e00,::ffff:5bd1:eff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
+::ffff:5c63:c500,::ffff:5c63:c7ff,AS,AE,United Arab Emirates,Abu Zaby,Abu Dhabi,-,Asia/Dubai,0,24.46667,54.36667,4
+::ffff:5cbc:8600,::ffff:5cbc:86ff,EU,FR,France,Occitanie,Tarbes,65000,Europe/Paris,0,43.23323,0.08333,4
+::ffff:5d75:6f00,::ffff:5d75:70ff,AS,IR,Iran,Mazandaran,Amol,46316-15113,Asia/Tehran,0,36.46964,52.35038,4
+::ffff:5f32:8f00,::ffff:5f32:8fff,EU,PL,Poland,Lower Silesia,Legnica,59-200,Europe/Warsaw,0,51.21019,16.16182,4
+::ffff:5f75:8500,::ffff:5f75:85ff,EU,DE,Germany,Bavaria,Nuremberg,90409,Europe/Berlin,0,49.44778,11.06833,4
+::ffff:6042:4200,::ffff:6042:42ff,NA,US,United States,Colorado,Aurora,80040,America/Denver,0,39.7295,-104.83186,4
+::ffff:60da:ad00,::ffff:60da:c2ff,NA,US,United States,Illinois,Northlake,60164,America/Chicago,0,41.9177,-87.89561,4
+::ffff:62c5:5f00,::ffff:62c5:5fff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.76303,-95.36206,4
+::ffff:62d6:7000,::ffff:62d6:70ff,NA,US,United States,Colorado,Cherry Creek,80111,America/Denver,0,39.62346,-104.8376,4
+::ffff:670e:1b00,::ffff:670e:1bff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,4
+::ffff:6786:c000,::ffff:6786:c3ff,AS,BD,Bangladesh,Dhaka Division,Dhaka,1000,Asia/Dhaka,0,23.71039,90.40711,4
+::ffff:67cb:be00,::ffff:67cb:bfff,OC,AU,Australia,New South Wales,Nowra,2541,Australia/Sydney,1,-34.88422,150.60036,4
+::ffff:694c:d900,::ffff:694c:d9ff,AF,MA,Morocco,Fes-Meknes,Azrou,53100,Africa/Casablanca,0,33.43443,-5.22126,4
+::ffff:6b10:c800,::ffff:6b10:c8ff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
+::ffff:6b4c:4a00,::ffff:6b4c:55ff,NA,US,United States,Georgia,Atlanta,30334,America/New_York,0,33.7488,-84.38754,4
+::ffff:6bc6:e800,::ffff:6bc6:e9ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:6d50:a800,::ffff:6d50:a8ff,EU,CZ,Czechia,Olomouc Region,Mohelnice,789 85,Europe/Prague,0,49.77698,16.91946,4
+::ffff:6dba:8900,::ffff:6dba:89ff,AS,IL,Israel,Central District,Petah Tikva,,Asia/Jerusalem,0,32.09174,34.88503,4
+::ffff:6f3e:6400,::ffff:6f3e:fdff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.3971,4
+::ffff:71d3:a000,::ffff:71d3:adff,AS,MY,Malaysia,Kuala Lumpur,Kuala Lumpur,50502,Asia/Singapore,0,3.1413,101.68662,4
+::ffff:74c7:cd00,::ffff:74c7:cdff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.86778,151.20705,4
+::ffff:75e6:2800,::ffff:75e6:28ff,AS,IN,India,Kerala,Manjeri,676123,Asia/Kolkata,0,11.11667,76.11667,4
+::ffff:75f3:1300,::ffff:75f3:14ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
+::ffff:75fe:1a00,::ffff:75fe:1aff,AS,IN,India,Kerala,Vaikam,686608,Asia/Kolkata,0,9.76667,76.4,4
+::ffff:77ca:2700,::ffff:77ca:27ff,AS,KR,South Korea,Gyeongsangbuk-do,Pohang,37743,Asia/Seoul,0,36.0324,129.36507,4
+::ffff:7c84:8000,::ffff:7c84:9fff,AS,CN,China,Shandong,Zaozhuang,277000,Asia/Shanghai,0,34.86472,117.55417,4
+::ffff:7d2d:5000,::ffff:7d2d:5cff,AS,CN,China,Henan,Luohe,462000,Asia/Shanghai,0,33.57164,114.03536,4
+::ffff:7dca:5400,::ffff:7dca:55ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
+::ffff:7efd:dc00,::ffff:7efd:dcff,AS,JP,Japan,Gunma,Maebashi,371-0805,Asia/Tokyo,0,36.38303,139.06696,4
+::ffff:836d:e200,::ffff:836d:e2ff,NA,US,United States,Rhode Island,North Kingstown,02852,America/New_York,0,41.5501,-71.46617,4
+::ffff:8860:7600,::ffff:8860:77ff,NA,US,United States,California,Mountain View,94035,America/Los_Angeles,0,37.38605,-122.08385,4
+::ffff:90b2:6a00,::ffff:90b2:6aff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,4
+::ffff:92e7:0,::ffff:92e7:ffff,AF,ZA,South Africa,Eastern Cape,Grahamstown,5805,Africa/Johannesburg,0,-33.30432,26.53282,4
+::ffff:972e:d300,::ffff:972e:d3ff,EU,IT,Italy,Apulia,Melissano,73040,Europe/Rome,0,39.97405,18.12168,4
+::ffff:97c6:1c00,::ffff:97c6:1cff,NA,US,United States,New Jersey,Belleville,07109,America/New_York,0,40.79371,-74.15014,4
+::ffff:97cb:be00,::ffff:97cb:bfff,NA,US,United States,Massachusetts,Springfield,01101,America/New_York,0,42.10158,-72.58975,4
+::ffff:99cf:e800,::ffff:99cf:e8ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
+::ffff:9a29:f000,::ffff:9a29:f3ff,NA,CA,Canada,Quebec,Montréal,H3H,America/Toronto,0,45.50884,-73.58781,4
+::ffff:9a9f:f300,::ffff:9a9f:f3ff,AF,KE,Kenya,Uasin Gishu County,Eldoret,30100,Asia/Riyadh,0,0.5205,35.26994,4
+::ffff:9ad0:5400,::ffff:9ad0:57ff,AS,HK,Hong Kong,Central and Western,Central,999077,Asia/Hong_Kong,0,22.28552,114.15769,4
+::ffff:9d34:7d00,::ffff:9d34:7dff,OC,NZ,New Zealand,Wellington Region,Wellington,6021,Pacific/Auckland,1,-41.28678,174.77604,4
+::ffff:a2c0:ac00,::ffff:a2c0:afff,NA,US,United States,California,Irvine,92612,America/Los_Angeles,0,33.66946,-117.82311,4
+::ffff:a683:3e00,::ffff:a683:3eff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
+::ffff:a93c:4b00,::ffff:a93c:58ff,NA,US,United States,District of Columbia,Washington,20355,America/New_York,0,38.89539,-77.03948,4
+::ffff:aa67:4000,::ffff:aa67:40ff,NA,US,United States,Tennessee,Dover,37058,America/Chicago,0,36.48783,-87.83836,4
+::ffff:ac4b:4600,::ffff:ac4b:46ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:ad48:cc00,::ffff:ad48:ccff,NA,US,United States,South Dakota,Lennox,57015,America/Chicago,0,43.37084,-96.983,4
+::ffff:adc5:800,::ffff:adc5:8ff,NA,US,United States,Kansas,Gardner,66030,America/Chicago,0,38.81084,-94.92719,4
+::ffff:adcb:1b00,::ffff:adcb:1bff,NA,US,United States,Texas,San Antonio,78234,America/Chicago,0,29.42412,-98.49373,4
+::ffff:aee9:7b00,::ffff:aee9:7bff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
+::ffff:b00c:1d00,::ffff:b00c:1dff,EU,BG,Bulgaria,Sofia-Capital,Sofia,1000,Europe/Sofia,0,42.69751,23.32415,4
+::ffff:b03d:1600,::ffff:b03d:17ff,EU,IE,Ireland,Leinster,Dublin,D16,Europe/London,0,53.34415,-6.26725,4
+::ffff:b086:5900,::ffff:b086:59ff,EU,FR,France,Brittany,Guilvinec,29760,Europe/Paris,0,47.8127,-4.3366,4
+::ffff:b0ba:4f00,::ffff:b0ba:4fff,EU,FR,France,Île-de-France,Nanterre,92000,Europe/Paris,0,48.89192,2.20662,4
+::ffff:b0de:8e00,::ffff:b0de:8eff,AS,KZ,Kazakhstan,Aktobe,Aktobe,,Asia/Aqtobe,0,50.27967,57.20701,4
+::ffff:b186:4e00,::ffff:b186:4eff,SA,BR,Brazil,Rio Grande do Sul,Porto Alegre,90000-000,America/Sao_Paulo,0,-30.03303,-51.22969,4
+::ffff:b274:3b00,::ffff:b274:3bff,EU,BE,Belgium,Flanders,Kortrijk,8500,Europe/Brussels,0,50.82795,3.26494,4
+::ffff:b2ba:3200,::ffff:b2ba:32ff,EU,RU,Russia,Altai Krai,Barnaul,656000,Asia/Barnaul,0,53.36056,83.76361,4
+::ffff:b2e3:6100,::ffff:b2e3:61ff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
+::ffff:b43f:7200,::ffff:b43f:73ff,AS,JP,Japan,Osaka,Osaka,541-0041,Asia/Tokyo,0,34.69422,135.50223,4
+::ffff:b58e:a600,::ffff:b58e:a8ff,SA,CO,Colombia,Cundinamarca,Cota,250010,America/Bogota,0,4.8095,-74.09818,4
+::ffff:b834:6400,::ffff:b834:64ff,NA,US,United States,Wisconsin,Darlington,53530,America/Chicago,0,42.68306,-90.11763,4
+::ffff:b94c:9600,::ffff:b94c:96ff,EU,FR,France,Provence-Alpes-Côte d'Azur,Marseille,13000,Europe/Paris,0,43.29695,5.38107,4
+::ffff:b98a:5a00,::ffff:b98a:5aff,EU,PL,Poland,Mazovia,Warsaw,00-510,Europe/Warsaw,0,52.22977,21.01178,4
+::ffff:ba38:3000,::ffff:ba38:31ff,SA,AR,Argentina,Buenos Aires,Salto,2745,America/Argentina/Buenos_Aires,0,-34.33776,-60.09624,4
+::ffff:ba93:7000,::ffff:ba93:70ff,SA,CO,Colombia,Meta Department,Villavicencio,500001,America/Bogota,0,4.142,-73.62664,4
+::ffff:bb8a:5f00,::ffff:bb8a:5fff,NA,MX,Mexico,Nuevo León,Galeana,67850,America/Monterrey,0,24.83333,-100.06667,4
+::ffff:bbcf:7a00,::ffff:bbcf:7aff,NA,MX,Mexico,Mexico City,Delegación Cuajimalpa de Morelos,05020,America/Mexico_City,0,19.35585,-99.30122,4
+::ffff:bdb0:d500,::ffff:bdb0:d5ff,NA,MX,Mexico,Campeche,Campeche,24058,America/Merida,0,19.85,-90.53333,4
+::ffff:be05:2d00,::ffff:be05:2dff,SA,CL,Chile,Los Lagos Region,Puerto Montt,5480000,America/Santiago,1,-41.46968,-72.9448,4
+::ffff:be77:4100,::ffff:be77:41ff,SA,PE,Peru,Puno,La Rinconada,21355,America/Lima,0,-14.63126,-69.44638,4
+::ffff:bf58:6b00,::ffff:bf58:6fff,SA,CO,Colombia,Bogota D.C.,Bogotá,111411,America/Bogota,0,4.60971,-74.08175,4
+::ffff:bf92:ea00,::ffff:bf92:eaff,SA,CO,Colombia,Bogota D.C.,Bogotá,111411,America/Bogota,0,4.60971,-74.08175,4
+::ffff:c08c:1c00,::ffff:c08c:1cff,SA,BR,Brazil,Goiás,Divinópolis de Goiás,73840-000,America/Sao_Paulo,0,-13.12655,-46.40472,4
+::ffff:c0e7:7000,::ffff:c0e7:70ff,NA,US,United States,Virginia,Virginia Beach,23458,America/New_York,0,36.85315,-75.97804,4
+::ffff:c2bb:fb00,::ffff:c2bb:fbff,EU,BE,Belgium,Brussels Capital,Brussels,1000,Europe/Brussels,0,50.85085,4.34878,4
+::ffff:c37f:fc00,::ffff:c37f:ffff,EU,DE,Germany,North Rhine-Westphalia,Dortmund,44128,Europe/Berlin,0,51.51494,7.466,4
+::ffff:c3aa:2c00,::ffff:c3aa:2dff,EU,RU,Russia,Moscow,Moscow,101000,Europe/Moscow,0,55.75226,37.61547,4
+::ffff:c43d:6000,::ffff:c43d:64ff,AF,ZA,South Africa,Western Cape,Cape Town,7945,Africa/Johannesburg,0,-33.92555,18.42286,4
+::ffff:c581:a600,::ffff:c581:acff,AF,MA,Morocco,Rabat-Salé-Kénitra,Rabat,12152,Africa/Casablanca,0,34.01335,-6.83225,4
+::ffff:c6a6:1700,::ffff:c6a6:17ff,NA,CA,Canada,Alberta,Airdrie,T4B,America/Edmonton,0,51.30011,-114.03528,4
+::ffff:c73a:7000,::ffff:c73a:71ff,NA,US,United States,Georgia,Gumlog,30553,America/New_York,0,34.49177,-83.09654,4
+::ffff:c778:8c00,::ffff:c778:8cff,NA,US,United States,Ohio,Washington Court House,43160,America/New_York,0,39.53645,-83.43908,4
+::ffff:c800:2a00,::ffff:c800:2aff,SA,BR,Brazil,Goiás,Goiânia,74000-000,America/Sao_Paulo,0,-16.67853,-49.25391,4
+::ffff:c804:e00,::ffff:c804:fff,NA,MX,Mexico,Mexico City,Mexico City,03020,America/Mexico_City,0,19.42847,-99.12761,4
+::ffff:c9a2:e900,::ffff:c9a2:e9ff,NA,MX,Mexico,México,Colonia Gustavo Baz Prada,57510,America/Mexico_City,0,19.41365,-99.03313,4
+::ffff:caf5:1800,::ffff:caf5:19ff,AS,JP,Japan,Yamaguchi,Shimonoseki,750-0016,Asia/Tokyo,0,33.95,130.933,4
+::ffff:cbaf:6f00,::ffff:cbaf:6fff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,4
+::ffff:cbd4:3400,::ffff:cbd4:34ff,AS,JP,Japan,Hiroshima,Hiroshima,730-0042,Asia/Tokyo,0,34.38587,132.45543,4
+::ffff:ccb7:5800,::ffff:ccb7:58ff,NA,US,United States,District of Columbia,Washington,20355,America/New_York,0,38.89539,-77.03948,4
+::ffff:cd8b:eb00,::ffff:cd8b:ebff,NA,US,United States,Louisiana,Monroe,71207,America/Chicago,0,32.5245,-92.12852,4
+::ffff:cde8:5f00,::ffff:cde8:60ff,NA,US,United States,Arkansas,Little Rock,72255,America/Chicago,0,34.74648,-92.28959,4
+::ffff:ce9a:4600,::ffff:ce9a:46ff,NA,US,United States,California,San Jose,95025,America/Los_Angeles,0,37.33939,-121.89496,4
+::ffff:cf03:ed00,::ffff:cf03:efff,NA,US,United States,Louisiana,Monroe,71207,America/Chicago,0,32.5245,-92.12852,4
+::ffff:cfec:a600,::ffff:cfec:a6ff,NA,CA,Canada,Ontario,Etobicoke,M9B,America/Toronto,0,43.65421,-79.56711,4
+::ffff:d038:2400,::ffff:d038:24ff,NA,US,United States,California,Los Angeles,90009,America/Los_Angeles,0,34.05257,-118.24391,4
+::ffff:d292:9100,::ffff:d292:91ff,AS,JP,Japan,Tokushima,Tokushima,770-0911,Asia/Tokyo,0,34.06698,134.5498,4
+::ffff:d318:7f00,::ffff:d318:7fff,AS,MY,Malaysia,Kuala Lumpur,Kuala Lumpur,50502,Asia/Singapore,0,3.1413,101.68662,4
+::ffff:d849:8c00,::ffff:d849:8fff,NA,US,United States,Alaska,Anchorage,99509,America/Anchorage,0,61.21806,-149.89965,4
+::ffff:d87e:ce00,::ffff:d87e:ceff,NA,US,United States,Illinois,St. Charles,60174,America/Chicago,0,41.9142,-88.30866,4
+::ffff:dc98:2e00,::ffff:dc98:2eff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
+::ffff:dcf4:3600,::ffff:dcf4:36ff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.86778,151.20705,4
+::ffff:dd8e:7e00,::ffff:dd8e:7eff,AS,KR,South Korea,Gyeongsangnam-do,Kyosai,53285,Asia/Seoul,0,34.85016,128.58855,4
+::ffff:de55:4000,::ffff:de55:73ff,AS,CN,China,Henan,Zhengzhou,450000,Asia/Shanghai,0,34.75778,113.64861,4
+2001:268:72e3::,2001:268:72e5:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Aichi,Nagoya,460-0032,Asia/Tokyo,0,35.18138,136.90552,4
+2001:470:0:1b4::3,2001:470:0:1b5::,NA,US,United States,California,Fremont,94536,America/Los_Angeles,0,37.54827,-121.98857,5
+2001:470:28:1a4::,2001:470:28:1a4:ffff:ffff:ffff:ffff,EU,SE,Sweden,Stockholm,Stockholm,195 87,Europe/Berlin,0,59.33275,18.06484,3
+2001:470:4b:21b::,2001:470:4b:21b:ffff:ffff:ffff:ffff,NA,US,United States,South Dakota,Sioux Falls,57101,America/Chicago,0,43.54997,-96.70019,4
+2001:470:1f05:574::,2001:470:1f05:574:ffff:ffff:ffff:ffff,AS,CN,China,Shanghai,Shanghai,202400,Asia/Shanghai,0,31.22433,121.46895,4
+2001:470:6466::,2001:470:6468:ffff:ffff:ffff:ffff:ffff,EU,RU,Russia,Moscow,Moscow,101000,Europe/Moscow,0,55.75226,37.61547,3
+2001:470:b914::,2001:470:b914:ffff:ffff:ffff:ffff:ffff,EU,SE,Sweden,Stockholm,Stockholm,195 87,Europe/Berlin,0,59.33275,18.06484,3
+2001:470:f09d::,2001:470:f09d:ffff:ffff:ffff:ffff:ffff,AS,TW,Taiwan,Taipei,Taipei,100,Asia/Taipei,0,25.03817,121.5636,3
+2001:550:2:8::100,2001:550:2:8::101,NA,CA,Canada,Ontario,Toronto,M5G,America/Toronto,0,43.65333,-79.38389,5
+2001:550:2:1d::182:0,2001:550:2:1d::182:ffff,NA,US,United States,Massachusetts,Boston,02212,America/New_York,0,42.35843,-71.05977,5
+2001:559:de57::,2001:559:de57:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0844,-106.65,4
+2001:569:bcd6::,2001:569:bcd6:5fff:ffff:ffff:ffff:ffff,NA,CA,Canada,British Columbia,Nanaimo,V9V,America/Vancouver,0,49.2439,-124.017,3
+2001:8a0:75f8::,2001:8a0:75f8:ffff:ffff:ffff:ffff:ffff,EU,PT,Portugal,Faro,Armação de Pêra,8365-100,Europe/Lisbon,0,37.0989,-8.3584,3
+2001:978:2:6e::c:0,2001:978:2:6e::c:ffff,EU,NL,The Netherlands,South Holland,Naaldwijk,2671,Europe/Brussels,0,51.99417,4.20972,2
+2001:9e8:4083::,2001:9e8:4083:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Düsseldorf,40189,Europe/Berlin,0,51.22153,6.77617,3
+2001:9e8:4af4::,2001:9e8:4af4:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Mönchengladbach,41050,Europe/Berlin,0,51.1924,6.4362,3
+2001:9e8:5eb1::,2001:9e8:5eb1:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Detmold,32758,Europe/Berlin,0,51.9495,8.8673,3
+2001:9e8:9a4e::,2001:9e8:9a4f:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Frankfurt am Main,60275,Europe/Berlin,0,50.11088,8.682,3
+2001:bb6:11eb::,2001:bb6:11eb:ffff:ffff:ffff:ffff:ffff,EU,IE,Ireland,Munster,Cork,T12,Europe/London,0,51.8755,-8.493,3
+2001:1284:f01d::,2001:1284:f027:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Paraná,Curitiba,80000-000,America/Sao_Paulo,0,-25.42785,-49.27346,3
+2001:1308:b31e::,2001:1308:b31e:ffff:ffff:ffff:ffff:ffff,NA,DO,Dominican Republic,Hermanas Mirabal,Salsipuedes,10106,America/Santo_Domingo,0,19.40552,-70.37985,3
+2001:16a2:71b5::,2001:16a2:71bb:ffff:ffff:ffff:ffff:ffff,AS,SA,Saudi Arabia,Mecca Region,Jeddah,23124,Asia/Riyadh,0,21.4913,39.1841,3
+2001:1890:1e64:2a00::,2001:1890:1e64:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,West Fens,02115,America/New_York,0,42.3427,-71.0922,3
+2001:1890:2048:8f00::,2001:1890:2048:8fff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Decatur,30031,America/New_York,0,33.77483,-84.29631,4
+2001:1890:4f74::,2001:1890:4f77:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2001:1890:5e03::,2001:1890:5e03:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2001:1890:a200::,2001:1890:a207:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2001:41f0:11b6::,2001:41f0:11b7:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
+2001:4455:626::,2001:4455:626:ffff:ffff:ffff:ffff:ffff,AS,PH,Philippines,Northern Mindanao,Tudela,7202,Asia/Manila,0,8.2472,123.8424,3
+2001:4479:2303::,2001:4479:2303:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Liverpool,1401,Australia/Sydney,1,-33.8906,151.0463,2
+2001:4479:49b8::,2001:4479:49bb:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6008,Australia/Perth,0,-31.95,115.8,4
+2001:447a:b8a4::,2001:447a:b8a7:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
+2001:4958:3ab5::,2001:4958:3ab5:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,Quebec,Gatineau,J8Y,America/Toronto,0,45.4448,-75.7398,3
+2001:4dd3:ce00::,2001:4dd3:ce0a:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Köln,50676,Europe/Berlin,0,50.93335,6.94972,3
+2001:8000:934d::,2001:8000:934d:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.8688,151.209,4
+2001:8000:ff00::,2001:8000:ff01:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2065,Australia/Sydney,1,-33.8234,151.194,4
+2001:8003:4629::,2001:8003:462a:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Victoria,Melbourne,3001,Australia/Melbourne,1,-37.814,144.96332,2
+2001:8004:cca::,2001:8004:cca:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Victoria,Melbourne,3001,Australia/Melbourne,1,-37.814,144.96332,2
+2001:8fd9:1000::,2001:8fd9:7fff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2065,Australia/Sydney,1,-33.8234,151.194,4
+2001:b011:200d::,2001:b011:2015:507f:ffff:ffff:ffff:ffff,AS,TW,Taiwan,Taipei,Taipei,100,Asia/Taipei,0,25.03817,121.5636,3
+2003:c1:826::,2003:c1:826:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Baden-Wurttemberg,Mannheim,68151,Europe/Berlin,0,49.4891,8.46694,1
+2003:c2:4f16::,2003:c2:4f16:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Remscheid,42849,Europe/Berlin,0,51.17983,7.1925,1
+2003:c3:983c::,2003:c3:983c:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Munich,80313,Europe/Berlin,0,48.13743,11.57549,1
+2003:ca:2f40::,2003:ca:2f40:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Essen,45116,Europe/Berlin,0,51.45657,7.01228,1
+2003:cc:8f44::,2003:cc:8f4c:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Baden-Wurttemberg,Stuttgart,70140,Europe/Berlin,0,48.78232,9.17702,1
+2003:d1:c02c::,2003:d1:c02d:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Siegen,57069,Europe/Berlin,0,50.87481,8.02431,1
+2003:e4:ef25::,2003:e4:ef25:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Bad Kissingen,97688,Europe/Berlin,0,50.20228,10.07784,1
+2003:f2:9014::,2003:f2:9014:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Augsburg,86136,Europe/Berlin,0,48.37154,10.89851,2
+2003:fd:a018::,2003:fd:a01d:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Frankfurt am Main,60313,Europe/Berlin,0,50.11552,8.68417,1
+2400:2412:ec0::,2400:2412:ec0:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Yono,330-0061,Asia/Tokyo,0,35.867,139.65,4
+2400:2652:9063::,2400:2652:9063:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Okinawa,Naha,900-0021,Asia/Tokyo,0,26.21209,127.67885,4
+2400:4151:1260::,2400:4151:1260:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Aichi,Nagoya,462-0841,Asia/Tokyo,0,35.1926,136.906,3
+2401:4900:902b:ed20::,2401:4900:902c:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Karnataka,Bengaluru,562130,Asia/Kolkata,0,12.9753,77.591,3
+2402:a400:109a::,2402:a400:109a:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
+2402:b801:15cf::,2402:b801:15d0:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.8688,151.209,4
+2402:b801:5ebc::,2402:b801:5ebd:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,4
+2403:ca00::,2403:ca00:1fff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Queensland,Ormeau,4207,Australia/Brisbane,0,-27.754,153.243,4
+2404:b800:8c49::,2404:b800:8c4b:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
+2404:b800:8ca6::,2404:b800:8ca6:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
+2404:b800:afff::,2404:b800:afff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
+2405:204:110b::,2405:204:110b:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Haryana,Faridabad,121003,Asia/Kolkata,0,28.43333,77.31662,3
+2409:4056:e81::,2409:4056:e81:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Himachal Pradesh,Nādaun,177033,Asia/Kolkata,0,31.78333,76.35,3
+2409:4070:438c::,2409:4070:438c:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Andhra Pradesh,Rayachoti,516269,Asia/Kolkata,0,14.05,78.75,3
+2409:4089:aa06::,2409:4089:aa06:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Uttar Pradesh,Maudaha,210507,Asia/Kolkata,0,25.68333,80.11667,3
+2409:40d1:473::,2409:40d1:473:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Chandigarh,Chandigarh,140119,Asia/Kolkata,0,30.7339,76.7889,2
+2409:40f0:4112::,2409:40f0:4112:fff:ffff:ffff:ffff:ffff,AS,IN,India,Andhra Pradesh,Rasapūdipalem,530002,Asia/Kolkata,0,17.73378,83.33225,3
+240a:6b:650::,240a:6b:652:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,164-0001,Asia/Tokyo,0,35.704,139.6713,3
+240b:253:2063::,240b:253:207f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,3
+240d:1e:27e::,240d:1e:27e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Osaka,Toyonaka,561-0863,Asia/Tokyo,0,34.7825,135.4833,3
+2600:356:f000::,2600:356:f1ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2600:387:57fe::,2600:387:57ff:fff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2600:c12:6002:21::,2600:c12:6002:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,3
+2600:100f:dd60::,2600:100f:ddaf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,0,47.6062,-122.332,4
+2600:1405:f400:804::1,2600:1405:f400:804::1,NA,US,United States,Pennsylvania,Philadelphia,19099,America/New_York,0,39.95234,-75.16379,3
+2600:1408:b400:b508::2,2600:1408:b400:b603::,NA,US,United States,Massachusetts,Cambridge,02238,America/New_York,0,42.37511,-71.10575,4
+2600:140f:6200:180d::,2600:140f:6200:180d::,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2600:141b:d800:171a::1,2600:141b:d800:171a::1,NA,US,United States,New Jersey,Society Hill,08854,America/New_York,0,40.54009,-74.46619,4
+2600:142e:fb00::,2600:142e:fbff:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Kanda-jinbōchō,100-6001,Asia/Tokyo,0,35.694,139.754,4
+2600:1fe7:a500::,2600:1fe7:bfff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98127,America/Los_Angeles,0,47.60431,-122.32985,4
+2600:409d:6980::,2600:409d:6b7f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,4
+2600:40b1:de80::,2600:40b1:deff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,Albany,12201,America/New_York,0,42.6526,-73.7562,4
+2600:5800:17ff::,2600:5800:1808:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Cherry Creek,80111,America/Denver,0,39.62346,-104.8376,4
+2600:5800:2724::,2600:5800:2724:ffff:ffff:ffff:ffff:ffff,NA,US,United States,South Carolina,Greer,29652,America/New_York,0,34.93913,-82.22706,3
+2600:5c00:52d0::,2600:5c00:52d0:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Brea,92822,America/Los_Angeles,0,33.9167,-117.90014,3
+2600:5c01:33c5::,2600:5c01:33c5:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Ohio,Norwood,45275,America/New_York,0,39.162,-84.45689,3
+2600:6000:ff81::,2600:6000:ff81:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10017,America/New_York,0,40.7493,-73.9697,3
+2600:6c26:680f::,2600:6c26:680f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Tennessee,Crossville,38555,America/Chicago,0,35.94896,-85.0269,3
+2601:83:4080::,2601:83:409f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Springdale,08003,America/New_York,0,39.884,-74.9721,4
+2601:85:9a5c::,2601:85:9a5d:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Chesapeake,23462,America/New_York,0,36.8069,-76.1292,4
+2601:181:3e60::,2601:181:3e6f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Woburn,01813,America/New_York,0,42.4793,-71.1523,4
+2601:18c:e2d3::,2601:18c:e2da:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2601:204:cc02::,2601:204:cc02:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Rancho Cordova,95670,America/Los_Angeles,0,38.6106,-121.2789,3
+2601:243:e654::,2601:243:e656:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Oak Park,60303,America/Chicago,0,41.885,-87.7845,3
+2601:243:e684::,2601:243:e684:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Oak Park,60303,America/Chicago,0,41.885,-87.7845,3
+2601:40c:8659::,2601:40c:8659:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Michigan,Pontiac,48343,America/Detroit,0,42.6389,-83.291,4
+2601:40c:8711::,2601:40c:8712:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60616,America/Chicago,0,41.8528,-87.6231,4
+2601:414:6800::,2601:414:9fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60616,America/Chicago,0,41.8528,-87.6231,4
+2601:444:703:4000::,2601:444:703:490f:ffff:ffff:ffff:ffff,NA,US,United States,Minnesota,Maple Grove,55311,America/Chicago,0,45.0702,-93.4556,2
+2601:586:8c65::,2601:586:8c65:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2601:5ef:2000::,2601:5ef:27ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Chesapeake,23462,America/New_York,0,36.8069,-76.1292,4
+2601:802:ed14::,2601:802:ed14:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60616,America/Chicago,0,41.8528,-87.6231,4
+2601:840:b7b2::,2601:840:b7b6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Tennessee,Knoxville,37929,America/New_York,0,35.9606,-83.9207,3
+2601:902:c103::,2601:902:c103:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Hinesville,31313,America/New_York,0,31.848,-81.602,3
+2602:77:6100::,2602:77:61ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Florida,Melbourne,32902,America/New_York,0,28.0836,-80.6081,4
+2602:302:673::,2602:302:673:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Los Angeles,90009,America/Los_Angeles,0,34.0549,-118.243,4
+2602:302:26ba:1000::,2602:302:26ba:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:302:59b6::,2602:302:59b6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Reston,20190,America/New_York,0,38.9586,-77.357,4
+2602:302:c8e6::,2602:302:c8e6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:302:e0d6::,2602:302:e0d6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:304:9eee::,2602:304:9ef0:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:304:fe60::,2602:304:fe62:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:306:213e:e000::,2602:306:213f:efff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:306:4c72::,2602:306:4c72:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:306:97bc::,2602:306:97bc:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:306:d9d6::,2602:306:d9d7:fff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:307:1800::,2602:307:18ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:30a:6d7c:1000::,2602:30a:6d7c:efff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:30a:8ae7:f000::,2602:30a:8ae8:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:30a:b727:1000::,2602:30a:b727:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:30a:bde2:f000::,2602:30a:bde3:efff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:30a:cbe3:1000::,2602:30a:cbe3:efff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:30a:e658::,2602:30a:e658:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:395:d900::,2602:395:daff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:3b6:fe00::,2602:3b6:feff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2603:1046:a00:12::,2603:1046:a00:12:ffff:ffff:ffff:ffff,AS,KR,South Korea,Busan,Busan,48947,Asia/Seoul,0,35.10168,129.03004,1
+2603:200d:e6a0::,2603:200d:e6bf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
+2603:2011:43e0::,2603:2011:43ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
+2603:201e:6b60::,2603:201e:6bbf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
+2603:202a:7f40::,2603:202a:7f5f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
+2603:2173:3fe0::,2603:2173:3fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Lochearn,21215,America/New_York,0,39.3464,-76.7076,4
+2603:2176:ec80::,2603:2176:ecff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Lochearn,21215,America/New_York,0,39.3464,-76.7076,4
+2603:218c:b580::,2603:218c:b61f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,3
+2603:2194:28a0::,2603:2194:28ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02203,America/New_York,0,42.3602,-71.0594,3
+2603:2198:2540::,2603:2198:255f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02203,America/New_York,0,42.3602,-71.0594,3
+2603:21ae:e820::,2603:21ae:e87f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,3
+2603:21b3:a80::,2603:21b3:a9f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02203,America/New_York,0,42.3602,-71.0594,3
+2603:2224:2200::,2603:2224:225f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Sunnyvale,94088,America/Los_Angeles,0,37.3688,-122.036,4
+2603:2287:8700::,2603:2287:871f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Denver,80208,America/Denver,0,39.7391,-104.9866,3
+2603:22eb:43a0::,2603:22eb:443f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7604,-95.3698,3
+2603:22fb:9d80::,2603:22fb:9edf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7604,-95.3698,3
+2603:22ff:e0e0::,2603:22ff:e0ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7646,-95.3657,3
+2603:268f:6020::,2603:268f:603f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7606,-111.888,4
+2603:26a4:f560::,2603:26a4:f57f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7608,-111.891,3
+2603:26a7:96a0::,2603:26a7:96bf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7608,-111.891,3
+2603:26aa:6920::,2603:26aa:693f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7608,-111.891,3
+2603:26bd:14e0::,2603:26bd:151f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7608,-111.891,3
+2603:27cc:3900::,2603:27cc:391f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Stone Mountain,30087,America/New_York,0,33.8082,-84.1702,4
+2603:27d7:1b80::,2603:27d7:1c9f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
+2603:27e5:c9c0::,2603:27e5:ca9f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
+2603:27ec:6820::,2603:27ec:685f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Stone Mountain,30087,America/New_York,0,33.8082,-84.1702,4
+2603:2880:73a0::,2603:2880:73ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Florida,Venice,34285,America/New_York,0,27.0998,-82.4543,4
+2603:3000:1f46::,2603:3000:1f47:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0844,-106.65,3
+2603:3000:ab4e::,2603:3000:ab4e:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Greenwood Village,80121,America/Denver,0,39.6172,-104.951,4
+2603:3001:4d36::,2603:3001:4d36:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
+2603:3001:d5f7::,2603:3001:d5f7:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Stone Mountain,30087,America/New_York,0,33.8082,-84.1702,4
+2603:3003:f503::,2603:3003:f503:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Lochearn,21215,America/New_York,0,39.3464,-76.7076,4
+2603:3003:fe59::,2603:3003:fe5a:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2603:301c:b2fe::,2603:301c:b2fe:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2603:301c:caf3::,2603:301c:cb2f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.7501,-84.3885,4
+2603:301e:18b7::,2603:301e:18b7:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2603:6092:6f00::,2603:6092:6fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.7767,-96.797,4
+2603:60c4:851::,2603:60c4:851:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Cherry Creek,80111,America/Denver,0,39.62346,-104.8376,4
+2603:7080:a9f0::,2603:7080:a9f0:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Hampshire,Keene,03431,America/New_York,0,42.963,-72.2929,3
+2603:808f:2000::,2603:808f:20ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.7767,-96.797,4
+2603:9014:500::,2603:9014:5ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.7501,-84.3885,4
+2603:90cb:9b00::,2603:90cb:9bff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.7501,-84.3885,4
+2605:ed00:1e7c::,2605:ed00:1e7c:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Kansas,Kansas City,66101,America/Chicago,0,39.1155,-94.6268,4
+2605:ed00:358b::,2605:ed00:358e:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Nebraska,Lincoln,68508,America/Chicago,0,40.8137,-96.7026,4
+2606:40:21dc:2400::,2606:40:21dc:3fff:ffff:ffff:ffff:ffff,NA,US,United States,California,Mountain View,94035,America/Los_Angeles,0,37.38605,-122.08385,4
+2606:f40:1400::,2606:f40:14ff:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,1
+2606:1440:404::,2606:1440:406:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Vermont,Moretown,05673,America/New_York,0,44.18889,-72.8125,3
+2606:54c0:66e8::,2606:54c0:66ef:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Woodlake,93286,America/Los_Angeles,0,36.41356,-119.09872,1
+2606:a800:c188:8000::,2606:a800:c18f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Edinburg,22824,America/New_York,0,38.8231,-78.5699,2
+2607:fea8:2ba8::,2607:fea8:2ba8:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,Ontario,London,N6J,America/Toronto,0,42.9545,-81.2714,3
+2620:0:1cff:dead:beef::84ee,2620:0:1cff:dead:beef::84ee,NA,US,United States,California,Menlo Park,94027,America/Los_Angeles,0,37.4541,-122.18258,3
+2800:b20:1073::,2800:b20:1073:b8:dfff:ffff:ffff:ffff,NA,SV,El Salvador,San Salvador Department,San Salvador,01101,America/El_Salvador,0,13.6927,-89.1917,3
+2802:8013:716c::,2802:8013:716c:ffff:ffff:ffff:ffff:ffff,SA,AR,Argentina,Mendoza,Tunuyán,5560,America/Argentina/Mendoza,0,-33.5643,-69.0135,3
+2803:8180::,2803:8180:0:ffff:ffff:ffff:ffff:ffff,SA,CL,Chile,Santiago Metropolitan,Santiago,8320000,America/Santiago,1,-33.45694,-70.64827,1
+2803:a010:f946::,2803:a010:f946:ffff:ffff:ffff:ffff:ffff,SA,EC,Ecuador,Esmeraldas,Rosa Zarate,080402,America/Guayaquil,0,0.33333,-79.46667,3
+2803:bb40:f9e8::,2803:bb40:f9e9:ffff:ffff:ffff:ffff:ffff,SA,AR,Argentina,Santa Fe,Firmat,2630,America/Argentina/Cordoba,0,-33.45937,-61.4832,1
+2803:dd30::,2803:dd30:ffff:ffff:ffff:ffff:ffff:ffff,SA,AR,Argentina,Rio Negro,Río Colorado,8138,America/Argentina/Salta,0,-38.99176,-64.09384,3
+2804:b4:8073::,2804:b4:8073:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Franca,14400-000,America/Sao_Paulo,0,-20.5689,-47.3347,3
+2804:14c:de80:1001::,2804:14c:de80:100b:ffff:ffff:ffff:ffff,SA,BR,Brazil,Ceará,Fortaleza,60000-000,America/Fortaleza,0,-3.717,-38.5287,2
+2804:170:43db::,2804:170:43df:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Pernambuco,Gravatá,55640-000,America/Recife,0,-8.2009,-35.5672,2
+2804:2c0:46b1::,2804:2c0:46b1:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Candiota,96495-000,America/Sao_Paulo,0,-31.55806,-53.6725,3
+2804:388:c2f5:9000::,2804:388:c2f5:9fff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Santa Maria,97000-000,America/Sao_Paulo,0,-29.6842,-53.8069,3
+2804:389:c051::,2804:389:c051:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Paraná,Curitiba,80000-000,America/Sao_Paulo,0,-25.4202,-49.2762,3
+2804:4b0:109e::,2804:4b0:109e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Rio Grande,96200-000,America/Sao_Paulo,0,-32.035,-52.09861,3
+2804:81c:1116::,2804:81c:1117:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Goiás,Morrinhos,75650-000,America/Sao_Paulo,0,-17.73111,-49.09944,2
+2804:954:346::,2804:954:346:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Pernambuco,Vitória de Santo Antão,55600-000,America/Recife,0,-8.1524,-35.2965,3
+2804:a68::,2804:a68:ffff:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio de Janeiro,Campos dos Goytacazes,28000-000,America/Sao_Paulo,0,-21.75001,-41.29986,4
+2804:d4b:7992::,2804:d4b:7993:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,3
+2804:d51:56b4::,2804:d51:56b6:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Caxias do Sul,95180-000,America/Sao_Paulo,0,-29.172,-51.1782,3
+2804:131c:1947::,2804:131c:1947:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Fernandópolis,15600-000,America/Sao_Paulo,0,-20.28389,-50.24639,2
+2804:14bc:b486::,2804:14bc:b486:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Piraju,18800-000,America/Sao_Paulo,0,-23.19361,-49.38389,3
+2804:18dc:1a::,2804:18dc:1a:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Três Pontas,37190-000,America/Sao_Paulo,0,-21.36667,-45.5125,3
+2804:1a30:c677::,2804:1a30:c678:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Goiás,Santa Helena de Goiás,75920-000,America/Sao_Paulo,0,-17.81362,-50.59697,4
+2804:20c8:4b1::,2804:20c8:4b4:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Descalvado,13690-000,America/Sao_Paulo,0,-21.90389,-47.61944,3
+2804:25f8:501e::,2804:25f8:501e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Norte,Serra do Mel,59663-000,America/Fortaleza,0,-5.16667,-37.03333,4
+2804:2b34:ef26::,2804:2b34:ef27:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Sananduva,99840-000,America/Sao_Paulo,0,-27.94972,-51.80667,3
+2804:2bf4:3b8::,2804:2bf4:3c0:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio de Janeiro,Carmo,28640-000,America/Sao_Paulo,0,-21.93321,-42.60861,3
+2804:2d60:d01f::,2804:2d60:efff:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Paraná,Ibiporã,86200-000,America/Sao_Paulo,0,-23.2271,-51.0321,3
+2804:2ddc:1174::,2804:2ddc:1175:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Muriaé,36880-000,America/Sao_Paulo,0,-21.13046,-42.36675,4
+2804:30f8:e14::,2804:30f8:e14:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Amazonas,Manaus,,America/Manaus,0,-3.10194,-60.025,3
+2804:39f8:11eb::,2804:39f8:11eb:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Pedro Leopoldo,33600-000,America/Sao_Paulo,0,-19.6181,-44.0431,3
+2804:43fc:215f::,2804:43fc:215f:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Bahia,Una,45690-000,America/Bahia,0,-15.29333,-39.07528,3
+2804:46d0:ca07::,2804:46d0:ca09:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Bahia,Salvador,40000-000,America/Bahia,0,-12.97104,-38.51091,4
+2804:47e4:880::,2804:47e4:880:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,2
+2804:5104:1::,2804:5104:5ff:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,4
+2804:5b40:ca6d::,2804:5b40:ca6d:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Santa Catarina,Schroeder,89250-000,America/Sao_Paulo,0,-26.4263,-49.1467,3
+2804:6978:4144::,2804:6978:4160:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,4
+2804:6d98:13e::,2804:6d98:13e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio de Janeiro,Campos dos Goytacazes,28000-000,America/Sao_Paulo,0,-21.75001,-41.29986,4
+2804:6f84:6fd1::,2804:6f84:723b:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Sergipe,Neópolis,49985-000,America/Maceio,0,-10.32,-36.57944,1
+2804:6fe8:173::,2804:6fe8:173:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Goiás,Goiás,76600-000,America/Sao_Paulo,0,-15.93444,-50.14028,3
+2804:76e8:1001::,2804:76e8:b007:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Goiás,Rubiataba,76350-000,America/Sao_Paulo,0,-15.16444,-49.80333,3
+2804:84f4:730b::,2804:84f4:730c:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Mato Grosso,Glória d’Oeste,78293-000,America/Cuiaba,0,-15.7685,-58.3101,3
+2804:89f8:11b::,2804:89f8:11e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,4
+2a00:1d34:3455::,2a00:1d34:3456:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Istanbul,Istanbul,34096,Europe/Istanbul,0,41.0108,28.9482,2
+2a00:1d36:280b::,2a00:1d36:280b:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Ankara,Ankara,06420,Europe/Istanbul,0,39.9207,32.854,3
+2a00:2381:f78:9d00::,2a00:2381:f78:9dff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
+2a00:2381:a45e::,2a00:2381:a45e:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Hendon,NW9,Europe/London,0,51.5897,-0.2491,4
+2a00:2381:f85d:100::,2a00:2381:f85d:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Warwick,CV34,Europe/London,0,52.28333,-1.58333,4
+2a00:23c4:a3d::,2a00:23c4:a3e:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
+2a00:23c4:602b::,2a00:23c4:602b:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Altrincham,WA14,Europe/London,0,53.3888,-2.3429,2
+2a00:23c6:4a34::,2a00:23c6:4a34:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Hammersmith,W14,Europe/London,0,51.4889,-0.2318,3
+2a00:23c7:3bd0::,2a00:23c7:3bd0:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,North Petherton,TA2,Europe/London,0,51.0682,-3.0421,3
+2a00:23c7:7c9c::,2a00:23c7:7c9c:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,Wales,Bangor,LL57,Europe/London,0,53.2309,-4.1409,3
+2a00:23c8:8526::,2a00:23c8:8527:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,Wales,Ammanford,SA18,Europe/London,0,51.7913,-3.9922,3
+2a00:a041:f1c6::,2a00:a041:f1c7:ffff:ffff:ffff:ffff:ffff,AS,IL,Israel,Tel Aviv,Tel Aviv,66881,Asia/Jerusalem,0,32.0809,34.78123,3
+2a00:d203:ca5a::,2a00:d203:ca5a:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Oxford,OX1,Europe/London,0,51.7476,-1.2484,2
+2a01:4f8:1b8:1900::,2a01:4f8:1b8:19ff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Nuremberg,90409,Europe/Berlin,0,49.44778,11.06833,4
+2a01:4f8:212:1d88::,2a01:4f8:212:1d88:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
+2a01:4f8:272:5863::,2a01:4f8:272:5863:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
+2a01:4f8:2220:1124::,2a01:4f8:2220:1131:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
+2a01:4f9:4b:4898::,2a01:4f9:4b:489f:ffff:ffff:ffff:ffff,EU,FI,Finland,Uusimaa,Helsinki,00121,Europe/Helsinki,0,60.16952,24.93545,1
+2a01:4f9:3100:271e::,2a01:4f9:3100:271e:ffff:ffff:ffff:ffff,EU,FI,Finland,Uusimaa,Helsinki,00121,Europe/Helsinki,0,60.16952,24.93545,1
+2a01:c22:d057::,2a01:c22:d057:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Baden-Wurttemberg,Stuttgart,70173,Europe/Berlin,0,48.767,9.1827,3
+2a01:115f:933::,2a01:115f:934:ffff:ffff:ffff:ffff:ffff,EU,PL,Poland,Lesser Poland,Limanowa,34-600,Europe/Warsaw,0,49.7107,20.4181,3
+2a01:6600:3001::,2a01:6600:407f:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Île-de-France,Issy-les-Moulineaux,92130,Europe/Paris,0,48.82127,2.27752,4
+2a01:cb00:1319::,2a01:cb00:1319:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Île-de-France,Paris 16 Passy,75016,Europe/Paris,0,48.85908,2.29349,3
+2a01:cb09:a016::,2a01:cb09:a017:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Auvergne-Rhône-Alpes,Châtillon,73310,Europe/Paris,0,45.80091,5.84352,4
+2a01:cb0c:787::,2a01:cb0c:789:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Hauts-de-France,Lille,59000,Europe/Paris,0,50.6375,3.0542,3
+2a02:2f4:417a::,2a02:2f4:417b:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Lower Saxony,Sassenburg,38524,Europe/Berlin,0,52.5191,10.6288,3
+2a02:c7c:ada1::,2a02:c7c:ada1:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Horsforth,LS18,Europe/London,0,53.8366,-1.636,3
+2a02:f6d:a120::,2a02:f6d:a120:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Zeeland,Kerkwerve,4317,Europe/Brussels,0,51.6844,3.9288,3
+2a02:fe1:5274::,2a02:fe1:5275:ffff:ffff:ffff:ffff:ffff,EU,NO,Norway,Akershus,Kjenn,1473,Europe/Berlin,0,59.931,10.9537,3
+2a02:2378:1085::,2a02:2378:1085:ffff:ffff:ffff:ffff:ffff,EU,UA,Ukraine,Rivne Oblast,Volodymyrets,34300,Europe/Kyiv,0,51.4213,26.14469,4
+2a02:26f0:5f00:205::2,2a02:26f0:5f00:206::,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
+2a02:26f7:c94d:f92f::,2a02:26f7:c94d:f92f:ffff:ffff:ffff:ffff,EU,PL,Poland,Silesia,Rybnik,44-201,Europe/Warsaw,0,50.09713,18.54179,1
+2a02:26f7:d154:8f28::,2a02:26f7:d154:8f28:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Hamilton,76531,America/Chicago,0,31.70377,-98.12392,1
+2a02:26f7:d159:89f9::,2a02:26f7:d159:89f9:ffff:ffff:ffff:ffff,NA,US,United States,Iowa,Reinbeck,50669,America/Chicago,0,42.3236,-92.59936,1
+2a02:26f7:ec40::,2a02:26f7:ec40:7ff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Frankfurt am Main,60313,Europe/Berlin,0,50.11552,8.68417,1
+2a02:26f7:ec54:67b8::,2a02:26f7:ec54:67b8:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Beverungen,37688,Europe/Berlin,0,51.66801,9.37417,1
+2a02:26f7:f6da:a5c9::,2a02:26f7:f6da:a5c9:ffff:ffff:ffff:ffff,NA,US,United States,Pennsylvania,Gouldsboro,18424,America/New_York,0,41.24453,-75.45602,1
+2a02:26f7:f6e8:a144::,2a02:26f7:f6e8:a144:ffff:ffff:ffff:ffff,NA,US,United States,Florida,Zephyrhills,33542,America/New_York,0,28.23362,-82.18119,1
+2a02:3100:25db::,2a02:3100:25db:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,State of Berlin,Berlin,10105,Europe/Berlin,0,52.5203,13.3849,3
+2a02:3102:4ba0::,2a02:3102:4ba0:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Lower Saxony,Schwanewede,28788,Europe/Berlin,0,53.19939,8.56592,3
+2a02:6d40:2c4c::,2a02:6d40:2c4c:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Rheinland-Pfalz,Mauchenheim,67294,Europe/Berlin,0,49.73763,8.06582,3
+2a02:8304:d7b0::,2a02:8304:d7bf:ffff:ffff:ffff:ffff:ffff,EU,CZ,Czechia,Prague,Královské Vinohrady,100 00,Europe/Prague,0,50.0755,14.4378,3
+2a02:a03f:c159::,2a02:a03f:c159:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Brussels,1000,Europe/Brussels,0,50.85085,4.34878,3
+2a02:a317:4e91::,2a02:a317:4e91:ffff:ffff:ffff:ffff:ffff,EU,PL,Poland,West Pomerania,Szczecin,70-413,Europe/Warsaw,0,53.42894,14.55302,2
+2a02:a44e:a100::,2a02:a44e:a15e:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Utrecht,Wijk bij Duurstede,3961,Europe/Brussels,0,51.9746,5.3349,3
+2a02:a459:8426::,2a02:a459:8580:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,South Holland,Ridderkerk,2982,Europe/Brussels,0,51.8744,4.5899,3
+2a02:a468:692b::,2a02:a468:693d:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Zeeland,Lammerenburg,4384,Europe/Brussels,0,51.4607,3.552,3
+2a04:4e40:5201::,2a04:4e40:56ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,San Francisco,94119,America/Los_Angeles,0,37.77493,-122.41942,4
+2a04:4e41:1a0:1000::,2a04:4e41:1a0:1fff:ffff:ffff:ffff:ffff,OC,NZ,New Zealand,Canterbury,Christchurch,8011,Pacific/Auckland,1,-43.53333,172.63333,1
+2a04:4e41:3205:b000::,2a04:4e41:3205:bfff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Waldorf,20603,America/New_York,0,38.62456,-76.93914,1
+2a06:1280:ce13::,2a06:1280:ce13:ffff:ffff:ffff:ffff:ffff,OC,NZ,New Zealand,Auckland,Auckland,1010,Pacific/Auckland,1,-36.84853,174.76349,1
+2a06:1307::,2a06:1307:0:ffff:ffff:ffff:ffff:ffff,EU,RU,Russia,Moscow,Moscow,101000,Europe/Moscow,0,55.75226,37.61547,4
+2a06:5904:1bc1::,2a06:5904:1bff:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Shadwell,E77,Europe/London,0,51.5174,-0.07108,3
+2a06:9ac0:30fe::,2a06:9ac0:314f:ffff:ffff:ffff:ffff:ffff,NA,VG,British Virgin Islands,Tortola,Road Town,,America/Puerto_Rico,0,18.41667,-64.61667,3
+2a06:c701:7178::,2a06:c701:7178:ffff:ffff:ffff:ffff:ffff,AS,IL,Israel,Northern District,Ramat Yishai,,Asia/Jerusalem,0,32.6975,35.1691,3
+2a06:c701:9128::,2a06:c701:9128:ffff:ffff:ffff:ffff:ffff,AS,IL,Israel,Haifa,Kiryat Bialik,,Asia/Jerusalem,0,32.8304,35.0912,3
+2a07:2486:e02::,2a07:2486:ecf:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Trebsen,04687,Europe/Berlin,0,51.31688,12.73607,4
+2a07:3d02:364:100::,2a07:3d02:364:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Trentino-Alto Adige,Bolzano,39100,Europe/Rome,0,46.4887,11.3394,2
+2a07:3d02:ffff:731::1,2a07:3d02:ffff:731::1,EU,IT,Italy,Trentino-Alto Adige,San Martino in Passiria,39010,Europe/Rome,0,46.78392,11.22727,1
+2a07:3d02:ffff:b67::1,2a07:3d02:ffff:b67::1,EU,IT,Italy,Trentino-Alto Adige,Vipiteno,39049,Europe/Rome,0,46.89313,11.42961,1
+2a09:54c7:b::,2a09:54c7:b:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.5475,-46.63611,3
+2a09:bac1:860:3460::,2a09:bac1:860:3460:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2035,Australia/Sydney,1,-33.95,151.23333,2
+2a09:bac1:76a0:a711::,2a09:bac1:76a0:a737:ffff:ffff:ffff:ffff,NA,US,United States,California,San Francisco,94119,America/Los_Angeles,0,37.77493,-122.41942,4
+2a09:bac1:76e1:5000::,2a09:bac1:76e1:5000:ffff:ffff:ffff:ffff,NA,US,United States,Michigan,Holland,49422,America/Detroit,0,42.78752,-86.10893,1
+2a09:bac1:7ae0:19::,2a09:bac1:7ae0:1f:ffff:ffff:ffff:ffff,NA,US,United States,California,San Francisco,94119,America/Los_Angeles,0,37.77493,-122.41942,4
+2a09:eb40:174b::,2a09:eb40:174b:ffff:ffff:ffff:ffff:ffff,EU,ES,Spain,Madrid,Madrid,28033,Europe/Madrid,0,40.47903,-3.66836,3
+2a0a:a540:892f::,2a0a:a540:892f:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Frechen,74071,Europe/Berlin,0,50.9235,6.8646,3
+2a0a:a545:af97::,2a0a:a545:afa8:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Köln,50664,Europe/Berlin,0,50.9475,6.9288,2
+2a0a:a54b:286a::,2a0a:a54b:286a:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Frechen,50226,Europe/Berlin,0,50.9164,6.8071,3
+2a0b:4e07:3:320::,2a0b:4e07:3:32f:ffff:ffff:ffff:ffff,SA,AR,Argentina,Buenos Aires F.D.,Buenos Aires,1871,America/Argentina/Buenos_Aires,0,-34.61315,-58.37723,1
+2a0c:3b40::,2a0c:3b47:ffff:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Kelkheim,65779,Europe/Berlin,0,50.13703,8.4502,4
+2a0c:93c1:775c::,2a0c:93c1:775f:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
+2a0c:93c3:c55c::,2a0c:93c3:c55f:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,4
+2a0c:93c5:adf4::,2a0c:93c5:adfb:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
+2a0c:93c6:6560::,2a0c:93c6:6567:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,4
+2a0d:2684:85::,2a0d:2684:85:ffff:ffff:ffff:ffff:ffff,EU,LT,Lithuania,Vilnius,Vilnius,01103,Europe/Vilnius,0,54.6872,25.2797,4
+2a0e:41e:a8bb::,2a0e:41e:a90a:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.46434,9.18855,3
+2a0e:431:3de0::,2a0e:431:3de0:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.4722,9.1922,3
+2a0e:437:536e::,2a0e:437:53e8:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.46434,9.18855,3
+2a0e:437:db4b::,2a0e:437:db4b:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Veneto,Mestre,30170,Europe/Rome,0,45.4937,12.245,3
+2a0e:ec05:6580::,2a0e:ec05:65bf:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Overijssel,Enschede,7512,Europe/Brussels,0,52.2122,6.9,3
+2a0f:6280:208b:204e::,2a0f:6280:208b:2274:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2a0f:6280:20de:6920::,2a0f:6280:20de:6bf6:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2a0f:6280:cf7b::,2a0f:6280:cf7b:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Grisons,Küblis,7242,Europe/Zurich,0,46.91446,9.77929,3
+2a10:bf80:cad0::,2a10:bf80:cad7:ffff:ffff:ffff:ffff:ffff,AS,PK,Pakistan,Punjab,Lahore,54000,Asia/Karachi,0,31.558,74.35071,5
+2a10:c708::,2a10:c73f:ffff:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3783,4.90073,4
+2c0f:ef88:7ff::,2c0f:ef88:800:ffff:ffff:ffff:ffff:ffff,AF,LR,Liberia,Montserrado County,Monrovia (Capitol Hill),,Africa/Monrovia,0,6.31216,-10.7986,3
+2c0f:ef88:e9d6::,2c0f:ef88:e9d6:ffff:ffff:ffff:ffff:ffff,AF,LR,Liberia,Montserrado County,Monrovia (Capitol Hill),,Africa/Monrovia,0,6.30802,-10.7977,3
+2c0f:f3a0:121::,2c0f:f3a0:121:ffff:ffff:ffff:ffff:ffff,AF,TN,Tunisia,Sousse Governorate,Sousse,,Africa/Tunis,0,35.82539,10.63699,3

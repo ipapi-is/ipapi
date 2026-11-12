@@ -1,500 +1,501 @@
 startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,netname,abuseName,abuseAddress,abuseEmail,abusePhone
-1.0.1.0,1.0.1.255,4,CHINANET FUJIAN PROVINCE NETWORK,0.0117 (Elevated),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.0.2.0,1.0.3.255,4,CHINANET FUJIAN PROVINCE NETWORK,0.002 (Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.0.4.0,1.0.4.255,4,Gtelecom Pty Ltd,0 (Very Low),gtelecom.com.au,isp,APNIC,GTELECOM-AU,ABUSE WPLAU,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",support@gtelecom.com.au,+000000000
-1.0.4.0,1.0.7.255,4,Gtelecom Pty Ltd,0 (Very Low),gtelecom.com.au,isp,APNIC,GTELECOM-AU,Gtelecom Pty Ltd,"1/18 Deblin Drive, Narre Warren",support@gtelecom.com.au,+61387894999
-1.0.5.0,1.0.5.255,4,Gtelecom Pty Ltd,0 (Very Low),gtelecom.com.au,isp,APNIC,GTELECOM-AU,ABUSE WPLAU,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",support@gtelecom.com.au,+000000000
-1.0.6.0,1.0.6.255,4,Gtelecom Pty Ltd,0 (Very Low),gtelecom.com.au,isp,APNIC,GTELECOM-AU,ABUSE WPLAU,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",support@gtelecom.com.au,+000000000
-1.0.7.0,1.0.7.255,4,Gtelecom Pty Ltd,0.0117 (Elevated),gtelecom.com.au,isp,APNIC,GTELECOM-AU,ABUSE WPLAU,"1/18 Deblin drive, Narre warren, vic 3805, Melbourne victoria 3805",support@gtelecom.com.au,+000000000
-1.0.8.0,1.0.15.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.0.16.0,1.0.16.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.0.16.0,1.0.31.255,4,"i2ts,inc.",0.0032 (Low),i2ts.com,business,JPNIC,i2ts-CIDR-BLK-JP,,,,
-1.0.17.0,1.0.17.255,4,i2ts inc.,0 (Very Low),,business,JPNIC,I2TS-MTK-NET,,,,
-1.0.32.0,1.0.63.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.0.64.0,1.0.79.255,4,"Enecom,Inc.",0.0007 (Low),enecom.co.jp,isp,JPNIC,MEGAEGG,,,,
-1.0.64.0,1.0.127.255,4,"Enecom,Inc.",0 (Very Low),enecom.co.jp,isp,JPNIC,MEGAEGG-CIDR-BLK-JP,,,,
-1.0.80.0,1.0.95.255,4,"Enecom,Inc.",0.0005 (Very Low),enecom.co.jp,isp,JPNIC,MEGAEGG,,,,
-1.0.96.0,1.0.111.255,4,"Enecom,Inc.",0.001 (Low),enecom.co.jp,isp,JPNIC,MEGAEGG,,,,
-1.0.112.0,1.0.127.255,4,"Enecom,Inc.",0.001 (Low),enecom.co.jp,isp,JPNIC,MEGAEGG,,,,
-1.0.128.0,1.0.191.255,4,TOT Public Company Limited,0.0253 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.0.128.0,1.0.255.255,4,TOT Public Company Limited,0 (Very Low),tot.co.th,isp,APNIC,TOT-AS-AP,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.0.192.0,1.0.255.255,4,TOT Public Company Limited,0.0261 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.1.0.0,1.1.0.255,4,CHINANET FUJIAN PROVINCE NETWORK,0.0039 (Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.1.2.0,1.1.3.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.1.4.0,1.1.7.255,4,CHINANET FUJIAN PROVINCE NETWORK,0.001 (Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.1.8.0,1.1.8.255,4,"Yamu Technologies Co., Ltd.",0 (Very Low),yamu.com,business,APNIC,YNCL-CN,"Yamu Technologies Co., Ltd.","No.500 Hongqiao Road, Xuhui District, Shanghai",hch.xie@yamu.com,+862123585588
-1.1.9.0,1.1.15.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.1.16.0,1.1.31.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.1.32.0,1.1.63.255,4,CHINANET Guangdong province network,0.0001 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.1.64.0,1.1.64.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.64.0,1.1.127.255,4,"i2ts,inc.",0.0007 (Low),i2ts.com,business,JPNIC,i2ts-CIDR-BLK-JP,,,,
-1.1.65.0,1.1.65.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.66.0,1.1.66.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.67.0,1.1.67.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.68.0,1.1.68.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.69.0,1.1.69.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.70.0,1.1.70.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.71.0,1.1.71.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.72.0,1.1.72.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.73.0,1.1.73.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.74.0,1.1.74.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.75.0,1.1.75.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.76.0,1.1.76.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.77.0,1.1.77.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.78.0,1.1.78.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.79.0,1.1.79.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.80.0,1.1.80.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.81.0,1.1.81.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.82.0,1.1.82.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.83.0,1.1.83.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.84.0,1.1.84.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.85.0,1.1.85.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.86.0,1.1.86.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.87.0,1.1.87.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.88.0,1.1.88.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.89.0,1.1.89.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.90.0,1.1.90.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.91.0,1.1.91.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.92.0,1.1.92.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.93.0,1.1.93.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.94.0,1.1.94.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.95.0,1.1.95.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-MTK-NET,,,,
-1.1.96.0,1.1.96.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.97.0,1.1.97.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.98.0,1.1.98.255,4,"i2ts,inc.",0.0039 (Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.99.0,1.1.99.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.100.0,1.1.100.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.101.0,1.1.101.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.102.0,1.1.102.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.113.0,1.1.113.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.114.0,1.1.114.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.115.0,1.1.115.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.116.0,1.1.116.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.126.0,1.1.126.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.127.0,1.1.127.255,4,"i2ts,inc.",0 (Very Low),i2ts.com,business,JPNIC,I2TS-NET,,,,
-1.1.128.0,1.1.191.255,4,TOT Public Company Limited,0.0121 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.1.128.0,1.1.255.255,4,TOT Public Company Limited,0 (Very Low),tot.co.th,isp,APNIC,TOT-AS-AP,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.1.192.0,1.1.255.255,4,TOT Public Company Limited,0.0102 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.2.0.0,1.2.1.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.2.2.0,1.2.2.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",0 (Very Low),knet.cn,business,APNIC,KNET,ABUSE CNNICCN,"Beijing, China",lwz@knet.cn,+000000000
-1.2.3.0,1.2.3.255,4,Resource Quality Assurance,0.0039 (Low),,business,APNIC,Debogon-prefix,Resource Quality Assurance,"6 Cordelia Street, South Brisbane",helpdesk@apnic.net,
-1.2.5.0,1.2.7.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.2.9.0,1.2.15.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.2.16.0,1.2.31.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.2.32.0,1.2.63.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.2.64.0,1.2.127.255,4,CHINANET Guangdong province network,0.0001 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.2.128.0,1.2.191.255,4,TOT Public Company Limited,0.0258 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.2.128.0,1.2.255.255,4,TOT Public Company Limited,0 (Very Low),tot.co.th,isp,APNIC,TOT-AS-AP,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.2.192.0,1.2.255.255,4,TOT Public Company Limited,0.0263 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.3.0.0,1.3.255.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.0.0,1.4.0.255,4,Resource Quality Assurance,0 (Very Low),,business,APNIC,Debogon-prefix,Resource Quality Assurance,"6 Cordelia Street, South Brisbane",helpdesk@apnic.net,
-1.4.1.0,1.4.1.255,4,CHINANET FUJIAN PROVINCE NETWORK,0.0039 (Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.4.2.0,1.4.3.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.4.4.0,1.4.4.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",0 (Very Low),knet.cn,business,APNIC,KNET,ABUSE CNNICCN,"Beijing, China",lwz@knet.cn,+000000000
-1.4.5.0,1.4.5.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.4.6.0,1.4.7.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.4.8.0,1.4.15.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.16.0,1.4.31.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.32.0,1.4.63.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.64.0,1.4.127.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.4.128.0,1.4.191.255,4,TOT Public Company Limited,0.014 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.4.128.0,1.4.255.255,4,TOT Public Company Limited,0 (Very Low),tot.co.th,isp,APNIC,TOT-AS-AP,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.4.192.0,1.4.255.255,4,TOT Public Company Limited,0.0141 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.5.0.0,1.5.255.255,4,SoftBank Corp.,0 (Very Low),softbank.jp,isp,JPNIC,ULTINA-CIDR-BLK-JP,,,,
-1.6.0.0,1.7.255.255,4,Sify Limited,0.0004 (Very Low),sify.com,isp,APNIC,SIFYNET-IN,IRT-SIFYNET-IN,"Sify Limited, 5th, 6th & 7th floor Reliable Plaza, Kalwa industrial Area, Thane Belapur Road, Airoli, Navi Mumbai-400708",abuse@sifycorp.com,
-1.6.43.0,1.6.43.255,4,Sify Limited,0.0039 (Low),sify.com,isp,APNIC,SIFYNET-IN,IRT-SIFYNET-IN,"Sify Limited, 5th, 6th & 7th floor Reliable Plaza, Kalwa industrial Area, Thane Belapur Road, Airoli, Navi Mumbai-400708",abuse@sifycorp.com,
-1.7.20.0,1.7.20.255,4,Sify Limited,0 (Very Low),sify.com,isp,APNIC,SIFYNET-IN,IRT-SIFYNET-IN,"Sify Limited, 5th, 6th & 7th floor Reliable Plaza, Kalwa industrial Area, Thane Belapur Road, Airoli, Navi Mumbai-400708",abuse@sifycorp.com,
-1.7.150.0,1.7.150.255,4,Sify Limited,0 (Very Low),sify.com,isp,APNIC,SIFYNET-IN,IRT-SIFYNET-IN,"Sify Limited, 5th, 6th & 7th floor Reliable Plaza, Kalwa industrial Area, Thane Belapur Road, Airoli, Navi Mumbai-400708",abuse@sifycorp.com,
-1.7.179.0,1.7.179.255,4,Sify Limited,0 (Very Low),sify.com,isp,APNIC,SIFYNET-IN,IRT-SIFYNET-IN,"Sify Limited, 5th, 6th & 7th floor Reliable Plaza, Kalwa industrial Area, Thane Belapur Road, Airoli, Navi Mumbai-400708",abuse@sifycorp.com,
-1.7.185.0,1.7.185.255,4,Sify Limited,0 (Very Low),sify.com,isp,APNIC,SIFYNET-IN,IRT-SIFYNET-IN,"Sify Limited, 5th, 6th & 7th floor Reliable Plaza, Kalwa industrial Area, Thane Belapur Road, Airoli, Navi Mumbai-400708",abuse@sifycorp.com,
-1.8.0.0,1.8.17.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",0.0004 (Very Low),knet.cn,business,APNIC,KNET,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
-1.8.18.0,1.8.18.255,4,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,0 (Very Low),zdns.cn,business,APNIC,ZDNS,ABUSE CNNICCN,"Beijing, China",xingzhijie@knet.cn,+000000000
-1.8.19.0,1.8.255.255,4,"KNET Techonlogy (BeiJing) Co.,Ltd.",0.0004 (Very Low),knet.cn,business,APNIC,KNET,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
-1.9.0.0,1.9.255.255,4,TM TECHNOLOGY SERVICES SDN BHD,0.0012 (Low),tm.com.my,isp,APNIC,TTSSB-MY,TM TECHNOLOGY SERVICES SDN BHD,"Level 49 South Wing, Menara TM",abuse@tm.com.my,+6013-3128147
-1.9.0.128,1.9.0.159,4,mollogistics kelana jaya,0 (Very Low),tm.com.my,business,APNIC,mollogistics-central-klj,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.2.0,1.9.2.255,4,Kementerian Pengajian Tinggi Malaysia,0.0117 (Elevated),mohe.gov.my,government,APNIC,MYREN-TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.12.0,1.9.12.255,4,KUALA LUMPUR,0.0039 (Low),tm.com.my,business,APNIC,POSMALAYSIABERHAD,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.13.0,1.9.13.127,4,TM TECHNOLOGY SERVICES SDN. BHD.,0 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.13.128,1.9.13.191,4,TM TECHNOLOGY SERVICES SDN. BHD.,0 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.13.192,1.9.13.223,4,TM TECHNOLOGY SERVICES SDN. BHD.,0 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.13.224,1.9.13.239,4,TM TECHNOLOGY SERVICES SDN. BHD.,0 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.13.240,1.9.13.247,4,TM TECHNOLOGY SERVICES SDN. BHD.,0 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.13.248,1.9.13.251,4,TM TECHNOLOGY SERVICES SDN. BHD.,0 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.13.252,1.9.13.253,4,TM TECHNOLOGY SERVICES SDN. BHD.,0 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.13.254,1.9.13.254,4,TM TECHNOLOGY SERVICES SDN. BHD.,0 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.14.64,1.9.14.95,4,gitn-brf,0 (Very Low),tm.com.my,business,APNIC,gitn-central-brf,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.14.128,1.9.14.191,4,matrade-jrc,0 (Very Low),tm.com.my,business,APNIC,matrade-central-jrc,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.14.192,1.9.14.223,4,matrade-jrc,0 (Very Low),tm.com.my,business,APNIC,matrade-central-jrc,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.14.224,1.9.14.239,4,matrade-jrc,0 (Very Low),tm.com.my,business,APNIC,matrade-central-jrc,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.14.240,1.9.14.247,4,matrade-jrc,0 (Very Low),tm.com.my,business,APNIC,matrade-central-jrc,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.14.248,1.9.14.251,4,matrade-jrc,0 (Very Low),tm.com.my,business,APNIC,matrade-central-jrc,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.14.252,1.9.14.253,4,matrade-jrc,0 (Very Low),tm.com.my,business,APNIC,matrade-central-jrc,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.14.254,1.9.14.254,4,matrade-jrc,0 (Very Low),tm.com.my,business,APNIC,matrade-central-jrc,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.32.0,1.9.32.255,4,TMNET,0 (Very Low),tm.com.my,isp,APNIC,INFRA-TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.44.0,1.9.47.255,4,HSBB BUSINESS,0.0029 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.48.0,1.9.49.255,4,HSBB BUSINESS,0 (Very Low),tm.com.my,isp,APNIC,HSBB-BUSINESS,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.50.0,1.9.51.255,4,HSBB BUSINESS,0.002 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS-CENTRAL,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.52.0,1.9.55.255,4,HSBB HOME,0.002 (Low),tm.com.my,isp,APNIC,HSBB-HOME,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.67.144,1.9.67.159,4,VITROX TECHNOLOGIES SDN BHD,0 (Very Low),,business,APNIC,VITROX_TECHNOLOGIES,,,,
-1.9.70.128,1.9.70.143,4,Muda Paper Mills Sdn. Bhd.,0 (Very Low),,business,APNIC,MUDAPAPERMILLS,,,,
-1.9.96.0,1.9.97.255,4,LSN STREAMYX-KO,0.002 (Low),tm.com.my,business,APNIC,LSN-STREAMYX,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.98.0,1.9.99.255,4,LSN STREAMYX-TL,0 (Very Low),tm.com.my,business,APNIC,LSN-STREAMYX,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.100.0,1.9.101.255,4,LSN STREAMYX-KU,0.0098 (Elevated),tm.com.my,business,APNIC,LSN-STREAMYX,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.102.0,1.9.103.255,4,LSN STREAMYX-SGT,0.002 (Low),tm.com.my,business,APNIC,LSN-STREAMYX,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.104.0,1.9.105.255,4,LSN STREAMYX-KBU,0.002 (Low),tm.com.my,business,APNIC,LSN-STREAMYX,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.106.0,1.9.107.255,4,LSN STREAMYX-STM,0.0078 (Low),tm.com.my,business,APNIC,LSN-STREAMYX,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.108.0,1.9.111.255,4,HSBB BUSINESS,0.0029 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.112.0,1.9.115.255,4,HSBB HOME,0.002 (Low),tm.com.my,isp,APNIC,HSBB-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.116.0,1.9.119.255,4,HSBB BUSINESS,0.0049 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.120.0,1.9.120.255,4,HSBB BUSINESS,0.0039 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.121.0,1.9.121.255,4,STREAMYX,0.0117 (Elevated),tm.com.my,business,APNIC,TM-STREAMYX,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.122.0,1.9.123.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.124.0,1.9.127.255,4,HSBB BUSINESS,0.0029 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.133.0,1.9.133.127,4,Jabatan Ketua Menteri,0 (Very Low),tm.com.my,business,APNIC,SUK-MELAKA,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.152.0,1.9.159.255,4,HSBB HOME CENTRAL,0.0029 (Low),tm.com.my,business,APNIC,HSBB-HOME-CENTRAL,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.160.0,1.9.160.255,4,Universiti Tenaga Nasional (Muadzam Shah),0 (Very Low),tm.com.my,business,APNIC,UNITEN,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.162.0,1.9.162.255,4,Universiti Malaysia Pahang,0 (Very Low),tm.com.my,business,APNIC,UNIVERSITIMALAYSIAPAHANG,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.172.0,1.9.175.255,4,HSBB BUSINESS,0.002 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS-CENTRAL,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.176.0,1.9.176.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME-SJA,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.177.0,1.9.177.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME-PUJ,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.178.0,1.9.179.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.180.0,1.9.183.255,4,HSBB HOME,0.002 (Low),tm.com.my,isp,APNIC,HSBB-HOME,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.184.0,1.9.184.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME-JB,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.185.0,1.9.185.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME-KLJ,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.186.0,1.9.186.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME-KLJ,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.187.0,1.9.187.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.188.0,1.9.189.255,4,HSBB BUSINESS,0.002 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.193.0,1.9.193.255,4,Ag Jamal Mohd Tuah,0.0742 (High),tm.com.my,isp,APNIC,KKIPC,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.9.202.0,1.9.203.255,4,HSBB BUSINESS,0.002 (Low),tm.com.my,isp,APNIC,HSBB-BUSINESS-CENTRAL,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.9.204.0,1.9.205.255,4,HSBB HOME,0 (Very Low),tm.com.my,isp,APNIC,HSBB-HOME,EMRAN AHMED KAMAL,"Telekom Malaysia, Jalan Pantai Baru, Kuala Lumpur.",abuse@tm.com.my,+6-03-83185434
-1.10.0.0,1.10.7.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.10.8.0,1.10.9.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.10.11.0,1.10.11.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.10.12.0,1.10.15.255,4,CHINANET FUJIAN PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-FJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
-1.10.16.0,1.10.31.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.10.32.0,1.10.63.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.10.64.0,1.10.127.255,4,CHINANET Guangdong province network,0.0001 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
-1.10.128.0,1.10.139.255,4,TOT Public Company Limited,0.012 (Elevated),tot.co.th,isp,APNIC,TOTNET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.10.128.0,1.10.255.255,4,TOT Public Company Limited,0.0096 (Elevated),tot.co.th,isp,APNIC,TOT-AS-AP,TOT Public Company Limited,"National Telecom Public Company Limited, Chaengwattana Office, 89/2 Chaengwatthana Road, Thoongsonghong",abuse@totisp.net,+66-2-574-9178
-1.10.192.0,1.10.255.255,4,TOT Public Company Limited,0.017 (Elevated),tot.co.th,isp,APNIC,TOT-NET,ABUSE TOTTH,"TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",abuse@totisp.net,+000000000
-1.11.0.0,1.11.255.255,4,LG HelloVision Corp.,0.0015 (Low),lghellovision.net,isp,KRNIC,LG-HELLOVISION-KR,IP Manager,"Seoul Mapo-gu World Cup buk-ro 56-gil 19, 6 Floor",lghvnoc@LGHelloVision365.onmicrosoft.com,+82-70-7373-1751
-1.12.0.0,1.15.255.255,4,"Tencent cloud computing (Beijing) Co., Ltd.",0.0055 (Low),tencent.com,isp,APNIC,TencentCloud,ABUSE CNNICCN,"Beijing, China",abuse@tencent.com,+000000000
-1.16.0.0,1.16.63.255,4,DAOU TECHNOLOGY,0.0001 (Very Low),daou.co.kr,business,KRNIC,DAOU-KR,IP Manager,"Gyeonggi-do Sujeong-gu, Seongnam-si Geumto-ro 69, 6F",infra-tech@daou.co.kr,+82-70-8707-1793
-1.18.116.0,1.18.116.255,4,Korea Internet Security Agency,0 (Very Low),,government,KRNIC,KRNIC-NET-KR,IP Manager,"9 Jinheung-gil, Naju-si, Jeonnam-Gwangju",hostmaster@nic.or.kr,+82-2-405-5118
-1.18.117.0,1.18.117.255,4,Korea Internet Security Agency,0 (Very Low),,government,KRNIC,KRNIC-NET-KR,IP Manager,"Jeollanam-do Naju-si Jinheung-gil, 9",hostmaster@nic.or.kr,+82-2-405-5118
-1.18.118.0,1.18.118.255,4,Korea Internet Security Agency,0 (Very Low),,government,KRNIC,KRNIC-NET-KR,IP Manager,"9 Jinheung-gil, Naju-si, Jeonnam-Gwangju",hostmaster@nic.or.kr,+82-2-405-5118
-1.18.119.0,1.18.119.255,4,Korea Internet Security Agency,0 (Very Low),,government,KRNIC,KRNIC-NET-KR,IP Manager,"9 Jinheung-gil, Naju-si, Jeonnam-Gwangju",hostmaster@nic.or.kr,+82-2-405-5118
-1.18.120.0,1.18.127.255,4,Korea Internet Security Agency,0 (Very Low),,government,KRNIC,KRNIC-NET-KR,IP Manager,"9 Jinheung-gil, Naju-si, Jeonnam-Gwangju, KISA",hostmaster@nic.or.kr,+82-2-405-5118
-1.18.128.0,1.18.135.255,4,Korea Internet Security Agency,0 (Very Low),,government,KRNIC,KRNIC-NET-KR,IP Manager,"9 Jinheung-gil, Naju-si, Jeonnam-Gwangju",hostmaster@nic.or.kr,+82-2-405-5118
-1.18.136.0,1.19.255.255,4,Korea Internet Security Agency,0 (Very Low),,government,APNIC,KISANET,IRT-KRNIC-KR,"9, Jinheung-gil, Naju-si, Jeollanam-do",irt@nic.or.kr,
-1.20.0.0,1.20.255.255,4,TOT Mobile Co LTD,0.0105 (Elevated),ntplc.co.th,isp,APNIC,TOT-MOBILE-AS-AP,TOT Mobile Co LTD,"National Telecom Public Company Limited (Branch 00001), Chaengwatthana Office, 89/2 Chaengwatthana Rd, Thungsonghong Lak Si",abuse@totidc.net,+66-2-5749178
-1.21.0.0,1.21.95.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,APNIC,Vectant,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
-1.21.1.0,1.21.1.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.2.0,1.21.2.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-NCLTE,,,,
-1.21.3.0,1.21.3.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-NCLTE,,,,
-1.21.4.0,1.21.4.3,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,E-OS0017A18,,,,
-1.21.4.4,1.21.4.7,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-AC3263-1,,,,
-1.21.4.8,1.21.4.11,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4017-1,,,,
-1.21.4.12,1.21.4.15,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4008-1,,,,
-1.21.4.16,1.21.4.19,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4020-1,,,,
-1.21.4.20,1.21.4.23,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4036-1,,,,
-1.21.4.24,1.21.4.27,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,G-OS0031N39,,,,
-1.21.4.28,1.21.4.31,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-KT2026-1,,,,
-1.21.4.32,1.21.4.35,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-FO4144-1,,,,
-1.21.4.36,1.21.4.39,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-FO4155-1,,,,
-1.21.4.40,1.21.4.43,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,G-FO0001N9,,,,
-1.21.4.44,1.21.4.47,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,G-OS0020N43,,,,
-1.21.4.48,1.21.4.51,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-SG0057-1,,,,
-1.21.4.52,1.21.4.55,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4049-1,,,,
-1.21.4.56,1.21.4.59,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-HG2339-1,,,,
-1.21.4.60,1.21.4.63,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-HG2329-1,,,,
-1.21.4.64,1.21.4.67,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS3981-1,,,,
-1.21.4.68,1.21.4.71,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-HG2475-1,,,,
-1.21.4.72,1.21.4.75,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-FO4168-1,,,,
-1.21.4.76,1.21.4.79,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-SG0058-1,,,,
-1.21.4.80,1.21.4.83,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,G-FO0007N25,,,,
-1.21.4.84,1.21.4.87,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4061-1,,,,
-1.21.4.88,1.21.4.91,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-FO4186-1,,,,
-1.21.4.92,1.21.4.95,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-FO4142-1,,,,
-1.21.4.96,1.21.4.99,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-NS1170-1,,,,
-1.21.4.100,1.21.4.103,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,E-OS0010A44,,,,
-1.21.4.104,1.21.4.107,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,G-OS0015N10,,,,
-1.21.4.108,1.21.4.111,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS3933-2,,,,
-1.21.4.112,1.21.4.115,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4069-1,,,,
-1.21.4.116,1.21.4.119,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-FO4154-1,,,,
-1.21.4.120,1.21.4.123,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,E-AC0006A22,,,,
-1.21.4.124,1.21.4.127,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-HG2467-1,,,,
-1.21.4.128,1.21.4.131,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-ME0042-1,,,,
-1.21.9.24,1.21.9.31,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4017-1,,,,
-1.21.9.32,1.21.9.39,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-KS1162-1,,,,
-1.21.9.40,1.21.9.47,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-HG2331-1,,,,
-1.21.9.48,1.21.9.55,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,E-OS0013A4,,,,
-1.21.9.56,1.21.9.63,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4188-1,,,,
-1.21.9.64,1.21.9.71,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4189-1,,,,
-1.21.9.72,1.21.9.79,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4146-1,,,,
-1.21.9.80,1.21.9.87,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-ON0036-1,,,,
-1.21.9.88,1.21.9.95,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-ON0034-1,,,,
-1.21.9.96,1.21.9.103,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-HG2340-1,,,,
-1.21.9.104,1.21.9.111,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-HG2342-1,,,,
-1.21.9.112,1.21.9.119,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-SI1324-1,,,,
-1.21.9.120,1.21.9.127,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,E-OS0011A13,,,,
-1.21.9.128,1.21.9.135,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS3948-1,,,,
-1.21.9.136,1.21.9.143,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4138-1,,,,
-1.21.9.144,1.21.9.151,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-FO4158-1,,,,
-1.21.9.152,1.21.9.159,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,G-KT0015N33,,,,
-1.21.9.160,1.21.9.167,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-KA0049-1,,,,
-1.21.9.168,1.21.9.175,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4069-1,,,,
-1.21.9.176,1.21.9.183,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-AC3281-1,,,,
-1.21.9.184,1.21.9.191,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,G-FO0178N31,,,,
-1.21.9.192,1.21.9.199,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,G-HG0062N16,,,,
-1.21.9.200,1.21.9.207,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,E-AC0006A23,,,,
-1.21.9.208,1.21.9.215,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,E-FO0177A2,,,,
-1.21.9.216,1.21.9.223,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4217-1,,,,
-1.21.9.224,1.21.9.231,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-AC3290-1,,,,
-1.21.9.232,1.21.9.239,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-ON0035-1,,,,
-1.21.9.240,1.21.9.247,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,E-OS0017A21,,,,
-1.21.9.248,1.21.9.255,4,ARTERIA Networks Corp.,0 (Very Low),arteria-net.com,isp,JPNIC,V-OS4210-1,,,,
-1.21.10.0,1.21.10.255,4,21Company,0.0078 (Low),,business,JPNIC,21IP,,,,
-1.21.11.0,1.21.11.255,4,21Company,0 (Very Low),,business,JPNIC,21IP,,,,
-1.21.12.0,1.21.12.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.13.0,1.21.13.255,4,21Company,0 (Very Low),,business,JPNIC,21IP,,,,
-1.21.14.0,1.21.14.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.15.0,1.21.15.255,4,FAMILY NET JAPAN INCORPORATED,0 (Very Low),,isp,JPNIC,CYBERHOMENET,,,,
-1.21.16.0,1.21.16.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.17.0,1.21.17.255,4,ARTERIA Networks Corporation,0.0078 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.18.0,1.21.18.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.19.0,1.21.19.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.20.0,1.21.20.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.21.0,1.21.21.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.22.0,1.21.22.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.23.0,1.21.23.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.24.0,1.21.24.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SMA,,,,
-1.21.25.0,1.21.25.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SMA,,,,
-1.21.26.0,1.21.26.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SMA,,,,
-1.21.27.0,1.21.27.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SMA,,,,
-1.21.28.0,1.21.28.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SBME,,,,
-1.21.29.0,1.21.29.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SBME,,,,
-1.21.30.0,1.21.30.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SBME,,,,
-1.21.31.0,1.21.31.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SVPN,,,,
-1.21.32.0,1.21.32.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.33.0,1.21.33.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.34.0,1.21.34.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.35.0,1.21.35.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.36.0,1.21.36.255,4,FAMILY NET JAPAN INCORPORATED,0 (Very Low),,isp,JPNIC,CYBERHOMENET,,,,
-1.21.37.0,1.21.37.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.38.0,1.21.38.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.39.0,1.21.39.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.42.0,1.21.42.255,4,Organization ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-NCLTE,,,,
-1.21.43.0,1.21.43.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-NCLTE,,,,
-1.21.48.0,1.21.48.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.49.0,1.21.49.255,4,ARTERIA Networks Corporation,0.0078 (Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.50.0,1.21.50.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.51.0,1.21.51.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.52.0,1.21.52.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.53.0,1.21.53.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.54.0,1.21.54.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.55.0,1.21.55.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.56.0,1.21.56.255,4,21Company,0.0039 (Low),,business,JPNIC,21IP,,,,
-1.21.60.0,1.21.60.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.61.0,1.21.61.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.62.0,1.21.62.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.63.0,1.21.63.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.64.0,1.21.64.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-E-CONECT,,,,
-1.21.65.0,1.21.65.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-E-CONECT,,,,
-1.21.66.0,1.21.66.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.67.0,1.21.67.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SCA-EA,,,,
-1.21.68.0,1.21.68.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.69.0,1.21.69.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.70.0,1.21.70.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-VOSS,,,,
-1.21.71.0,1.21.71.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-E-CONECT,,,,
-1.21.72.0,1.21.72.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.73.0,1.21.73.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.74.0,1.21.74.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,VECTANT-NET,,,,
-1.21.75.0,1.21.75.255,4,"GMO Internet,Inc.",0.0039 (Low),gmo.jp,hosting,JPNIC,IDC2-NETWORK,,,,
-1.21.76.0,1.21.76.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.77.0,1.21.77.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.78.0,1.21.78.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.79.0,1.21.79.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.80.0,1.21.80.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.81.0,1.21.81.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.82.0,1.21.82.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.83.0,1.21.83.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.84.0,1.21.84.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.85.0,1.21.85.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.86.0,1.21.86.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.87.0,1.21.87.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.88.0,1.21.88.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.89.0,1.21.89.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.90.0,1.21.90.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.91.0,1.21.91.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.94.0,1.21.94.255,4,"GMO Internet,Inc.",0.0039 (Low),gmo.jp,hosting,JPNIC,IDC2-NETWORK,,,,
-1.21.95.0,1.21.95.255,4,"GMO Internet,Inc.",0 (Very Low),gmo.jp,hosting,JPNIC,IDC2-NETWORK,,,,
-1.21.96.0,1.21.111.255,4,FAMILYNET JAPAN CORPORATION,0 (Very Low),fnj.co.jp,isp,JPNIC,CYBERHOME,,,,
-1.21.112.0,1.21.112.255,4,"GMO Internet,Inc.",0 (Very Low),gmo.jp,hosting,JPNIC,IDC2-NETWORK,,,,
-1.21.112.0,1.21.127.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,Vectant-CIDR-BLK-JP,,,,
-1.21.113.0,1.21.113.255,4,"GMO Internet,Inc.",0 (Very Low),gmo.jp,hosting,JPNIC,IDC2-NETWORK,,,,
-1.21.114.0,1.21.114.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.115.0,1.21.115.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.116.0,1.21.116.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.117.0,1.21.117.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.118.0,1.21.118.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.119.0,1.21.119.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.120.0,1.21.120.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.121.0,1.21.121.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,DXPN,,,,
-1.21.122.0,1.21.122.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.123.0,1.21.123.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.124.0,1.21.124.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.125.0,1.21.125.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.126.0,1.21.126.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.127.0,1.21.127.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.128.0,1.21.143.255,4,FAMILYNET JAPAN CORPORATION,0 (Very Low),fnj.co.jp,isp,JPNIC,CYBERHOME,,,,
-1.21.144.0,1.21.223.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,APNIC,Vectant,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
-1.21.144.0,1.21.144.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.145.0,1.21.145.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.146.0,1.21.146.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.147.0,1.21.147.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.148.0,1.21.148.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.149.0,1.21.149.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.150.0,1.21.150.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.151.0,1.21.151.255,4,ARTERIA Networks Corporation,0.0078 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.152.0,1.21.152.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.153.0,1.21.153.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.154.0,1.21.154.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.155.0,1.21.155.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.156.0,1.21.156.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.157.0,1.21.157.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.158.0,1.21.158.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.159.0,1.21.159.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.160.0,1.21.160.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-SMA,,,,
-1.21.161.0,1.21.161.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-SMA,,,,
-1.21.162.0,1.21.162.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.163.0,1.21.163.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.164.0,1.21.164.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.165.0,1.21.165.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.166.0,1.21.166.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.167.0,1.21.167.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-VOSS,,,,
-1.21.168.0,1.21.168.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.169.0,1.21.169.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.170.0,1.21.170.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.171.0,1.21.171.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.172.0,1.21.172.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.173.0,1.21.173.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.174.0,1.21.174.255,4,ARTERIA Networks Corporation,0.0039 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.175.0,1.21.175.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.176.0,1.21.176.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.177.0,1.21.177.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.178.0,1.21.178.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.179.0,1.21.179.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.180.0,1.21.180.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.181.0,1.21.181.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.182.0,1.21.182.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.183.0,1.21.183.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.184.0,1.21.184.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-SMA,,,,
-1.21.185.0,1.21.185.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-SMA,,,,
-1.21.186.0,1.21.186.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.187.0,1.21.187.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.188.0,1.21.188.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.189.0,1.21.189.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.190.0,1.21.190.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.191.0,1.21.191.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.192.0,1.21.192.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.193.0,1.21.193.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.194.0,1.21.194.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.195.0,1.21.195.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,VECTANT-NET,,,,
-1.21.196.0,1.21.196.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SBME,,,,
-1.21.197.0,1.21.197.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SBME,,,,
-1.21.198.0,1.21.198.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SBME,,,,
-1.21.199.0,1.21.199.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-SBME,,,,
-1.21.200.0,1.21.200.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.201.0,1.21.201.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.202.0,1.21.202.255,4,ARTERIA Networks Corporation,0.0078 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.203.0,1.21.203.255,4,ARTERIA Networks Corporation,0.0078 (Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.204.0,1.21.204.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.205.0,1.21.205.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,JPNIC,V-FLETS,,,,
-1.21.208.0,1.21.208.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.209.0,1.21.209.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.210.0,1.21.210.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.211.0,1.21.211.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.212.0,1.21.212.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.213.0,1.21.213.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.214.0,1.21.214.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.215.0,1.21.215.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.216.0,1.21.216.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.217.0,1.21.217.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-FLETS,,,,
-1.21.218.0,1.21.218.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.219.0,1.21.219.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.220.0,1.21.220.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.221.0,1.21.221.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.222.0,1.21.222.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.223.0,1.21.223.255,4,Marubeni Access Solutions Inc.,0 (Very Low),marubeni-access.co.jp,isp,JPNIC,V-NCLTE,,,,
-1.21.224.0,1.21.255.254,4,BYTEPLUS,0 (Very Low),byteplus.com,hosting,APNIC,BYTEPLUS-SG,ABUSE BYTEPLUSSG,1 Raffles Quay,bd_abuse@bytedance.com,+000000000
-1.21.224.0,1.21.255.255,4,Byteplus Pte. Ltd.,0 (Very Low),byteplus.com,hosting,APNIC,BYTEPLUS-SG,Byteplus Pte. Ltd.,"1 Raffles Quay, # 26-10, South Tower",bd_abuse@bytedance.com,+65-6950-4420
-1.22.0.0,1.23.255.255,4,Tikona Infinet Ltd.,0.0037 (Low),tikona.in,isp,APNIC,TIKONAIN,IRT-TIKONAIN-IN,"C69, Sector 58, Noida,NOIDA,Uttar Pradesh-201307",Sudhir.Kumar@tikona.in,
-1.22.156.192,1.22.156.255,4,Sheela Foam Pvt. Ltd.,0 (Very Low),tikona.in,business,APNIC,Sheela-10019-nod,IRT-TIKONA-IN,"Tikona Digital Networks, Corpora,Office No 3A, 3rd Floor, LBS Marg, Bhandup (W), Mumbai 400 078",abuse@tikona.in,
-1.24.0.0,1.31.255.255,4,China unicom InnerMongolia province network,0.0013 (Low),chinaunicom.cn,isp,APNIC,UNICOM-NM,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
-1.32.0.0,1.32.15.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0017 (Low),tm.com.my,isp,APNIC,UNIFI-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.0.0,1.32.127.255,4,TM TECHNOLOGY SERVICES SDN BHD,0 (Very Low),tm.com.my,isp,APNIC,TTSSB-MY,TM TECHNOLOGY SERVICES SDN BHD,"Level 49 South Wing, Menara TM",abuse@tm.com.my,+6013-3128147
-1.32.16.0,1.32.19.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,UNIFI-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.20.0,1.32.23.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.002 (Low),tm.com.my,isp,APNIC,UNIFI-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.24.0,1.32.31.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0029 (Low),tm.com.my,isp,APNIC,UNIFI-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.32.0,1.32.33.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.002 (Low),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.34.0,1.32.34.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.35.0,1.32.35.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0117 (Elevated),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.36.0,1.32.39.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.40.0,1.32.47.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0098 (Elevated),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.48.0,1.32.55.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0127 (Elevated),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.56.0,1.32.59.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0059 (Low),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.60.0,1.32.61.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.62.0,1.32.63.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0059 (Low),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.64.0,1.32.79.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,UNIFI-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.80.0,1.32.95.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.96.0,1.32.97.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.002 (Low),tm.com.my,isp,APNIC,UNIFI-BIZ,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.98.0,1.32.99.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0195 (Elevated),tm.com.my,isp,APNIC,UNIFI-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.100.0,1.32.103.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,UNIFI-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.104.0,1.32.107.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0029 (Low),tm.com.my,isp,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.109.0,1.32.109.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0078 (Low),tm.com.my,isp,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.110.0,1.32.110.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.111.0,1.32.111.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0039 (Low),tm.com.my,isp,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.115.0,1.32.115.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0 (Very Low),tm.com.my,isp,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.117.0,1.32.117.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.0078 (Low),tm.com.my,isp,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.118.0,1.32.119.255,4,NORTHERN,0.002 (Low),tm.com.my,business,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.120.0,1.32.123.255,4,NORTHERN,0.0049 (Low),tm.com.my,business,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.126.0,1.32.127.255,4,"INTERNET SERVICES, ISP TECHNICAL OPERATIONS,",0.002 (Low),tm.com.my,isp,APNIC,STREAMYX-HOME,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
-1.32.128.0,1.32.191.255,4,"Singapore Telecom, ConnectPlus",0 (Very Low),singtel.com,isp,APNIC,CONNECTPLUS-SG,"Singapore Telecom, ConnectPlus","31 Exeter Road, Comcentre Podium Block, # 05-00",rajeshm@singtel.com,+65-9838-4411
-1.32.192.0,1.32.255.255,4,RACKIP CONSULTANCY PTE. LTD.,0 (Very Low),rackip.com,hosting,APNIC,RCPL-SG,RACKIP CONSULTANCY PTE. LTD.,"No. 3, Pemimpin Drive, # 07-04 Lip Hing, Industrial Building",abuse@bgp.net,+65 6255 8133
-1.32.192.0,1.32.199.255,4,"BGP Network Limited Co.,Ltd",0.0063 (Low),bgp.net,hosting,APNIC,BGP192-HK,ABUSE RCPLSG,,abuse@bgp.net,+000000000
-1.32.200.0,1.32.201.255,4,"BGP Network Limited Co.,Ltd",0.0039 (Low),bgp.net,hosting,APNIC,BGP200-SG,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.202.0,1.32.202.127,4,"BGP Network Limited Co.,Ltd",0.0078 (Low),bgp.net,hosting,APNIC,ELTR202-TW,ABUSE RCPLSG,,abuse@bgp.net,+000000000
-1.32.202.129,1.32.202.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,BGP202-HK,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.203.0,1.32.203.127,4,"BGP Network Limited Co.,Ltd",0.0078 (Low),bgp.net,hosting,APNIC,ELTR203-TW,ABUSE RCPLSG,,abuse@bgp.net,+000000000
-1.32.203.129,1.32.203.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,BGP203-HK,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.204.0,1.32.204.127,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,ELTR204-TW,ABUSE RCPLSG,,abuse@bgp.net,+000000000
-1.32.204.129,1.32.204.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,BGP204-HK,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.205.0,1.32.205.255,4,CTG Server Ltd.,0 (Very Low),ctgserver.com,hosting,APNIC,CTG205-HK,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.206.0,1.32.207.255,4,"BGP Network Limited Co.,Ltd",0.002 (Low),bgp.net,hosting,APNIC,BGP206-HK,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.208.0,1.32.215.255,4,"BGP Network Limited Co.,Ltd",0.0098 (Elevated),bgp.net,hosting,APNIC,BGP208-TW,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.216.0,1.32.216.255,4,CTG Server Ltd.,0.043 (High),ctgserver.com,hosting,APNIC,CTG032-216-KR,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",abuse@ctgserver.net,+000000000
-1.32.217.0,1.32.217.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,BGP217-KR,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.218.0,1.32.218.255,4,CTG Server Ltd.,0.0117 (Elevated),ctgserver.com,hosting,APNIC,CTG032-218-HK,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",abuse@ctgserver.net,+000000000
-1.32.219.0,1.32.219.255,4,"BGP Network Limited Co.,Ltd",0.0352 (High),bgp.net,hosting,APNIC,BGP219-HK,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.220.0,1.32.220.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,BGP220-TW,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.221.0,1.32.221.255,4,"BGP Network Limited Co.,Ltd",0.0039 (Low),bgp.net,hosting,APNIC,BGP221-HK,ABUSE RCPLSG,,abuse@bgp.net,+000000000
-1.32.222.0,1.32.222.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,BGP222-HK,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.223.0,1.32.223.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,BGP223-JP,ABUSE BGPNLHK,"399 Chai Wan Road, Chai Wan, Hong Kong",abuse@bgp.net,+000000000
-1.32.224.0,1.32.231.255,4,"BGP Network Limited Co.,Ltd",0.001 (Low),bgp.net,hosting,APNIC,BGP224-JP,ABUSE RCPLSG,,abuse@bgp.net,+000000000
-1.32.228.0,1.32.228.255,4,CTG Server Ltd.,0.0195 (Elevated),ctgserver.com,hosting,APNIC,CTG032-228-JP,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",abuse@ctgserver.net,+000000000
-1.32.229.0,1.32.229.255,4,CTG Server Ltd.,0.0078 (Low),ctgserver.com,hosting,APNIC,CTG032-229-JP,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",abuse@ctgserver.net,+000000000
-1.32.232.0,1.32.239.255,4,"BGP Network Limited Co.,Ltd",0.002 (Low),bgp.net,hosting,APNIC,BGP232-US,ABUSE RCPLSG,,abuse@bgp.net,+000000000
-1.32.240.0,1.32.251.255,4,"BGP Network Limited Co.,Ltd",0 (Very Low),bgp.net,hosting,APNIC,BGP240-ASIA,ABUSE RCPLSG,,abuse@bgp.net,+000000000
-1.32.246.0,1.32.251.255,4,CTG Server Ltd.,0.0104 (Elevated),ctgserver.com,hosting,APNIC,CTG032-246-HK,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",abuse@ctgserver.net,+000000000
-1.32.252.0,1.32.252.255,4,CTG Server Ltd.,0 (Very Low),ctgserver.com,hosting,APNIC,CTG032-252-KH,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",abuse@ctgserver.net,+000000000
-1.32.253.0,1.32.255.255,4,CTG Server Ltd.,0.0052 (Low),ctgserver.com,hosting,APNIC,CTG032-253-HK,ABUSE CTGHK,"202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",abuse@ctgserver.net,+000000000
-1.33.0.0,1.33.255.255,4,"NTT PC Communications,Inc.",0.0001 (Very Low),nttpc.co.jp,isp,APNIC,InfoSphere,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
-1.33.0.0,1.33.0.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,INFOSPHERE,,,,
-1.33.1.0,1.33.1.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,INFOSPHERE,,,,
-1.33.2.0,1.33.2.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,INFOSPHERE,,,,
-1.33.3.0,1.33.3.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,INFOSPHERE,,,,
-1.33.4.0,1.33.4.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,INFOSPHERE,,,,
-1.33.5.0,1.33.5.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,INFOSPHERE,,,,
-1.33.6.0,1.33.6.255,4,"InfoSphere (NTTPC Communications, Inc.)",0.0039 (Low),nttpc.co.jp,isp,JPNIC,INFOSPHERE,,,,
-1.33.7.0,1.33.7.255,4,"InfoSphere (NTTPC Communications, Inc.)",0 (Very Low),nttpc.co.jp,isp,JPNIC,INFOSPHERE,,,,
+1.120.0.0,1.127.255.255,4,Telstra Limited,0 (Very Low),telstra.com.au,isp,APNIC,TELSTRAINTERNET49-AU,Telstra Limited,242 Exhibition Street,abuse@telstra.net,
+2.32.0.0,2.47.255.255,4,Fastweb SpA,0 (Very Low),fastweb.it,isp,RIPE,IT-FASTWEB-20100429,ip registration service,"Via Caracciolo, 51, 20155 Milano MI, Italy",abuse@fastweb.it,+39 02 45451
+2.146.4.0,2.146.255.255,4,TE FW Special,0 (Very Low),irancell.ir,isp,RIPE,TE-FW-Special,MTN Irancell Internet planning team,"3rd floor, No. 6, Alidoost Alley, Ghaderi Alley, Zandi Ave, Golzar Blvd, Heravi Sq, Tehran , Iran, Islamic Republic of",abuse@mtnirancell.ir,+98 21 23190000
+2.148.0.0,2.149.255.255,4,Telenor Norge AS,0 (Very Low),telenor.no,isp,RIPE,NO-MOBIL-BROADBAND-4,Telenor Mobil Contact Role,"Telenor Norge AS, Snaroyveien 30, N-1360 Fornebu, Norway",abuse@telenor.net,
+2.242.0.0,2.242.255.255,4,Telefonica Germany GmbH & Co.OHG,0 (Very Low),telefonica.de,isp,RIPE,TEDE-LLU,Telefonica Germany Hostmaster,"Telefonica Germany GmbH & Co. OHG, Georg-Brauchle-Ring 50, 80992 Muenchen, DE",abuse.de@telefonica.com,+498924420
+3.0.0.0,3.127.255.255,4,Amazon Technologies Inc.,0 (Very Low),amazon.com,hosting,ARIN,AT-88-Z,Amazon Technologies Inc.,"410 Terry Ave N., Seattle, WA, 98109, US",trustandsafety@support.aws.com,+1-206-555-0000
+3.208.0.0,3.223.255.255,4,Amazon Data Services Northern Virginia,0.0001 (Very Low),amazon.com,hosting,ARIN,AMAZON-IAD,Amazon Data Services Northern Virginia,"13200 Woodland Park Road, Herndon, VA, 20171, US",trustandsafety@support.aws.com,+1-206-555-0000
+4.0.0.0,4.127.255.255,4,"Level 3 Parent, LLC",0 (Very Low),level3.com,isp,ARIN,LVLT-ORG-4-8,"Level 3 Parent, LLC","100 CenturyLink Drive, Monroe, LA, 71203, US",abuse@level3.com,+1-877-453-8353
+5.58.0.0,5.58.255.255,4,"MAXNET TELECOM, LTD",0 (Very Low),maxnet.ua,isp,RIPE,UA-MAXNET-20120601,MAXNET NOC,"MAXNET, Pushkinska str. 14, Kharkiv, Ukraine",abuse@maxnet.ua,+380 57 7209723
+5.97.46.0,5.97.46.255,4,Telecom Italia SPA,0 (Very Low),telecomitalia.it,isp,RIPE,INTERBUSINESS,Interbusiness Network Administration Staff,"Telecom Italia S.p.A, Italy",abuse@business.telecomitalia.it,
+5.157.47.0,5.157.47.255,4,Inter Connects Inc,0 (Very Low),interconnects.us,hosting,RIPE,LT,Inter Connects,"3511 Silverside Road, US",noc1@interconnects.us,
+7.0.0.0,7.255.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DISANET7,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+8.160.0.0,8.191.255.255,4,Alibabacom Singapore E-Commerce Private Limited a,0 (Very Low),alibabacloud.com,hosting,APNIC,ALICLOUD,ABUSE ASEPLSG,1 Raffles Place,abuse@alibaba-inc.com,+000000000
+9.210.0.0,9.211.255.255,4,INTAC Services GmbH,0 (Very Low),digits.schwarz,hosting,RIPE,DE-INTAC-19881216,INTAC Services,Liebenwalde / Kreuzbruch,abuse-intac@digits.schwarz,+4933054900050
+9.223.128.0,9.223.255.255,4,cloud,0.0001 (Very Low),microsoft.com,business,RIPE,cloud,Divya Quamara,"One Microsoft Way, Redmond, WA 98052",abuse@microsoft.com,+1-425-882-8080
+11.0.0.0,11.255.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DODIIS,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+12.0.0.0,12.255.255.255,4,"AT&T Enterprises, LLC",0 (Very Low),att.com,isp,ARIN,ATT,"AT&T Enterprises, LLC","208 S. Akard St., Dallas, TX, 75202, US",abuse@att.net,+1-919-319-8167
+13.64.0.0,13.107.255.255,4,Microsoft Corporation,0 (Very Low),microsoft.com,hosting,ARIN,MSFT,Microsoft Corporation,"One Microsoft Way, Redmond, WA, 98052, US",abuse@microsoft.com,+1-425-882-8080
+13.200.0.0,13.239.255.255,4,Amazon Technologies Inc.,0 (Very Low),amazon.com,hosting,ARIN,AT-88-Z,Amazon Technologies Inc.,"410 Terry Ave N., Seattle, WA, 98109, US",trustandsafety@support.aws.com,+1-206-555-0000
+14.89.95.192,14.89.95.223,4,Korea Telecom,0 (Very Low),kt.com,isp,KRNIC,KORNET,,,,
+15.0.0.0,15.102.255.255,4,HP Inc.,0 (Very Low),hp.com,business,ARIN,HP-INTERNET,HP Inc.,"1501 Page Mill Rd, Palo Alto, CA, 94304, US",IPAdmin@hp.com,+1-650-857-1501
+15.104.0.0,15.127.255.255,4,HEWLETT PACKARD ENTERPRISE COMPANY,0 (Very Low),hpe.com,business,ARIN,HPE-15-Z-INTERNET,HEWLETT PACKARD ENTERPRISE COMPANY,"1701 E. Mossy Oaks Road, Spring, TX, 77389, US",IPv4.notices@hpe.com,+1-888-342-2156
+15.204.0.0,15.204.255.255,4,OVH US LLC,0 (Very Low),ovhcloud.com,hosting,ARIN,OUL-16,OVH US LLC,"11950 Democracy Drive, Reston, VA, 20190, US",abuse@ovh.us,+1-855-684-5463
+15.253.0.0,15.255.255.255,4,Amazon Technologies Inc.,0 (Very Low),amazon.com,hosting,ARIN,AT-88-Z,Amazon Technologies Inc.,"410 Terry Ave N., Seattle, WA, 98109, US",trustandsafety@support.aws.com,+1-206-555-0000
+16.96.0.0,16.97.255.255,4,HEWLETT PACKARD ENTERPRISE COMPANY,0 (Very Low),hpe.com,business,ARIN,HPE-15,HEWLETT PACKARD ENTERPRISE COMPANY,"1701 E. Mossy Oaks Road, Spring, TX, 77389, US",IPv4.notices@hpe.com,+1-888-342-2156
+17.0.0.0,17.255.255.255,4,Apple Inc.,0 (Very Low),apple.com,business,ARIN,APPLE-WWNET,Apple Inc.,"One Apple Park Way, Cupertino, CA, 95014, US",abuse@apple.com,+1-408-974-7777
+18.0.0.0,18.31.255.255,4,Massachusetts Institute of Technology,0 (Very Low),mit.edu,education,ARIN,MIT,Massachusetts Institute of Technology,"Cambridge, MA, 02139-4307, US",arin-mit-security@mit.edu,+1-617-324-1782
+18.32.0.0,18.255.255.255,4,Amazon Technologies Inc.,0.0001 (Very Low),amazon.com,hosting,ARIN,AT-88-Z,Amazon Technologies Inc.,"410 Terry Ave N., Seattle, WA, 98109, US",trustandsafety@support.aws.com,+1-206-555-0000
+18.179.0.0,18.179.255.255,4,Amazon Data Services Japan,0 (Very Low),amazon.com,hosting,ARIN,AMAZON-NRT,Amazon Data Services Japan,"Tokyo, 141-0021, JP",trustandsafety@support.aws.com,+1-206-555-0000
+19.0.0.0,19.255.255.255,4,Ford Motor Company,0 (Very Low),ford.com,business,ARIN,FINET,Ford Motor Company,"P.O. Box 2053, RM E-1121, Dearborn, MI, 48121-2053, US",dnsadmin@ford.com,+1-313-390-3476
+20.0.0.0,20.31.255.255,4,Microsoft Corporation,0.0001 (Very Low),microsoft.com,hosting,ARIN,MSFT,Microsoft Corporation,"One Microsoft Way, Redmond, WA, 98052, US",abuse@microsoft.com,+1-425-882-8080
+20.33.0.0,20.128.255.255,4,Microsoft Corporation,0.0002 (Very Low),microsoft.com,hosting,ARIN,MSFT,Microsoft Corporation,"One Microsoft Way, Redmond, WA, 98052, US",abuse@microsoft.com,+1-425-882-8080
+20.192.0.0,20.255.255.255,4,Microsoft Corporation,0.0001 (Very Low),microsoft.com,hosting,ARIN,MSFT,Microsoft Corporation,"One Microsoft Way, Redmond, WA, 98052, US",abuse@microsoft.com,+1-425-882-8080
+23.32.0.0,23.67.255.255,4,"Akamai Technologies, Inc.",0 (Very Low),akamai.com,hosting,ARIN,AKAMAI,"Akamai Technologies, Inc.","145 Broadway, Cambridge, MA, 02142, US",abuse@akamai.com,+1-617-444-2535
+24.176.80.0,24.176.95.255,4,Charter Communications LLC,0.0002 (Very Low),charter.com,isp,ARIN,HCK-NC-24-176-80,Charter Communications LLC,"6175 S. Willow Dr, Greenwood Village, CO, 80111, US",abuse@charter.net,+1-877-777-2263
+24.213.0.0,24.213.63.255,4,Charter Communications LLC,0 (Very Low),charter.com,isp,ARIN,CHARTER-MI,Charter Communications LLC,"6175 S. Willow Dr, Greenwood Village, CO, 80111, US",abuse@charter.net,+1-877-777-2263
+25.0.0.0,25.255.255.255,4,UK Ministry of Defence,0 (Very Low),gov.uk,government,RIPE,UK-MOD-19850128,Mathew Newton,"Defence Digital, Strategic Command, UK Ministry of Defence",hostmaster@mod.gov.uk,+44 (0)30 015 12351
+26.0.0.0,26.255.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DISANET26,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+27.40.0.0,27.47.255.255,4,China Unicom Guangdong province network,0.0002 (Very Low),chinaunicom.cn,isp,APNIC,UNICOM-GD,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
+27.87.2.0,27.87.2.255,4,KDDI CORPORATION,0 (Very Low),kddi.com,isp,JPNIC,KDDI-NET,,,,
+27.105.0.0,27.105.255.255,4,So-net Entertainment Taiwan Limited,0 (Very Low),so-net.net.tw,isp,APNIC,SONET-NET,ABUSE TWNICAP,"3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan",it_network_team@sonet-tw.net.tw,+000000000
+27.181.0.0,27.181.255.255,4,SK Telecom,0 (Very Low),sktelecom.com,isp,KRNIC,SK-TELECOM-NET,,,,
+27.182.0.0,27.182.255.255,4,SK Telecom,0 (Very Low),sktelecom.com,isp,KRNIC,SK-TELECOM-NET,,,,
+28.0.0.0,28.255.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DNIC-NET-028,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+30.0.0.0,30.255.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DNIC-NET-030,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+31.9.0.0,31.9.255.255,4,Syrian Telecommunication Private Closed Joint Stock Company,0 (Very Low),syriantelecom.sy,isp,RIPE,SY-ST-20110413,Weam Salem,Syrian Telecom (ST),exp-dir@net.sy,+963-11-6115983
+31.22.66.0,31.22.67.255,4,SV Werder Bremen GmbH & Co KG aA,0 (Very Low),werder.de,business,RIPE,DE-SVW-20211026-B2,Malte Schwarting,"SV Werder Bremen GmbH & Co KG aA, Franz-Boehmert-Str. 1c, 28205 Bremen, DE",abuse@werder.de,+49 421 434590
+31.52.0.0,31.55.255.255,4,BT Infrastructure Layer,0 (Very Low),bt.com,isp,RIPE,BT-INFRA,BTnet Support,"Adhara, Adastral Park, Martlesham Heath, Ipswich, SUFFLK IP5 3RE, GB",abuse@bt.com,+44 800 0858963 5
+31.70.0.0,31.70.255.255,4,IONOS SE,0 (Very Low),ionos.com,hosting,RIPE,DE-SCHLUND-20101125,IP Administration,IONOS SE,abuse@ionos.com,+49 721 91374 0
+31.188.0.0,31.191.255.255,4,WIND TRE S.P.A.,0 (Very Low),windtre.it,isp,RIPE,IT-H3G-20110324,STAFF IP,Largo Metropolitana 5 - 20017 Rho ( Milano ),abuse@wind.it,+39-02-3011.1
+32.0.0.0,32.143.255.255,4,"AT&T Enterprises, LLC",0 (Very Low),att.com,isp,ARIN,ATT-32-0-0-0-A,"AT&T Enterprises, LLC","208 S. Akard St., Dallas, TX, 75202, US",abuse@att.net,+1-919-319-8167
+32.2.208.0,32.2.223.255,4,ATTUS EVPN-SRL16,0 (Very Low),att.com,isp,ARIN,ATGS-051509160631,,,,
+32.164.0.0,32.175.255.255,4,"Amazon.com, Inc.",0 (Very Low),amazon.com,hosting,ARIN,AMAZO-4,"Amazon.com, Inc.","Seattle, WA, 98108-1226, US",trustandsafety@support.aws.com,+1-206-555-0000
+32.184.0.0,32.207.255.255,4,"Amazon.com, Inc.",0.0001 (Very Low),amazon.com,hosting,ARIN,AMAZO-4,"Amazon.com, Inc.","Seattle, WA, 98108-1226, US",trustandsafety@support.aws.com,+1-206-555-0000
+32.233.0.0,32.235.255.255,4,"AT&T Enterprises, LLC",0 (Very Low),att.com,isp,ARIN,ATT-32-0-0-0-A,"AT&T Enterprises, LLC","208 S. Akard St., Dallas, TX, 75202, US",abuse@att.net,+1-919-319-8167
+34.64.0.0,34.127.255.255,4,Google LLC,0.0011 (Low),google.com,hosting,ARIN,GOOGL-2,Google LLC,"1600 Amphitheatre Parkway, Mountain View, CA, 94043, US",google-cloud-compliance@google.com,+1-650-253-0000
+34.128.0.0,34.191.255.255,4,Google LLC,0.0011 (Low),google.com,hosting,ARIN,GOOGL-2,Google LLC,"1600 Amphitheatre Parkway, Mountain View, CA, 94043, US",google-cloud-compliance@google.com,+1-650-253-0000
+34.192.0.0,34.255.255.255,4,Amazon Technologies Inc.,0.0001 (Very Low),amazon.com,hosting,ARIN,AT-88-Z,Amazon Technologies Inc.,"410 Terry Ave N., Seattle, WA, 98109, US",trustandsafety@support.aws.com,+1-206-555-0000
+38.0.0.0,38.255.255.255,4,"Cogent Communications, LLC",0 (Very Low),cogentco.com,isp,ARIN,COGENT-A,"Cogent Communications, LLC","2450 N Street NW, Washington, DC, 20037, US",abuse@cogentco.com,+1-877-875-4311
+38.112.0.0,38.119.255.255,4,"PSINet, Inc.",0 (Very Low),cogentco.com,isp,ARIN,COGENT-NB-0002,"PSINet, Inc.","2450 N Street NW, Washington, DC, 20037, US",abuse@cogentco.com,+1-877-875-4311
+39.110.0.0,39.111.255.255,4,Sony Network Communications Inc.,0 (Very Low),sonynetwork.co.jp,isp,JPNIC,So-net-CIDR-BLK-JP,,,,
+40.33.0.0,40.34.255.255,4,Microsoft Limited,0 (Very Low),microsoft.com,hosting,RIPE,UK-MICROSOFT-19910423,Divya Quamara,"One Microsoft Way, Redmond, WA 98052",abuse@microsoft.com,+1-425-882-8080
+41.0.0.0,41.31.255.255,4,Vodacom,0 (Very Low),vodacom.co.za,isp,AFRINIC,VODACOM-20071126,Darren Bartnicke,82 Alexandra Road Bellville,,tel:+27-82-990-9628
+41.98.64.0,41.98.127.255,4,easy (oran 1 et 2),0.0001 (Very Low),algerietelecom.dz,isp,AFRINIC,ORAN,Security Departement,Alger,,tel:+213-21-91-12-24
+41.156.0.0,41.157.255.255,4,Cell C (Pty) Ltd,0 (Very Low),cellc.co.za,isp,AFRINIC,CELLCISP,Abram Henning,"Cell C (Pty) Ltd, Maxwell Drive cnr Pretoria Main Road, The Waterfall Campus, Johannesburg 2090, Johannesburg, South Africa",,tel:+27-61-344-0785
+41.215.0.0,41.215.127.255,4,AccessKenya Group Ltd,0.0002 (Very Low),accesskenya.com,isp,AFRINIC,CSL1-20080505,James Macharia,"The Cube, 5th and 6th Floor, Riverside Drive, P.O. Box 39519, Nairobi 00623, Kenya",,tel:+254-732-136535
+41.219.170.0,41.219.170.255,4,NETCOM-AFRICA,0 (Very Low),,isp,AFRINIC,NETCOM-AFRICA,Isaac Abanyi,"6F, SAPETRO Towers, 1 Adeola Odeku Street, Victoria Island 101241, Nigeria",,tel:+234-908-814-4220
+42.96.16.0,42.96.31.255,4,Long Van System Solution JSC,0.0024 (Low),lvsolution.vn,hosting,APNIC,LVSS-VN,IRT-VNNIC-AP,"Ha Noi, VietNam",hm-changed@vnnic.vn,+84-24-35564944
+42.160.0.0,42.175.255.255,4,North Star Information Hi.tech Ltd. Co.,0 (Very Low),chinamobile.com,isp,APNIC,NorthStar,North Star Information Hi.tech Ltd. Co.,"No.18, Beifengwo Road, Haidian District",liuxin15@cmtt.chinamobile.com,+86-13910572340
+43.0.0.0,43.127.255.255,4,Alibaba Cloud (Singapore) Private Limited,0 (Very Low),alibabacloud.com,hosting,APNIC,ASEPL-SG,Alibaba Cloud (Singapore) Private Limited,51 Bras Basah Road # 03-06 Lazada One Singapore 189554,abuse@alibaba-inc.com,+8657185022088-76449
+43.0.0.0,43.63.255.255,4,Alibabacom Singapore E-Commerce Private Limited a,0 (Very Low),alibabacloud.com,hosting,APNIC,ALIBABA_CLOUD,ABUSE ASEPLSG,1 Raffles Place,abuse@alibaba-inc.com,+000000000
+43.161.128.0,43.161.255.255,4,6 COLLYER QUAY,0.001 (Low),tencent.com,business,APNIC,ACEVILLEPTELTD-SG,ABUSE ACEVILLEPTELTDSG,16 COLLYER QUAY,abuse@tencent.com,+000000000
+43.198.0.0,43.199.255.255,4,"Amazon.com, Inc.",0.0001 (Very Low),amazon.com,hosting,APNIC,AMAZON-AS-AP,"Amazon.com, Inc.",605 5th Ave S,trustandsafety@support.aws.com,+01-206-266-6551
+43.200.0.0,43.207.255.255,4,"Amazon.com, Inc.",0 (Very Low),amazon.com,hosting,APNIC,AMAZON-AS-AP,"Amazon.com, Inc.",605 5th Ave S,trustandsafety@support.aws.com,+01-206-266-6551
+44.224.0.0,44.255.255.255,4,"Amazon.com, Inc.",0.0001 (Very Low),amazon.com,hosting,ARIN,AMAZO-ZPDX,"Amazon.com, Inc.","EC2, EC2 1200 12th Ave South, Seattle, WA, 98144, US",trustandsafety@support.aws.com,+1-206-555-0000
+45.87.72.0,45.87.75.255,4,EternalNet AG,0 (Very Low),eternalnet.ch,isp,RIPE,CH-ETERNALNET-20190614,Alex Passfall,"Christoph Merian-Ring 11, 4153, Reinach, SWITZERLAND",support@eternalnet.ch,+41 61 577 27 77
+46.185.0.0,46.185.127.255,4,Kyivstar PJSC,0 (Very Low),kyivstar.ua,isp,RIPE,UA-KYIVSTAR-20101110,Kyivstar PJSC,"Degtyarevskaya, 53, Kiev, Ukraine",abuse@kyivstar.net,+380 67 2090070
+46.231.146.0,46.231.151.255,4,SAS Outscale,0 (Very Low),outscale.com,hosting,RIPE,OUTSCALE-SAS-PA-1,NOC OUTSCALE,319 Bureaux de la Colline 92210 Saint-Cloud,abuse@outscale.com,
+47.113.0.0,47.127.255.255,4,"Aliyun Computing Co., LTD",0 (Very Low),alibabacloud.com,hosting,APNIC,ALISOFT,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
+47.128.0.0,47.131.255.255,4,Amazon Data Services Singapore,0.0008 (Low),amazon.com,hosting,ARIN,AMAZON-SIN,Amazon Data Services Singapore,"Singapore, 049481, SG",trustandsafety@support.aws.com,+1-206-555-0000
+47.136.0.0,47.181.255.255,4,Verizon Business,0.0001 (Very Low),verizon.com,isp,ARIN,FCC-212,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+48.48.0.0,48.159.255.255,4,The Prudential Insurance Company of America,0 (Very Low),prudential.com,banking,ARIN,PRU48,,,,
+49.212.0.0,49.212.255.255,4,SAKURA Internet Inc.,0 (Very Low),sakura.ad.jp,hosting,APNIC,SAKURA-OSAKA,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+49.251.128.0,49.251.255.255,4,"JCOM Marketing Co., Ltd.",0 (Very Low),jcom.co.jp,business,JPNIC,JCOM-NET,,,,
+51.82.0.0,51.82.255.255,4,A100 ROW Inc,0 (Very Low),amazon.com,hosting,RIPE,US-A100ROW-19930901,IP Man,"Marcel-Breuer-Strasse 12, 80807, Munchen, GERMANY",trustandsafety@support.aws.com,+4994178878008
+52.75.0.0,52.75.255.255,4,"Amazon.com, Inc.",0 (Very Low),amazon.com,hosting,ARIN,AMAZO-ZPDX,"Amazon.com, Inc.","EC2, EC2 1200 12th Ave South, Seattle, WA, 98144, US",trustandsafety@support.aws.com,+1-206-555-0000
+52.145.0.0,52.191.255.255,4,Microsoft Corporation,0.0001 (Very Low),microsoft.com,hosting,ARIN,MSFT,Microsoft Corporation,"One Microsoft Way, Redmond, WA, 98052, US",abuse@microsoft.com,+1-425-882-8080
+52.224.0.0,52.255.255.255,4,Microsoft Corporation,0 (Very Low),microsoft.com,hosting,ARIN,MSFT,Microsoft Corporation,"One Microsoft Way, Redmond, WA, 98052, US",abuse@microsoft.com,+1-425-882-8080
+54.36.0.0,54.38.255.255,4,OVH SAS,0.0001 (Very Low),ovhcloud.com,hosting,RIPE,FR-OVH,OVH Technical Contact,"OVH SAS, 2 rue Kellermann, 59100 Roubaix, France",abuse@ovh.net,+33972101007
+54.45.0.0,54.45.255.255,4,"Amazon.com, Inc.",0 (Very Low),amazon.com,hosting,ARIN,AMAZO-4,"Amazon.com, Inc.","Seattle, WA, 98108-1226, US",trustandsafety@support.aws.com,+1-206-555-0000
+54.139.0.0,54.139.255.255,4,Microsoft Limited,0 (Very Low),microsoft.com,hosting,RIPE,UK-MICROSOFT-19920317,Divya Quamara,"One Microsoft Way, Redmond, WA 98052",abuse@microsoft.com,+1-425-882-8080
+55.0.0.0,55.255.255.255,4,"Headquarters, USAISC",0 (Very Low),army.mil,government,ARIN,CONUS-RCAS,"Headquarters, USAISC","NETC-ANC CONUS TNOSC, Fort Huachuca, AZ, 85613, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+56.89.0.0,56.90.255.255,4,"Amazon.com, Inc.",0 (Very Low),amazon.com,hosting,ARIN,AMAZO-4,"Amazon.com, Inc.","Seattle, WA, 98108-1226, US",trustandsafety@support.aws.com,+1-206-555-0000
+57.66.0.0,57.70.255.255,4,Orange Business Communications Technology Limited,0 (Very Low),orange.com,isp,RIPE,OBS_SITA-INTERNET,Orange Business Services - Internet team,"Equant France (Orange Business Services), Immeuble Le GALION - 16-18 Rue Paul Lafargue, 92904 PUTEAUX - La Defense 10, FRANCE",soc@orange.com,+33156387118
+57.86.0.0,57.86.255.255,4,Orange Business Communications Technology Limited,0 (Very Low),orange.com,isp,RIPE,OBS_SITA-INTERNET,Orange Business Services - Internet team,"Equant France (Orange Business Services), Immeuble Le GALION - 16-18 Rue Paul Lafargue, 92904 PUTEAUX - La Defense 10, FRANCE",soc@orange.com,+33156387118
+58.56.0.0,58.59.127.255,4,CHINANET SD,0.0002 (Very Low),chinatelecom.com.cn,isp,APNIC,CHINANET-SD,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+58.87.176.0,58.87.191.255,4,So-net Service,0 (Very Low),so-net.ne.jp,isp,JPNIC,SO-NET,,,,
+58.156.0.0,58.159.255.255,4,ARTERIA Networks Corporation,0 (Very Low),arteria-net.com,isp,APNIC,Vectant,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+59.9.60.0,59.9.60.255,4,Sudogwongangbukbonbujang,0 (Very Low),kt.com,business,KRNIC,KORNET,,,,
+59.62.0.0,59.63.255.255,4,CHINANET Jiangxi province network,0.0001 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-JX,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+60.128.0.0,60.159.255.255,4,SOFTBANK Corp.,0 (Very Low),softbank.jp,isp,APNIC,BBTEC,SOFTBANK Corp.,"Tokyo Portcity Takeshiba Office Tower 22F, 1-7-1, Kaigan",abuse@e.softbank.co.jp,+81-3-6889-6365
+60.176.0.0,60.191.255.255,4,CHINANET Zhejiang province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-ZJ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+60.220.0.0,60.223.255.255,4,China Unicom Shanxi Province Network,0 (Very Low),chinaunicom.cn,isp,APNIC,UNICOM-SX,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
+61.20.224.0,61.20.255.255,4,"Far EasTone Telecommunication Co., Ltd.",0 (Very Low),fetnet.net,isp,TWNIC,FETNET-NET,Jeff Ho,"Far EasTone Telecommunications Co., Ltd., 334, Sze Chuan Road, Sec. 1, Panchiao, Taipei County Taiwan",jfho@fareastone.com.tw,+886-2-2950-7572
+61.190.0.0,61.190.255.255,4,CHINANET Anhui province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-AH,ANHUI TELECOM,"305 Changjiang West Road, Hefei Anhui China",anti-spam@chinatelecom.cn,+86 0551 5185089
+61.228.0.0,61.231.255.255,4,"Chunghwa Telecom Co.,Ltd.",0 (Very Low),cht.com.tw,isp,APNIC,HINET-NET,IRT-HINET-1-TW,"Data Communication Business Group, Chunghwa Telecom Co.,Ltd., No.21, Sec.1, Xinyi Rd., Taipei City, 10048, Taiwan",abuse@hinet.net,
+62.6.0.0,62.6.127.255,4,BT Infrastructure Layer,0 (Very Low),bt.com,isp,RIPE,BT-INFRA,BTnet Support,"Adhara, Adastral Park, Martlesham Heath, Ipswich, SUFFLK IP5 3RE, GB",abuse@bt.com,+44 800 0858963 5
+62.18.0.0,62.19.255.255,4,Telecom Italia S.p.A.,0 (Very Low),telecomitalia.it,isp,RIPE,IT-TIM-20111110,Mauro Mecci,"TIM (Telecom Italia Mobile), Via Di Val Cannuta, 250, 00166 Roma, Italy",abuse@telecomitalia.it,+39 06 3900 9032
+62.43.0.0,62.43.127.255,4,Cableuropa - ONO,0.0001 (Very Low),vodafone.com,isp,RIPE,ONO,VODAFONE IP MANAGER,"Avenida de Am*rica 115, 28042, Madrid, Spain",abuse@corp.vodafone.es,+34 607 13 33 33
+62.78.96.0,62.78.255.255,4,DNA Oyj,0 (Very Low),dna.fi,isp,RIPE,FI-DNA-20010918,DNA Registry,"DNA Oyj, PL 10, 01044 DNA, Finland",abuse@dnaip.fi,+358440440
+62.103.0.0,62.103.255.255,4,Ote SA (Hellenic Telecommunications Organisation),0 (Very Low),cosmote.gr,isp,RIPE,GR-OTE-20001109,OTE IP ADM,"Ote SA (Hellenic Telecommunications Organisation), Kifissias 99, GR-15124 Athens, Greece",abuse@ote.gr,+30210611 1000
+63.0.0.0,63.31.255.255,4,Verizon Business,0 (Very Low),verizon.com,isp,ARIN,NETBLK-UUNET97DU,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+63.64.0.0,63.127.255.255,4,Verizon Business,0 (Very Low),verizon.com,isp,ARIN,UUNET63,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+63.160.0.0,63.175.255.255,4,"Cogent Communications, LLC",0 (Very Low),cogentco.com,isp,ARIN,COGENT-63-160-0,"Cogent Communications, LLC","2450 N Street NW, Washington, DC, 20037, US",abuse@cogentco.com,+1-877-875-4311
+63.192.0.0,63.207.255.255,4,"AT&T Enterprises, LLC",0 (Very Low),att.com,isp,ARIN,SBCIS-SIS80,"AT&T Enterprises, LLC","208 S. Akard St., Dallas, TX, 75202, US",abuse@att.net,+1-919-319-8167
+63.208.0.0,63.215.255.255,4,"Level 3 Parent, LLC",0 (Very Low),level3.com,isp,ARIN,LEVEL4-CIDR,"Level 3 Parent, LLC","100 CenturyLink Drive, Monroe, LA, 71203, US",abuse@level3.com,+1-877-453-8353
+64.7.64.0,64.7.87.255,4,"WebPerception, LLC",0 (Very Low),webperception.com,business,ARIN,WEBPERCEPT,"WebPerception, LLC","Novato, CA, 94947, US",brendan@webperception.com,+1-415-892-7711
+64.128.0.0,64.129.255.255,4,"Level 3 Parent, LLC",0 (Very Low),level3.com,isp,ARIN,TWTC-NETBLK-11,"Level 3 Parent, LLC","100 CenturyLink Drive, Monroe, LA, 71203, US",abuse@level3.com,+1-877-453-8353
+64.196.0.0,64.199.255.255,4,Windstream Communications LLC,0 (Very Low),windstream.com,isp,ARIN,PAETECCOMM,Windstream Communications LLC,"4005 North Rodney Parham Rd, Little Rock, AR, 72212, US",abuse@windstream.net,+1-800-347-1991
+64.196.100.0,64.196.100.255,4,PAETEC,0 (Very Low),paetec.com,isp,ARIN,PAET-ST-1,,,,
+65.124.1.0,65.124.1.255,4,"Qwest Communications Company, LLC",0 (Very Low),lumen.com,isp,ARIN,STNGVA-WAN-65-124-1-0,"Qwest Communications Company, LLC","100 CENTURYLINK DR, Monroe, LA, 71203, US",abuse@aup.lumen.com,+1-877-886-6515
+65.160.0.0,65.173.255.255,4,"Cogent Communications, LLC",0 (Very Low),cogentco.com,isp,ARIN,COGC,"Cogent Communications, LLC","2450 N Street NW, Washington, DC, 20037, US",abuse@cogentco.com,+1-877-875-4311
+65.240.0.0,65.253.255.255,4,Verizon Business,0 (Very Low),verizon.com,isp,ARIN,UUNET65-2,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+67.76.0.0,67.77.255.255,4,"CenturyLink Communications, LLC",0 (Very Low),centurylink.com,isp,ARIN,CENTURYLINK-LEGACY-EMBARQ-BKL-3,"CenturyLink Communications, LLC","100 CENTURYLINK DR, Monroe, LA, 71201, US",abuse@aup.lumen.com,+1-877-886-6515
+67.166.0.0,67.166.63.255,4,"Comcast Cable Communications, IP Services",0.0005 (Very Low),comcast.com,isp,ARIN,COLORADO-8,,,,
+68.59.32.0,68.59.47.255,4,"Comcast Cable Communications, Inc.",0 (Very Low),comcast.com,isp,ARIN,MINNESOTA-35,,,,
+68.96.0.0,68.111.255.255,4,Cox Communications Inc.,0 (Very Low),cox.com,isp,ARIN,COX-ATLANTA-2,Cox Communications Inc.,"6175 S. Willow Dr, Greenwood Village, CO, 80111, US",abuse@cox.com,+1-866-272-5111
+68.224.0.0,68.231.255.255,4,Cox Communications Inc.,0 (Very Low),cox.com,isp,ARIN,NETBLK-COX-ATLANTA-7,Cox Communications Inc.,"6175 S. Willow Dr, Greenwood Village, CO, 80111, US",abuse@cox.com,+1-866-272-5111
+68.233.44.0,68.233.44.255,4,Host Color LLC,0 (Very Low),hostcolor.com,hosting,ARIN,AS46873-HOSTCOLOR-DALLAS,,,,
+69.112.232.0,69.112.239.255,4,Optimum Online (Cablevision Systems),0 (Very Low),optimum.com,isp,ARIN,OOL-CPE-WPGRNY-69-112-232-0-21,,,,
+70.166.0.0,70.166.31.255,4,Cox Communications,0 (Very Low),cox.com,isp,ARIN,NETBLK-SD-CBS-70-166-0-0,,,,
+71.208.0.0,71.223.255.255,4,"CenturyLink Communications, LLC",0 (Very Low),centurylink.com,isp,ARIN,CENTURYLINK-LEGACY-QWEST-INET-118,"CenturyLink Communications, LLC","100 CENTURYLINK DR, Monroe, LA, 71201, US",abuse@aup.lumen.com,+1-877-886-6515
+72.56.216.0,72.56.231.255,4,Alaxona Internet Inc.,0 (Very Low),alaxona.com,isp,RIPE,CLIENT-LEASE,Network Operator,"20-21 Wagaraw rd, 07410, Fair Lawn, US",abuse@alaxona.com,+1.973.548.5434
+72.62.176.0,72.62.191.255,4,HOSTINGER HOSTING,0 (Very Low),hostinger.com,hosting,RIPE,HOSTINGER-HOSTING,Hostinger NOC,"LITHUANIA, Vilnius, LT-03230, Svitrigailos str. 34, LT-03230 Vilnius, Lithuania",abuse@hostinger.com,+13024640055
+72.96.0.0,72.127.255.255,4,Verizon Business,0 (Very Low),verizon.com,isp,ARIN,VZFW-72-96,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+72.144.0.0,72.147.255.255,4,Microsoft Corporation,0 (Very Low),microsoft.com,hosting,ARIN,MSFT,Microsoft Corporation,"One Microsoft Way, Redmond, WA, 98052, US",abuse@microsoft.com,+1-425-882-8080
+72.194.160.0,72.194.191.255,4,Cox Communications Inc.,0 (Very Low),cox.com,isp,ARIN,NETBLK-PH-CBS-72-194-160-0,,,,
+73.0.0.0,73.255.255.255,4,"Comcast Cable Communications, LLC",0 (Very Low),comcast.com,isp,ARIN,CABLE-1,IRT-STUB-AP,N/A,no-email@apnic.net,
+73.68.0.0,73.69.255.255,4,"Comcast IP Services, L.L.C.",0.0001 (Very Low),comcast.com,isp,ARIN,BOSTON-20,,,,
+73.120.0.0,73.120.127.255,4,"Comcast Cable Communications, LLC",0.0001 (Very Low),comcast.com,isp,ARIN,KNOXVILLE-CPE-11,,,,
+73.132.0.0,73.135.255.255,4,"Comcast Cable Communications, Inc.",0.0002 (Very Low),comcast.com,isp,ARIN,BAWA-CPE-11,,,,
+75.23.0.0,75.45.127.255,4,"AT&T Enterprises, LLC",0 (Very Low),att.com,isp,ARIN,SBCIS-SBIS-6BLK,"AT&T Enterprises, LLC","208 S. Akard St., Dallas, TX, 75202, US",abuse@att.net,+1-919-319-8167
+75.128.0.0,75.143.255.255,4,Charter Communications LLC,0 (Very Low),charter.com,isp,ARIN,NETBLK-CHARTER-NET,Charter Communications LLC,"6175 S. Willow Dr, Greenwood Village, CO, 80111, US",abuse@charter.net,+1-877-777-2263
+75.152.0.0,75.159.255.255,4,TELUS Communications Inc.,0 (Very Low),telus.com,isp,ARIN,TELUS,TELUS Communications Inc.,"510 W Georgia St, Vancouver, BC, V6B 2A3, CA",abuse@telus.com,+1-877-945-8220
+75.176.0.0,75.191.255.255,4,Charter Communications Inc,0.0002 (Very Low),charter.com,isp,ARIN,RRMA,Charter Communications Inc,"6175 S. Willow Dr, Greenwood Village, CO, 80111, US",abuse@charter.net,+1-877-777-2263
+75.192.0.0,75.255.255.255,4,Verizon Business,0 (Very Low),verizon.com,isp,ARIN,WIRELESSDATANEWORK,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+76.64.0.0,76.71.255.255,4,Bell Canada,0 (Very Low),bell.ca,isp,ARIN,BELLCANADA-16,Bell Canada,"160 Elgin Street, Ottawa, ON, K1G-3J4, CA",abuse@sympatico.ca,+1-877-877-2426
+77.128.0.0,77.135.159.255,4,Fixed IP,0 (Very Low),,business,RIPE,SFR-USER-DATA,SFR Legal Contact,"Campus SFR, 12 rue Jean-Philippe Rameau, CS 80001, 93634 La-Plaine-Saint-Denis Cedex, France",abuse@gaoland.net,+33 1 70 18 52 00
+77.128.0.0,77.159.255.255,4,Societe Francaise Du Radiotelephone - SFR SA,0 (Very Low),sfr.fr,isp,RIPE,FR-SFR-20100831,SFR Tech Contact (formerly Neuf Cegetel / LDCOM Networks),"SFR, CAMPUS SFR, 16 rue du General Alain de Boissieu, CS 68217, 75741 PARIS CEDEX 15, France",abuse@gaoland.net,+33 1 85 06 00 00
+77.144.0.0,77.151.255.255,4,Pool for mobile data users,0 (Very Low),,isp,RIPE,SFR-USER-DATA,SFR Legal Contact,"Campus SFR, 12 rue Jean-Philippe Rameau, CS 80001, 93634 La-Plaine-Saint-Denis Cedex, France",abuse@gaoland.net,+33 1 70 18 52 00
+77.216.0.0,77.219.255.255,4,Tele2 Sverige AB,0 (Very Low),tele2.se,isp,RIPE,SE-SWIPNET-20070109,Tele2 IP Registry,"Tele2 Sverige AB, IP Registry, Torshamnsgatan 17 164 40 Kista SWEDEN",abuse@tele2.com,+46856264008
+77.224.0.0,77.231.255.255,4,VODAFONE ESPANA S.A.U.,0 (Very Low),vodafone.es,isp,RIPE,ES-AIRTEL-20061206,VODAFONE IP MANAGER,"Avenida de Am*rica 115, 28042, Madrid, Spain",abuse@corp.vodafone.es,+34 607 13 33 33
+77.238.160.0,77.238.191.255,4,Yahoo-UK Limited,0 (Very Low),yahoo.com,business,RIPE,UK-YAHOO-20070216,YAHOO ADMINS,"770 Broadway, 9th Floor, New York, NY 10003",rir-abuse@verizonmedia.com,+442071311495
+77.240.0.0,77.240.15.255,4,Iomart Managed Services Limited,0 (Very Low),iomart.com,hosting,RIPE,UK-IOMARTHOSTING-20070103,iomart Network Team,"6 Atlantic Quay, 55 Robertson Street, Glasgow, Scotland, G2 8JD",abuse@iomart.com,+44 141 931 6400
+79.95.16.0,79.95.31.255,4,DSL - End users,0 (Very Low),,isp,RIPE,SFR-USER-DATA,SFR Legal Contact,"Campus SFR, 12 rue Jean-Philippe Rameau, CS 80001, 93634 La-Plaine-Saint-Denis Cedex, France",abuse@gaoland.net,+33 1 70 18 52 00
+79.138.0.0,79.138.127.255,4,Bredband2 AB,0 (Very Low),bredband2.com,isp,RIPE,SE-BREDBAND2-20071019,Bredband2 Routingregistry,Sodra Tullgatan 4 S-211 40 Malmoe Sweden,abuse@bredband2.se,+46 771 518500
+79.142.240.0,79.142.255.255,4,Bredband2 Stockholms Stadsnaet AB,0 (Very Low),bredband2.com,isp,RIPE,SE-HPDC-20090615,Bredband2 Routingregistry,Sodra Tullgatan 4 S-211 40 Malmoe Sweden,abuse@bredband2.se,+46 771 518500
+79.144.0.0,79.159.255.255,4,TELEFONICA DE ESPANA S.A.U.,0 (Very Low),telefonica.es,isp,RIPE,ES-TELEFONICA-20070607,Administradores Telefonica de Espana,"Ronda de la Comunicacion s/n, Edificio Norte 1, planta 6, 28050 Madrid, SPAIN",nemesys@telefonica.es,+34915846842
+79.173.112.0,79.173.127.255,4,TK TOR Network,0.0012 (Low),itreg.ru,business,RIPE,TKTOR-NET,Leonid Y Krassilnikov,"IT-Region Ltd., 19, Chekhova str., Gatchina, St. Petersburg region, RU",abuse@itreg.ru,+7(81371)32060
+79.192.0.0,79.255.255.255,4,Deutsche Telekom AG,0 (Very Low),telekom.de,isp,RIPE,DE-TELEKOM-20070606,Deutsche Telekom LIR Role Account,"Deutsche Telekom AG, Internet Services, Eduard-Schopf-Allee 1, DE 28217 Bremen, Germany",abuse@telekom.de,+49 421 5155 4041
+80.160.0.0,80.167.255.255,4,TDC Holding A/S,0 (Very Low),tdc.dk,isp,RIPE,DK-TELEDANMARK-20020712,AS3292 Staff,"TDC A/S, Sletvej 30, 8-062, DK-8310 Tranbjerg, Denmark",postmaster@abuse.mail.dk,+45 7070 3000
+81.32.0.0,81.47.255.255,4,TELEFONICA DE ESPANA S.A.U.,0 (Very Low),telefonica.es,isp,RIPE,ES-TELEFONICA-20020215,Administradores Telefonica de Espana,"Ronda de la Comunicacion s/n, Edificio Norte 1, planta 6, 28050 Madrid, SPAIN",nemesys@telefonica.es,+34915846842
+81.128.0.0,81.159.255.255,4,British Telecommunications Limited,0 (Very Low),bt.com,isp,RIPE,UK-BT-20020725,BT IP Address Admin,"PP 1, Floor 1, Orion Building, Adastral Park, Martlesham Heath, Ipswich, IP5 3RE, UK",abuse@bt.com,+44 (0)20 7356 5000
+81.241.0.0,81.241.15.255,4,Proximus SA de droit public,0 (Very Low),proximus.be,isp,RIPE,BE-BELGACOM-ADSL1,Proximus NOC administrators,"Proximus SA de droit public, TEC/NEO/IPR/TDN/DTO/DSL Internet Networks, Boulevard du Roi Albert II, 27, B-1030 Bruxelles, Belgium",abuse@proximus.com,+32 2 202-4111
+82.30.0.0,82.37.255.255,4,Virgin Media Limited,0 (Very Low),virginmedia.com,isp,RIPE,UK-NTLI-20030131,Virgin Media IP Address Management,"Virgin Media, 500 Brook Drive Green Park, Reading, Berkshire, RG2 6UU",abuse@virginmediao2.co.uk,+44 3333439120
+82.184.0.0,82.191.255.255,4,Telecom Italia S.p.A.,0 (Very Low),telecomitalia.it,isp,RIPE,IT-INTERBUSINESS-20030916,Interbusiness Network Administration Staff,"Telecom Italia S.p.A, Italy",abuse@business.telecomitalia.it,+39 06 36881
+82.234.4.0,82.234.7.255,4,Proxad / Free SAS,0 (Very Low),free.fr,isp,RIPE,FR-PROXAD-ADSL,Administrative Contact for ProXad,"Free SAS / ProXad, 8, rue de la Ville L'Eveque, 75008 Paris",abuse@proxad.net,+33 1 73 50 20 00
+83.32.0.0,83.63.255.255,4,TELEFONICA DE ESPANA S.A.U.,0 (Very Low),telefonica.es,isp,RIPE,ES-TELEFONICA-20031202,Administradores Telefonica de Espana,"Ronda de la Comunicacion s/n, Edificio Norte 1, planta 6, 28050 Madrid, SPAIN",nemesys@telefonica.es,+34915846842
+83.52.0.0,83.55.255.255,4,TELEFONICA DE ESPANA S.A.U.,0 (Very Low),telefonica.es,isp,RIPE,RIMA,Administradores Telefonica de Espana,"Ronda de la Comunicacion s/n, Edificio Norte 1, planta 6, 28050 Madrid, SPAIN",nemesys@telefonica.es,
+83.56.0.0,83.59.255.255,4,TELEFONICA DE ESPANA S.A.U.,0 (Very Low),telefonica.es,isp,RIPE,RIMA,Administradores Telefonica de Espana,"Ronda de la Comunicacion s/n, Edificio Norte 1, planta 6, 28050 Madrid, SPAIN",nemesys@telefonica.es,
+83.67.0.0,83.67.255.255,4,TalkTalk Communications Limited,0 (Very Low),talktalk.co.uk,isp,RIPE,UK-OPALNET-20040402,TalkTalk Hostmaster,"TalkTalk Communications Limited, Soapworks, Ordsall Lane, Salford, Manchester, M5 3TT, United Kingdom",abuse-reports@pxc.co.uk,+441612222000
+84.31.192.0,84.31.255.255,4,Ziggo Consumers,0.0001 (Very Low),ziggo.nl,isp,RIPE,ZIGGO-CM,VODAFONEZIGGO IP AUTHORITY,"Kabelweg 51, 1014BA Amsterdam, The Netherlands",esabuse.nl@vodafoneziggo.com,+31887170000
+84.128.0.0,84.191.255.255,4,Deutsche Telekom AG,0 (Very Low),telekom.de,isp,RIPE,DE-TELEKOM-20040310,Deutsche Telekom LIR Role Account,"Deutsche Telekom AG, Internet Services, Eduard-Schopf-Allee 1, DE 28217 Bremen, Germany",abuse@telekom.de,+49 421 5155 4041
+84.136.0.0,84.191.255.255,4,Deutsche Telekom AG,0 (Very Low),telekom.de,isp,RIPE,DTAG-DIAL20,DTAG Global IP-Addressing,"Deutsche Telekom AG, Darmstadt, Germany",abuse@telekom.de,+49 180 2 33 1000
+85.84.0.0,85.87.255.255,4,Euskaltel S.A.,0 (Very Low),euskaltel.com,isp,RIPE,ES-EUSKALTEL-20041022,EUSKALTEL RIPE,"Edificio 809, Parque Tecnologico de Zamudio, 48160 Derio (BIZKAIA), Spain",abuse.es@masorange.es,+34 94 4011000
+85.170.0.0,85.170.255.255,4,End-User NUMERICABLE,0 (Very Low),numericable.fr,isp,RIPE,FR-NCNUMERICABLE,Numericable Administrative Role Account,"NUMERICABLE, 6 rue Albert Einstein, 77420 CHAMPS SUR MARNE, FRANCE",abuse@gaoland.net,
+86.128.0.0,86.191.255.255,4,British Telecommunications Limited,0 (Very Low),bt.com,isp,RIPE,UK-BT-20050207,BT IP Address Admin,"PP 1, Floor 1, Orion Building, Adastral Park, Martlesham Heath, Ipswich, IP5 3RE, UK",abuse@bt.com,+44 (0)20 7356 5000
+87.55.120.0,87.55.123.255,4,TDC A/S,0 (Very Low),tdc.dk,isp,RIPE,TDC-BREDBAANDS-TELEFONI,AS3292 Staff,"TDC A/S, Sletvej 30, 8-062, DK-8310 Tranbjerg, Denmark",postmaster@abuse.mail.dk,
+87.102.128.0,87.102.255.255,4,ImproWare AG,0 (Very Low),imp.ch,isp,RIPE,CH-IMPROWARE-20051019,Patrick Guelat,"ImproWare AG, Network Services, Zurlindenstrasse 29, CH-4133 Pratteln, Switzerland",abuse@imp.ch,+41 61 826 9300
+87.128.0.0,87.191.255.255,4,Deutsche Telekom AG,0 (Very Low),telekom.de,isp,RIPE,DE-TELEKOM-20050503,Deutsche Telekom LIR Role Account,"Deutsche Telekom AG, Internet Services, Eduard-Schopf-Allee 1, DE 28217 Bremen, Germany",abuse@telekom.de,+49 421 5155 4041
+87.216.0.0,87.223.255.255,4,Orange Espagne SA,0 (Very Low),orange.es,isp,RIPE,ES-JAZZTEL-20050607,JAZZTEL RIPE,"Parque Empresarial La Finca, Edificio 9, Paseo del Club Deportivo, 1, 28223 Pozuelo de Alarcon, Madrid, Spain",abuse.es@masorange.es,+34 91 183 9000
+87.235.128.0,87.235.170.255,4,Infraestructura Red y Servicios IP,0.0001 (Very Low),vodafone.es,isp,RIPE,IPCOM-NET,Planificacion RMS Comunitel,"Oficina Vodafone Bouzas I (oficina Comercial Vigo), Consorcio. Zona Franca Bouzas., 36208 Vigo Espanha",abuse@corp.vodafone.es,
+88.0.0.0,88.31.255.255,4,TELEFONICA DE ESPANA S.A.U.,0 (Very Low),telefonica.es,isp,RIPE,ES-TELEFONICA-20050713,Administradores Telefonica de Espana,"Ronda de la Comunicacion s/n, Edificio Norte 1, planta 6, 28050 Madrid, SPAIN",nemesys@telefonica.es,+34915846842
+88.30.0.0,88.30.127.255,4,TELEFONICA DE ESPANA S.A.U.,0.0001 (Very Low),telefonica.es,isp,RIPE,RIMA,Administradores Telefonica de Espana,"Ronda de la Comunicacion s/n, Edificio Norte 1, planta 6, 28050 Madrid, SPAIN",nemesys@telefonica.es,
+88.116.0.0,88.117.255.255,4,A1 Telekom Austria AG,0 (Very Low),a1.at,isp,RIPE,AT-TELEKOM-20010912,Host Master Highway,"A1 Telekom Austria AG, Arsenal Objekt 24, 1030 Vienna, Austria",abuse@a1.at,+43 50 664 8 664 100
+89.21.192.0,89.21.223.255,4,Convergenze S.p.A.,0 (Very Low),convergenze.it,isp,RIPE,IT-CONVERGENZE-20100512,Rosario Pingaro,"Via Magna Graecia 136, 84040 - Capaccio S. (Salerno)",abuse@convergenze.it,+390828730167
+89.67.0.0,89.74.255.255,4,P4 Sp. z o.o.,0.0001 (Very Low),play.pl,isp,RIPE,PLAY,P4 Team,"P4 Sp. z o.o., ul. Wynalazek 1, 02-677 Warszawa, Poland",abuse@play.pl,+48 22 3194000
+89.120.0.0,89.123.255.255,4,Orange Romania S.A.,0 (Very Low),orange.ro,isp,RIPE,RO-DIALOG-20060301,Orange Romania Communications LIR,Calea Victoriei 35 Bucuresti Romania,registry@orange.com,+40212033000
+90.0.0.0,90.71.255.255,4,Orange S.A.,0 (Very Low),orange.com,isp,RIPE,FR-TELECOM-20060302,Local Internet Registry Orange fr.telecom,"Orange, 111, quai du Pr*sident Roosevelt, 92130 ISSY-LES-MOULINEAUX",gestionip.ft@orange.com,+33
+90.52.88.0,90.52.95.255,4,POP LYO,0 (Very Low),orange.com,isp,RIPE,IP2000-ADSL-BAS,Wanadoo France Technical Role,"FRANCE TELECOM/SCR, 48 rue Camille Desmoulins, 92791 ISSY LES MOULINEAUX CEDEX 9, FR",gestionip.ft@orange.com,+33 1 58 88 50 00
+90.96.0.0,90.96.255.255,4,"NET AND GRID RESEARCH, LLC",0 (Very Low),ipv4.global,hosting,RIPE,US-NETANDGRID-20060302,Chris Kelly,"1125 DINA CT, STE C, Hiawatha, IA 52233, UNITED STATES",support@ipv4.global,+13195337106
+90.133.240.0,90.133.255.255,4,Mobile Services,0 (Very Low),tele2.com,isp,RIPE,SE-TELE2-MBB,Swipnet Staff,"Tele2 AB/Swedish IP Network, IP Registry, Torshamnsgatan 17 164 40 Kista SWEDEN",abuse@tele2.com,
+90.148.0.0,90.148.255.255,4,Saudi Telecom Company JSC,0 (Very Low),stc.com.sa,isp,RIPE,SA-STC-20061208,Saudi Telecom Co. Registry Admin-C contact,"STC complex, murslat, Riyadh, P.O.Box: 295997, Riyadh 11351, Saudi Arabia",registry@stc.com.sa,+966-11-4525020
+90.160.0.0,90.175.255.255,4,Orange Espagne SA,0 (Very Low),orange.es,isp,RIPE,ES-UNI2-20060912,Hostmaster Administrator FTE,"Parque Empresarial La Finca, Edificio 9, Paseo del Club Deportivo, 1, 28223 Pozuelo de Alarcon, Madrid, Spain",abuse.es@masorange.es,+34912521200
+90.174.0.0,90.174.255.255,4,ORange ADSL User,0 (Very Low),orange.es,isp,RIPE,OrangeADSL,Angel Luis Gonzalez,"Parque Empresarial La Finca, Edificio 8, Paseo del Club Deportivo, 1, 28223 Pozuelo de Alarcon, Madrid, Spain",abuse.es@masorange.es,+34 91 1784000
+90.240.0.0,90.255.255.255,4,Vodafone Limited,0 (Very Low),vodafone.co.uk,isp,RIPE,UK-VODAFONE-WORLDWIDE-20060908,Vodafone IP GSOC,"Vodafone Group PLC, The Connection, Newbury, RG14 2FN, United Kingdom",ipabuse@vodafone.co.uk,+44 1344 602224
+91.0.0.0,91.63.255.255,4,Deutsche Telekom AG,0 (Very Low),telekom.de,isp,RIPE,DE-TELEKOM-20060703,Deutsche Telekom LIR Role Account,"Deutsche Telekom AG, Internet Services, Eduard-Schopf-Allee 1, DE 28217 Bremen, Germany",abuse@telekom.de,+49 421 5155 4041
+91.0.0.0,91.23.255.255,4,Deutsche Telekom AG,0 (Very Low),telekom.de,isp,RIPE,DTAG-DIAL22,DTAG Global IP-Addressing,"Deutsche Telekom AG, Darmstadt, Germany",abuse@telekom.de,+49 180 2 33 1000
+91.32.0.0,91.63.255.255,4,Deutsche Telekom AG,0 (Very Low),telekom.de,isp,RIPE,DTAG-DIAL23,DTAG Global IP-Addressing,"Deutsche Telekom AG, Darmstadt, Germany",abuse@telekom.de,+49 180 2 33 1000
+91.140.128.0,91.140.255.255,4,GULFNET COMMUNICATIONS CO. WLL,0 (Very Low),bonline.com.kw,isp,RIPE,KW-GULFNET-20061024,UCC Kuwait Role,"P.O.Box 25493, Safat 13115, Kuwait",noc@bonline.com.kw,+9651828444
+91.230.56.0,91.230.57.255,4,GRANACABLE S.L,0 (Very Low),granacable.com,isp,RIPE,GRANACABLE,GRANACABLE ROLE,"Calle Escultor Alberto Sanchez, 4, Maracena - 18200 (Granada - Spain)",abuse@granacable.com,
+92.79.44.0,92.79.44.127,4,Florian Schwendtner,0 (Very Low),vodafone.com,business,RIPE,FLORIAN-NET,Vodafone Germany IP Core Backbone,"Vodafone GmbH, Campus Eschborn, Duesseldorfer Strasse 15, D-65760 Eschborn, Germany",abuse.de@vodafone.com,+49 6196 52352105
+92.128.0.0,92.181.223.255,4,Orange S.A.,0 (Very Low),orange.com,isp,RIPE,FR-TELECOM-20070712,Local Internet Registry Orange fr.telecom,"Orange, 111, quai du Pr*sident Roosevelt, 92130 ISSY-LES-MOULINEAUX",gestionip.ft@orange.com,+33
+93.0.0.0,93.31.255.255,4,Societe Francaise Du Radiotelephone - SFR SA,0 (Very Low),sfr.fr,isp,RIPE,FR-SFR-20071030,SFR Legal Contact,"Campus SFR, 12 rue Jean-Philippe Rameau, CS 80001, 93634 La-Plaine-Saint-Denis Cedex, France",abuse@gaoland.net,+33 1 70 18 52 00
+94.73.232.0,94.73.239.255,4,Orion Telecom LLC,0 (Very Low),orionnet.ru,isp,RIPE,RU-ORIONNET-20210217,Orion telecom NOC,"LLC Orion telecom, 660017, Russian Federation, Krasnoyarsk city, Lenina street 113, office 100",hostmanager@orionnet.ru,+73912000000
+94.194.0.0,94.195.255.255,4,Sky UK Limited,0 (Very Low),sky.com,isp,RIPE,NET-94-194-0-0,Sky IPv4 Leasing Hostmasters,"UNITED KINGDOM, Livingston, EH54 7HH, Watermark House, Alba Campus",report@abuseradar.com,+44 333 100 0333
+94.199.168.0,94.199.175.255,4,Stadtwerke Feldkirch,0 (Very Low),stadtwerke-feldkirch.at,business,RIPE,AT-SWFELDKIRCH2-20081117,TKSWF Hostmaster,"Stadtwerke Feldkirch, Leusbuendtweg 49, A-6800 Feldkirch, Austria, AT",registry@tkswf.at,+43 5522 3421 0
+94.220.0.0,94.220.255.255,4,ARCOR AG,0 (Very Low),vodafone.de,isp,RIPE,ARCOR-DSL-NET18,Vodafone Germany IP Core Backbone,"Vodafone GmbH, Campus Eschborn, Duesseldorfer Strasse 15, D-65760 Eschborn, Germany",abuse.de@vodafone.com,+49 6196 52352105
+98.16.0.0,98.23.255.255,4,Windstream Communications LLC,0 (Very Low),windstream.com,isp,ARIN,WINDSTREAM,Windstream Communications LLC,"4005 North Rodney Parham Rd, Little Rock, AR, 72212, US",abuse@windstream.net,+1-800-347-1991
+98.144.0.0,98.157.255.255,4,Charter Communications Inc,0.0001 (Very Low),charter.com,isp,ARIN,RRWE,Charter Communications Inc,"6175 S. Willow Dr, Greenwood Village, CO, 80111, US",abuse@charter.net,+1-877-777-2263
+99.38.80.88,99.38.80.95,4,AUTOMOCO-090318170424,0 (Very Low),att.com,business,ARIN,SBC-99-38-80-88-29-0903180454,,,,
+99.245.52.0,99.245.53.255,4,Rogers Cable Inc. MTMC,0 (Very Low),rogers.com,isp,ARIN,HSI,,,,
+100.128.0.0,100.255.255.255,4,"T-Mobile USA, Inc.",0 (Very Low),t-mobile.com,isp,ARIN,CORE2,"T-Mobile USA, Inc.","12920 SE 38th Street, Bellevue, WA, 98006, US",abuse@t-mobile.com,+1-888-662-4662
+101.38.0.0,101.38.255.255,4,"Beijing CNISP Technology Co., Ltd.",0 (Very Low),cnispgroup.com,hosting,APNIC,CNISP-CN,ABUSE CNISPCN,"Beijing CNISP Technology Co., Ltd",support@cnispgroup.com,+000000000
+101.64.0.0,101.71.255.255,4,UNICOM ZheJiang Province Network,0.0002 (Very Low),chinaunicom.cn,isp,APNIC,UNICOM-ZJ,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
+101.160.0.0,101.191.255.255,4,Telstra Limited,0 (Very Low),telstra.com.au,isp,APNIC,TELSTRAINTERNET50-AU,Telstra Limited,242 Exhibition Street,abuse@telstra.net,
+102.96.0.0,102.103.255.255,4,MEDITELECOM,0 (Very Low),iam.ma,isp,AFRINIC,Meditel_Mobile_Costumers,ISP Orange Morocco,"Immeuble MEDITEL (ex SICOTEL), La Colline 2 2eme Etage Sidi Maarouf 20190, Casablanca Maroc, Casablanca 20190, Morocco",,tel:+212-665-551000
+102.178.0.0,102.179.255.255,4,Orange Burkina Faso,0 (Very Low),orange.bf,isp,AFRINIC,Orange-BF-I,Assita Kante,"771, Avenue du Pr*sident Aboubacar Sangoul*, Ouagadougou 01, Burkina Faso",,tel:+226-76-26-00-56
+103.69.2.0,103.69.3.255,4,HAWKCLAN (PVT.) LIMITED,0 (Very Low),hpl.net.pk,isp,APNIC,HAWKCLAN-PK,HAWKCLAN (PVT.) LIMITED,"138-G Block, Phase-1, DHA",abuse@hpl.net.pk,+924235174473
+103.127.28.0,103.127.31.255,4,MicroHost,0.001 (Low),microhost.com,business,APNIC,MICROHOST1-IN,MicroHost,"A-43, Sector 63",noc@utho.com,+91-120-4840000
+103.214.81.0,103.214.81.255,4,SYNTAXIT-BD,0.0117 (Elevated),syntaxit.com.bd,business,APNIC,SYNTAXIT-BD,ABUSE POBD,JHONGKAR-IT,mmahfuz07@yahoo.com,+000000000
+103.244.232.0,103.244.235.255,4,"Beijing capitalonline data service co.,LTD",0 (Very Low),capitalonline.net,hosting,APNIC,CDSNET,ABUSE CNNICCN,"Beijing, China",hong.meng@yun-idc.com,+000000000
+104.92.80.0,104.92.95.255,4,"Akamai International, BV",0 (Very Low),akamai.com,hosting,ARIN,AIBV,"Akamai International, BV","Prins Bernhardplein 200, Amsterdam, 1097 JB, NL",abuse@akamai.com,+1-617-444-2535
+105.16.0.0,105.31.255.255,4,SEACOM Limited,0 (Very Low),seacom.mu,isp,AFRINIC,SEACOM-NET,Kyalo Mutisya,"1st Flr, KAM Building, Nairobi, Kenya",,tel:+254-20-5133170
+105.112.0.0,105.127.255.255,4,Airtel Networks Limited,0.0006 (Low),airtel.com,isp,AFRINIC,Airtel-Nigeria,Atul paliwal,"Airtel Africa, The Oval, Ring Road, Parklands, P. O. Box 962, Nairobi 00100, Kenya",,tel:+971-52-188-8867
+106.128.0.0,106.191.255.255,4,KDDI CORPORATION,0 (Very Low),kddi.com,isp,APNIC,KDDI,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+107.32.0.0,107.63.255.255,4,Microsoft Limited,0 (Very Low),microsoft.com,hosting,RIPE,UK-MICROSOFT-20101110,Divya Quamara,"One Microsoft Way, Redmond, WA 98052",abuse@microsoft.com,+1-425-882-8080
+107.64.0.0,107.127.255.255,4,"AT&T Enterprises, LLC",0 (Very Low),att.com,isp,ARIN,ATT-MOBILITY-LLC,"AT&T Enterprises, LLC","208 S. Akard St., Dallas, TX, 75202, US",abuse@att.net,+1-919-319-8167
+108.0.0.0,108.57.255.255,4,Verizon Business,0.0001 (Very Low),verizon.com,isp,ARIN,VIS-BLOCK,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+108.96.0.0,108.127.255.255,4,"Amazon.com, Inc.",0 (Very Low),amazon.com,hosting,ARIN,AMAZO-4,"Amazon.com, Inc.","Seattle, WA, 98108-1226, US",trustandsafety@support.aws.com,+1-206-555-0000
+108.192.0.0,108.255.255.255,4,"AT&T Enterprises, LLC",0 (Very Low),att.com,isp,ARIN,SBCIS-SBIS,"AT&T Enterprises, LLC","208 S. Akard St., Dallas, TX, 75202, US",abuse@att.net,+1-919-319-8167
+109.251.0.0,109.251.63.255,4,FREENET JSC,0 (Very Low),o3.ua,isp,RIPE,O3_KIEV,Freenet Network Coordination Center,"Freenet, of 268, 17 Dragomanova st., Kyiv, Ukraine (UA) 02068",abuse@vegatele.com,
+110.5.121.0,110.5.121.255,4,LCV Corporation,0 (Very Low),lcv.jp,isp,JPNIC,LCV-DC,,,,
+110.6.0.0,110.7.255.255,4,China Unicom InnerMongolia province network,0 (Very Low),chinaunicom.cn,isp,APNIC,UNICOM-NM,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
+110.176.0.0,110.183.255.255,4,CHINANET SHANXI PROVINCE NETWORK,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-SX,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+111.0.0.0,111.63.255.255,4,"China Mobile Communications Group Co., Ltd",0.0001 (Very Low),chinamobile.com,isp,APNIC,CMNET,"China Mobile Communications Group Co., Ltd","29, Jinrong Ave.",abuse@chinamobile.com,+86-10-5268-6688
+111.80.0.0,111.83.255.255,4,Mobile Business Group,0 (Very Low),chinamobile.com,isp,APNIC,EMOME-NET,ABUSE TWNICAP,"3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan",abuse@hinet.net,+000000000
+111.236.0.0,111.239.255.255,4,KDDI CORPORATION,0 (Very Low),kddi.com,isp,APNIC,KDDI,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+111.240.0.0,111.255.255.255,4,"Chunghwa Telecom Co.,Ltd.",0 (Very Low),cht.com.tw,isp,APNIC,HINET-NET,ABUSE TWNICAP,"3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan",abuse@hinet.net,+000000000
+112.118.0.0,112.119.255.255,4,PCCW IMS Limited,0 (Very Low),pccw.com,isp,APNIC,NETVIGATOR,PCCW IMS Limited,"14/F, Lockhart Exchange Bldg, No. 3 Hennessy Road",noc@imsbiz.com,+852-2888-6634
+113.29.128.0,113.29.191.255,4,DAOU TECHNOLOGY,0 (Very Low),daou.co.kr,business,KRNIC,DAOU-KR,IP Manager,"69 Geumto-ro, Sujeong-gu, Seongnam-si, Gyeonggi-do, 6F",infra-tech@daou.co.kr,+82-70-8707-1793
+114.0.0.0,114.15.255.255,4,PT. INDOSAT Tbk,0 (Very Low),indosat.com,isp,APNIC,INDOSAT-INP-4,PT. INDOSAT Tbk,"Indosat Head Office, Jl. Medan Merdeka Barat no. 21",hostmaster@ioh.co.id,+62-21-30003000
+114.136.192.0,114.136.223.255,4,"CHT-Mobile business Group,Chunghwa",0.0001 (Very Low),cht.com.tw,isp,TWNIC,EMOME-NET,,,,
+114.160.0.0,114.191.255.255,4,"NTT DOCOMO BUSINESS,Inc.",0 (Very Low),ntt.com,isp,APNIC,OCN,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+115.127.0.0,115.127.127.255,4,BRACNet Limited,0.0004 (Very Low),bracnet.net,isp,APNIC,BBN-BD,BRACNet Limited,"BRACNet Limited,Navana Yousuf Infinity, 16,Mohakhali C/A. Level-4, Dhaka, Bangladesh",sysadmin@bracmail.net,+88-2-1614169844
+115.188.0.0,115.188.255.255,4,Spark New Zealand Trading Ltd,0 (Very Low),spark.co.nz,isp,APNIC,BBA-SPARK-NZ,IP Administrator,"31 Airedale Street, Auckland",abuse@xtra.co.nz,+64-7-839-6195
+115.190.0.0,115.191.255.255,4,"Beijing Volcano Engine Technology Co., Ltd.",0.0016 (Low),volcengine.com,hosting,APNIC,VOLCANO-ENGINE,ABUSE CNNICCN,"Beijing, China",gnoc@bytedance.com,+000000000
+116.16.0.0,116.31.255.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+117.97.0.0,117.97.255.255,4,BCL SOUTH,0.0001 (Very Low),airtel.in,isp,APNIC,GPRS-Subscribers-in-South,ABUSE BHARTIIN,"Bharti Airtel Ltd., ISP Division - Transport Network Group, 234 , Okhla Industrial Estate, Phase III, New Delhi-110020, INDIA",ip.misuse@airtel.com,+000000000
+117.119.0.0,117.119.255.255,4,"Beijing International Technology Cooperation Center Co.,Ltd",0 (Very Low),bitcc.com.cn,business,APNIC,BITCC,IRT-BITCC-CN,"NO.7, WANGJING ZHONGHUAN NANLU,CHAOYANG DISTRICT, BEIJING CHINA",liyao@bitcc.com.cn,
+117.144.0.0,117.159.255.255,4,"China Mobile Communications Group Co., Ltd",0.0001 (Very Low),chinamobile.com,isp,APNIC,CMNET,"China Mobile Communications Group Co., Ltd","29, Jinrong Ave.",abuse@chinamobile.com,+86-10-5268-6688
+117.192.0.0,117.255.255.255,4,Bharat Sanchar Nigam Ltd,0 (Very Low),bsnl.co.in,isp,APNIC,BSNLNET,Bharat Sanchar Nigam Ltd,"Bharat Sanchar Nigam Limited, Bharat Sanchar Bhawan, Harish Chandra Mathur Lane, Janpath, India",abuse1@bsnl.co.in,+91-120-2404243
+118.3.128.0,118.3.255.255,4,Open Computer Network,0.0001 (Very Low),ocn.ne.jp,isp,JPNIC,OCN,,,,
+119.150.140.0,119.150.143.255,4,"FreeBit Co., Ltd.",0 (Very Low),freebit.net,isp,JPNIC,FB-NET,,,,
+119.192.0.0,119.223.255.255,4,Korea Telecom,0 (Very Low),kt.com,isp,KRNIC,KORNET-KR,IP Manager,"Gyeonggi-do Bundang-gu, Seongnam-si Buljeong-ro 90, KT Head Office",kornet_ip@kt.com,+82-2-500-6630
+120.0.0.0,120.15.255.255,4,China Unicom Heibei Province Network,0.0002 (Very Low),chinaunicom.cn,isp,APNIC,UNICOM-HE,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
+120.176.0.0,120.191.255.255,4,PT. INDOSAT Tbk,0 (Very Low),indosat.com,isp,APNIC,INDOSAT-INP-4,PT. INDOSAT Tbk,"Indosat Head Office, Jl. Medan Merdeka Barat no. 21",hostmaster@ioh.co.id,+62-21-30003000
+121.36.0.0,121.36.255.255,4,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),0 (Very Low),huaweicloud.com,hosting,APNIC,HWCSNET,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
+121.92.0.0,121.92.255.255,4,FUJITSU LIMITED,0 (Very Low),fujitsu.com,business,APNIC,InfoWeb,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+121.128.0.0,121.159.255.255,4,Korea Telecom,0 (Very Low),kt.com,isp,KRNIC,KORNET,,,,
+121.142.81.128,121.142.81.255,4,KT,0 (Very Low),kt.com,isp,KRNIC,KORNET,,,,
+121.160.0.0,121.191.255.255,4,Korea Telecom,0.0001 (Very Low),kt.com,isp,KRNIC,KORNET-KR,IP Manager,"Gyeonggi-do Bundang-gu, Seongnam-si Buljeong-ro 90, KT Head Office",kornet_ip@kt.com,+82-2-500-6630
+122.52.0.0,122.55.255.255,4,Philippine Long Distance Telephone Co.,0.0002 (Very Low),pldt.com,isp,APNIC,IPG,Philippine Long Distance Telephone Co.,"14/F Ramon Cojuangco Building, Makati Avenue",abuse@pldt.com.ph,+632-810-4070
+122.104.0.0,122.111.255.255,4,Optus Internet Pty Ltd,0 (Very Low),optus.com.au,isp,APNIC,OPTUSINTERNET-AU,Optus Internet Pty Ltd,"Building F, 3rd Floor, 1 Lyonpark Road",abuse@optusnet.com.au,+61-2-8087-0020
+122.164.0.0,122.165.255.255,4,"ABTS Tamilnadu,",0 (Very Low),airtel.com,isp,APNIC,ABTS-TN-DSL-122884-chn,Network Administrator for ABTS TN,"ABTS Tamilnadu, 101,Santhome High Road,Chennai,Tamilnadu",ip.misuse@airtel.com,+91-44-42100479
+122.229.32.0,122.229.63.255,4,CHINANET-ZJ Zhongxin node network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-ZJ-ZX,CHINANET ZHEJIANG,"No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066",antispam_zjnoc@163.com,+86-571-86821752
+123.52.0.0,123.55.255.255,4,CHINANET HENAN PROVINCE NETWORK,0.0001 (Very Low),chinatelecom.cn,isp,APNIC,MAINT-CHINANET-HA,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+123.138.0.0,123.139.255.255,4,China Unicom Shannxi province network,0 (Very Low),chinaunicom.cn,isp,APNIC,UNICOM-SN,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
+123.192.192.0,123.192.255.255,4,kbro CO. Ltd.,0.0004 (Very Low),kbro.com.tw,isp,TWNIC,KBRO-NET,abuse abuse,"kbro CO. Ltd., 9F., No.260, Sec. 2, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.), Taipei City Taiwan",abuse@kbro.com.tw,+886-2-6611-1688 ext. 15126
+123.205.0.0,123.205.63.255,4,TINP,0.0001 (Very Low),tinp.net.tw,business,TWNIC,TINP-TW,root root,"TINP, No.68, Sec. 1, Guoguang Rd., Dali City, Taichung County 412, Taiwa, N/A Taiwan",robin@tinp.net.tw,+886-4-3705-0705 ext 5107
+124.10.80.0,124.10.95.255,4,TAIWANMOBILE-NET,0 (Very Low),taiwanmobile.com,isp,TWNIC,TFN-NET,Hans Liu,"System Design Div., 12th Floor, No. 88, Yanchang Road, Xinyi District, Taipei Taiwan",hansliu@taiwanmobile.com,+886-9-5393-1934
+124.42.96.0,124.42.127.255,4,"Beijing Sinnet Technology Co., Ltd.",0 (Very Low),sinnet.com.cn,hosting,APNIC,SINNET,ABUSE CNNICCN,"Beijing, China",sinnet-irt@sinnet.com.cn,+000000000
+125.0.227.0,125.0.227.255,4,InfoWeb(Fujitsu Ltd.),0 (Very Low),fujitsu.com,isp,JPNIC,INFOWEB,,,,
+125.48.217.0,125.48.217.255,4,KDDI CORPORATION,0 (Very Low),kddi.com,isp,JPNIC,KDDI-NET,,,,
+125.80.0.0,125.87.255.255,4,CHINANET Chongqing province network,0.0002 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-CQ,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+125.163.0.0,125.163.63.255,4,PT TELKOM INDONESIA,0.0004 (Very Low),telkom.co.id,isp,APNIC,TLKM_BB_INF_125_163,PT Telkom Indonesia Hostmaster,"PT. TELKOM INDONESIA, Menara Multimedia Lt. 7, Jl. Kebonsirih No.12, JAKARTA",abuse@telkom.co.id,+62-21-3860500
+125.176.0.0,125.191.255.255,4,LG POWERCOMM,0 (Very Low),lguplus.com,isp,KRNIC,Xpeed-KR,IP Manager,"32 Hangang-daero, Yongsan-gu, Seoul, 32 LGUPLUS",ipadm@lguplus.co.kr,+82-2-1-01
+125.200.0.0,125.207.255.255,4,"NTT DOCOMO BUSINESS,Inc.",0 (Very Low),ntt.com,isp,APNIC,OCN,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+128.102.0.0,128.102.255.255,4,National Aeronautics and Space Administration,0 (Very Low),nasa.gov,government,ARIN,AMES-NET,National Aeronautics and Space Administration,"IS05/Office of the Chief Information Officer, MSFC, AL, 35812, US",abuse@nasa.gov,+1-800-762-7472
+128.252.0.0,128.252.255.255,4,Washington University,0 (Very Low),wustl.edu,education,ARIN,WASHINGTON-U,Washington University,"St. Louis, MO, 63130, US",ne_services@email.wustl.edu,+1-314-935-7048
+130.151.0.0,130.151.255.255,4,ROCKWELL AUTOMATION Inc.,0 (Very Low),rockwellautomation.com,business,ARIN,ROK2,ROCKWELL AUTOMATION Inc.,"1201 SOUTH 2ND STREET, MILWAUKEE, WI, 53204, US",RANetworkAbuse@ra.rockwell.com,+1-888-581-4357
+130.237.0.0,130.237.255.255,4,Vetenskapsradet / SUNET,0 (Very Low),sunet.se,education,RIPE,SE-SUNET-19940214,Nordic University NOC,"NUNOC, Tulegatan 11, SE-113 53 Stockholm, Sweden",abuse@sunet.se,+46 8 207 860
+131.221.4.0,131.221.7.255,4,TELECABLE SABANETA SRL,0 (Very Low),une.do,isp,LACNIC,,TELECABLE SABANETA SRL,"RESTAURACION 60A, 64002 - SABANETA - SR",telecablesabaneta@une.do,+1  8095804416 [0000]
+132.26.0.0,132.26.255.255,4,Air Force Systems Networking,0 (Very Low),af.mil,government,ARIN,TINKER2-NET,Air Force Systems Networking,"501 EAST MOORE DR. BLDG 884 RM 1100 GUNTHER ANNEX, MAXWELL AFB, AL, 36114, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+132.187.0.0,132.187.255.255,4,Universitaet Wuerzburg,0 (Very Low),uni-wuerzburg.de,education,RIPE,UNIWUE-LAN,Matthias Funken,"Julius-Maximilians-Universitaet Wuerzburg, Rechenzentrum, Am Hubland, 97074 Wuerzburg, Germany",abuse@dfn.de,+49 931 31 87070
+132.193.0.0,132.193.255.255,4,"Headquarters, USAISC",0 (Very Low),army.mil,government,ARIN,ARO-NET,"Headquarters, USAISC","NETC-ANC CONUS TNOSC, Fort Huachuca, AZ, 85613, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+133.46.0.0,133.46.255.255,4,Hitotsubashi University,0 (Very Low),hit-u.ac.jp,education,JPNIC,HIT-U-NET,,,,
+134.76.0.0,134.76.255.255,4,"Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH, Goettingen",0 (Very Low),gwdg.de,business,RIPE,GWDG,GWDG Hostmaster,"Gesellschaft fuer wissenschaftliche Datenverarbeitung mbH Goettingen, Am Fassberg 11, 37077 Goettingen, Germany",abuse@gwdg.de,+49 39 30001
+134.84.0.0,134.84.255.255,4,University of Minnesota,0 (Very Low),umn.edu,education,ARIN,UMN1-NET,University of Minnesota,"Minneapolis, MN, 55414, US",abuse@umn.edu,+1-612-301-4357
+134.227.0.0,134.227.255.255,4,Credit Agricole SA,0 (Very Low),credit-agricole.com,banking,RIPE,SILCA01,Cellule admin RIPE CA-GIP,"CREDIT AGRICOLE - GROUP INFRASTRUCTURE PLATFORM, 83 BD DES CHENES, 78280 GUYANCOURT, FRANCE",yannick.flegeau@credit-agricole-sa.fr,+33157727101
+135.137.0.0,135.137.255.255,4,CloudIP LLC,0 (Very Low),ipv4hosting.com,hosting,RIPE,US-CLOUDIP,NOC,,abuse@gpuhosting.ai,+1 213-262-4999
+136.152.0.0,136.152.255.255,4,University of California at Berkeley,0 (Very Low),berkeley.edu,education,ARIN,UCB-TELECOM,University of California at Berkeley,"Berkeley, CA, 94705, US",abuse@security.berkeley.edu,+1-510-664-9000
+137.65.0.0,137.65.255.255,4,Micro Focus,0 (Very Low),microfocus.com,business,ARIN,NOVELL-NET,Micro Focus,"4555 Great America Parkway, Santa Clara, CA, 95054, US",sgall@opentext.com,+1-713-548-1700
+137.225.0.0,137.225.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DFRRS-ECAC,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+138.121.24.0,138.121.27.255,4,ROLIM NET TECNOLOGIA LTDA,0 (Very Low),rolimnet.com.br,isp,LACNIC,,ROLIM NET TECNOLOGIA LTDA,,alexandre@rolimnet.com.br,
+138.226.0.0,138.226.211.255,4,Aviation RE LLC,0.0003 (Very Low),sacjet.com,business,RIPE,US-AVIATION-19930901,RIPE Admin,"6133 Freeport Blvd, 95822, Sacramento, UNITED STATES",ripe@sacjet.com,+13073811184
+139.91.0.0,139.91.255.255,4,Foundation of Research and Technology Hellas,0 (Very Low),forth.gr,business,RIPE,FORTH,Demos Panagopoulos,"Foundation of Research and Technology Hellas, Computer Science Institute, Science and TEchnology Park, Heraklion, Crete, Greece 71003",abuse@ics.forth.gr,+30.2810391640
+140.18.0.0,140.18.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DNIC-140-018,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+140.152.0.0,140.152.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DNIC-RNET-140-152,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+141.23.0.0,141.23.255.255,4,Technische Universitaet Berlin,0 (Very Low),tu.berlin,education,RIPE,CSTUB,tubIT Hostmaster,"Technische Universitaet Berlin, Zentraleinrichtung Campusmanagement, Sekretariat EN 50, Einsteinufer 17, 10587 Berlin, Germany",abuse@dfn.de,+49 30 314 28800
+142.17.0.0,142.17.255.255,4,Universite de Moncton campus d'Edmundston,0 (Very Low),umoncton.ca,education,ARIN,UMCE-IPNET,Universite de Moncton campus d'Edmundston,"165 Hebert Blvd, Edmundston, NB, E3V-2S8, CA",cstumce@umoncton.ca,+1-506-737-5050
+143.116.0.0,143.116.255.255,4,"SCI Technology, Inc.",0 (Very Low),sanmina.com,business,ARIN,SCI-NET,"SCI Technology, Inc.","PO Box 1000 MS150, Huntsville, AL, 35807, US",security.department@sanmina.com,+1-408-964-3500
+143.162.0.0,143.162.255.255,4,HEWLETT PACKARD ENTERPRISE COMPANY,0 (Very Low),hpe.com,business,ARIN,HPE-15-COMPAQ,HEWLETT PACKARD ENTERPRISE COMPANY,"1701 E. Mossy Oaks Road, Spring, TX, 77389, US",IPv4.notices@hpe.com,+1-888-342-2156
+144.237.0.0,144.237.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DODIIS5,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+144.238.0.0,144.238.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DODIIS6,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+145.88.0.0,145.118.255.255,4,SURF B.V.,0 (Very Low),surf.nl,isp,RIPE,SURFNET-EARLY-REGISTRATIONS,SURF Network Maintainer,"Kantoren Hoog Overborch (Hoog Catharijne), Moreelsepark 48, 3511 EP Utrecht, Postbus 19035, 3501 DA Utrecht",cert@surfcert.nl,+31 88 7873000
+145.90.32.0,145.90.63.255,4,SURFnet bv,0 (Very Low),surf.nl,isp,RIPE,SN-eduVPN-NET,SURF Network Maintainer,"Kantoren Hoog Overborch (Hoog Catharijne), Moreelsepark 48, 3511 EP Utrecht, Postbus 19035, 3501 DA Utrecht",cert@surfcert.nl,+31 88 7873000
+145.131.48.0,145.131.255.255,4,KPN B.V.,0 (Very Low),kpn.com,isp,RIPE,KPN-20111114,KPN Internet,"KPN, Wilhelminakade 123, 3072AP Rotterdam, Netherlands",abuse@kpn.com,+31622433027
+146.70.111.0,146.70.111.255,4,M247 Ltd Belgrade,0.0234 (Elevated),m247.com,hosting,RIPE,M247-BELGRADE,GLOBALAXS BELGRADE NOC,"Omladinskih Brigada 90A, Novi Beograd, Belgrade, Serbia",abuse@m247.ro,
+147.252.0.0,147.252.255.255,4,TU Dublin,0 (Very Low),tudublin.ie,education,RIPE,TUDUBLIN,tud-ripe,"Park House, 191 North Circular Road, Grangegorman, Dublin D07 EWV4, Ireland",,
+149.52.0.0,149.52.255.255,4,"Cogent Communications, LLC",0 (Very Low),cogentco.com,isp,ARIN,COGENT-149-52-16,"Cogent Communications, LLC","2450 N Street NW, Washington, DC, 20037, US",abuse@cogentco.com,+1-877-875-4311
+149.68.0.0,149.68.255.255,4,"St. John's University, New York",0 (Very Low),stjohns.edu,education,ARIN,STJOHNS,"St. John's University, New York","8000 Utopia Parkway, Queens, NY, 11439, US",sor@stjohns.edu,+1-718-990-6793
+149.228.0.0,149.231.255.255,4,Verizon Deutschland GmbH,0 (Very Low),verizon.de,isp,RIPE,DYNPOOL1,Verizon EMEA Registrar Team,"Verizon Deutschland GmbH, Sebrathweg 20, 44149 Dortmund, Germany",abuse.emea@verizon.com,+49 231 972 0
+151.185.64.0,151.185.255.255,4,Palm Beach Atlantic University,0 (Very Low),pba.edu,education,ARIN,PBA-EDU,Palm Beach Atlantic University,"901 South Flagler Drive, West Palm Beach, FL, 33401, US",infrastructure_services@pba.edu,+1-561-803-2222
+152.195.0.0,152.195.255.255,4,Edgecast Inc.,0 (Very Low),edg.io,hosting,ARIN,VZ,Edgecast Inc.,"13031 W Jefferson Blvd. Building 900, Los Angeles, CA, 90094, US",abuse@uplynk.com,+1-602-850-5200
+152.232.0.0,152.232.255.255,4,B2 Net Solutions Inc.,0.0056 (Low),servermania.com,hosting,ARIN,BNS-34,B2 Net Solutions Inc.,"205-1040 South Service Road, Stoney Creek, ON, L8E 6G3, CA",abuse-system@servermania.com,+1-716-745-4678
+153.29.0.0,153.29.255.255,4,Air Force Systems Networking,0 (Very Low),af.mil,government,ARIN,CENTAF09,Air Force Systems Networking,"501 EAST MOORE DR. BLDG 884 RM 1100 GUNTHER ANNEX, MAXWELL AFB, AL, 36114, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+153.128.0.0,153.253.255.255,4,"NTT DOCOMO BUSINESS,Inc.",0 (Very Low),ntt.com,isp,JPNIC,OCN-CIDR-BLK-JP,,,,
+153.136.128.0,153.136.255.255,4,Open Computer Network,0 (Very Low),ocn.ne.jp,isp,JPNIC,OCN,,,,
+154.116.0.0,154.116.63.255,4,Reserv*e aux abonn*s xDSL,0.0002 (Very Low),gabontelecom.ga,isp,AFRINIC,GTLIB-XDSL,Ars*ne Edzo Nkily,"Immeuble Delta, Libreville B.P: 40 000, Gabon, LIBREVILLE, Gabon",,tel:+241-66040037
+154.216.182.0,154.216.182.255,4,Cloud Innovation Ltd,0 (Very Low),cloudinnovation.org,hosting,AFRINIC,Cloud_Innovation,Cloud Innovation Support,"Gauteng, ZA, Gauteng, South Africa",,tel:+248-4-610-795
+155.184.0.0,155.184.255.255,4,Avaya LLC,0 (Very Low),avaya.com,business,ARIN,AVAYA-155-184-0-0-B,Avaya LLC,"350 Mt. Kemble Avenue, Morristown, NJ, 07960, US",abuse@avaya.com,+1-908-953-3700
+155.245.0.0,155.245.255.255,4,University of Essex,0 (Very Low),essex.ac.uk,education,RIPE,ESSEX-UNI-LINR,Networks & Telecoms Team,"University of Essex, Computing Service, Wivenhoe Park, Colchester, Essex, CO4 3SQ, United Kingdom",irt@jisc.ac.uk,+44 1206 872 345
+156.34.65.0,156.34.65.255,4,Sympatico HSE,0 (Very Low),bell.ca,isp,ARIN,HSE-DYNAMIC-1769463092-CA,,,,
+156.153.0.0,156.153.255.255,4,"Amazon.com, Inc.",0 (Very Low),amazon.com,hosting,ARIN,AMAZO-4,"Amazon.com, Inc.","Seattle, WA, 98108-1226, US",trustandsafety@support.aws.com,+1-206-555-0000
+157.17.32.0,157.17.63.255,4,SAKURA Internet Inc.,0 (Very Low),sakura.ad.jp,hosting,JPNIC,SAKURA-ISHIKARI-CIDR-BLK-JP,,,,
+157.26.0.0,157.26.255.255,4,Republique et Canton de Neuchatel,0 (Very Low),ne.ch,government,RIPE,ETNA,UNINE SITEL NOC,"Universite de Neuchatel, Service Informatique et Telematique, Rue Emile-Argand 11, CH-2000 Neuchatel",SIEN@ne.ch,+41 32 718 2010
+157.128.0.0,157.128.255.255,4,Cenitex,0 (Very Low),vic.gov.au,government,APNIC,CENITEX-AU,Cenitex,"P. O BOX 2750, Level 9, 35 Collins Street",network.operations@cenitex.vic.gov.au,+61-3-90635005
+157.162.0.0,157.162.255.255,4,RegionAir Information Systems,0 (Very Low),,business,RIPE,CRAL,Grant Fengstad,"Canadian Airlines International Ltd., 6001 Grant McConachie Way, Richmond BC, BC, V7B1K3, CA",,+1 604 270 5484
+158.74.0.0,158.74.255.255,4,U.S. Dept. of Health and Human Services,0 (Very Low),hhs.gov,government,ARIN,NET-HHS5,U.S. Dept. of Health and Human Services,"Rockville, MD, 20852, US",abuse@hhs.gov,+1-301-443-2893
+158.167.0.0,158.167.255.255,4,European Commission,0 (Very Low),europa.eu,government,RIPE,CECNET2-158-167-class-B,DIGIT-C4-RIPE-Administration,"12, rue Guillaume Kroll, L-1882 Luxembourg",DIGIT-TECHNICAL-INTERNET-OFFICIAL-CONTACT@ec.europa.eu,+352430137782
+160.89.128.0,160.89.255.255,4,CASA_4G_MarocTelecom,0 (Very Low),iam.ma,isp,AFRINIC,CASA_4G_MarocTelecom,DEMPFS Maroc Telecom,"Si*ge de Maroc telecom Avenue Annakhil Hay Riad Rabat, Rabat 10100, Morocco",,tel:+212-37284319
+161.69.208.0,161.69.223.255,4,"McAfee, LLC",0 (Very Low),mcafee.com,business,ARIN,MCAFEE-LLC-AWS-BYOIP-IPAM-01,,,,
+161.101.0.0,161.101.255.255,4,"BP America, Inc.",0 (Very Low),bp.com,business,ARIN,BP3,"BP America, Inc.","201 Helios Way, Houston, TX, 77079, US",hostmaster@bp.com,+1-281-509-5354
+161.166.0.0,161.166.255.255,4,"Wal-Mart Stores, Inc.",0 (Very Low),walmart.com,business,ARIN,WAL-MART-4,,,,
+162.160.0.0,162.191.255.255,4,"T-Mobile USA, Inc.",0 (Very Low),t-mobile.com,isp,ARIN,CORE,"T-Mobile USA, Inc.","12920 SE 38th Street, Bellevue, WA, 98006, US",abuse@t-mobile.com,+1-888-662-4662
+163.13.0.0,163.28.255.255,4,TANET B,0 (Very Low),moe.gov.tw,government,APNIC,TANET-B,ABUSE TWNICAP,"3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan",noc@mail.moe.gov.tw,+000000000
+163.80.0.0,163.96.255.255,4,Electricite de France SA,0 (Very Low),edf.fr,business,RIPE,Electricite-de-France,EDF LIR Contact1,"EDF -  DSIT/ITO/IS, 32, avenue Pablo Picasso, 92016 - NANTERRE, France",lir@edf.fr,+33 1 78 66 84 73
+163.110.0.0,163.111.255.255,4,ENGIE SA,0 (Very Low),engie.com,business,RIPE,FR-ENGIE-20220309_1,Simon BALON,1 Place Samuel de Champlain 92400 Courbevoie FRANCE,DR-RIPE@engie.com,+33149225539
+163.122.0.0,163.122.255.255,4,TATA CONSULTANCY SERVICES LIMITED,0 (Very Low),tcs.com,business,APNIC,TCSNET2,TATA CONSULTANCY SERVICES LIMITED,"Vidyasagar Building, 1st Floor, Raheja Township, Near Sai baba Mandir, Malad(E)",akshay.parikh@tcs.com,+91-22-6779-8360
+163.182.192.0,163.182.255.255,4,Mitchell Seaforth Cable T. V. Ltd.,0.0001 (Very Low),msctv.ca,isp,ARIN,MSEA,Mitchell Seaforth Cable T. V. Ltd.,"123 Ontario St., Dublin, ON, N0K-1E0, CA",abuse@ezlink.ca,+1-519-345-2341
+163.196.0.0,163.196.255.255,4,Nissan S.A. (Pty) Ltd,0 (Very Low),nissan.co.za,business,AFRINIC,NISSAN-SA,GIS Helpdesk,"Nissan S.A. (Pty) Ltd, P O Box 911-010, Rosslyn 0200, ZA",,tel:+27-12-529-6851
+164.117.0.0,164.117.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DISANET,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+165.87.0.0,165.87.255.255,4,"AT&T Enterprises, LLC",0 (Very Low),att.com,isp,ARIN,ATT-165-87-0-0-B,"AT&T Enterprises, LLC","208 S. Akard St., Dallas, TX, 75202, US",abuse@att.net,+1-919-319-8167
+165.97.0.0,165.97.255.255,4,"Haynes and Boone, L.L.P.",0 (Very Low),haynesboone.com,business,ARIN,HBNET,"Haynes and Boone, L.L.P.","Dallas, TX, 75251-1502, US",kurt.geisler@haynesboone.com,+1-214-200-0700
+165.139.0.0,165.139.255.255,4,Indiana Department of Education,0 (Very Low),in.gov,government,ARIN,NETBLK-IDOE-165-139,Indiana Department of Education,"115 W Washington Street, South Tower, Suite 600, Indianapolis, IN, 46204, US",abuse@ena.com,+1-615-312-6200
+165.207.0.0,165.207.255.255,4,Lear Corporation (LEA),0 (Very Low),lear.com,business,ARIN,LEARCORPLEA-165-207,Lear Corporation (LEA),"Southfield, MI, 48033-4248, US",networkabuse@lear.com,+1-248-447-1500
+165.232.32.0,165.232.191.255,4,"DigitalOcean, LLC",0.0066 (Low),digitalocean.com,hosting,ARIN,DIGITALOCEAN-165-232-32-0,"DigitalOcean, LLC","105 Edgeview Drive, Suite 425, Broomfield, CO, 80021, US",abuse@digitalocean.com,+1-646-827-4366
+165.255.0.0,165.255.255.255,4,AFRIHOST SP (PTY) LTD,0 (Very Low),afrihost.com,isp,AFRINIC,AFRIHOST-SP,Andrew McGill,"376 Rivonia Boulevard, Edenburg (Rivonia), 2191, Johannesburg, South Africa, Johannesburg, Other",abuse@afrihost.co.za,tel:+27-11-612-7300
+166.2.0.0,166.7.255.255,4,USDA,0 (Very Low),usda.gov,government,ARIN,NETBLK-USFS,USDA,"Fort Collins, CO, 80526, US",duty.officer@usda.gov,+1-866-873-2926
+166.75.0.0,166.75.255.255,4,"POWER LINE (HK) CO., LIMITED",0 (Very Low),powerline.hk,hosting,APNIC,POWERLINE-HK,"POWER LINE (HK) CO., LIMITED",UNIT 04/7F BRIGHT WAY TOWER NO.35,abuse@powerline.hk,+852-00000000
+166.102.0.0,166.102.255.255,4,Windstream Communications LLC,0 (Very Low),windstream.com,isp,ARIN,WINDSTREAM-COMMUNICATIONS,Windstream Communications LLC,"4005 North Rodney Parham Rd, Little Rock, AR, 72212, US",abuse@windstream.net,+1-800-347-1991
+167.5.0.0,167.5.255.255,4,Long Island Lighting Company,0 (Very Low),nationalgridus.com,business,ARIN,LILCONET,Long Island Lighting Company,"175 East Old Country Road, Hicksville, NY, 11801, US",douglas.page@nationalgrid.com,+1-516-490-6906
+167.162.0.0,167.162.255.255,4,Microsoft Limited,0 (Very Low),microsoft.com,hosting,RIPE,UK-MICROSOFT-19930810,Divya Quamara,"One Microsoft Way, Redmond, WA 98052",abuse@microsoft.com,+1-425-882-8080
+167.235.0.0,167.235.255.255,4,Hetzner Online GmbH,0.0001 (Very Low),hetzner.com,hosting,RIPE,DE-HETZNER-19940405,Hetzner Online GmbH - Contact Role,"Hetzner Online GmbH, Industriestrasse 25, D-91710 Gunzenhausen, Germany",abuse@hetzner.com,+49 9831 505-0
+168.141.0.0,168.141.255.255,4,The State Insurance Fund,0 (Very Low),nysif.com,banking,ARIN,NET-168-141-0-0-1,The State Insurance Fund,"199 Church Street, New York, NY, 10007, US",postmaster@nysif.com,+1-518-437-3100
+168.155.0.0,168.155.255.255,4,SAPPI,0 (Very Low),sappi.com,business,AFRINIC,SAPPINET-B1,D Herselman,"Curzon Place, Turnberry Office Park, 48 Grosvenor Road, Bryanston, Johannesburg 2021, South Africa",,tel:+27-11-721-1900
+169.53.0.0,169.57.255.255,4,International Business Machines Corporation,0 (Very Low),ibm.com,business,RIPE,SOFTLAYER-RIPE-4-30-31,IP Admin,"UNITED STATES, Armonk, New York, 10504-1722, 1 New Orchard Road",abuse@softlayer.com,+1-800-426-4968
+169.230.0.0,169.230.255.255,4,University of California San Francisco,0 (Very Low),ucsf.edu,education,ARIN,UCSFNET1-UCOP,University of California San Francisco,"San Francisco, CA, 94143-0225, US",security@ucsf.edu,+1-415-514-4100
+170.47.0.0,170.47.255.255,4,Senate of Pennsylvania,0 (Very Low),pasen.gov,government,ARIN,SENATE-NET,Senate of Pennsylvania,"Senate Box 203052, Harrisburg, PA, 17120, US",domains@legis.state.pa.us,+1-717-787-7358
+170.176.0.0,170.176.127.255,4,"Treehouse Foods, Inc.",0 (Very Low),treehousefoods.com,business,ARIN,RALCORP,"Treehouse Foods, Inc.","2021 Spring Rd, Oakbrook, IL, 60523, US",webmaster@treehousefoods.com,+1-708-409-5300
+171.128.0.0,171.206.255.255,4,"Bank of America, National Association",0 (Very Low),bankofamerica.com,banking,ARIN,BAC-171-128-0-0-1,"Bank of America, National Association","Charlotte, NC, 28255, US",ABUSE@bankofamerica.com,+1-704-386-5000
+173.4.0.0,173.7.255.255,4,"T-Mobile USA, Inc.",0 (Very Low),t-mobile.com,isp,ARIN,XX,"T-Mobile USA, Inc.","12920 SE 38th Street, Bellevue, WA, 98006, US",abuse@t-mobile.com,+1-888-662-4662
+174.0.0.0,174.7.255.255,4,Shaw Communications,0.0001 (Very Low),shaw.ca,isp,ARIN,SHAW-COMM,Shaw Communications,"8200 Dixie Rd, Brampton, ON, L6T 0C1, CA",internet.abuse@sjrb.ca,+1-403-750-7420
+174.183.0.0,174.183.255.255,4,"Comcast Cable Communications, LLC",0.0002 (Very Low),comcast.com,isp,ARIN,CHICAGO-CPE-56,,,,
+174.192.0.0,174.255.255.255,4,Verizon Business,0.0001 (Very Low),verizon.com,isp,ARIN,WIRELESSDATANETWORK,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+175.30.0.0,175.31.255.255,4,CHINANET Jilin province network,0.0001 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-JL,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+175.224.0.0,175.255.255.255,4,Korea Telecom,0 (Very Low),kt.com,isp,KRNIC,,,,,
+176.74.160.0,176.74.191.255,4,Aptum Technologies (UK) Limited,0 (Very Low),aptum.com,hosting,RIPE,UK-COGECOPEER1-20110615,Aptum Technologies NOC,"Building 5000, Langstone Technology Park Langstone Road, Havant, Hampshire, United Kingdom",abuse@aptum.com,+18664842588
+177.120.0.0,177.121.255.255,4,TIM S/A,0.0001 (Very Low),tim.com.br,isp,LACNIC,,TIM S/A,,abuse@timbrasil.com.br,
+177.203.224.0,177.203.255.255,4,"Beijing Tiantexin Tech. Co., Ltd.",0 (Very Low),ipip.net,hosting,RIPE,CN-TIANTEXIN-20250306,Paul Gao,"CHINA, Beijing, 100100, Room 102, Unit 2, Building 57",noc@ipip.com,+861085867767
+178.60.128.0,178.60.255.255,4,"R Cable y Telecable Telecomunicaciones, S.A.U.",0 (Very Low),mundo-r.com,isp,RIPE,ES-CABLEGALICIA-20100211,OrangeSP RIPE,"Paseo del Club Deportivo, 1 Edif 8., Parque Empresarial La Finca, 28223 Pozuelo de Alarcon, Madrid",abuse.es@masorange.es,+34 981 911000
+178.106.0.0,178.106.255.255,4,Byteplus Pte. Ltd.,0 (Very Low),byteplus.com,hosting,APNIC,BYTEPLUS-SG,Byteplus Pte. Ltd.,"1 Raffles Quay, # 26-10, South Tower",bd_abuse@bytedance.com,+65-6950-4420
+178.184.0.0,178.187.255.255,4,PJSC Rostelecom,0 (Very Low),rostelecom.ru,isp,RIPE,RU-RTK-20100203,PJSC Rostelecom Technical Team,"PJSC Rostelecom, Russian Federation",abuse@rt.ru,+7 499 999-82-83
+179.44.0.0,179.47.255.255,4,"TELEFONICA VENEZOLANA, C.A.",0 (Very Low),telefonica.com.ve,isp,LACNIC,,"TELEFONICA VENEZOLANA, C.A.","Av. Francisco de Miranda, CC El Parque Piso 15, Los Palos Grandes Edf. de Telefonica, 1070 - Caracas - DF",abuse.ve@telefonica.com,+58  2129192024 [0000]
+179.220.0.0,179.223.255.255,4,Claro NXT Telecomunicacoes Ltda,0.0002 (Very Low),claro.com.br,isp,LACNIC,,Claro NXT Telecomunicacoes Ltda,,virtua@virtua.com.br,
+180.0.0.0,180.63.255.255,4,"NTT DOCOMO BUSINESS,Inc.",0 (Very Low),ntt.com,isp,APNIC,OCN,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+181.65.0.0,181.65.127.255,4,PE-TDP-GRS,0.0001 (Very Low),telefonica.com,business,LACNIC,,PE-TDP-GRS,"Calle San Felipe 1144 - Surquillo, 1144, LI34 - Lima ",tommy.tomaylla@telefonica.com,+51 1 2106771
+181.119.0.0,181.119.255.255,4,IFX Networks Argentina S.R.L.,0 (Very Low),ifxnetworks.com,isp,LACNIC,,IFX Networks Argentina S.R.L.,"Av. Belgrano, 1586, Piso 11, C1093AAQ - Buenos Aires ",aframirez@ifxcorp.com,+54  1141042400 [0000]
+181.128.0.0,181.135.255.255,4,UNE EPM TELECOMUNICACIONES S.A.,0.0002 (Very Low),tigo.com.co,isp,LACNIC,,UNE EPM TELECOMUNICACIONES S.A.,"Carrera 48 n*mero 20 - 45, ., Rivana Business Park, 050022 - Medellin - CO",abuse.internet@tigo.com.co,+57  43251505 [0000]
+182.159.0.0,182.159.255.255,4,SOFTBANK TELECOM Corp.,0 (Very Low),softbank.jp,isp,JPNIC,ODN,,,,
+184.96.0.0,184.103.255.255,4,"CenturyLink Communications, LLC",0 (Very Low),centurylink.com,isp,ARIN,CENTURYLINK-LEGACY-QWEST-INET-128,"CenturyLink Communications, LLC","100 CENTURYLINK DR, Monroe, LA, 71201, US",abuse@aup.lumen.com,+1-877-886-6515
+184.178.208.0,184.178.211.255,4,Cox Communications Inc.,0 (Very Low),cox.com,isp,ARIN,NETBLK-BR-ONHFC-184-178-208-0,,,,
+185.22.104.0,185.22.104.255,4,Netrics Zuerich AG,0 (Very Low),netrics.ch,hosting,RIPE,NEXELLENT-LAB-1,Netrics Zurich NOC,"Netrics Zuerich AG, Saegereistrasse 33, CH-8152 Glattbrugg",abuse@netrics.ch,+41 44 872 2000
+185.76.47.0,185.76.47.255,4,Realtech Solutions,0 (Very Low),viriumtech.com,hosting,RIPE,VIRIUM-LAN,Realtech Solutions,"Regus House, Atterbury Lakes, Fairbourne Drive, Milton Keynes, MK10 9RG",info@viriumtech.com,+44 20 8938 3459
+185.139.44.0,185.139.47.255,4,SA EASI,0 (Very Low),easi.net,isp,RIPE,BE-EASI-20160217,Jean-Michel Block,"Avenue Robert Schuman 12, 1401, Nivelles, BELGIUM",ripe@easi.net,+32 67 28 10 00
+185.221.12.0,185.221.15.255,4,Ivan Milivinti trading as Teckman,0 (Very Low),teckman.eu,isp,RIPE,IT-TECKMAN-20170914,Ivan Milivinti,"Via Alessi 14, 23100, Sondrio, ITALY",abuse@teckman.eu,+39 0342214420
+186.1.224.0,186.1.239.255,4,NORTECH,0.0002 (Very Low),sawerin.com.ar,business,LACNIC,,NORTECH,"Av mosconi, 2925, OF 4, 1419 - Buenos Aires - CF",lpiccini@sawerin.com.ar,+54 11 66329000
+186.138.0.0,186.139.255.255,4,Telecom Argentina S.A.,0.0004 (Very Low),telecom.com.ar,isp,LACNIC,,Telecom Argentina S.A.,"Dorrego, 2520, Piso 11, 1425 - Buenos Aires ",abuse@teco.com.ar,+54  1149684975 [0000]
+186.224.192.0,186.224.207.255,4,JR & JS ENGENHARIA E COMÉRCIO LTDA,0 (Very Low),novvacore.com,isp,LACNIC,,JR & JS ENGENHARIA E COM*RCIO LTDA,,engenharia@novvacore.com,
+187.192.0.0,187.223.255.255,4,Uninet S.A. de C.V.,0 (Very Low),telmex.com,isp,LACNIC,,Uninet S.A. de C.V.,"AVENIDA (AV.) INSURGENTES SUR, 3500, PISO 4 PE*A POBRE, 14060 - TLALPAN - CX",gccips@uninet.com.mx,+52  5554876500
+188.8.0.0,188.15.255.255,4,Telecom Italia S.p.A.,0 (Very Low),telecomitalia.it,isp,RIPE,IT-TIIPTV-20090205,Pier Francesco Vincenti,"Telecom Italia S.p.A., Network Engineering, Italy",abuse@retail.telecomitalia.it,+39 0636881
+188.154.0.0,188.155.255.255,4,Sunrise GmbH,0 (Very Low),sunrise.ch,isp,RIPE,CH-SUNRISE-20090508,sunrise ip registry,"Sunrise GmbH, Thurgauerstrasse 101B, CH-8152 Glattpark, Switzerland",abuse@sunrise.net,+41587777777
+188.167.0.0,188.167.255.255,4,Upc Broadband Slovakia s.r.o.,0 (Very Low),upc.sk,isp,RIPE,SK-UPC-20090611,Liberty Global RIPE DBM,"Liberty Global B.V., Boeing Avenue 53, 1119PE Schiphol-Rijk, Netherlands",isg@upc.sk,+31 20 778 9840
+188.253.122.0,188.253.123.255,4,Akari Networks Limited,0.0059 (Low),akari.hk,isp,RIPE,AKARI-JP-TYO1-11,Akari Networks Administrator,"HONG KONG, Wanchai, HK, Rm. 1801 Easey Comm Bldg 253-261 Hennessy Road",abuse+ripe@akari.hk,+852 95184590
+189.214.0.0,189.215.255.255,4,Cablemas Telecomunicaciones SA de CV,0 (Very Low),izzi.mx,isp,LACNIC,,Cablemas Telecomunicaciones SA de CV,"Avenida Vasco de Quiroga, 2000, Col. Santa Fe, 01210 - Alcald*a Alvaro Obregon - CX",ipmastercm@izzi.mx,+52 777 2410061
+189.216.0.0,189.217.255.255,4,"Cablevisión, S.A. de C.V.",0.0005 (Very Low),izzi.mx,isp,LACNIC,,"Cablevisi*n, S.A. de C.V.","Avenida Vasco de Quiroga, 2000, Col. Santa Fe, 01210 - Alcald*a Alvaro Obregon - CX",ipmastercv@izzi.mx,+52  8006077082
+189.240.0.0,189.255.255.255,4,Uninet S.A. de C.V.,0 (Very Low),telmex.com,isp,LACNIC,,Uninet S.A. de C.V.,"AVENIDA (AV.) INSURGENTES SUR, 3500, PISO 4 PE*A POBRE, 14060 - TLALPAN - CX",abuse@uninet.net.mx,+52  5554876500
+190.21.0.0,190.21.255.255,4,TELEFÓNICA CHILE S.A.,0.0002 (Very Low),telefonica.cl,isp,LACNIC,,TELEF*NICA CHILE S.A.,"AVENIDA PROVIDENCIA, 111, COMUNA DE PROVIDENCIA, 7500775 - SANTIAGO - RM",tecnical.isp.movistar@gmail.com,+56 2 3306932
+190.89.0.0,190.89.3.255,4,WORLD WIFI TELECOMUNICAÇÕES LTDA - ME,0 (Very Low),worldwifi.com.br,isp,LACNIC,,,,,
+190.110.128.0,190.110.159.255,4,CLARO CHILE S.A.,0 (Very Low),telmexchile.cl,isp,LACNIC,,CLARO CHILE S.A.,"Avda El Salto, 5450, Huechuraba, - Santiago - RM",david.melita@clarovtr.cl,+56  258125104 [0000]
+191.18.0.0,191.18.255.255,4,TELEFÔNICA BRASIL S.A.,0 (Very Low),telefonica.com.br,isp,LACNIC,,TELEF*NICA BRASIL S.A,,abuse.br@telefonica.com,
+191.20.0.0,191.23.255.255,4,TELEFÔNICA BRASIL S.A.,0 (Very Low),telefonica.com.br,isp,LACNIC,,TELEF*NICA BRASIL S.A,,abuse.br@telefonica.com,
+191.40.0.0,191.40.7.255,4,Eons Data Communications Limited,0.0015 (Low),eons.cloud,hosting,RIPE,Eons-Data-Communications-Limited,,,,
+191.194.0.0,191.195.255.255,4,TELEFÔNICA BRASIL S.A.,0.0001 (Very Low),telefonica.com.br,isp,LACNIC,,,,,
+192.123.0.0,192.123.255.255,4,Kraft Heinz Foods Company,0 (Very Low),kraftheinzcompany.com,business,ARIN,KGF-CNETS,Kraft Heinz Foods Company,"Chicago, IL, 60601, US",kraftheinznetworkoperations@kraftheinz.com,+1-847-646-7475
+193.127.0.0,193.127.255.255,4,"Santander Global Technology and Operations, S.L.",0 (Very Low),santanderglobaltech.com,banking,RIPE,ES-EUROCIBER-960514,GS VNET Support,"Milton Keynes, United Kingdom, Boadilla del Monte, Spain, Quer*taro, Mexico, Boston, Massachusetts",soc@gruposantander.com,+44 1908 866366
+193.139.0.0,193.139.255.255,4,La Francaise des Jeux,0 (Very Low),fdj.fr,business,RIPE,FR-JEUX-19921007,Antoine de Boutray,"La Francaise des Jeux, 77230 Moussy-le-Vieux, France",jbosler@lfdj.com,+33 1 64 66 67 65
+193.156.0.0,193.157.255.255,4,Sikt - Kunnskapssektorens Tjenesteleverandor,0 (Very Low),sikt.no,government,RIPE,NO-UNINETT-19920910,Havard Eidnes,"Sikt - Norwegian Agency for Shared Services in Education and Research, 5782 Torgarden, N-7437 Trondheim, Norway",abuse@uninett.no,+47 73 55 79 35
+193.188.64.0,193.188.95.255,4,National Information Technology Center,0 (Very Low),nitc.gov.jo,government,RIPE,JO-NIC-19951229,Chief Technical Officer,"P.O. Box 259, Al-Jubaiha (11941) Amman - Jordan, National Information Technology Centre",networks@nitc.gov.jo,+962 6 5300222
+193.201.78.0,193.201.79.255,4,"Brink's Cash Solutions (CZ), a.s.",0 (Very Low),g4s.com,business,RIPE,ORG-BCSA4-RIPE,Zbynek Svehlik,"GROUP 4 SECURITAS a.s., Klanova 62, Praha 4, 147 00, The Czech Republic",zbynek.svehlik@cz.g4s.com,+420 2 41028111
+193.243.176.0,193.243.181.255,4,New Reg Limited,0 (Very Low),newreg.co.uk,business,RIPE,ONEANETWORKS,Jon Taylor,"1A Networks, 52-54 Kent Street, Preston, PR1 1RY, UNITED KINGDOM",support@ukip.com,+44 1772 566585
+193.248.0.0,193.253.255.255,4,Orange S.A.,0 (Very Low),orange.com,isp,RIPE,FR-TELECOM-248-253,Local Internet Registry Orange fr.telecom,"Orange, 111, quai du Pr*sident Roosevelt, 92130 ISSY-LES-MOULINEAUX",gestionip.ft@orange.com,+33
+194.46.96.0,194.46.191.255,4,The Internet Business Ltd,0 (Very Low),tibus.com,hosting,RIPE,UK-TIBUS-19940228,TIB Hostmaster,"The Internet Business Ltd, 2 Clarendon Road, Belfast, BT1 3YD, UNITED KINGDOM",hostmaster@tibus.net,+44 28 9033 1122
+194.72.0.0,194.75.255.255,4,British Telecommunications Limited,0 (Very Low),bt.com,isp,RIPE,UK-BT-961016,BT IP Address Admin,"PP 1, Floor 1, Orion Building, Adastral Park, Martlesham Heath, Ipswich, IP5 3RE, UK",abuse@bt.com,+44 (0)20 7356 5000
+194.200.0.0,194.203.255.255,4,Verizon UK Limited,0 (Very Low),verizon.co.uk,isp,RIPE,UK-PIPEX-950921,Verizon EMEA Registrar Team,"Verizon Deutschland GmbH, Sebrathweg 20, 44149 Dortmund, Germany",abuse.emea@verizon.com,+49 231 972 0
+194.224.185.0,194.224.185.255,4,SEUR ESPANA OPERACIONES SA,0 (Very Low),seur.com,business,RIPE,seurespanaoperasa,Antonio Escolan,"C/ Gamonal, 6, 1. planta., 28031. Madrid., Spain",nemesys@telefonica.es,+34913222556
+194.233.52.0,194.233.59.255,4,PlusServer GmbH,0 (Very Low),plusserver.com,hosting,RIPE,DE-OPENIT-960126,PlusServer Network Operations,"PlusServer GmbH, Welserstr. 14, 51149 Koeln",abuse@plusserver.com,+49 2203 1045 3600
+195.56.0.0,195.56.255.255,4,Magyar Telekom Plc.,0 (Very Low),telekom.hu,isp,RIPE,HU-HTC-960426,Magyar Telekom Network Administrator,"Budapest, Hungary",abuse@telekom.hu,+36 1 457 4000
+195.114.160.0,195.114.175.255,4,Netia Telekom SA,0 (Very Low),inetia.pl,isp,RIPE,NETIA,Netia Telekom S.A. Contact Role,"Poleczki 13, 02-822 Warszawa, Poland",abuse@inetia.pl,+48(22)352 0000
+195.118.8.0,195.118.15.255,4,Network of OMRON Europe,0 (Very Low),omron.eu,business,RIPE,EU-OMRON-NET,Roel Spijker,"OMRON Electronics, Wegalaan 69, 2132 JD Hoofddorp, Denmark",peering@intl.att.com,+31 23 5681300
+195.121.16.0,195.121.63.255,4,Pops,0 (Very Low),kpn.com,isp,RIPE,NL-PI-POPS-CONSUMER-I,KPN Internet,"KPN, Wilhelminakade 123, 3072AP Rotterdam, Netherlands",abuse@kpn.com,
+195.185.0.0,195.185.255.255,4,ecotel communication ag,0 (Very Low),ecotel.net,isp,RIPE,DE-ECOTEL-970805,AS12312 Network Management,"ecotel communication ag, Hanauer Landstrasse 300, 60314 Frankfurt, Germany",abuse@ecotel.net,+49 69 40801 530
+196.120.0.0,196.127.255.255,4,ISP Orange Morocco,0 (Very Low),orange.ma,isp,AFRINIC,Mobile_Costumer,ISP Orange Morocco,"Immeuble MEDITEL (ex SICOTEL), La Colline 2 2eme Etage Sidi Maarouf 20190, Casablanca Maroc, Casablanca 20190, Morocco",,tel:+212-665-551000
+196.198.0.0,196.198.255.255,4,Fiber Grid INC,0.0005 (Very Low),fibergrid.eu,isp,AFRINIC,FIBERGRID-20130110,IP Abuse Department,"N*5 Sturdee Avenue, Suite 301, 2196, Rosebank, Johannesburg, South Africa, Johannesburg, South Africa",,tel:+230-5463-3090
+197.26.64.0,197.26.127.255,4,organisation : 3S GLOBALNET,0.0001 (Very Low),3s.tn,isp,AFRINIC,Globalnet,Zegdene Mohamed,"Immeuble Ennour Centre Urbain Nord (Cit* des Sciences)*, 1082 Tunis, TN",,tel:+216-70-014-072
+197.48.0.0,197.55.255.255,4,TE Data,0.0002 (Very Low),tedata.net,isp,AFRINIC,All-22,TE Data Contact Role,"TE Data, Smart Village, Building A11-B90, Alex Desert Road, 28 Km, 6th October 12577, Giza, Egypt",abuse@te.eg,tel:+20-2-33320700
+197.124.192.0,197.124.223.255,4,ETISALAT MISR,0 (Very Low),etisalat.eg,isp,AFRINIC,EM-3,Sherif Magdy Mohamed,"Etisalat Misr, S4, Down Town, 90th Street, 5th Compound, New Cairo, Egypt., Cairo 11835, Egypt",,tel:+20-2-35381000
+197.128.0.0,197.131.255.255,4,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,0 (Very Low),iam.ma,isp,AFRINIC,MAROC-TELECOM,Kaddouhi Abdelaziz,"Avenue Annakhil Maroc Telecom Rabat, RABAT, Morocco",,tel:+212-5372-85549
+198.17.212.0,198.17.212.255,4,GEHA,0 (Very Low),geha.com,banking,ARIN,GEHA-04,GEHA,"310 NE Mulberry St, Lee's Summit, MO, 64086, US",technologynetworkcommunications@geha.com,+1-816-257-5500
+198.163.50.0,198.163.69.255,4,City of Winnipeg,0 (Very Low),winnipeg.ca,government,ARIN,NETBLK-CTY-OF-WPG-1,City of Winnipeg,"510 Main St, Winnipeg, MB, R3B-1B9, CA",wpgnetworks@winnipeg.ca,+1-204-986-3295
+199.75.0.0,199.78.255.255,4,"Level 3 Parent, LLC",0 (Very Low),level3.com,isp,ARIN,LVLT-ORG-199-75,"Level 3 Parent, LLC","100 CenturyLink Drive, Monroe, LA, 71203, US",abuse@level3.com,+1-877-453-8353
+199.176.0.0,199.179.255.255,4,"AT&T Services, Inc.",0 (Very Low),att.com,isp,ARIN,AADSNET-CIDR,"AT&T Services, Inc.","Indianapolis, IN, 46204, US",abuse@att.net,+1-919-319-8167
+200.2.128.0,200.2.143.255,4,ACCESS HAITI S.A.,0.0002 (Very Low),accesshaiti.com,isp,LACNIC,,ACCESS HAITI S.A.,"Rue Geffrard, 60, 6140 - P*tion-Ville ",allen.bayard@accesshaiti.net,+508  28126000 [0000]
+200.188.192.0,200.188.207.255,4,"TIVIT TERCEIRIZAÇÃO DE PROCESSOS, SERV. E TEC. S/A",0 (Very Low),tivit.com,hosting,LACNIC,,"TIVIT TERCEIRIZA**O DE PROCESSOS, SERV. E TEC. S/A",,uilson.moreira@mcaraujo.com.br,
+200.245.0.0,200.245.255.255,4,CLARO S.A.,0 (Very Low),claro.com.br,isp,LACNIC,,CLARO S.A.,,abuse@embratel.net.br,
+201.30.0.0,201.30.255.255,4,CLARO S.A.,0 (Very Low),claro.com.br,isp,LACNIC,,CLARO S.A.,,abuse@embratel.net.br,
+202.74.128.0,202.74.159.255,4,ESSENTIAL ENERGY,0 (Very Low),essentialenergy.com.au,business,APNIC,ESSENTIALENERGY,ESSENTIAL ENERGY,PO BOX 5730,data.admin@essentialenergy.com.au,+61-13-23-91
+202.112.0.0,202.121.255.255,4,China Education and Research Network,0 (Very Low),cernet.edu.cn,education,APNIC,CERNET-CN,ABUSE CERNETAP,"Network Center, FIT-3-220, Tsinghua Univ, Beijing 100084, China",abuse@cernet.edu.cn,+86-10-62784301
+202.179.192.0,202.179.223.255,4,SoftBank Corp.,0 (Very Low),softbank.jp,isp,APNIC,J-PHONE,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+202.200.0.0,202.201.255.255,4,China Education and Research Network,0 (Very Low),cernet.edu.cn,education,APNIC,XAR-CERNET,ABUSE CERNETAP,"Network Center, FIT-3-220, Tsinghua Univ, Beijing 100084, China",abuse@cernet.edu.cn,+86-10-62784301
+203.9.200.0,203.9.207.255,4,DBCDE,0 (Very Low),dbcde.gov.au,government,APNIC,DBCDE-AU,DBCDE,GPO Box 2154,ITSA@infrastructure.gov.au,+61 02 6271 1957
+203.98.0.0,203.98.63.255,4,One New Zealand Group Limited,0 (Very Low),one.nz,isp,APNIC,ONENZ-NZ,One New Zealand Group Limited,"Level 6, Tower B, 30 Daldy Street, Auckland Central",abuse@one.nz,+64-21-746-071
+203.179.0.0,203.179.15.255,4,Kurashiki Cable TV Corporation,0 (Very Low),kct.co.jp,isp,JPNIC,KCT-NET,,,,
+203.181.0.0,203.181.63.255,4,Asahi Net,0 (Very Low),asahi-net.jp,isp,JPNIC,ASAHI-NET,,,,
+204.80.32.0,204.80.63.255,4,New York State Office of the State Comptroller,0 (Very Low),ny.gov,government,ARIN,USNYSOSC,New York State Office of the State Comptroller,"110 State Street, Albany, NY, 12236, US",osc_networkservices@osc.ny.gov,+1-518-486-6745
+204.109.128.0,204.109.255.255,4,"Transaction Network Services, Inc.",0 (Very Low),tnsi.com,business,ARIN,RADIANZ-204-109-128-0,"Transaction Network Services, Inc.","10740 Parkridge Boulevard, Suite 100, Reston, VA, 20191, US",rbehan@tnsi.com,+0114 2920200
+204.146.121.0,204.146.121.255,4,Comerica Incorporated,0 (Very Low),comerica.com,banking,ARIN,ATT-NET-204-146-121-0-24,Comerica Incorporated,"3701 Hamlin Rd., Auburn Hills, MI, 48326, US",sotoole@comerica.com,+1-248-371-4329
+204.180.0.0,204.183.255.255,4,"Cogent Communications, LLC",0 (Very Low),cogentco.com,isp,ARIN,COGENT-204-180-0,"Cogent Communications, LLC","2450 N Street NW, Washington, DC, 20037, US",abuse@cogentco.com,+1-877-875-4311
+204.199.96.208,204.199.96.211,4,ECOPETROL S.A.,0 (Very Low),ecopetrol.com.co,business,ARIN,NET-204-199-96-208-30,,,,
+204.209.48.0,204.209.51.255,4,US Internet Corp,0 (Very Low),usinternet.com,isp,ARIN,USIC-Z-3,US Internet Corp,"12450 Wayzata Blvd Suite 315, Minnetonka, MN, 55305, US",hostmaster@usinternet.com,+1-952-253-3200
+205.179.128.0,205.179.191.255,4,IPNetZone,0 (Very Low),ipnetzone.com,hosting,ARIN,GTT-CUSTOMER,IPNetZone,"7900 Tysons One Place, McLean, VA, 22102, US",abuse@gtt.net,+1-703-442-5501
+205.206.0.0,205.206.255.255,4,TELUS Communications Inc.,0 (Very Low),telus.com,isp,ARIN,TELUS-205-206-0-0,TELUS Communications Inc.,"510 W Georgia St, Vancouver, BC, V6B 2A3, CA",abuse@telus.com,+1-877-945-8220
+206.64.0.0,206.67.255.255,4,Verizon Business,0 (Very Low),verizon.com,isp,ARIN,NETBLK-UUNETCBLK64-67,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+206.112.0.0,206.115.255.255,4,Verizon Business,0 (Very Low),verizon.com,isp,ARIN,NETBLK-UUNETCBLK-112,Verizon Business,"22001 Loudoun County Pkwy, Ashburn, VA, 20147, US",ipadmin@support.ftr.com,+1-866-474-7662
+207.112.71.0,207.112.127.255,4,Primus Telecommunications Canada Inc.,0 (Very Low),primus.ca,isp,ARIN,PRCA-207-112,Primus Telecommunications Canada Inc.,"801 - 3300 Bloor St West, Toronto, ON, M8X 2X2, CA",abuse@primus.ca,+1-800-265-3600
+207.120.0.0,207.123.255.255,4,"Level 3 Parent, LLC",0 (Very Low),level3.com,isp,ARIN,LVLT-ORG-207-120,"Level 3 Parent, LLC","100 CenturyLink Drive, Monroe, LA, 71203, US",abuse@level3.com,+1-877-453-8353
+207.128.0.0,207.131.255.255,4,"American Honda Motor Company, Inc.",0 (Very Low),honda.com,business,ARIN,HONDA-CIDR-1,"American Honda Motor Company, Inc.","1919 Torrance Blvd, 600-2C-1H, Torrance, CA, 90501, US",Joe_Pace@ahm.honda.com,+1-310-567-6086
+207.203.120.0,207.203.123.255,4,Web Hosting - AEC,0 (Very Low),att.com,business,ARIN,BLS-207-203-120-0-1001291014,,,,
+207.232.128.0,207.232.255.255,4,State of South Carolina,0 (Very Low),sc.gov,government,ARIN,SCK12,State of South Carolina,"4430 Broad River Road, Columbia, SC, 29210, US",sunday.ugoji@admin.sc.gov,+1-803-896-0366
+208.0.0.0,208.35.255.255,4,"Cogent Communications, LLC",0 (Very Low),cogentco.com,isp,ARIN,COGC,"Cogent Communications, LLC","2450 N Street NW, Washington, DC, 20037, US",abuse@cogentco.com,+1-877-875-4311
+208.38.128.0,208.38.191.255,4,WideOpenWest Finance LLC,0 (Very Low),wowway.com,isp,ARIN,ESN-NET2,WideOpenWest Finance LLC,"1674 Frontenac Rd, Naperville, IL, 60563, US",cloudabuse@wideopenwest.com,+1-813-301-2620
+208.225.84.0,208.225.87.255,4,CET Technology Inc,0 (Very Low),cet.com,isp,ARIN,UU-208-225-84A,,,,
+209.14.0.0,209.14.255.255,4,"Cogent Communications, LLC",0 (Very Low),cogentco.com,isp,ARIN,COGENT-209-14-16,"Cogent Communications, LLC","2450 N Street NW, Washington, DC, 20037, US",abuse@cogentco.com,+1-877-875-4311
+210.125.32.0,210.125.39.255,4,KISTI,0 (Very Low),kisti.re.kr,business,KRNIC,KREONet,,,,
+211.15.16.0,211.15.31.255,4,Green City Cable TV Corporation,0 (Very Low),gctv.co.jp,isp,JPNIC,GC-NET,,,,
+211.64.0.0,211.69.255.255,4,South China University of Technology,0 (Very Low),cernet.edu.cn,education,APNIC,CERNET-CN,ABUSE CERNETAP,"Network Center, FIT-3-220, Tsinghua Univ, Beijing 100084, China",abuse@cernet.edu.cn,+86-10-62784301
+211.111.174.0,211.111.174.255,4,GORayNet,0 (Very Low),raynet.co.kr,isp,KRNIC,BROADBANDIDC,,,,
+211.161.0.0,211.162.255.255,4,"BeiJing Guoxin bilin Telecom Technology Co.,Ltd",0 (Very Low),gxblkj.com,isp,APNIC,GXBLnet,ABUSE CNNICCN,"Beijing, China",ipas@cnnic.cn,+000000000
+212.155.0.0,212.155.255.255,4,Verizon France SAS,0 (Very Low),verizon.com,isp,RIPE,FR-IWAY-990409,Verizon EMEA Registrar Team,"Verizon Deutschland GmbH, 44149 Dortmund, Germany",abuse.emea@verizon.com,+49 231 972 0
+213.1.64.0,213.1.118.255,4,BT-MIDBAND,0 (Very Low),bt.com,isp,RIPE,BT-MIDBAND,Ken Hayes,"Broadband Platform Team, UK",abuse@bt.com,+44 1922 706028
+213.96.0.0,213.99.255.255,4,TELEFONICA DE ESPANA S.A.U.,0 (Very Low),telefonica.es,isp,RIPE,ES-TELEFONICA-20000301,Administradores Telefonica de Espana,"Ronda de la Comunicacion s/n, Edificio Norte 1, planta 6, 28050 Madrid, SPAIN",nemesys@telefonica.es,+34915846842
+213.176.0.0,213.176.127.255,4,Iranian Research Organization for Science & Technology,0.0017 (Low),irost.ir,government,RIPE,IR-IROST-19991208,ROLE Admin,"1581944734, tehran, IRAN, ISLAMIC REPUBLIC OF",ipdomain@irost.ORG,+98216997
+213.232.120.0,213.232.121.255,4,IT-KM LLC,0 (Very Low),,hosting,RIPE,Net-ITKM-27,Klochkova Marina,"248010, Russia, Kaluga, Komsomol'skaya Roshcha str., 43, office 414",klomarina@inbox.ru,+79039307573
+214.0.0.0,214.255.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DNIC-NET-214,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+215.0.0.0,215.255.255.255,4,DoD Network Information Center,0 (Very Low),defense.gov,government,ARIN,DNIC-NET-215,DoD Network Information Center,"3990 E. Broad Street, Columbus, OH, 43218, US",disa.columbus.ns.mbx.arin-registrations@mail.mil,+1-844-347-2457
+216.140.0.0,216.143.255.255,4,"Level 3 Parent, LLC",0 (Very Low),level3.com,isp,ARIN,LVLT-ORG-216-140,"Level 3 Parent, LLC","100 CenturyLink Drive, Monroe, LA, 71203, US",abuse@level3.com,+1-877-453-8353
+216.157.224.0,216.157.255.255,4,Ensono LP,0 (Very Low),ensono.com,hosting,ARIN,ENSONO-DCCS,Ensono LP,"1501 Opus Pl, Downers Grove, IL, 60515, US",dg-hostmaster@ensono.com,+1-630-944-3800
+216.159.0.0,216.159.223.255,4,Iowa Communications Network,0 (Very Low),iowa.gov,government,ARIN,NETBLK-ICN-GW3,Iowa Communications Network,"400 East 14th Street, Des Moines, IA, 50319, US",abuse@icn.state.ia.us,+1-515-725-4400
+216.239.160.0,216.239.191.255,4,Summit Broadband,0 (Very Low),summitbb.com,isp,ARIN,SUMMIT-BB,Summit Broadband,"4558 S.W. 35th Street, Orlando, FL, 32811, US",summit_noc@summit-broadband.com,+1-407-996-1188
+217.60.0.0,217.60.255.255,4,GOLD IP L.L.C-FZ,0 (Very Low),goldipv4.com,hosting,RIPE,AE-GOLDIP-20001101,Foad Jalali,"Meydan Hotel,Grandstand,6th floor,Meydan Road,Nad Al Sheba",abuse@goldipv4.com,+97143597477
+217.134.0.0,217.134.127.255,4,Vodafone,0 (Very Low),vodafone.com,isp,RIPE,E2-CAG2,Vodafone IP GSOC,"Vodafone Group PLC, The Connection, Newbury, RG14 2FN, United Kingdom",ipabuse@vodafone.co.uk,+44 1344 602224
+218.72.192.0,218.72.223.255,4,CHINANET-ZJ Lishui node network,0 (Very Low),lsptt.zj.cn,isp,APNIC,CHINANET-ZJ-LS,CHINANET-ZJ Lishui,"No.466 Liqing Road,Lishui,Zhejiang.323000",anti-spam@chinatelecom.cn,+86-578-2179009
+218.104.0.0,218.107.255.255,4,China Unicom IP network,0 (Very Low),chinaunicom.cn,isp,APNIC,UNICOM-CN,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
+218.230.128.0,218.230.191.255,4,Open Computer Network,0 (Very Low),ocn.ne.jp,isp,JPNIC,OCN,,,,
+218.253.224.0,218.253.255.255,4,HKBN Enterprise Solutions HK Limited,0 (Very Low),hkbn.net,isp,APNIC,HKBNES-HK,HKBN Enterprise Solutions HK Limited,"Room 925, 9/F, KITEC, 1 Trademart Drive, Kowloon Bay, Kowloon.",abuse-wtt@hkbn.com.hk,+852-2112-1121
+219.95.128.0,219.95.255.255,4,TM TECHNOLOGY SERVICES SDN. BHD.,0.0001 (Very Low),tm.com.my,isp,APNIC,TMNET,ABUSE MYWEBE,"Menara TM, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",abuse@tm.com.my,+601110001000
+219.128.0.0,219.137.255.255,4,CHINANET Guangdong province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-GD,IPMASTER CHINANET-GD,"NO.18,RO. ZHONGSHANER,YUEXIU DISTRIC,GUANGZHOU",anti-spam@chinatelecom.cn,+86-20-87189274
+219.168.0.0,219.215.255.255,4,SOFTBANK Corp.,0 (Very Low),softbank.jp,isp,APNIC,BBTECH,SOFTBANK Corp.,"Tokyo Portcity Takeshiba Office Tower 22F, 1-7-1, Kaigan",abuse@e.softbank.co.jp,+81-3-6889-6365
+220.48.0.0,220.63.255.255,4,SOFTBANK Corp.,0 (Very Low),softbank.jp,isp,APNIC,BBTECH,SOFTBANK Corp.,"Tokyo Portcity Takeshiba Office Tower 22F, 1-7-1, Kaigan",abuse@e.softbank.co.jp,+81-3-6889-6365
+220.104.0.0,220.111.255.255,4,"NTT DOCOMO BUSINESS,Inc.",0 (Very Low),ntt.com,isp,JPNIC,OCN-CIDR-BLK-JP,,,,
+220.216.128.0,220.216.255.255,4,"NTT EAST, Inc.",0 (Very Low),ntt-east.co.jp,isp,JPNIC,FLETS-CIDR-BLK-JP,,,,
+220.248.0.0,220.252.255.255,4,China Unicom IP network,0 (Very Low),chinaunicom.cn,isp,APNIC,UNICOM-CN,ABUSE CUCN,"No.21,Financial Street, Beijing,100033, P.R.China",hqs-ipabuse@chinaunicom.cn,+000000000
+220.248.0.0,220.248.127.255,4,China Unicom Shanghai province network,0 (Very Low),chinaunicom.com.cn,isp,APNIC,UNICOM-SH,CNCGroup Hostmaster,"No.156,Fu-Xing-Men-Nei Street, Beijing,100031,P.R.China",hqs-ipabuse@chinaunicom.cn,+86-10-82993155
+221.160.0.0,221.167.255.255,4,Korea Telecom,0 (Very Low),kt.com,isp,KRNIC,KORNET-KR,IP Manager,"Gyeonggi-do Bundang-gu, Seongnam-si Buljeong-ro 90, KT Head Office",kornet_ip@kt.com,+82-2-500-6630
+222.64.0.0,222.73.255.255,4,CHINANET shanghai province network,0 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-SH,Wu Xiao Li,"Room 805,61 North Si Chuan Road,Shanghai,200085,PRC",anti-spam@chinatelecom.cn,+86-21-63630562
+222.144.0.0,222.151.255.255,4,"NTT DOCOMO BUSINESS,Inc.",0 (Very Low),ntt.com,isp,APNIC,OCN,IRT-JPNIC-JP,"Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",hostmaster@nic.ad.jp,+81-3-5297-2311
+222.184.0.0,222.191.255.255,4,CHINANET jiangsu province network,0.0001 (Very Low),chinatelecom.cn,isp,APNIC,CHINANET-JS,ABUSE CHINANETCN,"No.31 ,jingrong street,beijing, 100032",anti-spam@chinatelecom.cn,+000000000
+222.241.0.0,222.241.31.255,4,CHINANET-HN changde node network,0 (Very Low),chinatelecom.com.cn,isp,APNIC,CHINANET-HN-CD,CHINANET HuNan ChangDe,"The middle of Wuling Street,Changde 415000",anti-spam@chinatelecom.cn,+86 736 7229427
+223.136.0.0,223.143.255.255,4,Mobile Business Group,0 (Very Low),chinamobile.com,isp,APNIC,EMOME-NET,ABUSE TWNICAP,"3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan",abuse@hinet.net,+000000000
