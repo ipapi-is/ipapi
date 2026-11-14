@@ -1,467 +1,325 @@
-# IP Address Databases (ipapi.is)
+# IP address databases by ipapi.is
 
-This repository contains the databases that are used by the commercial IP API <https://ipapi.is> and the documentation for the API and all databases.
+[![GitHub stars](https://img.shields.io/github/stars/ipapi-is/ipapi?style=flat)](https://github.com/ipapi-is/ipapi)
+[![Last update](https://img.shields.io/github/last-commit/ipapi-is/ipapi?label=last%20update)](https://github.com/ipapi-is/ipapi/commits/main)
+[![Geolocation database: CC BY-SA 4.0](https://img.shields.io/badge/geolocation%20database-CC%20BY--SA%204.0-blue)](#license)
+[![API: 1,000 free requests a day](https://img.shields.io/badge/API-1%2C000%20free%20requests%20a%20day-brightgreen)](https://ipapi.is/pricing.html?ref=github)
 
-Please consider subscribing to a paid plan at [https://ipapi.is/pricing.html](https://ipapi.is/pricing.html) to help out the project. The API runs on several servers across the globe and currently handles millions of daily requests.
+[ipapi.is](https://ipapi.is/?ref=github) answers three questions about any IPv4 or IPv6 address: who owns it, where it is, and what kind of address it is (datacenter, VPN, proxy, Tor exit, known abuser). This repository holds what you can have without paying:
 
-The following databases are available:
+- **A free IP geolocation database.** 4.8 million IPv4 and 1.4 million IPv6 ranges with country, state, city, postal code, coordinates and timezone, as CSV. Commercial use is allowed, and there is no account and no license key.<br>
+  **[Download IPv4](https://github.com/ipapi-is/ipapi/raw/main/databases/geolocationDatabaseIPv4.csv.zip)** (67 MB) · **[Download IPv6](https://github.com/ipapi-is/ipapi/raw/main/databases/geolocationDatabaseIPv6.csv.zip)** (12 MB) · [How to use it](#free-ip-geolocation-database)
+- **Samples of the seven commercial databases**: [hosting ranges](#ip-to-hosting), [VPN exit nodes](#ip-to-vpn), [ASNs](#ip-to-asn), [companies](#ip-to-company), [abusive addresses](#ip-to-abuser), [full geolocation](#ip-to-geolocation) and [reverse DNS](#reverse-dns).
+- **A quick start for the API** these databases power. It is free for 1,000 requests a day: [The API](#the-api).
 
-+ [IP to Hosting Database](https://ipapi.is/hosting-detection.html) - **Commercial** - Contains IP addresses that belong to hosting providers or cloud services such as Amazon AWS or Microsoft Azure. The database contains very small and niche hosting providers.
-+ [IP to Geolocation Database](https://ipapi.is/geolocation.html) - **Free** - Contains the geographical location (Including coordinates, city name and country) of millions of unique IPv4 and IPv6 networks. The full database can be downloaded directly from this repository.
-+ [IP to ASN Database](https://ipapi.is/asn.html) - **Commercial** - This database includes rich meta data for all active and inactive ASNs of the Internet. Currently, there are around 85,000 active ASNs and hundreds of thousands inactive/unassigned ASNs.
-+ [IP to VPN Database](https://ipapi.is/vpn-detection.html) - **Commercial** - The IP to VPN Database is a database that contains VPN IP addresses from well-known providers like ExpressVPN and NordVPN. Additionally, the database contains IP ranges from other VPN providers from which the provider's name is not known.
-+ [Reverse DNS Database](https://ipapi.is/reverse-dns.html) - **Commercial** - Contains the PTR record (reverse DNS hostname) of every IPv4 address on the Internet. The result of a complete monthly sweep of the routable IPv4 address space: 3,702,258,432 IP addresses queried, yielding more than one billion resolved PTR records.
-+ [IP to Abuser Database](https://ipapi.is/ip-to-abuser.html) - **Commercial** - Contains IP addresses that are known to be involved in malicious activities such as hacking attempts, spam, and DDoS attacks.
-+ [IP to Company Database](https://ipapi.is/ip-to-company.html) - **Commercial** - Maps IP addresses to the companies that own them, providing detailed information about the organization behind each IP.
-
-## The IP API
-
-The databases in this repository power the IP API at <https://api.ipapi.is>. The API returns geolocation, ASN, company/organization, abuse contact and hosting information for any IPv4 or IPv6 address, as well as the security flags `is_bogon`, `is_mobile`, `is_satellite`, `is_crawler`, `is_datacenter`, `is_tor`, `is_proxy`, `is_vpn` and `is_abuser`. The API can be used anonymously for up to 1,000 requests per day.
-
-+ Look up any IP address: [https://api.ipapi.is/?q=3.5.140.2](https://api.ipapi.is/?q=3.5.140.2)
-+ Look up any ASN: [https://api.ipapi.is/?q=AS42831](https://api.ipapi.is/?q=AS42831)
-+ Look up your own IP address: [https://api.ipapi.is/](https://api.ipapi.is/)
-
-Usage with `curl`:
+## Free IP geolocation database
 
 ```bash
-curl 'https://api.ipapi.is/?q=32.5.140.2'
+curl -LO https://github.com/ipapi-is/ipapi/raw/main/databases/geolocationDatabaseIPv4.csv.zip
+curl -LO https://github.com/ipapi-is/ipapi/raw/main/databases/geolocationDatabaseIPv6.csv.zip
 ```
 
-Bulk lookups of up to 100 IP addresses in one API call are supported via POST:
-
-```bash
-curl --header "Content-Type: application/json" \
-  --request POST \
-  --data '{"ips": ["162.158.0.0", "2406:dafe:e0ff:ffff:ffff:ffff:dead:beef"], "key": "your_api_key"}' \
-  https://api.ipapi.is
-```
-
-Besides the default JSON output, the API supports several other output formats (all billed the same as JSON):
-
-+ HTML: [https://api.ipapi.is/html?q=172.83.212.160](https://api.ipapi.is/html?q=172.83.212.160) - human-readable HTML page
-+ TOON: [https://api.ipapi.is/toon?q=172.83.212.160](https://api.ipapi.is/toon?q=172.83.212.160) - token-efficient format for LLM prompts
-+ CSV: [https://api.ipapi.is/csv?q=172.83.212.160](https://api.ipapi.is/csv?q=172.83.212.160) - tabular format for spreadsheets
-+ TEXT: [https://api.ipapi.is/text?q=172.83.212.160](https://api.ipapi.is/text?q=172.83.212.160) - plain text key-value pairs
-
-The full API documentation can be found at [https://ipapi.is/developers.html](https://ipapi.is/developers.html).
-
-## Free Database Downloads and Samples
-
-The following files can be downloaded directly from this repository (or from [ipapi.is](https://ipapi.is)):
-
-| Database | Free Download / Sample |
-| --- | --- |
-| IP to Geolocation (IPv4) | [Full Database (CSV)](databases/geolocationDatabaseIPv4.csv.zip) |
-| IP to Geolocation (IPv6) | [Full Database (CSV)](databases/geolocationDatabaseIPv6.csv.zip) |
-| IP to Geolocation (Commercial Version) | [CSV IPv4](databases/locationSample.csv), [MMDB IPv4](databases/locationSample.mmdb), [CSV IPv6](databases/locationSample6.csv), [MMDB IPv6](databases/locationSample6.mmdb) |
-| IP to Hosting (IPv4) | [CSV](databases/HostingRangesIPv4-Sample.csv), [MMDB](databases/HostingRangesIPv4-Sample.mmdb) |
-| IP to Hosting (IPv6) | [CSV](databases/HostingRangesIPv6-Sample.csv), [MMDB](databases/HostingRangesIPv6-Sample.mmdb) |
-| ASN Database (keyed by ASN) | [JSON](databases/ASN-Database-Sample.json) |
-| IP to ASN | [CSV](databases/asnSample.csv), [MMDB](databases/asnSample.mmdb) |
-| IP to VPN (`enumerated-vpn`) | [CSV](databases/Enumerated-VPN-Database-Sample.csv), [MMDB](databases/Enumerated-VPN-Database-Sample.mmdb) |
-| IP to VPN (`interpolated-vpn`) | [CSV](databases/Interpolated-VPN-Database-Sample.csv), [MMDB](databases/Interpolated-VPN-Database-Sample.mmdb) |
-| Reverse DNS | [RDNSZ](https://ipapi.is/data/samples/Reverse-DNS-Database-Sample.rdnsz), [TSV](https://ipapi.is/data/samples/Reverse-DNS-Database-Sample.tsv) |
-| IP to Abuser | [CSV](databases/Abuser-Database-Sample.csv), [MMDB](databases/Abuser-Database-Sample.mmdb) |
-| IP to Company | [CSV](databases/companySample.csv), [MMDB](databases/companySample.mmdb) |
-
-## IP to Hosting Database
-
-The **IP to Hosting Database** is a commercial database that [can be purchased here](https://ipapi.is/hosting-detection.html). The **IP to Hosting Database** contains all known hosting IP ranges of the Internet. The database is continuously updated and new hosting / cloud providers are added as soon as they emerge.
-
-The database considers all of the following services as hosting providers:
-
-+ Normal hosting providers such as [Hetzner.de](https://www.hetzner.de/) or [Leaseweb.com](https://www.leaseweb.com/)
-+ Large cloud providers such as [Amazon AWS](https://aws.amazon.com/) or [Microsoft Azure](https://azure.microsoft.com/)
-+ Content Delivery Networks such as [Cloudflare](https://www.cloudflare.com/), [Fastly](https://www.fastly.com/) or [edg.io](https://edg.io/)
-+ Anti-DDOS services such as [qrator.net](https://qrator.net/) or [ddos-guard.net](https://ddos-guard.net/)
-+ IP leasing organizations such as [ipxo.com](https://ipxo.com/) or [interlir.com](https://interlir.com/)
-+ Other SaaS, IaaS, or PaaS organizations such as [fly.io](https://fly.io/) or [Heroku](https://www.heroku.com/)
-
-A [proprietary algorithm](https://ipapi.is/blog/detecting-hosting-providers.html) was developed to determine if a network belongs to a hosting provider or not. The database contains more than 565,000 IPv4 networks and more than 629,000 IPv6 networks and is constantly growing.
-
-The file format of the database is CSV (or MMDB), where each line of the file contains the following fields:
-
-+ `startIp` - The start IP address of the network range.
-+ `endIp` - The end IP address of the network range.
-+ `ipVersion` - Determines the IP type of the network. Either `4` or `6`.
-+ `datacenter` - The name of the hosting / datacenter provider.
-+ `domain` - The domain name of the hosting provider's website.
-
-Example excerpt of the database (CSV):
+The files are replaced every few weeks; the same ones are on [ipapi.is](https://ipapi.is/geolocation.html?ref=github#free-geolocation-db). Each row is a range of addresses:
 
 ```csv
-startIp,endIp,ipVersion,datacenter,domain
-92.222.187.0,92.222.187.255,4,OVH VPS ES,ovh.net
-153.120.81.0,153.120.81.255,4,SAKURA Internet Inc.,sakura.ad.jp
-185.39.138.85,185.39.138.85,4,MissDomain Group AB,missdomain.com
-86.66.23.232,86.66.23.239,4,Internet Services,isi.ch
-51.77.100.128,51.77.100.143,4,OVH Ltd,ovh.co.uk
-38.142.65.248,38.142.65.255,4,"Imperva, Inc",www.imperva.com
-185.103.97.252,185.103.97.255,4,UK Dedicated Servers Ltd,uksrv.co.uk
-103.64.80.0,103.64.83.255,4,"Guangdong Aofei Data Technology Co., Ltd.",ofidc.com
-194.218.29.104,194.218.29.111,4,Iver Sverige AB,iver.com
-135.125.25.152,135.125.25.159,4,OVH SAS,ovhcloud.com
-46.165.192.0,46.165.255.255,4,Leaseweb Deutschland GmbH,leaseweb.com
-5.198.151.0,5.198.151.127,4,Xidras GmbH,xidras.com
-78.41.202.254,78.41.202.254,4,Snel.com B.V.,snel.com
-133.32.45.0,133.32.45.255,4,"GMO Internet,Inc.",gmo.jp
-5.9.232.240,5.9.232.255,4,Hetzner Online GmbH,hetzner.com
-176.9.127.64,176.9.127.95,4,Hetzner Online GmbH,hetzner.com
-159.148.115.56,159.148.115.63,4,SIA Latnet,bite.lv
-51.91.67.0,51.91.67.255,4,OVH SAS,ovhcloud.com
-89.151.66.192,89.151.66.255,4,Pulsant Limited,pulsant.com
-156.240.103.0,156.240.103.255,4,Bunny Technology LLC,bunny.net
-149.6.42.4,149.6.42.7,4,Netwise Hosting Ltd,netwise.co.uk
+ip_version,start_ip,end_ip,continent,country_code,country,state,city,zip,timezone,latitude,longitude,accuracy,source
+4,1.0.0.0,1.0.0.255,OC,AU,Australia,Queensland,South Brisbane,4101,Australia/Brisbane,-27.48034,153.02049,5,whoisDescrAttr
+4,1.0.1.0,1.0.1.255,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,39.9075,116.39723,5,whoisDescrAttr
+4,1.0.2.0,1.0.3.255,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,39.9075,116.39723,5,whoisDescrAttr
 ```
 
-Database samples:
+| Column | Meaning |
+|---|---|
+| `ip_version` | `4` or `6` |
+| `start_ip`, `end_ip` | First and last address of the range. IPv6 addresses are written out in full |
+| `continent` | Two-letter continent code, such as `OC` |
+| `country_code`, `country` | [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code and English name |
+| `state`, `city`, `zip` | State or region, city and postal code |
+| `timezone` | IANA time zone, such as `Australia/Brisbane` |
+| `latitude`, `longitude` | Coordinates |
+| `accuracy` | The rating of the row, from `1` (very high) to `5` (very low) |
+| `source` | Where the location comes from: `whoisArin` or `whoisLacnic` (the registrant's address in an ARIN or LACNIC record), `whoisGeolocAttr` (the `geoloc` coordinates a network operator put into its WHOIS record) or `whoisDescrAttr` (a place named in the record's description) |
 
-+ [IPv4 Sample (CSV)](databases/HostingRangesIPv4-Sample.csv) / [IPv4 Sample (MMDB)](databases/HostingRangesIPv4-Sample.mmdb)
-+ [IPv6 Sample (CSV)](databases/HostingRangesIPv6-Sample.csv) / [IPv6 Sample (MMDB)](databases/HostingRangesIPv6-Sample.mmdb)
+### What it is good for
 
-## ASN Database
+The locations come from the WHOIS records of the regional internet registries, so the database says where a network is registered. For an office, a university or a regional ISP that is where its addresses are used, and the country is right for the vast majority of addresses. For a hosting provider or a global carrier the city often is not: `85.10.199.76` is a server in Nuremberg, and the free database places it in Gunzenhausen, where its provider Hetzner has its seat. It also does not cover every address.
 
-An autonomous system (AS) is a large network or group of networks with a single routing policy. Each AS is assigned a unique ASN, which is a number that identifies the autonomous system (AS). Most IP addresses belong to an AS. There are many different reasons why ASN metadata can be useful.
+The [full database](#ip-to-geolocation) covers the entire IPv4 and IPv6 address space and adds what network operators publish about their own ranges ([RFC 8805 geofeeds](https://datatracker.ietf.org/doc/rfc8805/)), reverse DNS and latency measurements. It is the data behind the API, which puts the same address in Nuremberg with accuracy `VERY_HIGH`.
 
-[You can purchase the full ASN database here](https://ipapi.is/asn.html) - Sample: [ASN Database Sample (JSON)](databases/ASN-Database-Sample.json)
+### Ranges are nested
 
-The ASN database includes all assigned and allocated AS numbers by IANA and respective meta information. The database furthermore contains unassigned and inactive ASNs (currently around 85,000 active ASNs and more than 370,000 inactive/unassigned ASNs).
+The file is sorted by `start_ip` and keeps WHOIS networks at every level: a provider's allocation and, inside it, the blocks it assigned to its customers. Nine out of ten rows lie inside a wider one, so an address can match several rows. **The smallest range that contains the address is the most specific record, and the one to use.**
 
-The ASN database is updated several times per week. For active ASNs (at least one route/prefix assigned to the AS), the database includes rich meta information. For example, the provided information for the ASN `50673` would be:
+```csv
+4,93.179.92.0,93.179.92.255,EU,RU,Russia,Lipetsk Oblast,Syrskoye,398533,Europe/Moscow,52.586659,39.486826,2,whoisGeolocAttr
+4,93.179.92.0,93.179.95.255,EU,RU,Russia,Moscow,Moscow,101000,Europe/Moscow,55.755773,37.617761,2,whoisGeolocAttr
+4,93.179.93.0,93.179.93.255,EU,RU,Russia,Moscow Oblast,Kolomna,140400,Europe/Moscow,55.07108,38.78399,1,whoisDescrAttr
+4,93.179.94.0,93.179.94.255,EU,RU,Russia,Irkutsk Oblast,Irkutsk,664000,Asia/Irkutsk,52.29566,104.29076,1,whoisDescrAttr
+```
 
-```JavaScript
+`93.179.94.10` is in the second row and in the fourth. The fourth is the smaller range, so the address is in Irkutsk, not in Moscow.
+
+### Convert it to MMDB
+
+A MaxMind DB file gives you fast lookups from every programming language and takes care of the nesting. Build one with [mmdbctl](https://github.com/ipinfo/mmdbctl). Sort the widest ranges first, so that every more specific range overwrites the part of the wider one it covers:
+
+```bash
+unzip geolocationDatabaseIPv4.csv.zip
+
+{ head -1 geolocationDatabaseIPv4.csv
+  tail -n +2 geolocationDatabaseIPv4.csv | LC_ALL=C sort -t, -k2,2V -k3,3Vr
+} | cut -d, -f2- > ipv4.csv
+
+mmdbctl import --range-multicol --in ipv4.csv --out geolocationDatabaseIPv4.mmdb
+```
+
+For the IPv6 file, use `LC_ALL=C sort -t, -k2,2 -k3,3r` instead: its addresses are written out in full, so they sort as text. Then look an address up:
+
+```bash
+mmdbctl read -f json-pretty 128.146.65.112 geolocationDatabaseIPv4.mmdb
+```
+
+```json
 {
-  "asn": 50673,
-  "abuser_score": "0.0013 (Low)",
-  "descr": "SERVERIUS-AS, NL",
-  "country": "nl",
-  "active": true,
-  "org": "Serverius Holding B.V.",
-  "domain": "serverius.net",
-  "abuse": "abuse@serverius.net",
-  "type": "hosting",
-  "created": "2010-09-07",
-  "updated": "2022-11-15",
-  "rir": "RIPE",
-  "whois": "https://api.ipapi.is/?whois=AS50673",
-  "prefixes": [
-    "5.56.133.0/24",
-    "5.178.64.0/21",
-    "5.178.64.0/24",
-    "5.188.12.0/22",
-    "5.188.12.0/24",
-    "5.188.13.0/24",
-    // many more routes
-  ],
-  "prefixesIPv6": [
-    "2001:67c:b0::/48",
-    "2a00:1ca8::/32",
-    "2a00:1ca8:77::/48",
-    "2a00:1caa::/32",
-    "2a02:1680::/32",
-    "2a03:3f40::/32",
-    "2a06:8000::/29",
-    "2a09:e40::/32",
-    "2a09:4d41::/32",
-    "2a09:aa80::/32",
-    "2a0a:3f40::/32",
-    "2a0c:480::/32",
-    "2a0e:c9c0::/29",
-    "2a0f:4a80::/48"
-  ],
-  "elapsed_ms": 0.6
+  "accuracy": "3",
+  "city": "Columbus",
+  "continent": "NA",
+  "country": "United States",
+  "country_code": "US",
+  "ip": "128.146.65.112",
+  "latitude": "39.96118",
+  "longitude": "-82.99879",
+  "network": "128.146.0.0-128.146.255.255",
+  "source": "whoisArin",
+  "state": "Ohio",
+  "timezone": "America/New_York",
+  "zip": "43215"
 }
 ```
 
-The database is in JSON format. The key is the ASN as `int` and the value is an object with AS meta information such as the one above.
+The file works with every MaxMind DB reader, for example [maxminddb](https://pypi.org/project/maxminddb/) for Python and [mmdb-lib](https://www.npmjs.com/package/mmdb-lib) for Node.js:
 
-The ASN data is also available as an **IP to ASN** database in CSV or MMDB format, where each row maps an IP range to its ASN metadata ([CSV Sample](databases/asnSample.csv), [MMDB Sample](databases/asnSample.mmdb)):
+```python
+import maxminddb
 
-```csv
-startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,abuse,type,created,updated,rir
-1.0.0.0,1.0.0.255,4,13335,0.0154 (Elevated),1.0.0.0/24,"CLOUDFLARENET - Cloudflare, Inc., US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
-1.0.4.0,1.0.4.255,4,38803,0.0006 (Low),1.0.4.0/24,"GTELECOM-AS-AP - Gtelecom Pty Ltd, AU",au,true,Gtelecom Pty Ltd,gtelecom.com.au,support@gtelecom.com.au,isp,,2024-09-18,APNIC
+with maxminddb.open_database('geolocationDatabaseIPv4.mmdb') as reader:
+    print(reader.get('128.146.65.112'))
 ```
 
-### ASN Database Format
+```js
+const fs = require('fs');
+const mmdb = require('mmdb-lib');
 
-Each entry of the ASN database has the meta data listed below. If the ASN is inactive, there is less metadata for the ASN. For example, inactive ASNs have no `prefixes` or `prefixesIPv6` fields.
+const reader = new mmdb.Reader(fs.readFileSync('geolocationDatabaseIPv4.mmdb'));
+console.log(reader.get('128.146.65.112'));
+```
 
-+ `asn` - The field `asn` is a unique identifier assigned to each autonomous system (AS) on the Internet. Currently, there are more than 85,000 active Autonomous System Numbers (ASNs) registered ([ASN Statistics](https://ipapi.is/data/asn_meta.json)).
-+ `abuser_score` - The field `abuser_score` represents the quota of abusive IP addresses in all routes of the ASN. The higher this number is, the more abusive the whole ASN is. Example: `0.0013 (Low)`
-+ `descr` - The field `descr` is a short informal descriptive name of the autonomous system (AS) in free format.
-+ `country` - The [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1) to which the AS belongs administratively. This is the country specific location of the autonomous system (AS). This does not necessarily mean that all routes (IP addresses) assigned to this AS must originate from the same country.
-+ `active` - The field `active` determines if the ASN is active or inactive. Active means that at least one route is assigned to the ASN. Put differently, this means that there is at least one entry in the `prefixes` or `prefixesIPv6` array.
-+ `org` - The field `org` contains the organization that owns the ASN. It is crucial to understand that not every IP address assigned to an AS must belong to the organization contained in `org`. Put differently: The IP addresses included in the `prefixes` or `prefixesIPv6` array might be owned by a different organizations than the one from the autonomous system (AS) itself.
-+ `domain` - The field `domain` is the domain of the organization's website that owns the ASN.
-+ `abuse` - The field `abuse` contains the abuse email address that can be used to direct abuse complains to the owner of the ASN.
-+ `type` - The field `type` contains the type of the ASN. The following ASN types exist:
-  + `hosting` - The AS is owned by a hosting provider (Example: [as396982](https://api.ipapi.is?q=as396982))
-  + `education` - The AS belongs to a university or other kind of educational institution (Example: [AS1111](https://api.ipapi.is?q=AS1111))
-  + `government` - The AS belongs to a governmental institution (Example: [AS1701](https://api.ipapi.is?q=AS1701))
-  + `banking` - The AS belongs to a banking / financial institution (Example: [AS2134](https://api.ipapi.is?q=AS2134))
-  + `isp` - The AS belongs to a Internet Service Provider (ISP) (Example: [AS3222](https://api.ipapi.is?q=AS3222))
-  + `business` - If the type is not one of the above, the type is the generic `business` type (Example: [AS3271](https://api.ipapi.is?q=AS3271))
-+ `created` - The field `created` specifies the date when this ASN was first registered.
-+ `updated` - The field `updated` specifies the date when this ASN was last updated.
-+ `rir` - The field `rir` contains the Regional Internet Registry (RIR) responsible for this ASN.
-+ `whois` - The field `whois` contains an url pointing to the raw WHOIS record for this ASN.
-+ `prefixes` - The field `prefixes` contains all the IPv4 networks assigned to this ASN. This is a list of IPv4 networks in CIDR format.
-+ `prefixesIPv6` - The field `prefixesIPv6` contains all the IPv6 networks assigned to this ASN. This is a list of IPv6 networks in CIDR format.
+### License
 
-## Geolocation Database
-
-The **IP to Geolocation Database** is free and can be downloaded directly from this repository. The database includes geolocation information for a large part of the IPv4 address space and many IPv6 networks. The database is updated several times per week. The accuracy of the data is very good on the country level. For critical applications, it is not recommended to rely on the geolocation database to be accurate to the city level. The database (CSV file) has an `accuracy` column that specifies how accurate the geolocation for that particular network is.
-
-+ [Download the IPv4 Geolocation Database](databases/geolocationDatabaseIPv4.csv.zip) (more than 3.1 million networks)
-+ [Download the IPv6 Geolocation Database](databases/geolocationDatabaseIPv6.csv.zip) (more than 1.1 million networks)
-
-### License of the Geolocation Database
-
-The free geolocation database is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You may use it for any purpose, including commercial ones, as long as you credit ipapi.is with a link wherever you show data from it:
+The free geolocation database is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You may use it for any purpose, including commercial ones, if you credit ipapi.is with a link wherever you show data from it:
 
 ```html
 IP geolocation data by <a href="https://ipapi.is/">ipapi.is</a>
 ```
 
-If you publish a modified version of the database, or another database built from it, license it under CC BY-SA 4.0 as well. The full notice is in [databases/LICENSE-free-geolocation-database.txt](databases/LICENSE-free-geolocation-database.txt) and inside both zip files.
+If you publish a modified version of the database, or another database built from it, license it under CC BY-SA 4.0 as well. The notice is in [databases/LICENSE-free-geolocation-database.txt](databases/LICENSE-free-geolocation-database.txt) and inside both zip files. It covers the free geolocation database only: the sample files show the format of the commercial databases, which are licensed under the [ipapi.is terms](https://ipapi.is/terms.html?ref=github).
 
-The geolocation database is provided as large CSV file with the following header fields:
+## The API
 
-+ `ip_version` - Either `4` or `6`. Determines the IP type of the network. Example: `4`
-+ `start_ip` - The first IP address of the network range. Example: `44.31.140.0`
-+ `end_ip` - The last IP address of the network range. Example: `44.31.140.255`
-+ `continent` - The continent as two letter code. Example: `"NA"`
-+ `country_code` - The [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1) to which the IP address belongs. This is the country specific geolocation of the IP address. Example: `"US"`
-+ `country` - The full name of the country. Example: `"United States"`
-+ `state` - The state / administrative area for the queried IP address. Example: `"California"`
-+ `city` - The city to which the IP address belongs. Example: `"Fremont"`
-+ `zip` - The postal code for this IP. Example: `"94720"`
-+ `timezone` - The timezone for this IP. Example: `"America/Los_Angeles"`
-+ `latitude` - The geographical latitude for the IP address. Example: `"37.54827"`
-+ `longitude` - The geographical longitude for the IP address. Example: `"-121.98857"`
-+ `accuracy` - Geolocation information is not always accurate. For that reason, there is an `accuracy` number that gives an estimate of how accurate the geolocation information is. Entries with `accuracy = 1` have the highest accuracy, rows with `accuracy = 5` have the least accuracy.
-  + `accuracy = 1` - Very high geolocation accuracy. You can rely the data to be accurate to the city level.
-  + `accuracy = 2` - High geolocation accuracy. You can often rely the data to be accurate to the city level.
-  + `accuracy = 3` - Medium geolocation accuracy. You can not rely the data to be accurate to the city level.
-  + `accuracy = 4` - Low geolocation accuracy. Usually the data is accurate to the country level.
-  + `accuracy = 5` - Very low geolocation accuracy. The data should be accurate to the country level.
-+ `source` - The source from which the geolocation information was derived. Examples: `whoisDescrAttr` (WHOIS `descr` attribute), `whoisGeolocAttr` (WHOIS `geoloc` attribute), `ownGeofeedData` (RFC 8805 geofeeds), `whoisArin`, `whoisLacnic`, `whoisOnlyCountryAvailable`
-
-Example excerpt of the database (CSV):
-
-```csv
-ip_version,start_ip,end_ip,continent,country_code,country,state,city,zip,timezone,latitude,longitude,accuracy,source
-4,1.0.0.0,1.0.0.255,OC,AU,Australia,Victoria,Research,3760,Australia/Melbourne,-37.7,145.18333,3,whoisDescrAttr
-4,1.0.1.0,1.0.1.255,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,39.9075,116.39723,3,whoisDescrAttr
-4,1.0.2.0,1.0.3.255,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,39.9075,116.39723,3,whoisDescrAttr
-4,1.0.4.0,1.0.4.255,OC,AU,Australia,New South Wales,Warren,2824,Australia/Sydney,-31.70224,147.83392,3,whoisDescrAttr
-```
-
-There is also a commercial version of the geolocation database with higher accuracy, more meta data (such as `isDst`) and MMDB support: [CSV IPv4 Sample](databases/locationSample.csv), [MMDB IPv4 Sample](databases/locationSample.mmdb), [CSV IPv6 Sample](databases/locationSample6.csv), [MMDB IPv6 Sample](databases/locationSample6.mmdb). Learn more on the [IP to Geolocation page](https://ipapi.is/geolocation.html).
-
-### Convert Geolocation Database to MMDB Format
-
-Remove the first column from [geolocationDatabaseIPv4.csv](databases/geolocationDatabaseIPv4.csv.zip):
+One request returns everything ipapi.is knows about an address. A [free account](https://ipapi.is/app/signup?ref=github) includes 1,000 requests a day with the complete response, commercial use included:
 
 ```bash
-cut -d, -f2- geolocationDatabaseIPv4.csv > dataIPv4.csv
+curl "https://api.ipapi.is/?q=187.13.197.43&key=your_api_key"
 ```
-
-Then convert using [mmdbctl](https://github.com/ipinfo/mmdbctl):
-
-```bash
-mmdbctl import --in dataIPv4.csv --out dataIPv4.mmdb
-```
-
-That works like a charm and yields a ready-to-use `dataIPv4.mmdb` file with all networks.
-
-## IP to VPN Database
-
-The [IP to VPN Database](https://ipapi.is/vpn-detection.html) is a database that contains VPN IP addresses from well-known providers like ExpressVPN and NordVPN. Additionally, the database contains IP ranges from other VPN providers from which the provider's name is not known. The database is updated on a regular basis and is available for purchase in CSV or MMDB format.
-
-Despite the fact that VPN services bring a lot of benefits to its users, they also have a dark side. VPN services are often used by cybercriminals to hide their real IP address and to bypass geo-restrictions and commit fraud. The IP to VPN Database is a valuable tool for businesses that want to detect VPN usage on their website or app and to take appropriate measures to protect their services.
-
-The IP to VPN Database contains three different datasets with different detection accuracy and different false positive rates:
-
-+ `enumerated-vpn` - VPN IPs detected by **Exit Node Enumeration**. IP addresses in this dataset are obtained by automatically logging in to different VPN regions and grabbing the public IP address. This dataset is free from false positives. Exit nodes are removed after a maximum staleness of 45 days. ([CSV Sample](databases/Enumerated-VPN-Database-Sample.csv), [MMDB Sample](databases/Enumerated-VPN-Database-Sample.mmdb))
-+ `interpolated-vpn` - VPN IPs detected by **Interpolation**, using the `enumerated-vpn` dataset as ground truth: If more than a threshold share of all IP addresses of a small network are known to belong to a certain VPN service, all IP addresses of this network are attributed to this VPN service. Very small false positive rate. ([CSV Sample](databases/Interpolated-VPN-Database-Sample.csv), [MMDB Sample](databases/Interpolated-VPN-Database-Sample.mmdb))
-+ `assumed-vpn` - Assumed VPN IP addresses based on the IP ranges of VPN services. Contains false positives and must be used with caution.
-
-The `enumerated-vpn` dataset contains the following fields (the mandatory fields are `ipVersion`, `startIp`, `endIp`, `serviceName`, `serviceUrl`, `exitNodeType`, `lastSeen` and `lastSeenStr`, the other fields are optional):
-
-+ `ipVersion` - Either `4` (IPv4) or `6` (IPv6). Determines the IP type of the network. Example: `4`
-+ `startIp` - The first IP address of the network range. Example: `146.70.185.68`
-+ `endIp` - The last IP address of the network range. Example: `146.70.185.68`
-+ `serviceName` - The name of the VPN provider. Example: `MullvadVPN`
-+ `serviceUrl` - The url of the VPN provider. Example: `https://mullvad.net`
-+ `exitNodeType` - Either `"exit_node"` (the IP address is a VPN exit node detected by the VPN enumeration system) or `"vpn_server"` (the IP address is a VPN server known to belong to the VPN service).
-+ `lastSeen` - The unix timestamp in milliseconds of the last time the VPN exit node was enumerated. Example: `1738732422048`
-+ `lastSeenStr` - The last seen date in human readable format. Example: `2025-02-05T05:13:42.048Z`
-+ `exitNodeRegion` - The region of the VPN exit node in free format. Example: `Singapore - CBD`
-+ `hostname` - The hostname associated with the IP address. Example: `us-nyc-ovpn-603`
-+ `countryCode` - The ISO 3166-1 alpha-2 two-letter country code where the VPN exit node is located. Example: `us`
-+ `cityName` - The name of the city where the VPN exit node is located. Example: `New York`
-+ `latitude` - The latitude of the VPN exit node's location. Example: `40.71427`
-+ `longitude` - The longitude of the VPN exit node's location. Example: `-74.00597`
-
-Example excerpt of the `enumerated-vpn` database (CSV):
-
-```csv
-startIp,endIp,ipVersion,serviceName,serviceUrl,exitNodeType,lastSeen,lastSeenStr,exitNodeRegion,hostname,countryCode,cityName,latitude,longitude
-45.14.193.5,45.14.193.5,4,NordVPN,https://nordvpn.com,exit_node,1783270858483,2026-07-05T17:00:58.483Z,no226.nordvpn.com,,NO,,,
-107.170.235.165,107.170.235.165,4,TunnelBear,https://tunnelbear.com,exit_node,1783386256931,2026-07-07T01:04:16.931Z,,,,,,
-83.219.96.34,83.219.96.34,4,ExpressVPN,https://expressvpn.com,exit_node,1779087431055,2026-05-18T06:57:11.055Z,jamaica,,JM,,,
-45.134.20.109,45.134.20.109,4,ExpressVPN,https://expressvpn.com,exit_node,1779098436659,2026-05-18T10:00:36.659Z,australia-woolloomooloo,,AU,Woolloomooloo,-33.87042,151.21968
-151.240.44.38,151.240.44.38,4,Private Internet Access,https://privateinternetaccess.com,exit_node,1781718537869,2026-06-17T17:48:57.869Z,us-wisconsin,,US,Wisconsin,,
-```
-
-### How to use the IP to VPN Database?
-
-This example shows how to work with the IP to VPN Database in MMDB format. First, you have to download the database sample:
-
-```bash
-curl -O https://ipapi.is/data/samples/Enumerated-VPN-Database-Sample.mmdb
-```
-
-And then you can read the database with [mmdbctl](https://github.com/ipinfo/mmdbctl):
-
-```bash
-mmdbctl read -f json-pretty 2.26.12.14 Enumerated-VPN-Database-Sample.mmdb
-```
-
-which outputs:
 
 ```json
 {
-  "exitNodeType": "vpn_server",
-  "ip": "2.26.12.14",
-  "ipVersion": "4",
-  "lastSeen": "1783942716787",
-  "lastSeenStr": "2026-07-13T11:38:36.787Z",
-  "network": "2.26.12.14-2.26.12.14",
-  "serviceName": "PublicVpnConfigs"
+  "ip": "187.13.197.43",
+  "rir": "RIPE",
+  "is_bogon": false,
+  "is_mobile": false,
+  "is_satellite": false,
+  "is_anycast": false,
+  "is_crawler": false,
+  "is_datacenter": true,
+  "is_tor": false,
+  "is_proxy": false,
+  "is_vpn": true,
+  "is_abuser": false,
+  "vpn": {
+    "service": "NordVPN",
+    "type": "exit_node",
+    "last_seen_str": "2026-11-13T14:55:05.677Z",
+    "exit_node_region": "France #1168"
+  },
+  "datacenter": {
+    "datacenter": "PacketHub S.A.",
+    "network": "187.13.197.0 - 187.13.197.255"
+  },
+  "company": {
+    "name": "PacketHub S.A.",
+    "abuser_score": "0.0117 (Elevated)",
+    "type": "hosting"
+  },
+  "abuse": {
+    "email": "abuse@packethub.tech"
+  },
+  "asn": {
+    "asn": 212238,
+    "org": "Datacamp Limited",
+    "type": "hosting"
+  },
+  "location": {
+    "country": "France",
+    "city": "Marseille 01",
+    "timezone": "Europe/Paris",
+    "accuracy": "MEDIUM"
+  }
 }
 ```
 
-## Reverse DNS Database
+The response is shortened here; the [documentation](https://ipapi.is/developers.html?ref=github) describes every field. Bulk lookups of up to 100 addresses, lookups of an AS number with all its prefixes, and HTML, CSV, text and TOON output are part of the same endpoint.
 
-The [Reverse DNS Database](https://ipapi.is/reverse-dns.html) contains the PTR record (reverse DNS hostname) of every IPv4 address on the Internet. It is the result of a complete sweep of the routable IPv4 address space: **3,702,258,432 IP addresses queried, yielding 1,039,377,899 resolved PTR records**. The database is re-crawled from scratch and re-published every month.
+Without a key the API answers 30 requests a day per client address, with the owner and the location only: no detection flags, no bulk lookups, no AS numbers. Code examples in several languages are in [NikolaiT/IP-Address-API](https://github.com/NikolaiT/IP-Address-API), a Node.js client and Express middleware in [NikolaiT/ipapi.is-node](https://github.com/NikolaiT/ipapi.is-node).
 
-Reverse DNS hostnames are one of the most information-dense signals that exist for an IP address. A single PTR record such as `ec2-3-137-190-186.us-east-2.compute.amazonaws.com` reveals the hosting provider, the service type and the region of an IP address - while `dynamic-077-183-045-122.77.183.pool.telefonica.de` immediately identifies a residential dial-up customer. The ipapi.is API derives several of its signals - such as `is_datacenter`, `is_vpn` and the detection of new hosting providers - in part from this reverse DNS data.
+## The commercial databases
 
-Unlike most reverse DNS datasets, this database stores the DNS outcome for **every single queried IPv4 address**, not only the IP addresses that have a PTR record. For each IP, one of the following statuses is recorded: `has_ptr`, `noerror_empty`, `nxdomain`, `servfail`, `refused`, `timeout`, `net_error` or `lame_delegation`. Where a PTR hostname could be verified with a forward lookup, the database additionally stores the Forward-Confirmed reverse DNS (FCrDNS) result.
+The data behind the API is also sold as downloads, for lookups without a network call or for loading into your own systems. The databases come in CSV and MMDB and are rebuilt about twice a week; reverse DNS has a format and a schedule of its own. The samples below are a few hundred rows of each. Figures as of November 2026.
 
-The database ships in `.rdnsz`, a purpose-built binary format that stores the complete sweep - all 3.7 billion query results including all hostnames - in roughly **0.99 GB** (less than a byte per queried IP address). The format achieves this with IP delta encoding, hostname templating and Zstandard block compression. The binary format specification is included in the package, so you can implement a reader in any language - the reference implementations in JavaScript and Go are less than 300 lines each.
+| Database | What it contains | Samples |
+|---|---|---|
+| [IP to Hosting](#ip-to-hosting) | 564,000 IPv4 and 769,000 IPv6 ranges of more than 29,000 hosting, cloud and CDN providers | [CSV](databases/HostingRangesIPv4-Sample.csv), [MMDB](databases/HostingRangesIPv4-Sample.mmdb), IPv6: [CSV](databases/HostingRangesIPv6-Sample.csv), [MMDB](databases/HostingRangesIPv6-Sample.mmdb) |
+| [IP to VPN](#ip-to-vpn) | 393,000 exit node addresses of 73 VPN services, VPN ranges inferred from them, open proxies | [CSV](databases/Enumerated-VPN-Database-Sample.csv), [MMDB](databases/Enumerated-VPN-Database-Sample.mmdb), inferred: [CSV](databases/Interpolated-VPN-Database-Sample.csv), [MMDB](databases/Interpolated-VPN-Database-Sample.mmdb) |
+| [IP to ASN](#ip-to-asn) | 82,000 active autonomous systems with 1.3 million routes, organization, type and abuse contact | [JSON](databases/ASN-Database-Sample.json), [CSV](databases/asnSample.csv), [MMDB](databases/asnSample.mmdb) |
+| [IP to Company](#ip-to-company) | The owner, domain, type and abuse contact of nearly 8 million networks | [CSV](databases/companySample.csv), [MMDB](databases/companySample.mmdb) |
+| [IP to Abuser](#ip-to-abuser) | 17 million addresses reported for attacks, spam and scanning by 54 vetted sources; Tor exit nodes | [CSV](databases/Abuser-Database-Sample.csv), [MMDB](databases/Abuser-Database-Sample.mmdb) |
+| [IP to Geolocation](#ip-to-geolocation) | The location of the entire IPv4 and IPv6 address space | [CSV](databases/locationSample.csv), [MMDB](databases/locationSample.mmdb), IPv6: [CSV](databases/locationSample6.csv), [MMDB](databases/locationSample6.mmdb) |
+| [Reverse DNS](#reverse-dns) | The PTR record of every IPv4 address: 1.16 billion hostnames in 1.08 GB | [RDNSZ](https://ipapi.is/data/samples/Reverse-DNS-Database-Sample.rdnsz), [TSV](https://ipapi.is/data/samples/Reverse-DNS-Database-Sample.tsv) |
 
-A converted excerpt of the database looks like this (IP address, tab, PTR hostnames):
+Each database is a monthly subscription, and the [Business plan](https://ipapi.is/business-subscription.html?ref=github) includes all seven together with a server that runs the whole API in your own infrastructure. [Pricing](https://ipapi.is/pricing.html?ref=github).
+
+In every CSV file a row is a range from `startIp` to `endIp`, both included, and `ipVersion` is `4` or `6`. In the MMDB files all values are strings, and a lookup also returns the matched `network`. Read them like the geolocation file above:
+
+```bash
+mmdbctl read -f json-pretty 178.63.179.241 databases/HostingRangesIPv4-Sample.mmdb
+```
+
+### IP to Hosting
+
+Which addresses belong to a hosting provider, and to which one. People browse from home, office and mobile networks; a request from a datacenter is a server talking: a bot, a scraper, a proxy or a VPN. Hosting and cloud providers, CDNs, DDoS protection services, IP leasing companies and app platforms all count. Thousands of the providers are small hosts that publish no range list; they are found by [classifying the organizations behind WHOIS records](https://ipapi.is/blog/detecting-hosting-providers.html?ref=github). [Product page](https://ipapi.is/hosting-detection.html?ref=github).
+
+```csv
+startIp,endIp,ipVersion,datacenter,domain
+178.63.179.240,178.63.179.247,4,Hetzner Online GmbH,hetzner.com
+51.178.189.32,51.178.189.47,4,OVH SAS,ovhcloud.com
+```
+
+`datacenter` is the provider's name and `domain` its website. The package also has `HostingProviders.csv`, an index of all providers with the number of addresses each one holds.
+
+### IP to VPN
+
+Which addresses belong to a VPN service, and to which one. The core is found by [connecting to the VPN services](https://ipapi.is/blog/systematic-vpn-detection.html?ref=github) around the clock and recording the addresses their traffic leaves from. [Product page](https://ipapi.is/vpn-detection.html?ref=github).
+
+| File | Contains | False positives |
+|---|---|---|
+| `enumerated-vpn` | Exit nodes we observed, and servers the services list themselves. Removed after 45 days without a new sighting | None |
+| `interpolated-vpn` | Ranges in which exit nodes are so dense that the whole range is a VPN service's | Very few |
+| `assumed-vpn` | Ranges that WHOIS describes as VPN infrastructure, or that hold exit nodes too sparsely for the tier above | Possible |
+| `proxy` | Open HTTP and SOCKS proxies | |
+
+```csv
+startIp,endIp,ipVersion,serviceName,serviceUrl,exitNodeType,lastSeen,lastSeenStr,exitNodeRegion,hostname,countryCode,cityName,latitude,longitude,claimedCountryCode,claimedCityName,claimedLatitude,claimedLongitude
+89.37.63.229,89.37.63.229,4,MullvadVPN,https://mullvad.net,exit_node,1794338034465,2026-11-10T19:13:54.465Z,se-sto-wg-204,,SE,Stockholm,59.32938,18.06871,,,,
+```
+
+| Column | Meaning |
+|---|---|
+| `serviceName`, `serviceUrl` | The VPN service and its website |
+| `exitNodeType` | `exit_node`: we saw traffic leave the VPN from this address. `vpn_server`: the service lists it as one of its servers |
+| `lastSeen`, `lastSeenStr` | The last sighting, as Unix time in milliseconds and as ISO 8601 |
+| `exitNodeRegion`, `hostname` | The service's own name for the location, and the server's hostname |
+| `countryCode`, `cityName`, `latitude`, `longitude` | Where the exit node is |
+| `claimedCountryCode`, `claimedCityName`, `claimedLatitude`, `claimedLongitude` | Where the service says it is, when that is another country (a virtual location) |
+
+`interpolated-vpn` has `serviceName` and `serviceUrl` only; a range shared by several services names all of them.
+
+### IP to ASN
+
+Every autonomous system of the internet, from BGP routing tables and the WHOIS records of all registries. The CSV and MMDB files map each announced range to its AS, for lookups by address. The JSON file is keyed by AS number, lists all prefixes of each AS, and also has the 376,000 inactive ones. [Product page](https://ipapi.is/asn.html?ref=github).
+
+```csv
+startIp,endIp,ipVersion,asn,abuser_score,route,descr,country,active,org,domain,abuse,type,created,updated,rir
+1.0.0.0,1.0.0.255,4,13335,0.001 (Low),1.0.0.0/24,"CLOUDFLARENET - Cloudflare, Inc., US",us,true,"Cloudflare, Inc.",cloudflare.com,abuse@cloudflare.com,hosting,2010-07-14,2017-02-17,ARIN
+```
+
+| Column | Meaning |
+|---|---|
+| `asn`, `descr` | The AS number and its description |
+| `route` | The announced prefix that covers the range |
+| `org`, `domain` | The organization that holds the AS and its website. Addresses announced by an AS can belong to other organizations; see [IP to Company](#ip-to-company) |
+| `type` | `hosting` ([Amazon](https://ipapi.is/asn/16509.html?ref=github)), `isp` ([Deutsche Telekom](https://ipapi.is/asn/3320.html?ref=github)), `business` ([Apple](https://ipapi.is/asn/714.html?ref=github)), `education` ([MIT](https://ipapi.is/asn/3.html?ref=github)), `government` ([NASA](https://ipapi.is/asn/1701.html?ref=github)) or `banking` ([JPMorgan Chase](https://ipapi.is/asn/7743.html?ref=github)) |
+| `abuser_score` | The share of the AS's addresses seen in abuse, with a label: see [IP to Company](#ip-to-company) |
+| `country`, `rir` | The country the AS is registered in, and its registry |
+| `active` | Whether the AS announces any route |
+| `abuse` | The address for abuse reports |
+| `created`, `updated` | Registration and last change in WHOIS |
+
+### IP to Company
+
+The organization each network is registered to, from the WHOIS records of the five regional registries and several national ones, down to the customer where a provider has assigned a block. [Product page](https://ipapi.is/ip-to-company.html?ref=github).
+
+```csv
+startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,netname,abuseName,abuseAddress,abuseEmail,abusePhone
+18.0.0.0,18.31.255.255,4,Massachusetts Institute of Technology,0 (Very Low),mit.edu,education,ARIN,MIT,Massachusetts Institute of Technology,"Cambridge, MA, 02139-4307, US",arin-mit-security@mit.edu,+1-617-324-1782
+```
+
+| Column | Meaning |
+|---|---|
+| `company`, `domain` | The organization and its website |
+| `type` | `hosting`, `isp`, `business`, `education`, `government` or `banking` |
+| `abuser_score` | The share of the network's addresses seen in abuse, with a label: `Very Low` (under 0.05%), `Low` (up to 0.85%), `Elevated` (up to 3%), `High` (up to 20%) or `Very High` |
+| `rir`, `netname` | The registry, and the name of the network in its WHOIS record |
+| `abuseName`, `abuseAddress`, `abuseEmail`, `abusePhone` | Where to report abuse |
+
+### IP to Abuser
+
+Addresses that are attacking the internet now: guessing passwords, scanning for vulnerable services, sending spam. They come from sources that observe abuse themselves and let their entries expire, among them our own honeypots. The package also has `tor`, the current Tor exit nodes. [Product page](https://ipapi.is/ip-to-abuser.html?ref=github).
+
+```csv
+startIp,endIp,ipVersion,isAbuser,sourceCount,totalSources
+193.32.162.15,193.32.162.15,4,true,24,54
+```
+
+`sourceCount` is the number of sources that report the address, out of `totalSources`. The file is sorted by it, so the addresses most sources agree on come first.
+
+### IP to Geolocation
+
+The full edition of the free database above, and the data behind the `location` object of the API. IPv4 and IPv6 are separate files. [Product page](https://ipapi.is/geolocation.html?ref=github).
+
+```csv
+startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitude,longitude,accuracy
+20.34.76.0,20.34.76.255,NA,US,United States,Arizona,Phoenix,85001,America/Phoenix,0,33.44838,-112.07404,1
+```
+
+`accuracy` runs from `1` (very high) to `5` (very low) and is what the API reports as `VERY_HIGH` to `VERY_LOW`. `isDst` says whether daylight saving time was in effect when the database was built. How accurate the locations are is measured in a [live benchmark of 18 providers against GPS positions](https://ipapi.is/blog/ip-geolocation-accuracy-benchmark.html?ref=github).
+
+### Reverse DNS
+
+The result of [our own sweep of the whole IPv4 address space](https://ipapi.is/blog/crawling-the-complete-ipv4-reverse-dns-space.html?ref=github): 3.7 billion addresses queried, 1.16 billion PTR records found, and the DNS status of every address without one. It also has 7.4 million IPv6 PTR records from a walk of the `ip6.arpa` tree. A new crawl pass is published every one to two months. [Product page](https://ipapi.is/reverse-dns.html?ref=github).
 
 ```
 1.0.16.108	st2-smtp.kakeibo.tepco.co.jp
 1.0.64.20	20.64.0.1.megaegg.ne.jp
-1.0.64.40	40.64.0.1.megaegg.ne.jp
-1.0.64.60	60.64.0.1.megaegg.ne.jp
 ```
 
-### How to use the Reverse DNS Database?
-
-Every database package includes `rdnsz_query.js`, a self-contained reader tool with zero npm dependencies - it only requires Node.js >= 22.15. To try it out, download the sample database and the tool:
+The database ships in `.rdnsz`, a binary format that holds the whole sweep in 1.08 GB, with a reader that needs nothing but Node.js 22.15 or newer:
 
 ```bash
 curl -O https://ipapi.is/data/samples/Reverse-DNS-Database-Sample.rdnsz
 curl -O https://ipapi.is/src/rdnsz_query.js
-```
-
-Look up a single IP address:
-
-```bash
 node rdnsz_query.js lookup 1.0.64.20 Reverse-DNS-Database-Sample.rdnsz
 ```
 
-which outputs:
+## Wrong data, questions
 
-```json
-{
-  "ip": "1.0.64.20",
-  "status": "has_ptr",
-  "ptr": [
-    "20.64.0.1.megaegg.ne.jp"
-  ],
-  "fcrdns_match": true
-}
-```
-
-Show the crawl statistics of a database file or convert it to plain text (TSV) / JSONL:
-
-```bash
-node rdnsz_query.js stats Reverse-DNS-Database-Sample.rdnsz
-node rdnsz_query.js dump Reverse-DNS-Database-Sample.rdnsz --limit 5
-```
-
-Typical use cases for the Reverse DNS Database are IP classification and enrichment, threat intelligence and abuse analysis, email deliverability checks, asset discovery / attack surface management, Internet research and offline reverse DNS lookups with zero latency. Because each monthly release is a complete, self-contained snapshot, you can also diff two releases to detect infrastructure changes. Read more on the [Reverse DNS Database page](https://ipapi.is/reverse-dns.html).
-
-## IP to Abuser Database
-
-The [IP to Abuser Database](https://ipapi.is/ip-to-abuser.html) is a database that contains IP addresses known for abusive behavior. The database is aggregated from more than 150 independent blocklist sources, updated on a regular basis and available for purchase in CSV or MMDB format. Currently, the database contains more than 5 million abusive IP addresses.
-
-Abusive IP addresses can be used for various malicious activities, including spam, hacking attempts, and DDoS attacks. The IP to Abuser Database is a valuable tool for businesses that want to detect and prevent abuse on their website or app and to take appropriate measures to protect their services.
-
-The IP to Abuser Database is provided as a CSV or MMDB file with the following fields:
-
-+ `ipVersion` - Either `4` (IPv4) or `6` (IPv6), determining the IP type of the network.
-+ `startIp` - The start IP address of the range in string format. Example: `45.86.210.31`
-+ `endIp` - The end IP address of the range in string format. Example: `45.86.210.31`
-+ `isAbuser` - A boolean value indicating whether the IP is known for abusive behavior. Example: `true`
-+ `sourceCount` - The number of independent blocklist sources where this IP address was found. A higher number indicates the IP is more widely recognized as abusive. Example: `7`
-+ `totalSources` - The total number of active blocklist sources used by the database. This allows you to calculate the percentage of sources where an IP appears. Example: `154`
-
-The database is sorted by `sourceCount` in descending order. IPs with higher `sourceCount` values are found on more independent blocklists and are generally considered more reliably abusive.
-
-Example excerpt of the database ([CSV Sample](databases/Abuser-Database-Sample.csv), [MMDB Sample](databases/Abuser-Database-Sample.mmdb)):
-
-```csv
-startIp,endIp,ipVersion,isAbuser,sourceCount,totalSources
-93.174.95.106,93.174.95.106,4,true,34,154
-86.54.31.38,86.54.31.38,4,true,33,154
-118.26.111.107,118.26.111.107,4,true,32,154
-80.82.77.33,80.82.77.33,4,true,31,154
-```
-
-## IP to Company Database
-
-The [IP to Company Database](https://ipapi.is/ip-to-company.html) contains the name, domain and type for every company / organization in the Internet that owns an IP address or IP network. IP ownership of companies is obtained by querying the five major WHOIS registries responsible for number resources: ARIN, RIPE, APNIC, LACNIC, and AFRINIC. The IP to Company Database is updated in regular intervals to ensure the correctness of the firmographic data.
-
-The IP to Company Database allows you to accurately classify traffic according to different criteria, such by company name or type. For example, traffic from an organization classified as hosting tends to have a lower reputation compared to traffic from a government or education network.
-
-The file format of the IP to Company Database is either in CSV or MMDB format ([CSV Sample](databases/companySample.csv), [MMDB Sample](databases/companySample.mmdb)) and contains the following fields:
-
-+ `startIp` - The start IP address of the range in string format. Example: `117.200.64.0`
-+ `endIp` - The end IP address of the range in string format. Example: `117.200.239.255`
-+ `ipVersion` - Either `4` (IPv4) or `6` (IPv6), determining the IP type of the network.
-+ `company` - The name of the company. Example: `Broadband Networks`
-+ `abuser_score` - The field `abuser_score` represents the quota of abusive IP addresses of the network belonging to the organization (company). The higher this number is, the more abusive the whole network is. `abuser_score = Number of Abusive IPs / Number of Total IPs in the Network`
-  - Example: `0.0183 (Elevated)`
-  - `Very High` - More than 20% of all IPs of the network are abusive
-  - `High` - Between 3% to 20% of all IPs of the network are abusive
-  - `Elevated` - Between 0.85% to 3% of all IPs of the network are abusive
-  - `Low` - Between 0.85% to 0.05% of all IPs of the network are abusive
-  - `Very Low` - Less than 0.05% of all IPs of the network are abusive
-+ `domain` - The domain of the Company. Example: `bsnl.co.in`
-+ `type` - The field `type` contains the type of the company. The following company types exist:
-  - `hosting` - The company is a hosting provider (Example: `5.161.56.240`)
-  - `education` - The company is a university or other kind of educational institution (Example: `129.114.137.255`)
-  - `government` - The company is a governmental institution (Example: `137.75.167.171`)
-  - `banking` - The company is a banking/financial institution (Example: `199.67.175.0`)
-  - `isp` - The company is an Internet Service Provider (ISP) (Example: `117.200.226.44`)
-  - `business` - If the type is not one of the above, the type is the generic business type (Example: `17.133.85.230`)
-+ `rir` - The Regional Internet Registry responsible for the IP range. Example: `APNIC`
-+ `netname` - The network name as registered in the WHOIS record (the `NetName` field in ARIN records and the `netname` field in RIPE/APNIC/AFRINIC records). This is a per-network identifier, not a per-org one, so two networks belonging to the same organization can have different netnames. Empty for LACNIC-administered space (which has no equivalent field). Example: `CHINANET-FJ`
-+ `abuseName` - The abuse contact name, the name of the identity that receives abuse complaints about the network. The abuse contact name is mostly the same name as in `company`. Example: `ABUSE BSNLIN`
-+ `abuseAddress` - The abuse contact address. This is the physical address of abuse contact of the entity that owns the network. Example: `Internet Cell, Bharat Sanchar Nigam Limited., 8th Floor,148-B Statesman House, Barakhamba Road, New Delhi - 110 001`
-+ `abuseEmail` - The abuse contact email. This email address takes abuse complaints about incidents associated with the network. Example: `abuse1@bsnl.co.in`
-+ `abusePhone` - The abuse contact phone number. This phone number takes abuse complaints about incidents associated with the network. Example: `+000000000`
-
-## Contact
-
-If you have any questions, suggestions or if you found an error in the data, please [contact us](https://ipapi.is/contact.html). Errors in the data can also be reported directly on [ipapi.is](https://ipapi.is/).
+Report wrong data on the [corrections page](https://ipapi.is/corrections.html?ref=github); network operators can submit their geofeed there too. For everything else there is [info@ipapi.is](mailto:info@ipapi.is), or an issue in this repository.
