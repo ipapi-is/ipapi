@@ -5,7 +5,7 @@
 [![Geolocation database: CC BY-SA 4.0](https://img.shields.io/badge/geolocation%20database-CC%20BY--SA%204.0-blue)](#license)
 [![API: 1,000 free requests a day](https://img.shields.io/badge/API-1%2C000%20free%20requests%20a%20day-brightgreen)](https://ipapi.is/pricing.html?ref=github)
 
-[ipapi.is](https://ipapi.is/?ref=github) answers three questions about any IPv4 or IPv6 address: who owns it, where it is, and what kind of address it is (datacenter, VPN, proxy, Tor exit, known abuser). This repository holds what you can have without paying:
+[ipapi.is](https://ipapi.is/?ref=github) answers three questions about any IPv4 or IPv6 address: who owns it, where it is, and what kind of address it is (datacenter, VPN, proxy, Tor node, known abuser). This repository holds what you can have without paying:
 
 - **A free IP geolocation database.** 4.8 million IPv4 and 1.4 million IPv6 ranges with country, state, city, postal code, coordinates and timezone, as CSV. Commercial use is allowed, and there is no account and no license key.<br>
   **[Download IPv4](https://github.com/ipapi-is/ipapi/raw/main/databases/geolocationDatabaseIPv4.csv.zip)** (67 MB) · **[Download IPv6](https://github.com/ipapi-is/ipapi/raw/main/databases/geolocationDatabaseIPv6.csv.zip)** (12 MB) · [How to use it](#free-ip-geolocation-database)
@@ -192,7 +192,7 @@ The data behind the API is also sold as downloads, for lookups without a network
 | [IP to VPN](#ip-to-vpn) | 393,000 exit node addresses of 73 VPN services, VPN ranges inferred from them, open proxies | [CSV](databases/Enumerated-VPN-Database-Sample.csv), [MMDB](databases/Enumerated-VPN-Database-Sample.mmdb), inferred: [CSV](databases/Interpolated-VPN-Database-Sample.csv), [MMDB](databases/Interpolated-VPN-Database-Sample.mmdb) |
 | [IP to ASN](#ip-to-asn) | 82,000 active autonomous systems with 1.3 million routes, organization, type and abuse contact | [JSON](databases/ASN-Database-Sample.json), [CSV](databases/asnSample.csv), [MMDB](databases/asnSample.mmdb) |
 | [IP to Company](#ip-to-company) | The owner, domain, type and abuse contact of nearly 8 million networks | [CSV](databases/companySample.csv), [MMDB](databases/companySample.mmdb) |
-| [IP to Abuser](#ip-to-abuser) | 17 million addresses reported for attacks, spam and scanning by 54 vetted sources; Tor exit nodes | [CSV](databases/Abuser-Database-Sample.csv), [MMDB](databases/Abuser-Database-Sample.mmdb) |
+| [IP to Abuser](#ip-to-abuser) | 17 million addresses reported for attacks, spam and scanning by 54 vetted sources; the nodes of the Tor network | [CSV](databases/Abuser-Database-Sample.csv), [MMDB](databases/Abuser-Database-Sample.mmdb) |
 | [IP to Geolocation](#ip-to-geolocation) | The location of the entire IPv4 and IPv6 address space | [CSV](databases/locationSample.csv), [MMDB](databases/locationSample.mmdb), IPv6: [CSV](databases/locationSample6.csv), [MMDB](databases/locationSample6.mmdb) |
 | [Reverse DNS](#reverse-dns) | The PTR record of every IPv4 address: 1.16 billion hostnames in 1.08 GB | [RDNSZ](https://ipapi.is/data/samples/Reverse-DNS-Database-Sample.rdnsz), [TSV](https://ipapi.is/data/samples/Reverse-DNS-Database-Sample.tsv) |
 
@@ -283,7 +283,7 @@ startIp,endIp,ipVersion,company,abuser_score,domain,type,rir,netname,abuseName,a
 
 ### IP to Abuser
 
-Addresses that are attacking the internet now: guessing passwords, scanning for vulnerable services, sending spam. They come from sources that observe abuse themselves and let their entries expire, among them our own honeypots. The package also has `tor`, the current Tor exit nodes. [Product page](https://ipapi.is/ip-to-abuser.html?ref=github).
+Addresses that are attacking the internet now: guessing passwords, scanning for vulnerable services, sending spam. They come from sources that observe abuse themselves and let their entries expire, among them our own honeypots. The package also has `tor`, the current nodes of the Tor network: exit nodes and other relays. [Product page](https://ipapi.is/ip-to-abuser.html?ref=github).
 
 ```csv
 startIp,endIp,ipVersion,isAbuser,sourceCount,totalSources
