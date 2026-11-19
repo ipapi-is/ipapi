@@ -1,501 +1,501 @@
 startIp,endIp,continent,countryCode,country,state,city,zip,timezone,isDst,latitude,longitude,accuracy
-::ffff:1ac:8700,::ffff:1ac:87ff,AS,TW,Taiwan,Taipei,Taipei,100,Asia/Taipei,0,25.03817,121.5636,4
-::ffff:251:a500,::ffff:251:a5ff,EU,PT,Portugal,Braga,Braga,4700-000,Europe/Lisbon,0,41.54995,-8.41987,4
-::ffff:508:9a00,::ffff:508:9aff,AS,LB,Lebanon,Mount Lebanon,Jdaidet el Matn,,Asia/Beirut,0,33.8907,35.56645,4
-::ffff:52f:3300,::ffff:52f:33ff,AS,TR,Turkey,Isparta,Isparta,33080,Europe/Istanbul,0,37.76444,30.55222,4
-::ffff:57a:7000,::ffff:57a:71ff,AS,IR,Iran,Kordestan,Saqqez,66816-15183,Asia/Tehran,0,36.24992,46.2735,4
-::ffff:5b3:a200,::ffff:5b3:a2ff,EU,IT,Italy,Calabria,San Marco Argentano,87018,Europe/Rome,0,39.5583,16.12009,4
-::ffff:820:1c00,::ffff:820:1fff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.76078,-111.89105,4
-::ffff:838:c600,::ffff:838:cbff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.76078,-111.89105,4
-::ffff:c44:d800,::ffff:c44:d8ff,NA,US,United States,Oklahoma,Oklahoma City,73123,America/Chicago,0,35.46756,-97.51643,4
-::ffff:c8d:b800,::ffff:c8d:c9ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
-::ffff:cd2:1500,::ffff:cd2:15ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
-::ffff:e0d:3400,::ffff:e0d:35ff,AS,JP,Japan,Yamaguchi,Yamaguchi,753-0073,Asia/Tokyo,0,34.183,131.467,4
-::ffff:1780:ac00,::ffff:1780:acff,NA,US,United States,Wisconsin,Dodgeville,53533,America/Chicago,0,42.96027,-90.13012,4
-::ffff:1b06:3a00,::ffff:1b06:3bff,AS,IN,India,Maharashtra,Mumbai,400017,Asia/Kolkata,0,19.07597,72.87738,4
-::ffff:1bfc:2b00,::ffff:1bfc:2bff,OC,NZ,New Zealand,Canterbury,Christchurch,8440,Pacific/Auckland,1,-43.52833,172.59013,4
-::ffff:1f14:6300,::ffff:1f14:64ff,EU,NL,The Netherlands,Gelderland,Wageningen,6707,Europe/Brussels,0,51.97,5.66628,4
-::ffff:1f6f:8e00,::ffff:1f6f:8eff,EU,GB,United Kingdom,England,Ipswich,IP1,Europe/London,0,52.05917,1.15545,4
-::ffff:201f:1a00,::ffff:201f:1aff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
-::ffff:2020:f700,::ffff:2020:f8ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
-::ffff:2480:e700,::ffff:2481:3aff,AS,CN,China,Liaoning,Shenyang,110000,Asia/Shanghai,0,41.79222,123.43288,4
-::ffff:264b:fc00,::ffff:264b:fcff,SA,PY,Paraguay,San Pedro Department,Capiibary,021715,America/Asuncion,0,-24.8,-56.03333,4
-::ffff:26c4:3d00,::ffff:26c4:3eff,NA,DO,Dominican Republic,Samana,Samana,32000,America/Santo_Domingo,0,19.20561,-69.33685,4
-::ffff:2865:3000,::ffff:2865:33ff,EU,FI,Finland,Uusimaa,Helsinki,00121,Europe/Helsinki,0,60.16952,24.93545,4
-::ffff:2916:b400,::ffff:2916:b4ff,AF,ZA,South Africa,Mpumalanga,Emalahleni,1032,Africa/Johannesburg,0,-25.87133,29.23323,4
-::ffff:2b6d:bf00,::ffff:2b6d:bfff,AS,LK,Sri Lanka,Western Province,Colombo,00100,Asia/Colombo,0,6.93248,79.84759,4
-::ffff:2bfc:9200,::ffff:2bfc:93ff,AS,ID,Indonesia,West Java,Kuningan,45511,Asia/Jakarta,0,-6.97583,108.48306,4
-::ffff:2e85:3d00,::ffff:2e85:3dff,EU,UA,Ukraine,Odesa,Odesa,65000,Europe/Kyiv,0,46.47727,30.7326,4
-::ffff:3234:8800,::ffff:3234:90ff,NA,US,United States,North Carolina,Durham,27722,America/New_York,0,35.99403,-78.89893,4
-::ffff:32c9:6d00,::ffff:32c9:6dff,NA,US,United States,Alabama,Tuscaloosa,35486,America/Chicago,0,33.20967,-87.56912,4
-::ffff:32cd:f400,::ffff:32cd:f4ff,NA,US,United States,Georgia,Atlanta,30334,America/New_York,0,33.7488,-84.38754,4
-::ffff:32d9:e800,::ffff:32d9:e8ff,NA,US,United States,New Jersey,Mount Laurel,08054,America/New_York,0,39.95293,-74.9037,4
-::ffff:3912:c00,::ffff:3912:dff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.03947,-77.49181,4
-::ffff:3ae0:8000,::ffff:3ae0:80ff,AS,KR,South Korea,Gyeonggi-do,Bucheon-si,14554,Asia/Seoul,0,37.49887,126.78351,4
-::ffff:3e25:9e00,::ffff:3e25:9eff,EU,ES,Spain,Madrid,Madrid,28003,Europe/Madrid,0,40.44324,-3.71161,4
-::ffff:3e26:f100,::ffff:3e26:f1ff,EU,GR,Greece,Dytiki Ellada,Patra,262 21,Europe/Athens,0,38.24437,21.73453,4
-::ffff:3fe1:dc00,::ffff:3fe1:dfff,NA,US,United States,Arizona,Phoenix,85001,America/Phoenix,0,33.44823,-112.07405,4
-::ffff:4018:8300,::ffff:4018:83ff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
-::ffff:403d:9800,::ffff:403d:98ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
-::ffff:405a:a000,::ffff:405a:adff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
-::ffff:4089:2200,::ffff:4089:23ff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,4
-::ffff:4117:c00,::ffff:4117:cff,NA,US,United States,North Carolina,Raleigh,27697,America/New_York,0,35.77766,-78.6435,4
-::ffff:415d:1300,::ffff:415d:13ff,NA,CA,Canada,Ontario,St. Catharines,L2W,America/Toronto,0,43.16685,-79.24924,4
-::ffff:41b9:2800,::ffff:41b9:2fff,NA,US,United States,Ohio,Columbus,43215,America/New_York,0,39.96138,-82.99775,4
-::ffff:4246:af00,::ffff:4246:b2ff,NA,CA,Canada,Quebec,Montréal,H3H,America/Toronto,0,45.50884,-73.58781,4
-::ffff:427d:5d00,::ffff:427d:5eff,NA,US,United States,Virginia,Arlington,22226,America/New_York,0,38.88101,-77.10428,4
-::ffff:4292:1800,::ffff:4292:1aff,NA,US,United States,California,El Segundo,90245,America/Los_Angeles,0,33.9192,-118.41658,4
-::ffff:4296:b800,::ffff:4296:b8ff,NA,US,United States,California,Santa Monica,90406,America/Los_Angeles,0,34.0195,-118.49138,4
-::ffff:42d0:9c00,::ffff:42d0:9fff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
-::ffff:4454:f300,::ffff:4454:f3ff,NA,US,United States,Florida,Lake Mary,32746,America/New_York,0,28.75928,-81.31784,4
-::ffff:4593:e600,::ffff:4593:e6ff,NA,US,United States,Illinois,Chicago,60605,America/Chicago,0,41.87577,-87.62061,4
-::ffff:459f:7200,::ffff:459f:73ff,NA,CA,Canada,Quebec,Gatineau,K1P,America/Toronto,0,45.42761,-75.71056,4
-::ffff:4630:600,::ffff:4630:7ff,NA,CA,Canada,Ontario,Guelph,N1E,America/Toronto,0,43.5504,-80.24928,4
-::ffff:4647:9c00,::ffff:4647:9eff,NA,CA,Canada,British Columbia,Langley,V2Z,America/Vancouver,0,49.08297,-122.58589,4
-::ffff:4849:3000,::ffff:4849:31ff,NA,US,United States,Virginia,Arlington,22226,America/New_York,0,38.88101,-77.10428,4
-::ffff:4889:d500,::ffff:4889:d5ff,NA,CA,Canada,Quebec,Montréal,H3H,America/Toronto,0,45.50884,-73.58781,4
-::ffff:48a4:1600,::ffff:48a4:16ff,NA,US,United States,Pennsylvania,Philadelphia,19099,America/New_York,0,39.95234,-75.16379,4
-::ffff:49eb:3300,::ffff:49eb:33ff,NA,US,United States,California,Yuba City,95993,America/Los_Angeles,0,39.13983,-121.63124,4
-::ffff:49f9:8700,::ffff:49f9:87ff,NA,US,United States,Connecticut,Hartford,06123,America/New_York,0,41.76373,-72.6853,4
-::ffff:4a31:f700,::ffff:4a31:f7ff,NA,US,United States,Delaware,Wilmington,19884,America/New_York,0,39.74594,-75.54641,4
-::ffff:4be6:b800,::ffff:4be6:baff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
-::ffff:4c04:d00,::ffff:4c04:dff,NA,US,United States,Minnesota,Minneapolis,55473,America/Chicago,0,44.97997,-93.26391,4
-::ffff:4c4c:2200,::ffff:4c4c:23ff,NA,US,United States,Ohio,Defiance,43512,America/New_York,0,41.28449,-84.35578,4
-::ffff:4c93:e200,::ffff:4c93:e3ff,NA,US,United States,Oregon,Portland,97268,America/Los_Angeles,0,45.52346,-122.67646,4
-::ffff:4ec0:3200,::ffff:4ec0:35ff,EU,FR,France,Île-de-France,Paris 16 Passy,75016,Europe/Paris,0,48.85908,2.29349,4
-::ffff:4f08:2700,::ffff:4f08:27ff,EU,IT,Italy,Campania,Atena Lucana,84030,Europe/Rome,0,40.45511,15.55726,4
-::ffff:5115:1d00,::ffff:5115:1dff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.46434,9.18855,4
-::ffff:51d7:1900,::ffff:51d7:19ff,AS,TR,Turkey,Amasya,Amasya,05000,Europe/Istanbul,0,40.65333,35.83306,4
-::ffff:51fe:600,::ffff:51fe:6ff,EU,FR,France,Hauts-de-France,Roubaix,59051 CEDEX 1,Europe/Paris,0,50.69371,3.17444,4
-::ffff:5238:8b00,::ffff:5238:8cff,EU,IT,Italy,Piedmont,Turin,10100,Europe/Rome,0,45.07049,7.68682,4
-::ffff:529a:8100,::ffff:529a:81ff,EU,PT,Portugal,Faro,Tavira,8800-000,Europe/Lisbon,0,37.12734,-7.64861,4
-::ffff:530c:e000,::ffff:530c:e0ff,EU,PL,Poland,Pomerania,Gdynia,81-362,Europe/Warsaw,0,54.51889,18.53188,4
-::ffff:53ee:ad00,::ffff:53ee:adff,EU,PL,Poland,Pomerania,Gdańsk,80-886,Europe/Warsaw,0,54.35205,18.64637,4
-::ffff:5549:6900,::ffff:5549:69ff,EU,GR,Greece,South Aegean,Kos,,Europe/Athens,0,36.89333,27.28889,4
-::ffff:55aa:f600,::ffff:55aa:f6ff,EU,FR,France,Auvergne-Rhône-Alpes,Lyon,69000,Europe/Paris,0,45.74831,4.84658,4
-::ffff:55ea:f800,::ffff:55ea:ffff,EU,PL,Poland,Greater Poland,Poznań,61-827,Europe/Warsaw,0,52.40691,16.93,4
-::ffff:565d:b500,::ffff:565d:b5ff,EU,NL,The Netherlands,Zeeland,Goes,4461,Europe/Brussels,0,51.50417,3.88889,4
-::ffff:5668:900,::ffff:5668:9ff,EU,RO,Romania,Bucharest,Bucharest,050011,Europe/Bucharest,0,44.4323,26.10607,4
-::ffff:5683:6900,::ffff:5683:69ff,EU,GB,United Kingdom,England,Manchester,M1,Europe/London,0,53.48095,-2.23743,4
-::ffff:56d4:e400,::ffff:56d4:e4ff,EU,FR,France,Île-de-France,Aubervilliers,93300,Europe/Paris,0,48.91654,2.38431,4
-::ffff:57db:4c00,::ffff:57db:4fff,EU,ES,Spain,Andalusia,Málaga,29001,Europe/Madrid,0,36.72017,-4.42011,4
-::ffff:57ff:6300,::ffff:57ff:6bff,AF,ZA,South Africa,Gauteng,Johannesburg,2041,Africa/Johannesburg,0,-26.20227,28.04363,4
-::ffff:5813:cc00,::ffff:5813:d1ff,EU,ES,Spain,Valencia,Denia,03700,Europe/Madrid,0,38.84086,0.10572,4
-::ffff:5902:be00,::ffff:5902:beff,EU,FR,France,Île-de-France,Champs-sur-Marne,77420,Europe/Paris,0,48.85002,2.60018,4
-::ffff:5a2f:9300,::ffff:5a2f:94ff,EU,FR,France,Brittany,Lorient,56100,Europe/Paris,0,47.75007,-3.36665,4
-::ffff:5a36:5b00,::ffff:5a36:5bff,EU,FR,France,New Aquitaine,Horsarrieu,40500,Europe/Paris,0,43.70561,-0.58399,4
-::ffff:5a5b:6600,::ffff:5a5b:66ff,EU,FR,France,Île-de-France,Boulogne-Billancourt,92100,Europe/Paris,0,48.83333,2.25,4
-::ffff:5a8f:1900,::ffff:5a8f:1aff,EU,SE,Sweden,Stockholm,Stockholm,195 87,Europe/Berlin,0,59.33275,18.06484,4
-::ffff:5b7d:900,::ffff:5b7d:9ff,EU,GB,United Kingdom,England,Sunbury-on-Thames,TW16,Europe/London,0,51.40606,-0.4137,4
-::ffff:5bc6:3500,::ffff:5bc6:35ff,EU,DE,Germany,Hesse,Frankfurt am Main,60275,Europe/Berlin,0,50.11088,8.682,4
-::ffff:5bd1:e00,::ffff:5bd1:eff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
-::ffff:5c63:c500,::ffff:5c63:c7ff,AS,AE,United Arab Emirates,Abu Zaby,Abu Dhabi,-,Asia/Dubai,0,24.46667,54.36667,4
-::ffff:5cbc:8600,::ffff:5cbc:86ff,EU,FR,France,Occitanie,Tarbes,65000,Europe/Paris,0,43.23323,0.08333,4
-::ffff:5d75:6f00,::ffff:5d75:70ff,AS,IR,Iran,Mazandaran,Amol,46316-15113,Asia/Tehran,0,36.46964,52.35038,4
-::ffff:5f32:8f00,::ffff:5f32:8fff,EU,PL,Poland,Lower Silesia,Legnica,59-200,Europe/Warsaw,0,51.21019,16.16182,4
-::ffff:5f75:8500,::ffff:5f75:85ff,EU,DE,Germany,Bavaria,Nuremberg,90409,Europe/Berlin,0,49.44778,11.06833,4
-::ffff:6042:4200,::ffff:6042:42ff,NA,US,United States,Colorado,Aurora,80040,America/Denver,0,39.7295,-104.83186,4
-::ffff:60da:ad00,::ffff:60da:c2ff,NA,US,United States,Illinois,Northlake,60164,America/Chicago,0,41.9177,-87.89561,4
-::ffff:62c5:5f00,::ffff:62c5:5fff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.76303,-95.36206,4
-::ffff:62d6:7000,::ffff:62d6:70ff,NA,US,United States,Colorado,Cherry Creek,80111,America/Denver,0,39.62346,-104.8376,4
-::ffff:670e:1b00,::ffff:670e:1bff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,4
-::ffff:6786:c000,::ffff:6786:c3ff,AS,BD,Bangladesh,Dhaka Division,Dhaka,1000,Asia/Dhaka,0,23.71039,90.40711,4
-::ffff:67cb:be00,::ffff:67cb:bfff,OC,AU,Australia,New South Wales,Nowra,2541,Australia/Sydney,1,-34.88422,150.60036,4
-::ffff:694c:d900,::ffff:694c:d9ff,AF,MA,Morocco,Fes-Meknes,Azrou,53100,Africa/Casablanca,0,33.43443,-5.22126,4
-::ffff:6b10:c800,::ffff:6b10:c8ff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
-::ffff:6b4c:4a00,::ffff:6b4c:55ff,NA,US,United States,Georgia,Atlanta,30334,America/New_York,0,33.7488,-84.38754,4
-::ffff:6bc6:e800,::ffff:6bc6:e9ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
-::ffff:6d50:a800,::ffff:6d50:a8ff,EU,CZ,Czechia,Olomouc Region,Mohelnice,789 85,Europe/Prague,0,49.77698,16.91946,4
-::ffff:6dba:8900,::ffff:6dba:89ff,AS,IL,Israel,Central District,Petah Tikva,,Asia/Jerusalem,0,32.09174,34.88503,4
-::ffff:6f3e:6400,::ffff:6f3e:fdff,AS,CN,China,Beijing,Beijing,100000,Asia/Shanghai,0,39.9075,116.3971,4
-::ffff:71d3:a000,::ffff:71d3:adff,AS,MY,Malaysia,Kuala Lumpur,Kuala Lumpur,50502,Asia/Singapore,0,3.1413,101.68662,4
-::ffff:74c7:cd00,::ffff:74c7:cdff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.86778,151.20705,4
-::ffff:75e6:2800,::ffff:75e6:28ff,AS,IN,India,Kerala,Manjeri,676123,Asia/Kolkata,0,11.11667,76.11667,4
-::ffff:75f3:1300,::ffff:75f3:14ff,AS,IN,India,Tamil Nadu,Chennai,600001,Asia/Kolkata,0,13.0879,80.27848,4
-::ffff:75fe:1a00,::ffff:75fe:1aff,AS,IN,India,Kerala,Vaikam,686608,Asia/Kolkata,0,9.76667,76.4,4
-::ffff:77ca:2700,::ffff:77ca:27ff,AS,KR,South Korea,Gyeongsangbuk-do,Pohang,37743,Asia/Seoul,0,36.0324,129.36507,4
-::ffff:7c84:8000,::ffff:7c84:9fff,AS,CN,China,Shandong,Zaozhuang,277000,Asia/Shanghai,0,34.86472,117.55417,4
-::ffff:7d2d:5000,::ffff:7d2d:5cff,AS,CN,China,Henan,Luohe,462000,Asia/Shanghai,0,33.57164,114.03536,4
-::ffff:7dca:5400,::ffff:7dca:55ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:7efd:dc00,::ffff:7efd:dcff,AS,JP,Japan,Gunma,Maebashi,371-0805,Asia/Tokyo,0,36.38303,139.06696,4
-::ffff:836d:e200,::ffff:836d:e2ff,NA,US,United States,Rhode Island,North Kingstown,02852,America/New_York,0,41.5501,-71.46617,4
-::ffff:8860:7600,::ffff:8860:77ff,NA,US,United States,California,Mountain View,94035,America/Los_Angeles,0,37.38605,-122.08385,4
-::ffff:90b2:6a00,::ffff:90b2:6aff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,4
-::ffff:92e7:0,::ffff:92e7:ffff,AF,ZA,South Africa,Eastern Cape,Grahamstown,5805,Africa/Johannesburg,0,-33.30432,26.53282,4
-::ffff:972e:d300,::ffff:972e:d3ff,EU,IT,Italy,Apulia,Melissano,73040,Europe/Rome,0,39.97405,18.12168,4
-::ffff:97c6:1c00,::ffff:97c6:1cff,NA,US,United States,New Jersey,Belleville,07109,America/New_York,0,40.79371,-74.15014,4
-::ffff:97cb:be00,::ffff:97cb:bfff,NA,US,United States,Massachusetts,Springfield,01101,America/New_York,0,42.10158,-72.58975,4
-::ffff:99cf:e800,::ffff:99cf:e8ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:9a29:f000,::ffff:9a29:f3ff,NA,CA,Canada,Quebec,Montréal,H3H,America/Toronto,0,45.50884,-73.58781,4
-::ffff:9a9f:f300,::ffff:9a9f:f3ff,AF,KE,Kenya,Uasin Gishu County,Eldoret,30100,Asia/Riyadh,0,0.5205,35.26994,4
-::ffff:9ad0:5400,::ffff:9ad0:57ff,AS,HK,Hong Kong,Central and Western,Central,999077,Asia/Hong_Kong,0,22.28552,114.15769,4
-::ffff:9d34:7d00,::ffff:9d34:7dff,OC,NZ,New Zealand,Wellington Region,Wellington,6021,Pacific/Auckland,1,-41.28678,174.77604,4
-::ffff:a2c0:ac00,::ffff:a2c0:afff,NA,US,United States,California,Irvine,92612,America/Los_Angeles,0,33.66946,-117.82311,4
-::ffff:a683:3e00,::ffff:a683:3eff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
-::ffff:a93c:4b00,::ffff:a93c:58ff,NA,US,United States,District of Columbia,Washington,20355,America/New_York,0,38.89539,-77.03948,4
-::ffff:aa67:4000,::ffff:aa67:40ff,NA,US,United States,Tennessee,Dover,37058,America/Chicago,0,36.48783,-87.83836,4
-::ffff:ac4b:4600,::ffff:ac4b:46ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
-::ffff:ad48:cc00,::ffff:ad48:ccff,NA,US,United States,South Dakota,Lennox,57015,America/Chicago,0,43.37084,-96.983,4
-::ffff:adc5:800,::ffff:adc5:8ff,NA,US,United States,Kansas,Gardner,66030,America/Chicago,0,38.81084,-94.92719,4
-::ffff:adcb:1b00,::ffff:adcb:1bff,NA,US,United States,Texas,San Antonio,78234,America/Chicago,0,29.42412,-98.49373,4
-::ffff:aee9:7b00,::ffff:aee9:7bff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
-::ffff:b00c:1d00,::ffff:b00c:1dff,EU,BG,Bulgaria,Sofia-Capital,Sofia,1000,Europe/Sofia,0,42.69751,23.32415,4
-::ffff:b03d:1600,::ffff:b03d:17ff,EU,IE,Ireland,Leinster,Dublin,D16,Europe/London,0,53.34415,-6.26725,4
-::ffff:b086:5900,::ffff:b086:59ff,EU,FR,France,Brittany,Guilvinec,29760,Europe/Paris,0,47.8127,-4.3366,4
-::ffff:b0ba:4f00,::ffff:b0ba:4fff,EU,FR,France,Île-de-France,Nanterre,92000,Europe/Paris,0,48.89192,2.20662,4
-::ffff:b0de:8e00,::ffff:b0de:8eff,AS,KZ,Kazakhstan,Aktobe,Aktobe,,Asia/Aqtobe,0,50.27967,57.20701,4
-::ffff:b186:4e00,::ffff:b186:4eff,SA,BR,Brazil,Rio Grande do Sul,Porto Alegre,90000-000,America/Sao_Paulo,0,-30.03303,-51.22969,4
-::ffff:b274:3b00,::ffff:b274:3bff,EU,BE,Belgium,Flanders,Kortrijk,8500,Europe/Brussels,0,50.82795,3.26494,4
-::ffff:b2ba:3200,::ffff:b2ba:32ff,EU,RU,Russia,Altai Krai,Barnaul,656000,Asia/Barnaul,0,53.36056,83.76361,4
-::ffff:b2e3:6100,::ffff:b2e3:61ff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
-::ffff:b43f:7200,::ffff:b43f:73ff,AS,JP,Japan,Osaka,Osaka,541-0041,Asia/Tokyo,0,34.69422,135.50223,4
-::ffff:b58e:a600,::ffff:b58e:a8ff,SA,CO,Colombia,Cundinamarca,Cota,250010,America/Bogota,0,4.8095,-74.09818,4
-::ffff:b834:6400,::ffff:b834:64ff,NA,US,United States,Wisconsin,Darlington,53530,America/Chicago,0,42.68306,-90.11763,4
-::ffff:b94c:9600,::ffff:b94c:96ff,EU,FR,France,Provence-Alpes-Côte d'Azur,Marseille,13000,Europe/Paris,0,43.29695,5.38107,4
-::ffff:b98a:5a00,::ffff:b98a:5aff,EU,PL,Poland,Mazovia,Warsaw,00-510,Europe/Warsaw,0,52.22977,21.01178,4
-::ffff:ba38:3000,::ffff:ba38:31ff,SA,AR,Argentina,Buenos Aires,Salto,2745,America/Argentina/Buenos_Aires,0,-34.33776,-60.09624,4
-::ffff:ba93:7000,::ffff:ba93:70ff,SA,CO,Colombia,Meta Department,Villavicencio,500001,America/Bogota,0,4.142,-73.62664,4
-::ffff:bb8a:5f00,::ffff:bb8a:5fff,NA,MX,Mexico,Nuevo León,Galeana,67850,America/Monterrey,0,24.83333,-100.06667,4
-::ffff:bbcf:7a00,::ffff:bbcf:7aff,NA,MX,Mexico,Mexico City,Delegación Cuajimalpa de Morelos,05020,America/Mexico_City,0,19.35585,-99.30122,4
-::ffff:bdb0:d500,::ffff:bdb0:d5ff,NA,MX,Mexico,Campeche,Campeche,24058,America/Merida,0,19.85,-90.53333,4
-::ffff:be05:2d00,::ffff:be05:2dff,SA,CL,Chile,Los Lagos Region,Puerto Montt,5480000,America/Santiago,1,-41.46968,-72.9448,4
-::ffff:be77:4100,::ffff:be77:41ff,SA,PE,Peru,Puno,La Rinconada,21355,America/Lima,0,-14.63126,-69.44638,4
-::ffff:bf58:6b00,::ffff:bf58:6fff,SA,CO,Colombia,Bogota D.C.,Bogotá,111411,America/Bogota,0,4.60971,-74.08175,4
-::ffff:bf92:ea00,::ffff:bf92:eaff,SA,CO,Colombia,Bogota D.C.,Bogotá,111411,America/Bogota,0,4.60971,-74.08175,4
-::ffff:c08c:1c00,::ffff:c08c:1cff,SA,BR,Brazil,Goiás,Divinópolis de Goiás,73840-000,America/Sao_Paulo,0,-13.12655,-46.40472,4
-::ffff:c0e7:7000,::ffff:c0e7:70ff,NA,US,United States,Virginia,Virginia Beach,23458,America/New_York,0,36.85315,-75.97804,4
-::ffff:c2bb:fb00,::ffff:c2bb:fbff,EU,BE,Belgium,Brussels Capital,Brussels,1000,Europe/Brussels,0,50.85085,4.34878,4
-::ffff:c37f:fc00,::ffff:c37f:ffff,EU,DE,Germany,North Rhine-Westphalia,Dortmund,44128,Europe/Berlin,0,51.51494,7.466,4
-::ffff:c3aa:2c00,::ffff:c3aa:2dff,EU,RU,Russia,Moscow,Moscow,101000,Europe/Moscow,0,55.75226,37.61547,4
-::ffff:c43d:6000,::ffff:c43d:64ff,AF,ZA,South Africa,Western Cape,Cape Town,7945,Africa/Johannesburg,0,-33.92555,18.42286,4
-::ffff:c581:a600,::ffff:c581:acff,AF,MA,Morocco,Rabat-Salé-Kénitra,Rabat,12152,Africa/Casablanca,0,34.01335,-6.83225,4
-::ffff:c6a6:1700,::ffff:c6a6:17ff,NA,CA,Canada,Alberta,Airdrie,T4B,America/Edmonton,0,51.30011,-114.03528,4
-::ffff:c73a:7000,::ffff:c73a:71ff,NA,US,United States,Georgia,Gumlog,30553,America/New_York,0,34.49177,-83.09654,4
-::ffff:c778:8c00,::ffff:c778:8cff,NA,US,United States,Ohio,Washington Court House,43160,America/New_York,0,39.53645,-83.43908,4
-::ffff:c800:2a00,::ffff:c800:2aff,SA,BR,Brazil,Goiás,Goiânia,74000-000,America/Sao_Paulo,0,-16.67853,-49.25391,4
-::ffff:c804:e00,::ffff:c804:fff,NA,MX,Mexico,Mexico City,Mexico City,03020,America/Mexico_City,0,19.42847,-99.12761,4
-::ffff:c9a2:e900,::ffff:c9a2:e9ff,NA,MX,Mexico,México,Colonia Gustavo Baz Prada,57510,America/Mexico_City,0,19.41365,-99.03313,4
-::ffff:caf5:1800,::ffff:caf5:19ff,AS,JP,Japan,Yamaguchi,Shimonoseki,750-0016,Asia/Tokyo,0,33.95,130.933,4
-::ffff:cbaf:6f00,::ffff:cbaf:6fff,OC,AU,Australia,Queensland,Brisbane,4000,Australia/Brisbane,0,-27.46754,153.02809,4
-::ffff:cbd4:3400,::ffff:cbd4:34ff,AS,JP,Japan,Hiroshima,Hiroshima,730-0042,Asia/Tokyo,0,34.38587,132.45543,4
-::ffff:ccb7:5800,::ffff:ccb7:58ff,NA,US,United States,District of Columbia,Washington,20355,America/New_York,0,38.89539,-77.03948,4
-::ffff:cd8b:eb00,::ffff:cd8b:ebff,NA,US,United States,Louisiana,Monroe,71207,America/Chicago,0,32.5245,-92.12852,4
-::ffff:cde8:5f00,::ffff:cde8:60ff,NA,US,United States,Arkansas,Little Rock,72255,America/Chicago,0,34.74648,-92.28959,4
-::ffff:ce9a:4600,::ffff:ce9a:46ff,NA,US,United States,California,San Jose,95025,America/Los_Angeles,0,37.33939,-121.89496,4
-::ffff:cf03:ed00,::ffff:cf03:efff,NA,US,United States,Louisiana,Monroe,71207,America/Chicago,0,32.5245,-92.12852,4
-::ffff:cfec:a600,::ffff:cfec:a6ff,NA,CA,Canada,Ontario,Etobicoke,M9B,America/Toronto,0,43.65421,-79.56711,4
-::ffff:d038:2400,::ffff:d038:24ff,NA,US,United States,California,Los Angeles,90009,America/Los_Angeles,0,34.05257,-118.24391,4
-::ffff:d292:9100,::ffff:d292:91ff,AS,JP,Japan,Tokushima,Tokushima,770-0911,Asia/Tokyo,0,34.06698,134.5498,4
-::ffff:d318:7f00,::ffff:d318:7fff,AS,MY,Malaysia,Kuala Lumpur,Kuala Lumpur,50502,Asia/Singapore,0,3.1413,101.68662,4
-::ffff:d849:8c00,::ffff:d849:8fff,NA,US,United States,Alaska,Anchorage,99509,America/Anchorage,0,61.21806,-149.89965,4
-::ffff:d87e:ce00,::ffff:d87e:ceff,NA,US,United States,Illinois,St. Charles,60174,America/Chicago,0,41.9142,-88.30866,4
-::ffff:dc98:2e00,::ffff:dc98:2eff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
-::ffff:dcf4:3600,::ffff:dcf4:36ff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.86778,151.20705,4
-::ffff:dd8e:7e00,::ffff:dd8e:7eff,AS,KR,South Korea,Gyeongsangnam-do,Kyosai,53285,Asia/Seoul,0,34.85016,128.58855,4
-::ffff:de55:4000,::ffff:de55:73ff,AS,CN,China,Henan,Zhengzhou,450000,Asia/Shanghai,0,34.75778,113.64861,4
-2001:268:72e3::,2001:268:72e5:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Aichi,Nagoya,460-0032,Asia/Tokyo,0,35.18138,136.90552,4
-2001:470:0:1b4::3,2001:470:0:1b5::,NA,US,United States,California,Fremont,94536,America/Los_Angeles,0,37.54827,-121.98857,5
-2001:470:28:1a4::,2001:470:28:1a4:ffff:ffff:ffff:ffff,EU,SE,Sweden,Stockholm,Stockholm,195 87,Europe/Berlin,0,59.33275,18.06484,3
-2001:470:4b:21b::,2001:470:4b:21b:ffff:ffff:ffff:ffff,NA,US,United States,South Dakota,Sioux Falls,57101,America/Chicago,0,43.54997,-96.70019,4
-2001:470:1f05:574::,2001:470:1f05:574:ffff:ffff:ffff:ffff,AS,CN,China,Shanghai,Shanghai,202400,Asia/Shanghai,0,31.22433,121.46895,4
-2001:470:6466::,2001:470:6468:ffff:ffff:ffff:ffff:ffff,EU,RU,Russia,Moscow,Moscow,101000,Europe/Moscow,0,55.75226,37.61547,3
-2001:470:b914::,2001:470:b914:ffff:ffff:ffff:ffff:ffff,EU,SE,Sweden,Stockholm,Stockholm,195 87,Europe/Berlin,0,59.33275,18.06484,3
-2001:470:f09d::,2001:470:f09d:ffff:ffff:ffff:ffff:ffff,AS,TW,Taiwan,Taipei,Taipei,100,Asia/Taipei,0,25.03817,121.5636,3
-2001:550:2:8::100,2001:550:2:8::101,NA,CA,Canada,Ontario,Toronto,M5G,America/Toronto,0,43.65333,-79.38389,5
-2001:550:2:1d::182:0,2001:550:2:1d::182:ffff,NA,US,United States,Massachusetts,Boston,02212,America/New_York,0,42.35843,-71.05977,5
-2001:559:de57::,2001:559:de57:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0844,-106.65,4
-2001:569:bcd6::,2001:569:bcd6:5fff:ffff:ffff:ffff:ffff,NA,CA,Canada,British Columbia,Nanaimo,V9V,America/Vancouver,0,49.2439,-124.017,3
-2001:8a0:75f8::,2001:8a0:75f8:ffff:ffff:ffff:ffff:ffff,EU,PT,Portugal,Faro,Armação de Pêra,8365-100,Europe/Lisbon,0,37.0989,-8.3584,3
-2001:978:2:6e::c:0,2001:978:2:6e::c:ffff,EU,NL,The Netherlands,South Holland,Naaldwijk,2671,Europe/Brussels,0,51.99417,4.20972,2
-2001:9e8:4083::,2001:9e8:4083:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Düsseldorf,40189,Europe/Berlin,0,51.22153,6.77617,3
-2001:9e8:4af4::,2001:9e8:4af4:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Mönchengladbach,41050,Europe/Berlin,0,51.1924,6.4362,3
-2001:9e8:5eb1::,2001:9e8:5eb1:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Detmold,32758,Europe/Berlin,0,51.9495,8.8673,3
-2001:9e8:9a4e::,2001:9e8:9a4f:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Frankfurt am Main,60275,Europe/Berlin,0,50.11088,8.682,3
-2001:bb6:11eb::,2001:bb6:11eb:ffff:ffff:ffff:ffff:ffff,EU,IE,Ireland,Munster,Cork,T12,Europe/London,0,51.8755,-8.493,3
-2001:1284:f01d::,2001:1284:f027:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Paraná,Curitiba,80000-000,America/Sao_Paulo,0,-25.42785,-49.27346,3
-2001:1308:b31e::,2001:1308:b31e:ffff:ffff:ffff:ffff:ffff,NA,DO,Dominican Republic,Hermanas Mirabal,Salsipuedes,10106,America/Santo_Domingo,0,19.40552,-70.37985,3
-2001:16a2:71b5::,2001:16a2:71bb:ffff:ffff:ffff:ffff:ffff,AS,SA,Saudi Arabia,Mecca Region,Jeddah,23124,Asia/Riyadh,0,21.4913,39.1841,3
-2001:1890:1e64:2a00::,2001:1890:1e64:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,West Fens,02115,America/New_York,0,42.3427,-71.0922,3
-2001:1890:2048:8f00::,2001:1890:2048:8fff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Decatur,30031,America/New_York,0,33.77483,-84.29631,4
-2001:1890:4f74::,2001:1890:4f77:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2001:1890:5e03::,2001:1890:5e03:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2001:1890:a200::,2001:1890:a207:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2001:41f0:11b6::,2001:41f0:11b7:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
-2001:4455:626::,2001:4455:626:ffff:ffff:ffff:ffff:ffff,AS,PH,Philippines,Northern Mindanao,Tudela,7202,Asia/Manila,0,8.2472,123.8424,3
-2001:4479:2303::,2001:4479:2303:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Liverpool,1401,Australia/Sydney,1,-33.8906,151.0463,2
-2001:4479:49b8::,2001:4479:49bb:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6008,Australia/Perth,0,-31.95,115.8,4
-2001:447a:b8a4::,2001:447a:b8a7:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
-2001:4958:3ab5::,2001:4958:3ab5:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,Quebec,Gatineau,J8Y,America/Toronto,0,45.4448,-75.7398,3
-2001:4dd3:ce00::,2001:4dd3:ce0a:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Köln,50676,Europe/Berlin,0,50.93335,6.94972,3
-2001:8000:934d::,2001:8000:934d:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.8688,151.209,4
-2001:8000:ff00::,2001:8000:ff01:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2065,Australia/Sydney,1,-33.8234,151.194,4
-2001:8003:4629::,2001:8003:462a:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Victoria,Melbourne,3001,Australia/Melbourne,1,-37.814,144.96332,2
-2001:8004:cca::,2001:8004:cca:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Victoria,Melbourne,3001,Australia/Melbourne,1,-37.814,144.96332,2
-2001:8fd9:1000::,2001:8fd9:7fff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2065,Australia/Sydney,1,-33.8234,151.194,4
-2001:b011:200d::,2001:b011:2015:507f:ffff:ffff:ffff:ffff,AS,TW,Taiwan,Taipei,Taipei,100,Asia/Taipei,0,25.03817,121.5636,3
-2003:c1:826::,2003:c1:826:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Baden-Wurttemberg,Mannheim,68151,Europe/Berlin,0,49.4891,8.46694,1
-2003:c2:4f16::,2003:c2:4f16:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Remscheid,42849,Europe/Berlin,0,51.17983,7.1925,1
-2003:c3:983c::,2003:c3:983c:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Munich,80313,Europe/Berlin,0,48.13743,11.57549,1
-2003:ca:2f40::,2003:ca:2f40:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Essen,45116,Europe/Berlin,0,51.45657,7.01228,1
-2003:cc:8f44::,2003:cc:8f4c:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Baden-Wurttemberg,Stuttgart,70140,Europe/Berlin,0,48.78232,9.17702,1
-2003:d1:c02c::,2003:d1:c02d:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Siegen,57069,Europe/Berlin,0,50.87481,8.02431,1
-2003:e4:ef25::,2003:e4:ef25:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Bad Kissingen,97688,Europe/Berlin,0,50.20228,10.07784,1
-2003:f2:9014::,2003:f2:9014:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Augsburg,86136,Europe/Berlin,0,48.37154,10.89851,2
-2003:fd:a018::,2003:fd:a01d:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Frankfurt am Main,60313,Europe/Berlin,0,50.11552,8.68417,1
-2400:2412:ec0::,2400:2412:ec0:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Saitama,Yono,330-0061,Asia/Tokyo,0,35.867,139.65,4
-2400:2652:9063::,2400:2652:9063:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Okinawa,Naha,900-0021,Asia/Tokyo,0,26.21209,127.67885,4
-2400:4151:1260::,2400:4151:1260:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Aichi,Nagoya,462-0841,Asia/Tokyo,0,35.1926,136.906,3
-2401:4900:902b:ed20::,2401:4900:902c:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Karnataka,Bengaluru,562130,Asia/Kolkata,0,12.9753,77.591,3
-2402:a400:109a::,2402:a400:109a:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
-2402:b801:15cf::,2402:b801:15d0:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.8688,151.209,4
-2402:b801:5ebc::,2402:b801:5ebd:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,4
-2403:ca00::,2403:ca00:1fff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Queensland,Ormeau,4207,Australia/Brisbane,0,-27.754,153.243,4
-2404:b800:8c49::,2404:b800:8c4b:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
-2404:b800:8ca6::,2404:b800:8ca6:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
-2404:b800:afff::,2404:b800:afff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
-2405:204:110b::,2405:204:110b:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Haryana,Faridabad,121003,Asia/Kolkata,0,28.43333,77.31662,3
-2409:4056:e81::,2409:4056:e81:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Himachal Pradesh,Nādaun,177033,Asia/Kolkata,0,31.78333,76.35,3
-2409:4070:438c::,2409:4070:438c:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Andhra Pradesh,Rayachoti,516269,Asia/Kolkata,0,14.05,78.75,3
-2409:4089:aa06::,2409:4089:aa06:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Uttar Pradesh,Maudaha,210507,Asia/Kolkata,0,25.68333,80.11667,3
-2409:40d1:473::,2409:40d1:473:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Chandigarh,Chandigarh,140119,Asia/Kolkata,0,30.7339,76.7889,2
-2409:40f0:4112::,2409:40f0:4112:fff:ffff:ffff:ffff:ffff,AS,IN,India,Andhra Pradesh,Rasapūdipalem,530002,Asia/Kolkata,0,17.73378,83.33225,3
-240a:6b:650::,240a:6b:652:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Nakano,164-0001,Asia/Tokyo,0,35.704,139.6713,3
-240b:253:2063::,240b:253:207f:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,3
-240d:1e:27e::,240d:1e:27e:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Osaka,Toyonaka,561-0863,Asia/Tokyo,0,34.7825,135.4833,3
-2600:356:f000::,2600:356:f1ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2600:387:57fe::,2600:387:57ff:fff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2600:c12:6002:21::,2600:c12:6002:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,3
-2600:100f:dd60::,2600:100f:ddaf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98111,America/Los_Angeles,0,47.6062,-122.332,4
-2600:1405:f400:804::1,2600:1405:f400:804::1,NA,US,United States,Pennsylvania,Philadelphia,19099,America/New_York,0,39.95234,-75.16379,3
-2600:1408:b400:b508::2,2600:1408:b400:b603::,NA,US,United States,Massachusetts,Cambridge,02238,America/New_York,0,42.37511,-71.10575,4
-2600:140f:6200:180d::,2600:140f:6200:180d::,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2600:141b:d800:171a::1,2600:141b:d800:171a::1,NA,US,United States,New Jersey,Society Hill,08854,America/New_York,0,40.54009,-74.46619,4
-2600:142e:fb00::,2600:142e:fbff:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Tokyo,Kanda-jinbōchō,100-6001,Asia/Tokyo,0,35.694,139.754,4
-2600:1fe7:a500::,2600:1fe7:bfff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Seattle,98127,America/Los_Angeles,0,47.60431,-122.32985,4
-2600:409d:6980::,2600:409d:6b7f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,4
-2600:40b1:de80::,2600:40b1:deff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,Albany,12201,America/New_York,0,42.6526,-73.7562,4
-2600:5800:17ff::,2600:5800:1808:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Cherry Creek,80111,America/Denver,0,39.62346,-104.8376,4
-2600:5800:2724::,2600:5800:2724:ffff:ffff:ffff:ffff:ffff,NA,US,United States,South Carolina,Greer,29652,America/New_York,0,34.93913,-82.22706,3
-2600:5c00:52d0::,2600:5c00:52d0:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Brea,92822,America/Los_Angeles,0,33.9167,-117.90014,3
-2600:5c01:33c5::,2600:5c01:33c5:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Ohio,Norwood,45275,America/New_York,0,39.162,-84.45689,3
-2600:6000:ff81::,2600:6000:ff81:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10017,America/New_York,0,40.7493,-73.9697,3
-2600:6c26:680f::,2600:6c26:680f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Tennessee,Crossville,38555,America/Chicago,0,35.94896,-85.0269,3
-2601:83:4080::,2601:83:409f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Springdale,08003,America/New_York,0,39.884,-74.9721,4
-2601:85:9a5c::,2601:85:9a5d:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Chesapeake,23462,America/New_York,0,36.8069,-76.1292,4
-2601:181:3e60::,2601:181:3e6f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Woburn,01813,America/New_York,0,42.4793,-71.1523,4
-2601:18c:e2d3::,2601:18c:e2da:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2601:204:cc02::,2601:204:cc02:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Rancho Cordova,95670,America/Los_Angeles,0,38.6106,-121.2789,3
-2601:243:e654::,2601:243:e656:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Oak Park,60303,America/Chicago,0,41.885,-87.7845,3
-2601:243:e684::,2601:243:e684:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Oak Park,60303,America/Chicago,0,41.885,-87.7845,3
-2601:40c:8659::,2601:40c:8659:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Michigan,Pontiac,48343,America/Detroit,0,42.6389,-83.291,4
-2601:40c:8711::,2601:40c:8712:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60616,America/Chicago,0,41.8528,-87.6231,4
-2601:414:6800::,2601:414:9fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60616,America/Chicago,0,41.8528,-87.6231,4
-2601:444:703:4000::,2601:444:703:490f:ffff:ffff:ffff:ffff,NA,US,United States,Minnesota,Maple Grove,55311,America/Chicago,0,45.0702,-93.4556,2
-2601:586:8c65::,2601:586:8c65:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2601:5ef:2000::,2601:5ef:27ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Chesapeake,23462,America/New_York,0,36.8069,-76.1292,4
-2601:802:ed14::,2601:802:ed14:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60616,America/Chicago,0,41.8528,-87.6231,4
-2601:840:b7b2::,2601:840:b7b6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Tennessee,Knoxville,37929,America/New_York,0,35.9606,-83.9207,3
-2601:902:c103::,2601:902:c103:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Hinesville,31313,America/New_York,0,31.848,-81.602,3
-2602:77:6100::,2602:77:61ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Florida,Melbourne,32902,America/New_York,0,28.0836,-80.6081,4
-2602:302:673::,2602:302:673:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Los Angeles,90009,America/Los_Angeles,0,34.0549,-118.243,4
-2602:302:26ba:1000::,2602:302:26ba:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2602:302:59b6::,2602:302:59b6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Reston,20190,America/New_York,0,38.9586,-77.357,4
-2602:302:c8e6::,2602:302:c8e6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2602:302:e0d6::,2602:302:e0d6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2602:304:9eee::,2602:304:9ef0:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2602:304:fe60::,2602:304:fe62:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2602:306:213e:e000::,2602:306:213f:efff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2602:306:4c72::,2602:306:4c72:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2602:306:97bc::,2602:306:97bc:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2602:306:d9d6::,2602:306:d9d7:fff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2602:307:1800::,2602:307:18ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2602:30a:6d7c:1000::,2602:30a:6d7c:efff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2602:30a:8ae7:f000::,2602:30a:8ae8:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2602:30a:b727:1000::,2602:30a:b727:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2602:30a:bde2:f000::,2602:30a:bde3:efff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2602:30a:cbe3:1000::,2602:30a:cbe3:efff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2602:30a:e658::,2602:30a:e658:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2602:395:d900::,2602:395:daff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2602:3b6:fe00::,2602:3b6:feff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
-2603:1046:a00:12::,2603:1046:a00:12:ffff:ffff:ffff:ffff,AS,KR,South Korea,Busan,Busan,48947,Asia/Seoul,0,35.10168,129.03004,1
-2603:200d:e6a0::,2603:200d:e6bf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
-2603:2011:43e0::,2603:2011:43ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
-2603:201e:6b60::,2603:201e:6bbf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
-2603:202a:7f40::,2603:202a:7f5f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
-2603:2173:3fe0::,2603:2173:3fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Lochearn,21215,America/New_York,0,39.3464,-76.7076,4
-2603:2176:ec80::,2603:2176:ecff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Lochearn,21215,America/New_York,0,39.3464,-76.7076,4
-2603:218c:b580::,2603:218c:b61f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,3
-2603:2194:28a0::,2603:2194:28ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02203,America/New_York,0,42.3602,-71.0594,3
-2603:2198:2540::,2603:2198:255f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02203,America/New_York,0,42.3602,-71.0594,3
-2603:21ae:e820::,2603:21ae:e87f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,3
-2603:21b3:a80::,2603:21b3:a9f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02203,America/New_York,0,42.3602,-71.0594,3
-2603:2224:2200::,2603:2224:225f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Sunnyvale,94088,America/Los_Angeles,0,37.3688,-122.036,4
-2603:2287:8700::,2603:2287:871f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Denver,80208,America/Denver,0,39.7391,-104.9866,3
-2603:22eb:43a0::,2603:22eb:443f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7604,-95.3698,3
-2603:22fb:9d80::,2603:22fb:9edf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7604,-95.3698,3
-2603:22ff:e0e0::,2603:22ff:e0ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7646,-95.3657,3
-2603:268f:6020::,2603:268f:603f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7606,-111.888,4
-2603:26a4:f560::,2603:26a4:f57f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7608,-111.891,3
-2603:26a7:96a0::,2603:26a7:96bf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7608,-111.891,3
-2603:26aa:6920::,2603:26aa:693f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7608,-111.891,3
-2603:26bd:14e0::,2603:26bd:151f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7608,-111.891,3
-2603:27cc:3900::,2603:27cc:391f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Stone Mountain,30087,America/New_York,0,33.8082,-84.1702,4
-2603:27d7:1b80::,2603:27d7:1c9f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
-2603:27e5:c9c0::,2603:27e5:ca9f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
-2603:27ec:6820::,2603:27ec:685f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Stone Mountain,30087,America/New_York,0,33.8082,-84.1702,4
-2603:2880:73a0::,2603:2880:73ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Florida,Venice,34285,America/New_York,0,27.0998,-82.4543,4
-2603:3000:1f46::,2603:3000:1f47:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0844,-106.65,3
-2603:3000:ab4e::,2603:3000:ab4e:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Greenwood Village,80121,America/Denver,0,39.6172,-104.951,4
-2603:3001:4d36::,2603:3001:4d36:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
-2603:3001:d5f7::,2603:3001:d5f7:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Stone Mountain,30087,America/New_York,0,33.8082,-84.1702,4
-2603:3003:f503::,2603:3003:f503:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Lochearn,21215,America/New_York,0,39.3464,-76.7076,4
-2603:3003:fe59::,2603:3003:fe5a:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2603:301c:b2fe::,2603:301c:b2fe:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2603:301c:caf3::,2603:301c:cb2f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.7501,-84.3885,4
-2603:301e:18b7::,2603:301e:18b7:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
-2603:6092:6f00::,2603:6092:6fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.7767,-96.797,4
-2603:60c4:851::,2603:60c4:851:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Cherry Creek,80111,America/Denver,0,39.62346,-104.8376,4
-2603:7080:a9f0::,2603:7080:a9f0:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Hampshire,Keene,03431,America/New_York,0,42.963,-72.2929,3
-2603:808f:2000::,2603:808f:20ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.7767,-96.797,4
-2603:9014:500::,2603:9014:5ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.7501,-84.3885,4
-2603:90cb:9b00::,2603:90cb:9bff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.7501,-84.3885,4
-2605:ed00:1e7c::,2605:ed00:1e7c:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Kansas,Kansas City,66101,America/Chicago,0,39.1155,-94.6268,4
-2605:ed00:358b::,2605:ed00:358e:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Nebraska,Lincoln,68508,America/Chicago,0,40.8137,-96.7026,4
-2606:40:21dc:2400::,2606:40:21dc:3fff:ffff:ffff:ffff:ffff,NA,US,United States,California,Mountain View,94035,America/Los_Angeles,0,37.38605,-122.08385,4
-2606:f40:1400::,2606:f40:14ff:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,1
-2606:1440:404::,2606:1440:406:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Vermont,Moretown,05673,America/New_York,0,44.18889,-72.8125,3
-2606:54c0:66e8::,2606:54c0:66ef:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Woodlake,93286,America/Los_Angeles,0,36.41356,-119.09872,1
-2606:a800:c188:8000::,2606:a800:c18f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Edinburg,22824,America/New_York,0,38.8231,-78.5699,2
-2607:fea8:2ba8::,2607:fea8:2ba8:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,Ontario,London,N6J,America/Toronto,0,42.9545,-81.2714,3
-2620:0:1cff:dead:beef::84ee,2620:0:1cff:dead:beef::84ee,NA,US,United States,California,Menlo Park,94027,America/Los_Angeles,0,37.4541,-122.18258,3
-2800:b20:1073::,2800:b20:1073:b8:dfff:ffff:ffff:ffff,NA,SV,El Salvador,San Salvador Department,San Salvador,01101,America/El_Salvador,0,13.6927,-89.1917,3
-2802:8013:716c::,2802:8013:716c:ffff:ffff:ffff:ffff:ffff,SA,AR,Argentina,Mendoza,Tunuyán,5560,America/Argentina/Mendoza,0,-33.5643,-69.0135,3
-2803:8180::,2803:8180:0:ffff:ffff:ffff:ffff:ffff,SA,CL,Chile,Santiago Metropolitan,Santiago,8320000,America/Santiago,1,-33.45694,-70.64827,1
-2803:a010:f946::,2803:a010:f946:ffff:ffff:ffff:ffff:ffff,SA,EC,Ecuador,Esmeraldas,Rosa Zarate,080402,America/Guayaquil,0,0.33333,-79.46667,3
-2803:bb40:f9e8::,2803:bb40:f9e9:ffff:ffff:ffff:ffff:ffff,SA,AR,Argentina,Santa Fe,Firmat,2630,America/Argentina/Cordoba,0,-33.45937,-61.4832,1
-2803:dd30::,2803:dd30:ffff:ffff:ffff:ffff:ffff:ffff,SA,AR,Argentina,Rio Negro,Río Colorado,8138,America/Argentina/Salta,0,-38.99176,-64.09384,3
-2804:b4:8073::,2804:b4:8073:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Franca,14400-000,America/Sao_Paulo,0,-20.5689,-47.3347,3
-2804:14c:de80:1001::,2804:14c:de80:100b:ffff:ffff:ffff:ffff,SA,BR,Brazil,Ceará,Fortaleza,60000-000,America/Fortaleza,0,-3.717,-38.5287,2
-2804:170:43db::,2804:170:43df:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Pernambuco,Gravatá,55640-000,America/Recife,0,-8.2009,-35.5672,2
-2804:2c0:46b1::,2804:2c0:46b1:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Candiota,96495-000,America/Sao_Paulo,0,-31.55806,-53.6725,3
-2804:388:c2f5:9000::,2804:388:c2f5:9fff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Santa Maria,97000-000,America/Sao_Paulo,0,-29.6842,-53.8069,3
-2804:389:c051::,2804:389:c051:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Paraná,Curitiba,80000-000,America/Sao_Paulo,0,-25.4202,-49.2762,3
-2804:4b0:109e::,2804:4b0:109e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Rio Grande,96200-000,America/Sao_Paulo,0,-32.035,-52.09861,3
-2804:81c:1116::,2804:81c:1117:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Goiás,Morrinhos,75650-000,America/Sao_Paulo,0,-17.73111,-49.09944,2
-2804:954:346::,2804:954:346:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Pernambuco,Vitória de Santo Antão,55600-000,America/Recife,0,-8.1524,-35.2965,3
-2804:a68::,2804:a68:ffff:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio de Janeiro,Campos dos Goytacazes,28000-000,America/Sao_Paulo,0,-21.75001,-41.29986,4
-2804:d4b:7992::,2804:d4b:7993:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,3
-2804:d51:56b4::,2804:d51:56b6:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Caxias do Sul,95180-000,America/Sao_Paulo,0,-29.172,-51.1782,3
-2804:131c:1947::,2804:131c:1947:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Fernandópolis,15600-000,America/Sao_Paulo,0,-20.28389,-50.24639,2
-2804:14bc:b486::,2804:14bc:b486:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Piraju,18800-000,America/Sao_Paulo,0,-23.19361,-49.38389,3
-2804:18dc:1a::,2804:18dc:1a:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Três Pontas,37190-000,America/Sao_Paulo,0,-21.36667,-45.5125,3
-2804:1a30:c677::,2804:1a30:c678:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Goiás,Santa Helena de Goiás,75920-000,America/Sao_Paulo,0,-17.81362,-50.59697,4
-2804:20c8:4b1::,2804:20c8:4b4:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Descalvado,13690-000,America/Sao_Paulo,0,-21.90389,-47.61944,3
-2804:25f8:501e::,2804:25f8:501e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Norte,Serra do Mel,59663-000,America/Fortaleza,0,-5.16667,-37.03333,4
-2804:2b34:ef26::,2804:2b34:ef27:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Sananduva,99840-000,America/Sao_Paulo,0,-27.94972,-51.80667,3
-2804:2bf4:3b8::,2804:2bf4:3c0:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio de Janeiro,Carmo,28640-000,America/Sao_Paulo,0,-21.93321,-42.60861,3
-2804:2d60:d01f::,2804:2d60:efff:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Paraná,Ibiporã,86200-000,America/Sao_Paulo,0,-23.2271,-51.0321,3
-2804:2ddc:1174::,2804:2ddc:1175:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Muriaé,36880-000,America/Sao_Paulo,0,-21.13046,-42.36675,4
-2804:30f8:e14::,2804:30f8:e14:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Amazonas,Manaus,,America/Manaus,0,-3.10194,-60.025,3
-2804:39f8:11eb::,2804:39f8:11eb:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Pedro Leopoldo,33600-000,America/Sao_Paulo,0,-19.6181,-44.0431,3
-2804:43fc:215f::,2804:43fc:215f:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Bahia,Una,45690-000,America/Bahia,0,-15.29333,-39.07528,3
-2804:46d0:ca07::,2804:46d0:ca09:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Bahia,Salvador,40000-000,America/Bahia,0,-12.97104,-38.51091,4
-2804:47e4:880::,2804:47e4:880:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,2
-2804:5104:1::,2804:5104:5ff:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,4
-2804:5b40:ca6d::,2804:5b40:ca6d:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Santa Catarina,Schroeder,89250-000,America/Sao_Paulo,0,-26.4263,-49.1467,3
-2804:6978:4144::,2804:6978:4160:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,4
-2804:6d98:13e::,2804:6d98:13e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio de Janeiro,Campos dos Goytacazes,28000-000,America/Sao_Paulo,0,-21.75001,-41.29986,4
-2804:6f84:6fd1::,2804:6f84:723b:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Sergipe,Neópolis,49985-000,America/Maceio,0,-10.32,-36.57944,1
-2804:6fe8:173::,2804:6fe8:173:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Goiás,Goiás,76600-000,America/Sao_Paulo,0,-15.93444,-50.14028,3
-2804:76e8:1001::,2804:76e8:b007:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Goiás,Rubiataba,76350-000,America/Sao_Paulo,0,-15.16444,-49.80333,3
-2804:84f4:730b::,2804:84f4:730c:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Mato Grosso,Glória d’Oeste,78293-000,America/Cuiaba,0,-15.7685,-58.3101,3
-2804:89f8:11b::,2804:89f8:11e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,4
-2a00:1d34:3455::,2a00:1d34:3456:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Istanbul,Istanbul,34096,Europe/Istanbul,0,41.0108,28.9482,2
-2a00:1d36:280b::,2a00:1d36:280b:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Ankara,Ankara,06420,Europe/Istanbul,0,39.9207,32.854,3
-2a00:2381:f78:9d00::,2a00:2381:f78:9dff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
-2a00:2381:a45e::,2a00:2381:a45e:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Hendon,NW9,Europe/London,0,51.5897,-0.2491,4
-2a00:2381:f85d:100::,2a00:2381:f85d:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Warwick,CV34,Europe/London,0,52.28333,-1.58333,4
-2a00:23c4:a3d::,2a00:23c4:a3e:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
-2a00:23c4:602b::,2a00:23c4:602b:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Altrincham,WA14,Europe/London,0,53.3888,-2.3429,2
-2a00:23c6:4a34::,2a00:23c6:4a34:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Hammersmith,W14,Europe/London,0,51.4889,-0.2318,3
-2a00:23c7:3bd0::,2a00:23c7:3bd0:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,North Petherton,TA2,Europe/London,0,51.0682,-3.0421,3
-2a00:23c7:7c9c::,2a00:23c7:7c9c:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,Wales,Bangor,LL57,Europe/London,0,53.2309,-4.1409,3
-2a00:23c8:8526::,2a00:23c8:8527:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,Wales,Ammanford,SA18,Europe/London,0,51.7913,-3.9922,3
-2a00:a041:f1c6::,2a00:a041:f1c7:ffff:ffff:ffff:ffff:ffff,AS,IL,Israel,Tel Aviv,Tel Aviv,66881,Asia/Jerusalem,0,32.0809,34.78123,3
-2a00:d203:ca5a::,2a00:d203:ca5a:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Oxford,OX1,Europe/London,0,51.7476,-1.2484,2
-2a01:4f8:1b8:1900::,2a01:4f8:1b8:19ff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Nuremberg,90409,Europe/Berlin,0,49.44778,11.06833,4
-2a01:4f8:212:1d88::,2a01:4f8:212:1d88:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
-2a01:4f8:272:5863::,2a01:4f8:272:5863:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
-2a01:4f8:2220:1124::,2a01:4f8:2220:1131:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
-2a01:4f9:4b:4898::,2a01:4f9:4b:489f:ffff:ffff:ffff:ffff,EU,FI,Finland,Uusimaa,Helsinki,00121,Europe/Helsinki,0,60.16952,24.93545,1
-2a01:4f9:3100:271e::,2a01:4f9:3100:271e:ffff:ffff:ffff:ffff,EU,FI,Finland,Uusimaa,Helsinki,00121,Europe/Helsinki,0,60.16952,24.93545,1
-2a01:c22:d057::,2a01:c22:d057:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Baden-Wurttemberg,Stuttgart,70173,Europe/Berlin,0,48.767,9.1827,3
-2a01:115f:933::,2a01:115f:934:ffff:ffff:ffff:ffff:ffff,EU,PL,Poland,Lesser Poland,Limanowa,34-600,Europe/Warsaw,0,49.7107,20.4181,3
-2a01:6600:3001::,2a01:6600:407f:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Île-de-France,Issy-les-Moulineaux,92130,Europe/Paris,0,48.82127,2.27752,4
-2a01:cb00:1319::,2a01:cb00:1319:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Île-de-France,Paris 16 Passy,75016,Europe/Paris,0,48.85908,2.29349,3
-2a01:cb09:a016::,2a01:cb09:a017:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Auvergne-Rhône-Alpes,Châtillon,73310,Europe/Paris,0,45.80091,5.84352,4
-2a01:cb0c:787::,2a01:cb0c:789:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Hauts-de-France,Lille,59000,Europe/Paris,0,50.6375,3.0542,3
-2a02:2f4:417a::,2a02:2f4:417b:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Lower Saxony,Sassenburg,38524,Europe/Berlin,0,52.5191,10.6288,3
-2a02:c7c:ada1::,2a02:c7c:ada1:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Horsforth,LS18,Europe/London,0,53.8366,-1.636,3
-2a02:f6d:a120::,2a02:f6d:a120:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Zeeland,Kerkwerve,4317,Europe/Brussels,0,51.6844,3.9288,3
-2a02:fe1:5274::,2a02:fe1:5275:ffff:ffff:ffff:ffff:ffff,EU,NO,Norway,Akershus,Kjenn,1473,Europe/Berlin,0,59.931,10.9537,3
-2a02:2378:1085::,2a02:2378:1085:ffff:ffff:ffff:ffff:ffff,EU,UA,Ukraine,Rivne Oblast,Volodymyrets,34300,Europe/Kyiv,0,51.4213,26.14469,4
-2a02:26f0:5f00:205::2,2a02:26f0:5f00:206::,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
-2a02:26f7:c94d:f92f::,2a02:26f7:c94d:f92f:ffff:ffff:ffff:ffff,EU,PL,Poland,Silesia,Rybnik,44-201,Europe/Warsaw,0,50.09713,18.54179,1
-2a02:26f7:d154:8f28::,2a02:26f7:d154:8f28:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Hamilton,76531,America/Chicago,0,31.70377,-98.12392,1
-2a02:26f7:d159:89f9::,2a02:26f7:d159:89f9:ffff:ffff:ffff:ffff,NA,US,United States,Iowa,Reinbeck,50669,America/Chicago,0,42.3236,-92.59936,1
-2a02:26f7:ec40::,2a02:26f7:ec40:7ff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Frankfurt am Main,60313,Europe/Berlin,0,50.11552,8.68417,1
-2a02:26f7:ec54:67b8::,2a02:26f7:ec54:67b8:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Beverungen,37688,Europe/Berlin,0,51.66801,9.37417,1
-2a02:26f7:f6da:a5c9::,2a02:26f7:f6da:a5c9:ffff:ffff:ffff:ffff,NA,US,United States,Pennsylvania,Gouldsboro,18424,America/New_York,0,41.24453,-75.45602,1
-2a02:26f7:f6e8:a144::,2a02:26f7:f6e8:a144:ffff:ffff:ffff:ffff,NA,US,United States,Florida,Zephyrhills,33542,America/New_York,0,28.23362,-82.18119,1
-2a02:3100:25db::,2a02:3100:25db:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,State of Berlin,Berlin,10105,Europe/Berlin,0,52.5203,13.3849,3
-2a02:3102:4ba0::,2a02:3102:4ba0:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Lower Saxony,Schwanewede,28788,Europe/Berlin,0,53.19939,8.56592,3
-2a02:6d40:2c4c::,2a02:6d40:2c4c:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Rheinland-Pfalz,Mauchenheim,67294,Europe/Berlin,0,49.73763,8.06582,3
-2a02:8304:d7b0::,2a02:8304:d7bf:ffff:ffff:ffff:ffff:ffff,EU,CZ,Czechia,Prague,Královské Vinohrady,100 00,Europe/Prague,0,50.0755,14.4378,3
-2a02:a03f:c159::,2a02:a03f:c159:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Brussels,1000,Europe/Brussels,0,50.85085,4.34878,3
-2a02:a317:4e91::,2a02:a317:4e91:ffff:ffff:ffff:ffff:ffff,EU,PL,Poland,West Pomerania,Szczecin,70-413,Europe/Warsaw,0,53.42894,14.55302,2
-2a02:a44e:a100::,2a02:a44e:a15e:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Utrecht,Wijk bij Duurstede,3961,Europe/Brussels,0,51.9746,5.3349,3
-2a02:a459:8426::,2a02:a459:8580:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,South Holland,Ridderkerk,2982,Europe/Brussels,0,51.8744,4.5899,3
-2a02:a468:692b::,2a02:a468:693d:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Zeeland,Lammerenburg,4384,Europe/Brussels,0,51.4607,3.552,3
-2a04:4e40:5201::,2a04:4e40:56ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,San Francisco,94119,America/Los_Angeles,0,37.77493,-122.41942,4
-2a04:4e41:1a0:1000::,2a04:4e41:1a0:1fff:ffff:ffff:ffff:ffff,OC,NZ,New Zealand,Canterbury,Christchurch,8011,Pacific/Auckland,1,-43.53333,172.63333,1
-2a04:4e41:3205:b000::,2a04:4e41:3205:bfff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Waldorf,20603,America/New_York,0,38.62456,-76.93914,1
-2a06:1280:ce13::,2a06:1280:ce13:ffff:ffff:ffff:ffff:ffff,OC,NZ,New Zealand,Auckland,Auckland,1010,Pacific/Auckland,1,-36.84853,174.76349,1
-2a06:1307::,2a06:1307:0:ffff:ffff:ffff:ffff:ffff,EU,RU,Russia,Moscow,Moscow,101000,Europe/Moscow,0,55.75226,37.61547,4
-2a06:5904:1bc1::,2a06:5904:1bff:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Shadwell,E77,Europe/London,0,51.5174,-0.07108,3
-2a06:9ac0:30fe::,2a06:9ac0:314f:ffff:ffff:ffff:ffff:ffff,NA,VG,British Virgin Islands,Tortola,Road Town,,America/Puerto_Rico,0,18.41667,-64.61667,3
-2a06:c701:7178::,2a06:c701:7178:ffff:ffff:ffff:ffff:ffff,AS,IL,Israel,Northern District,Ramat Yishai,,Asia/Jerusalem,0,32.6975,35.1691,3
-2a06:c701:9128::,2a06:c701:9128:ffff:ffff:ffff:ffff:ffff,AS,IL,Israel,Haifa,Kiryat Bialik,,Asia/Jerusalem,0,32.8304,35.0912,3
-2a07:2486:e02::,2a07:2486:ecf:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Trebsen,04687,Europe/Berlin,0,51.31688,12.73607,4
-2a07:3d02:364:100::,2a07:3d02:364:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Trentino-Alto Adige,Bolzano,39100,Europe/Rome,0,46.4887,11.3394,2
-2a07:3d02:ffff:731::1,2a07:3d02:ffff:731::1,EU,IT,Italy,Trentino-Alto Adige,San Martino in Passiria,39010,Europe/Rome,0,46.78392,11.22727,1
-2a07:3d02:ffff:b67::1,2a07:3d02:ffff:b67::1,EU,IT,Italy,Trentino-Alto Adige,Vipiteno,39049,Europe/Rome,0,46.89313,11.42961,1
-2a09:54c7:b::,2a09:54c7:b:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.5475,-46.63611,3
-2a09:bac1:860:3460::,2a09:bac1:860:3460:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2035,Australia/Sydney,1,-33.95,151.23333,2
-2a09:bac1:76a0:a711::,2a09:bac1:76a0:a737:ffff:ffff:ffff:ffff,NA,US,United States,California,San Francisco,94119,America/Los_Angeles,0,37.77493,-122.41942,4
-2a09:bac1:76e1:5000::,2a09:bac1:76e1:5000:ffff:ffff:ffff:ffff,NA,US,United States,Michigan,Holland,49422,America/Detroit,0,42.78752,-86.10893,1
-2a09:bac1:7ae0:19::,2a09:bac1:7ae0:1f:ffff:ffff:ffff:ffff,NA,US,United States,California,San Francisco,94119,America/Los_Angeles,0,37.77493,-122.41942,4
-2a09:eb40:174b::,2a09:eb40:174b:ffff:ffff:ffff:ffff:ffff,EU,ES,Spain,Madrid,Madrid,28033,Europe/Madrid,0,40.47903,-3.66836,3
-2a0a:a540:892f::,2a0a:a540:892f:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Frechen,74071,Europe/Berlin,0,50.9235,6.8646,3
-2a0a:a545:af97::,2a0a:a545:afa8:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Köln,50664,Europe/Berlin,0,50.9475,6.9288,2
-2a0a:a54b:286a::,2a0a:a54b:286a:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Frechen,50226,Europe/Berlin,0,50.9164,6.8071,3
-2a0b:4e07:3:320::,2a0b:4e07:3:32f:ffff:ffff:ffff:ffff,SA,AR,Argentina,Buenos Aires F.D.,Buenos Aires,1871,America/Argentina/Buenos_Aires,0,-34.61315,-58.37723,1
-2a0c:3b40::,2a0c:3b47:ffff:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Kelkheim,65779,Europe/Berlin,0,50.13703,8.4502,4
-2a0c:93c1:775c::,2a0c:93c1:775f:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
-2a0c:93c3:c55c::,2a0c:93c3:c55f:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,4
-2a0c:93c5:adf4::,2a0c:93c5:adfb:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
-2a0c:93c6:6560::,2a0c:93c6:6567:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,4
-2a0d:2684:85::,2a0d:2684:85:ffff:ffff:ffff:ffff:ffff,EU,LT,Lithuania,Vilnius,Vilnius,01103,Europe/Vilnius,0,54.6872,25.2797,4
-2a0e:41e:a8bb::,2a0e:41e:a90a:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.46434,9.18855,3
-2a0e:431:3de0::,2a0e:431:3de0:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.4722,9.1922,3
-2a0e:437:536e::,2a0e:437:53e8:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.46434,9.18855,3
-2a0e:437:db4b::,2a0e:437:db4b:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Veneto,Mestre,30170,Europe/Rome,0,45.4937,12.245,3
-2a0e:ec05:6580::,2a0e:ec05:65bf:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Overijssel,Enschede,7512,Europe/Brussels,0,52.2122,6.9,3
-2a0f:6280:208b:204e::,2a0f:6280:208b:2274:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2a0f:6280:20de:6920::,2a0f:6280:20de:6bf6:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
-2a0f:6280:cf7b::,2a0f:6280:cf7b:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Grisons,Küblis,7242,Europe/Zurich,0,46.91446,9.77929,3
-2a10:bf80:cad0::,2a10:bf80:cad7:ffff:ffff:ffff:ffff:ffff,AS,PK,Pakistan,Punjab,Lahore,54000,Asia/Karachi,0,31.558,74.35071,5
-2a10:c708::,2a10:c73f:ffff:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3783,4.90073,4
-2c0f:ef88:7ff::,2c0f:ef88:800:ffff:ffff:ffff:ffff:ffff,AF,LR,Liberia,Montserrado County,Monrovia (Capitol Hill),,Africa/Monrovia,0,6.31216,-10.7986,3
-2c0f:ef88:e9d6::,2c0f:ef88:e9d6:ffff:ffff:ffff:ffff:ffff,AF,LR,Liberia,Montserrado County,Monrovia (Capitol Hill),,Africa/Monrovia,0,6.30802,-10.7977,3
-2c0f:f3a0:121::,2c0f:f3a0:121:ffff:ffff:ffff:ffff:ffff,AF,TN,Tunisia,Sousse Governorate,Sousse,,Africa/Tunis,0,35.82539,10.63699,3
+::ffff:260:e500,::ffff:260:e5ff,EU,GB,United Kingdom,England,Loftus,TS13,Europe/London,0,54.55543,-0.89459,4
+::ffff:29e:d000,::ffff:29e:d0ff,EU,IT,Italy,Apulia,Gravina in Puglia,70024,Europe/Rome,0,40.81972,16.42278,4
+::ffff:304:900,::ffff:304:aff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.03947,-77.49181,4
+::ffff:449:dc00,::ffff:449:dcff,NA,US,United States,California,Los Angeles,90009,America/Los_Angeles,0,34.05257,-118.24391,4
+::ffff:573:5800,::ffff:573:58ff,AS,IR,Iran,Tehran,Behdasht,11369-13111,Asia/Tehran,0,35.65711,51.33794,4
+::ffff:83a:a000,::ffff:83a:a0ff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.76078,-111.89105,4
+::ffff:c0d:9b00,::ffff:c0d:9bff,NA,US,United States,Virginia,Arlington,22226,America/New_York,0,38.88101,-77.10428,4
+::ffff:c2c:7900,::ffff:c2c:79ff,NA,US,United States,Texas,Odessa,79768,America/Chicago,0,31.84568,-102.36764,4
+::ffff:c57:f700,::ffff:c57:f7ff,NA,US,United States,Ohio,Columbus,43215,America/New_York,0,39.96138,-82.99775,4
+::ffff:cec:ba00,::ffff:cec:baff,NA,US,United States,Virginia,Arlington,22226,America/New_York,0,38.88101,-77.10428,4
+::ffff:cf4:be00,::ffff:cf4:beff,NA,US,United States,Illinois,Naperville,60540,America/Chicago,0,41.771,-88.15304,4
+::ffff:ea1:c100,::ffff:ea1:c1ff,AS,VN,Vietnam,Long An,Tan An,85000,Asia/Ho_Chi_Minh,0,10.53333,106.41667,4
+::ffff:eb0:2400,::ffff:eb0:24ff,AS,VN,Vietnam,Lao Cai,Tang,33000,Asia/Jakarta,0,22.61667,104.16667,4
+::ffff:1497:0,::ffff:1497:ffff,NA,CA,Canada,Ontario,Toronto,M5G,America/Toronto,0,43.65366,-79.38292,4
+::ffff:1786:9900,::ffff:1786:9aff,NA,US,United States,Pennsylvania,Pittsburgh,15212,America/New_York,0,40.44062,-79.99589,4
+::ffff:17eb:3300,::ffff:17eb:33ff,NA,US,United States,New Jersey,Hackensack,07602,America/New_York,0,40.88598,-74.04363,4
+::ffff:1823:9800,::ffff:1823:98ff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
+::ffff:1862:3d00,::ffff:1862:3dff,NA,US,United States,Georgia,Atlanta,30334,America/New_York,0,33.7488,-84.38754,4
+::ffff:1b3f:2c00,::ffff:1b3f:2dff,AS,IN,India,Uttar Pradesh,Lucknow,226002,Asia/Kolkata,0,26.85,80.91667,4
+::ffff:1b3f:a400,::ffff:1b3f:a4ff,AS,IN,India,Uttar Pradesh,Alīgarh,202001,Asia/Kolkata,0,27.88319,78.0833,4
+::ffff:1f34:f600,::ffff:1f34:f6ff,EU,GB,United Kingdom,England,Chelmsford,CM1,Europe/London,0,51.73575,0.46958,4
+::ffff:1fb5:a300,::ffff:1fb5:a3ff,EU,RU,Russia,Krasnodar Krai,Gelendzhik,353460,Europe/Moscow,0,44.5622,38.0848,4
+::ffff:1fbb:0,::ffff:1fbb:ff,EU,IE,Ireland,Leinster,Maynooth,W23,Europe/London,0,53.385,-6.59361,4
+::ffff:2381:cd00,::ffff:2381:ceff,NA,US,United States,Missouri,Town and Country,63131,America/Chicago,0,38.61259,-90.46364,4
+::ffff:2582:9d00,::ffff:2582:9eff,EU,IT,Italy,Piedmont,Viarigi,14030,Europe/Rome,0,44.98055,8.35714,4
+::ffff:258a:9100,::ffff:258a:91ff,EU,DE,Germany,Lower Saxony,Oldenburg,26122,Europe/Berlin,0,53.14118,8.21425,4
+::ffff:262e:9100,::ffff:262e:91ff,SA,BO,Bolivia,La Paz Department,La Paz,,America/Puerto_Rico,0,-16.49993,-68.15,4
+::ffff:267e:c000,::ffff:267e:c2ff,NA,US,United States,Colorado,Denver,80208,America/Denver,0,39.73936,-104.98359,4
+::ffff:273a:8c00,::ffff:273a:8cff,AS,PK,Pakistan,Islamabad,Islamabad,44000,Asia/Karachi,0,33.72156,73.04338,4
+::ffff:2bfe:cc00,::ffff:2bfe:cdff,AS,IN,India,Gujarat,Gandevi,396360,Asia/Kolkata,0,20.81667,72.98333,4
+::ffff:2c1e:7d00,::ffff:2c1e:7dff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.86778,151.20705,4
+::ffff:2e74:2c00,::ffff:2e74:2cff,AS,IL,Israel,Central District,Petah Tikva,,Asia/Jerusalem,0,32.09174,34.88503,4
+::ffff:2ecf:7900,::ffff:2ecf:79ff,EU,AT,Austria,Vienna,Vienna,1010,Europe/Vienna,0,48.20889,16.37208,4
+::ffff:32b9:1500,::ffff:32b9:15ff,NA,US,United States,New Jersey,Mount Laurel,08054,America/New_York,0,39.95293,-74.9037,4
+::ffff:32ca:2e00,::ffff:32ca:2eff,NA,US,United States,Florida,Miami Lakes,33014,America/New_York,0,25.90871,-80.30866,4
+::ffff:33ba:6300,::ffff:33ba:63ff,EU,IE,Ireland,Connacht,Loughrea,H62,Europe/London,0,53.19694,-8.56694,4
+::ffff:3a03:d100,::ffff:3a03:d1ff,AS,JP,Japan,Kumamoto,Kotō,862-0941,Asia/Tokyo,0,32.78306,130.73324,4
+::ffff:3c33:6800,::ffff:3c33:6bff,AS,MY,Malaysia,Selangor,Shah Alam,40100,Asia/Singapore,0,3.08497,101.53279,4
+::ffff:3cd0:6e00,::ffff:3cd0:6eff,AS,CN,China,Shandong,Tai’an,271000,Asia/Shanghai,0,36.18528,117.12,4
+::ffff:3de7:5f00,::ffff:3de7:60ff,AS,TW,Taiwan,Taiwan,Hsinchu,,Asia/Taipei,0,24.80361,120.96843,4
+::ffff:3f0f:7c00,::ffff:3f0f:7cff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:3f44:6800,::ffff:3f44:69ff,NA,US,United States,Ohio,Cleveland,44192,America/New_York,0,41.49923,-81.69585,4
+::ffff:3fd1:8e00,::ffff:3fd1:8fff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.76078,-111.89105,4
+::ffff:4212:6500,::ffff:4212:66ff,NA,US,United States,Tennessee,Brentwood,37024,America/Chicago,0,36.03312,-86.78278,4
+::ffff:4245:b000,::ffff:4245:bfff,NA,US,United States,Texas,Eagle Pass,78852,America/Chicago,0,28.70914,-100.49952,4
+::ffff:4342:4500,::ffff:4342:45ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:4376:b00,::ffff:4376:bff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.78306,-96.8065,4
+::ffff:442a:8e00,::ffff:442a:8fff,NA,US,United States,Michigan,Flushing,48433,America/Detroit,0,43.06308,-83.85107,4
+::ffff:45e3:5800,::ffff:45e3:58ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:4636:9200,::ffff:4636:92ff,NA,CA,Canada,Ontario,Waterdown,L8B,America/Toronto,0,43.33341,-79.88293,4
+::ffff:4729:a900,::ffff:4729:a9ff,NA,US,United States,California,Los Angeles,90009,America/Los_Angeles,0,34.05257,-118.24391,4
+::ffff:49e5:a300,::ffff:49e5:a3ff,NA,US,United States,Colorado,Cherry Creek,80111,America/Denver,0,39.62346,-104.8376,4
+::ffff:49e6:200,::ffff:49e6:2ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:4b36:e000,::ffff:4b36:e7ff,NA,US,United States,California,Fremont,94536,America/Los_Angeles,0,37.54827,-121.98857,4
+::ffff:4b39:f000,::ffff:4b39:f2ff,NA,US,United States,Virginia,Arlington,22226,America/New_York,0,38.88101,-77.10428,4
+::ffff:4b79:b500,::ffff:4b79:b5ff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:4b86:9c00,::ffff:4b86:9fff,NA,US,United States,Wisconsin,Onalaska,54650,America/Chicago,0,43.88441,-91.23514,4
+::ffff:4bd0:7800,::ffff:4bd0:79ff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.03947,-77.49181,4
+::ffff:4d2d:6900,::ffff:4d2d:69ff,EU,PL,Poland,West Pomerania,Kołobrzeg,78-107,Europe/Warsaw,0,54.17565,15.58342,4
+::ffff:4d52:f600,::ffff:4d52:f6ff,EU,RU,Russia,Kamchatka,Vilyuchinsk,683901,Asia/Kamchatka,0,52.93056,158.40278,4
+::ffff:4ec9:fe00,::ffff:4ec9:feff,EU,FR,France,Hauts-de-France,Coulogne,62137,Europe/Paris,0,50.92463,1.88137,4
+::ffff:4f01:b100,::ffff:4f01:b1ff,EU,IT,Italy,Sicily,Ragusa,97100,Europe/Rome,0,36.92824,14.71719,4
+::ffff:4f21:af00,::ffff:4f21:afff,EU,IT,Italy,Sicily,Petrosino,91020,Europe/Rome,0,37.70774,12.49993,4
+::ffff:4fab:7400,::ffff:4fab:74ff,EU,RU,Russia,Krasnodar Krai,Il’ich,353548,Europe/Moscow,0,45.42488,36.77402,4
+::ffff:500c:5500,::ffff:500c:55ff,EU,FR,France,Île-de-France,Paris 16 Passy,75016,Europe/Paris,0,48.85908,2.29349,4
+::ffff:501d:5400,::ffff:501d:55ff,EU,ES,Spain,Madrid,Madrid,28014,Europe/Madrid,0,40.41682,-3.68473,4
+::ffff:503b:1200,::ffff:503b:12ff,EU,ES,Spain,Andalusia,Sevilla,41014,Europe/Madrid,0,37.38228,-5.9757,4
+::ffff:5205:f000,::ffff:5205:f0ff,EU,GB,United Kingdom,England,Ipswich,IP2,Europe/London,0,52.04521,1.12473,4
+::ffff:5236:7500,::ffff:5236:75ff,EU,IT,Italy,Veneto,Verona,37100,Europe/Rome,0,45.43412,10.99772,4
+::ffff:5255:3100,::ffff:5255:35ff,EU,IT,Italy,Sardinia,Cagliari,09126,Europe/Rome,0,39.20728,9.13442,4
+::ffff:5346:e400,::ffff:5346:e5ff,EU,IE,Ireland,Ulster,Donegal,F94,Europe/London,0,54.65,-8.11667,4
+::ffff:53c6:7e00,::ffff:53c6:7eff,AF,RE,Reunion,Reunion,Le Port,97420,Asia/Dubai,0,-20.93722,55.29154,4
+::ffff:5438:1f00,::ffff:5438:1fff,EU,DE,Germany,Schleswig-Holstein,Schwesing,25813,Europe/Berlin,0,54.50382,9.10256,4
+::ffff:547c:4b00,::ffff:547c:4bff,EU,ES,Spain,Castille and León,León,24001,Europe/Madrid,0,42.60024,-5.5669,4
+::ffff:5553:4400,::ffff:5553:44ff,EU,DK,Denmark,Central Jutland,Holstebro,7500,Europe/Berlin,0,56.36009,8.61607,4
+::ffff:562e:fc00,::ffff:562e:fcff,EU,IE,Ireland,Munster,Roscrea,E53,Europe/London,0,52.95111,-7.80167,4
+::ffff:56d7:b400,::ffff:56d7:b4ff,EU,FR,France,Brittany,Plouguenast,22150,Europe/Paris,0,48.28208,-2.70442,4
+::ffff:56f1:200,::ffff:56f1:2ff,EU,FR,France,Normandy,Saint-Langis-lès-Mortagne,61400,Europe/Paris,0,48.51667,0.55,4
+::ffff:56f1:e600,::ffff:56f1:e6ff,EU,FR,France,Provence-Alpes-Côte d'Azur,Six-Fours-les-Plages,83140,Europe/Paris,0,43.1,5.85,4
+::ffff:5704:1000,::ffff:5704:11ff,EU,IT,Italy,Lazio,Oriolo Romano,01010,Europe/Rome,0,42.15811,12.13804,4
+::ffff:5732:9100,::ffff:5732:92ff,EU,DK,Denmark,Central Jutland,Tranbjerg,8310,Europe/Berlin,0,56.09012,10.11907,4
+::ffff:5784:ff00,::ffff:5784:ffff,EU,DE,Germany,North Rhine-Westphalia,Bielefeld,33604,Europe/Berlin,0,52.00748,8.54602,4
+::ffff:5817:1800,::ffff:5817:1bff,EU,ES,Spain,Murcia,Murcia,30001,Europe/Madrid,0,37.98704,-1.13029,4
+::ffff:58e7:b900,::ffff:58e7:b9ff,AS,TR,Turkey,Ankara,Ankara,06420,Europe/Istanbul,0,39.91987,32.85427,4
+::ffff:59a2:d300,::ffff:59a2:d3ff,EU,UA,Ukraine,Donetsk,Soledar,84530,Europe/Kyiv,0,48.71859,38.03404,4
+::ffff:5a32:f400,::ffff:5a32:f4ff,EU,FR,France,New Aquitaine,La Force,24130,Europe/Paris,0,44.86902,0.37541,4
+::ffff:5a93:c500,::ffff:5a93:c5ff,EU,IT,Italy,Piedmont,Turin,10100,Europe/Rome,0,45.07049,7.68682,4
+::ffff:5a9d:7400,::ffff:5a9d:7fff,EU,RU,Russia,Sverdlovsk Oblast,Yekaterinburg,620000,Asia/Yekaterinburg,0,56.8575,60.6125,4
+::ffff:5b73:bd00,::ffff:5b73:bdff,EU,AT,Austria,Tyrol,Westendorf,6363,Europe/Vienna,0,47.43333,12.21667,4
+::ffff:5bc4:6d00,::ffff:5bc4:6dff,EU,PL,Poland,Warmia-Masuria,Olsztynek,11-015,Europe/Warsaw,0,53.58374,20.28471,4
+::ffff:5cfb:e100,::ffff:5cfb:e2ff,EU,IE,Ireland,Leinster,Dublin,D16,Europe/London,0,53.34415,-6.26725,4
+::ffff:5d1d:9c00,::ffff:5d1d:9cff,EU,FR,France,Provence-Alpes-Côte d'Azur,Oraison,04700,Europe/Paris,0,43.91609,5.91756,4
+::ffff:5d52:f00,::ffff:5d52:fff,EU,AT,Austria,Vienna,Vienna,1010,Europe/Vienna,0,48.20889,16.37208,4
+::ffff:5df0:d700,::ffff:5df0:d7ff,EU,DE,Germany,Hesse,Dieburg,64807,Europe/Berlin,0,49.89738,8.84613,4
+::ffff:5e11:5e00,::ffff:5e11:5eff,EU,MT,Malta,Ħal Għargħur,Hal Gharghur,GHR,Europe/Malta,0,35.92417,14.45194,4
+::ffff:5e41:e500,::ffff:5e41:e5ff,EU,GR,Greece,Peloponnisos,Gargalianoi,244 00,Europe/Athens,0,37.06667,21.63333,4
+::ffff:5f09:c700,::ffff:5f09:c7ff,AS,TR,Turkey,Nevşehir Province,Ürgüp,50650,Europe/Istanbul,0,38.6296,34.91198,4
+::ffff:605f:5a00,::ffff:605f:5aff,NA,US,United States,Illinois,Chicago,60605,America/Chicago,0,41.87577,-87.62061,4
+::ffff:6146:6f00,::ffff:6146:70ff,NA,US,United States,Illinois,Chicago,60605,America/Chicago,0,41.87577,-87.62061,4
+::ffff:622a:f000,::ffff:622a:f0ff,NA,US,United States,California,Santa Rosa,95404,America/Los_Angeles,0,38.44035,-122.71434,4
+::ffff:6235:9800,::ffff:6235:98ff,NA,US,United States,Colorado,Denver,80208,America/Denver,0,39.73936,-104.98359,4
+::ffff:628e:2100,::ffff:628e:21ff,NA,US,United States,Oregon,Albany,97321,America/Los_Angeles,0,44.63651,-123.10593,4
+::ffff:6329:db00,::ffff:6329:dbff,NA,US,United States,California,San Francisco,94119,America/Los_Angeles,0,37.77493,-122.41942,4
+::ffff:65bb:3500,::ffff:65bb:69ff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.86778,151.20705,4
+::ffff:6730:5b00,::ffff:6730:5bff,AS,IN,India,Karnataka,Bengaluru,562130,Asia/Kolkata,0,12.97623,77.60329,4
+::ffff:67d3:1600,::ffff:67d3:16ff,AS,IN,India,West Bengal,Kolkata,700001,Asia/Kolkata,0,22.56962,88.3696,4
+::ffff:67d4:2400,::ffff:67d4:27ff,AS,TH,Thailand,Bangkok,Khlong San,10100,Asia/Jakarta,0,13.73147,100.51414,4
+::ffff:6838:3000,::ffff:6838:31ff,NA,US,United States,Mississippi,Lucedale,39452,America/Chicago,0,30.92519,-88.59002,4
+::ffff:6926:7600,::ffff:6926:76ff,AF,EG,Egypt,Al Jizah,Al Hawamidiyah,12911,Africa/Cairo,0,29.89995,31.24958,4
+::ffff:6927:c800,::ffff:6927:c8ff,AF,EG,Egypt,Dakahlia,Al Mansurah,,Africa/Cairo,0,31.03649,31.38082,4
+::ffff:696d:4300,::ffff:696d:43ff,AF,DZ,Algeria,Tizi Ouzou,Tizi Rached,15051,Africa/Algiers,0,36.67176,4.19176,4
+::ffff:69f2:f000,::ffff:69f2:f0ff,AF,ZA,South Africa,North West,Mafikeng,2777,Africa/Johannesburg,0,-25.85,25.63333,4
+::ffff:6a89:4d00,::ffff:6a89:53ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
+::ffff:6aa8:7b00,::ffff:6aa8:84ff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
+::ffff:6ab2:9b00,::ffff:6ab2:9bff,AS,JP,Japan,Tokyo,Higashimurayama,189-0000,Asia/Tokyo,0,35.75005,139.46691,4
+::ffff:6d99:6b00,::ffff:6d99:6bff,EU,GB,United Kingdom,England,Bradford,BD1,Europe/London,0,53.792,-1.754,4
+::ffff:6f4e:8000,::ffff:6f4e:bcff,AS,CN,China,Jiangxi,Ji’an,343000,Asia/Shanghai,0,27.11716,114.97927,4
+::ffff:6fee:d100,::ffff:6fee:d1ff,AS,JP,Japan,Chiba,Chiba,260-0024,Asia/Tokyo,0,35.60019,140.10032,4
+::ffff:7097:3300,::ffff:7097:4cff,AS,KR,South Korea,Seoul,Seoul,04524,Asia/Seoul,0,37.56631,126.97721,4
+::ffff:71a7:5a00,::ffff:71a7:5aff,AS,VN,Vietnam,Hai Duong,Hai Duong,17000,Asia/Jakarta,0,20.93322,106.31666,4
+::ffff:71b1:fd00,::ffff:71b1:fdff,AS,VN,Vietnam,Thanh Hoa,Van Thu,40000,Asia/Jakarta,0,19.76667,105.75,4
+::ffff:72b7:ca00,::ffff:72b7:cdff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
+::ffff:7461:7900,::ffff:7461:79ff,AS,VN,Vietnam,Bac Ninh,Xuan Thuy,16000,Asia/Jakarta,0,21.08084,106.13761,4
+::ffff:7665:7e00,::ffff:7665:7fff,AS,MY,Malaysia,Selangor,Shah Alam,40100,Asia/Singapore,0,3.08497,101.53279,4
+::ffff:76de:5700,::ffff:76de:57ff,AS,KR,South Korea,Gwangju,Gwangju,61426,Asia/Seoul,0,35.15453,126.9153,4
+::ffff:79bf:0,::ffff:79bf:ff,AS,KR,South Korea,North Chungcheong,Cheongju-si,28528,Asia/Seoul,0,36.63333,127.48333,4
+::ffff:7a6a:6500,::ffff:7a6a:79ff,OC,AU,Australia,New South Wales,Shellharbour,2529,Australia/Sydney,1,-34.58308,150.86655,4
+::ffff:7c9f:5900,::ffff:7c9f:59ff,AS,JP,Japan,Yamaguchi,Shimonoseki,750-0016,Asia/Tokyo,0,33.95,130.933,4
+::ffff:8b00:800,::ffff:8b00:bff,AS,ID,Indonesia,Jakarta,Jakarta,12970,Asia/Jakarta,0,-6.20868,106.84549,4
+::ffff:8cdd:4b00,::ffff:8cdd:4bff,NA,US,United States,Illinois,Lemont,60439,America/Chicago,0,41.67364,-88.00173,4
+::ffff:913b:3e00,::ffff:913b:3eff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.76078,-111.89105,4
+::ffff:925a:e700,::ffff:925a:e7ff,EU,GB,United Kingdom,England,Basingstoke,RG21,Europe/London,0,51.26249,-1.08708,4
+::ffff:9351:2600,::ffff:9351:26ff,NA,US,United States,Hawaii,Honolulu,96805,Pacific/Honolulu,0,21.3078,-157.85919,4
+::ffff:94f6:3100,::ffff:94f6:31ff,NA,MX,Mexico,Puebla,Tochimilco,74330,America/Mexico_City,0,18.9,-98.56667,4
+::ffff:9506:6a00,::ffff:9506:6aff,EU,ES,Spain,Asturias,Oviedo,33010,Europe/Madrid,0,43.36029,-5.84476,4
+::ffff:9ad7:0,::ffff:9ad7:ff,AS,HK,Hong Kong,Central and Western,Central,999077,Asia/Hong_Kong,0,22.28552,114.15769,4
+::ffff:a09f:7400,::ffff:a09f:74ff,AF,TN,Tunisia,Sfax Governorate,Sfax,,Africa/Tunis,0,34.74038,10.76015,4
+::ffff:a54c:1100,::ffff:a54c:8cff,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,4
+::ffff:a565:4400,::ffff:a565:45ff,AS,MM,Myanmar,Yangon,Yangon,,Asia/Yangon,0,16.8054,96.156,4
+::ffff:a980:4800,::ffff:a980:4bff,NA,US,United States,Washington,Seattle,98127,America/Los_Angeles,0,47.60431,-122.32985,4
+::ffff:aae7:700,::ffff:aae7:7ff,SA,BR,Brazil,Santa Catarina,Imbituba,88780-000,America/Sao_Paulo,0,-28.24,-48.67028,4
+::ffff:abf4:100,::ffff:abf4:12ff,AS,VN,Vietnam,Hanoi,Hanoi,,Asia/Jakarta,0,21.02441,105.84146,4
+::ffff:b001:8200,::ffff:b001:82ff,EU,DE,Germany,Bavaria,Oberstdorf,87561,Europe/Berlin,0,47.31636,10.26637,4
+::ffff:b005:bd00,::ffff:b005:bdff,EU,DE,Germany,Lower Saxony,Hannover,30159,Europe/Berlin,0,52.37084,9.73356,4
+::ffff:b046:9300,::ffff:b046:93ff,EU,SE,Sweden,Gotland,Fårösund,620 35,Europe/Berlin,0,57.81768,18.99714,4
+::ffff:b0de:e00,::ffff:b0de:eff,EU,BG,Bulgaria,Blagoevgrad,Simitli,2730,Europe/Sofia,0,41.88333,23.11667,4
+::ffff:b12c:bc00,::ffff:b12c:bdff,SA,BR,Brazil,Ceará,Canindé,62700-000,America/Fortaleza,0,-4.35889,-39.31167,4
+::ffff:b157:6200,::ffff:b157:63ff,SA,BR,Brazil,Rio Grande do Norte,Natal,59000-000,America/Fortaleza,0,-5.79486,-35.20958,4
+::ffff:b1e2:e600,::ffff:b1e2:e6ff,NA,MX,Mexico,Puebla,Santa María Nenetzintla,75116,America/Mexico_City,0,19.06747,-97.96595,4
+::ffff:b2eb:d000,::ffff:b2eb:d3ff,EU,PL,Poland,Mazovia,Warsaw,00-510,Europe/Warsaw,0,52.22977,21.01178,4
+::ffff:b506:1b00,::ffff:b506:1bff,SA,AR,Argentina,Cordoba,Córdoba,5006,America/Argentina/Cordoba,0,-31.41339,-64.18142,4
+::ffff:b59a:9700,::ffff:b59a:97ff,SA,CO,Colombia,Tolima Department,Ibagué,730006,America/Bogota,0,4.43889,-75.23222,4
+::ffff:b5f9:9400,::ffff:b5f9:95ff,SA,CO,Colombia,Boyacá,Duitama,150461,America/Bogota,0,5.8245,-73.03408,4
+::ffff:b6de:2d00,::ffff:b6de:2eff,AS,KR,South Korea,Seoul,Seoul,04524,Asia/Seoul,0,37.56631,126.97721,4
+::ffff:b8a0:1d00,::ffff:b8a0:25ff,NA,CA,Canada,Quebec,Montréal,H3H,America/Toronto,0,45.50884,-73.58781,4
+::ffff:b907:9000,::ffff:b907:93ff,EU,RU,Russia,St. Petersburg,Saint Petersburg,190000,Europe/Moscow,0,59.89444,30.2642,4
+::ffff:b9d1:c00,::ffff:b9d1:cff,EU,CH,Switzerland,Zurich,Zürich,8000,Europe/Zurich,0,47.36682,8.54979,4
+::ffff:b9d8:8e00,::ffff:b9d8:8fff,EU,NL,The Netherlands,North Holland,Zaanstad,1508,Europe/Brussels,0,52.45313,4.81356,4
+::ffff:b9db:8d00,::ffff:b9db:8dff,NA,US,United States,Florida,Panama City,32417,America/Chicago,0,30.15947,-85.65963,4
+::ffff:ba9f:a000,::ffff:ba9f:a0ff,NA,CR,Costa Rica,Cartago Province,Cartago,30101,America/Costa_Rica,0,9.86709,-83.91664,4
+::ffff:bb59:c400,::ffff:bb59:c7ff,SA,BR,Brazil,Mato Grosso do Sul,Campo Grande,79002,America/Campo_Grande,0,-20.4427,-54.6478,4
+::ffff:bb63:6000,::ffff:bb63:60ff,SA,BR,Brazil,São Paulo,Brasilandia,07700-000,America/Sao_Paulo,0,-23.44859,-46.68839,4
+::ffff:bbce:f700,::ffff:bbce:f7ff,NA,MX,Mexico,Morelos,El Pedregal,62534,America/Mexico_City,0,19,-98.98333,4
+::ffff:bc3c:e600,::ffff:bc3c:e6ff,EU,CH,Switzerland,Valais,Sitten,1950,Europe/Zurich,0,46.22888,7.35953,4
+::ffff:bc53:9f00,::ffff:bc53:9fff,EU,PT,Portugal,Guarda,Custoias,5155-100,Europe/Lisbon,0,41.1053,-7.32097,4
+::ffff:bc78:d00,::ffff:bc78:16ff,EU,SK,Slovakia,Košice Region,Trebišov,075 01,Europe/Prague,0,48.62858,21.71954,4
+::ffff:bcaa:3d00,::ffff:bcaa:3dff,EU,RU,Russia,Novgorod Oblast,Velikiy Novgorod,173000,Europe/Moscow,0,58.51671,31.28338,4
+::ffff:bdc9:4a00,::ffff:bdc9:4aff,NA,MX,Mexico,Baja California,Puebla,21620,America/Tijuana,0,32.56454,-115.35327,4
+::ffff:be41:1c00,::ffff:be41:1cff,SA,CO,Colombia,Cundinamarca,Cota,250010,America/Bogota,0,4.8095,-74.09818,4
+::ffff:be7c:bd00,::ffff:be7c:bdff,SA,BR,Brazil,Paraná,Dois Vizinhos,85660-000,America/Sao_Paulo,0,-25.73361,-53.05722,4
+::ffff:bec8:f00,::ffff:bec8:fff,SA,VE,Venezuela,Distrito Federal,Caracas,,America/Caracas,0,10.48801,-66.87899,4
+::ffff:bed9:8000,::ffff:bed9:88ff,SA,CL,Chile,Los Ríos Region,Valdivia,5090000,America/Santiago,1,-39.81418,-73.24624,4
+::ffff:befa:500,::ffff:befa:5ff,SA,CO,Colombia,Antioquia,Medellín,050042,America/Bogota,0,6.29154,-75.57195,4
+::ffff:c02e:6e00,::ffff:c02e:79ff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.03947,-77.49181,4
+::ffff:c2b9:1700,::ffff:c2b9:17ff,EU,IT,Italy,Lombardy,Settimo Milanese,20019,Europe/Rome,0,45.47771,9.05574,4
+::ffff:c2fb:3a00,::ffff:c2fb:3dff,EU,FI,Finland,Uusimaa,Helsinki,00121,Europe/Helsinki,0,60.16952,24.93545,4
+::ffff:c456:ed00,::ffff:c456:edff,AF,MA,Morocco,Rabat-Salé-Kénitra,Temara,12200,Africa/Casablanca,0,33.92882,-6.90675,4
+::ffff:c45e:b600,::ffff:c45e:b6ff,AF,MA,Morocco,Casablanca-Settat,Casablanca,29640,Africa/Casablanca,0,33.59299,-7.6191,4
+::ffff:c503:f900,::ffff:c503:f9ff,AF,TN,Tunisia,Nabeul,Bu 'Urqub,8040,Africa/Tunis,0,36.53853,10.55093,4
+::ffff:c50f:1100,::ffff:c50f:11ff,AF,TN,Tunisia,Medenine Governorate,Medenine,,Africa/Tunis,0,33.35495,10.50548,4
+::ffff:c7c7:f000,::ffff:c7c7:f0ff,NA,US,United States,Wisconsin,Bruce,54835,America/Chicago,0,45.67774,-91.2339,4
+::ffff:c83c:0,::ffff:c83c:dff,SA,PE,Peru,Lima Province,Lima,15001,America/Lima,0,-12.04333,-77.02833,4
+::ffff:c852:9000,::ffff:c852:90ff,SA,VE,Venezuela,Distrito Federal,Caracas,,America/Caracas,0,10.48801,-66.87899,4
+::ffff:c92a:500,::ffff:c92a:5ff,SA,BR,Brazil,São Paulo,Tarumã,19820-000,America/Sao_Paulo,0,-22.74667,-50.57722,4
+::ffff:c945:7900,::ffff:c945:7aff,SA,BR,Brazil,São Paulo,Sorocaba,18000-000,America/Sao_Paulo,0,-23.50167,-47.45806,4
+::ffff:c975:e000,::ffff:c975:e4ff,NA,MX,Mexico,Mexico City,Mexico City,03020,America/Mexico_City,0,19.42847,-99.12761,4
+::ffff:cc94:f700,::ffff:cc94:f7ff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.03947,-77.49181,4
+::ffff:ccfc:fe00,::ffff:ccfc:feff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:cf90:8200,::ffff:cf90:82ff,NA,US,United States,North Carolina,Raleigh,27697,America/New_York,0,35.77766,-78.6435,4
+::ffff:cfef:7e00,::ffff:cfef:7eff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.71319,-74.00607,4
+::ffff:d07c:9400,::ffff:d07c:c9ff,NA,CA,Canada,Ontario,Toronto,M5G,America/Toronto,0,43.65366,-79.38292,4
+::ffff:d31e:c200,::ffff:d31e:c2ff,OC,AU,Australia,Queensland,Gold Coast,4217,Australia/Brisbane,0,-27.99989,153.43088,4
+::ffff:d51f:2800,::ffff:d51f:28ff,EU,GB,United Kingdom,England,Bleadon,BS24,Europe/London,0,51.30861,-2.9475,4
+::ffff:d52e:b200,::ffff:d52e:b2ff,EU,PL,Poland,Mazovia,Warsaw,00-510,Europe/Warsaw,0,52.22977,21.01178,4
+::ffff:d58a:c000,::ffff:d58a:c0ff,EU,RU,Russia,Primorye,Vladimiro-Aleksandrovskoye,692971,Asia/Vladivostok,0,42.89444,133.07778,4
+::ffff:d87b:9000,::ffff:d87b:90ff,NA,CA,Canada,British Columbia,Vancouver,V5Z,America/Vancouver,0,49.24082,-123.11671,4
+::ffff:da22:b300,::ffff:da22:b3ff,AS,TW,Taiwan,Tainan,Tainan,,Asia/Taipei,0,22.99089,120.21283,4
+::ffff:da9c:8500,::ffff:da9c:8bff,AS,KR,South Korea,Gyeonggi-do,Seongnam-si,13437,Asia/Seoul,0,37.42063,127.12672,4
+::ffff:dad1:bd00,::ffff:dad1:c3ff,AS,KR,South Korea,Seoul,Seoul,04524,Asia/Seoul,0,37.56631,126.97721,4
+::ffff:df88:b000,::ffff:df88:b0ff,AS,TW,Taiwan,Changhua,Yuanlin,,Asia/Taipei,0,23.96191,120.57384,4
+::ffff:dfb5:ec00,::ffff:dfb5:ecff,AS,IN,India,Tamil Nadu,Coimbatore,641001,Asia/Kolkata,0,11.00056,76.96658,4
+2001:240:bb00:908e::1db,2001:240:bb00:908f::1d9,AS,JP,Japan,Tokyo,Tokyo,151-0053,Asia/Tokyo,0,35.6895,139.69232,3
+2001:268:98b2::,2001:268:98b2:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Yamanashi,Kofu,400-0031,Asia/Tokyo,0,35.66678,138.56692,4
+2001:470:19:2f9::,2001:470:19:2f9:ffff:ffff:ffff:ffff,OC,AS,American Samoa,Eastern District,Pago Pago,96799,Pacific/Pago_Pago,0,-14.27806,-170.7025,4
+2001:470:71:5eb::,2001:470:71:5eb:ffff:ffff:ffff:ffff,EU,UA,Ukraine,Kyiv City,Kyiv,03027,Europe/Kyiv,0,50.45466,30.5238,4
+2001:470:1f0b:8f1::,2001:470:1f0b:8f1:ffff:ffff:ffff:ffff,AS,BH,Bahrain,Manama,Manama,,Asia/Qatar,0,26.21537,50.58326,4
+2001:470:6375::,2001:470:6375:ffff:ffff:ffff:ffff:ffff,EU,PL,Poland,Mazovia,Warsaw,00-510,Europe/Warsaw,0,52.22977,21.01178,3
+2001:470:7463::,2001:470:7463:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Bern,Bern,3000,Europe/Zurich,0,46.94809,7.44745,3
+2001:550:2:8::183:0,2001:550:2:8::183:ffff,NA,CA,Canada,Ontario,Toronto,M5G,America/Toronto,0,43.65333,-79.38389,5
+2001:569:f0f0::,2001:569:f0f0:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,British Columbia,Kelowna,V1Y,America/Vancouver,0,49.8956,-119.4897,3
+2001:56a:f4f6::,2001:56a:f4fb:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,Alberta,Fort McMurray,T9J,America/Edmonton,0,56.7296,-111.3964,2
+2001:668:1f:fc39::,2001:668:1f:fc39:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10004,America/New_York,0,40.71427,-74.00597,5
+2001:678:708::,2001:678:708:ffff:ffff:ffff:ffff:ffff,EU,UA,Ukraine,Kyiv City,Kyiv,03027,Europe/Kyiv,0,50.45466,30.5238,3
+2001:67c:ca1::,2001:67c:ca3:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3783,4.90073,4
+2001:7e8:82e6::,2001:7e8:82e7:ff:ffff:ffff:ffff:ffff,EU,LU,Luxembourg,Luxembourg,Luxembourg,L-1623,Europe/Brussels,0,49.61154,6.13002,4
+2001:861:3600::,2001:861:3600:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Auvergne-Rhône-Alpes,Décines-Charpieu,69150,Europe/Paris,0,45.7665,4.9635,3
+2001:9e8:1cde::,2001:9e8:1ce3:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Leipzig,04107,Europe/Berlin,0,51.3671,12.3817,3
+2001:9e8:882c::,2001:9e8:882d:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Landshut,84032,Europe/Berlin,0,48.53333,12.15011,3
+2001:df1:3680::,2001:df1:3680:ffff:ffff:ffff:ffff:ffff,AS,BD,Bangladesh,Sylhet Division,Sylhet,3107,Asia/Dhaka,0,24.89667,91.87167,3
+2001:1308:ae0f::,2001:1308:ae0f:ffff:ffff:ffff:ffff:ffff,NA,DO,Dominican Republic,Santiago Province,Santiago de los Caballeros,11403,America/Santo_Domingo,0,19.45004,-70.70016,3
+2001:1890:12a1:f00::,2001:1890:12a1:fff:ffff:ffff:ffff:ffff,NA,US,United States,Michigan,Detroit,48231,America/Detroit,0,42.3318,-83.0465,3
+2001:1890:6ce3::,2001:1890:6ce5:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2001:1890:b4c1::,2001:1890:b4c1:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,Albany,12201,America/New_York,0,42.6526,-73.7562,4
+2001:18c0:659::,2001:18c0:65a:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,Quebec,Trois-Rivières,G8Z,America/Toronto,0,46.35032,-72.54906,3
+2001:1aef:113::,2001:1aef:113:ffff:ffff:ffff:ffff:ffff,EU,CZ,Czechia,South Moravian,Brno,603 00,Europe/Prague,0,49.19527,16.60821,4
+2001:1be0:1000:160::,2001:1be0:1000:17f:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,4
+2001:3e40::,2001:3e40:fff:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Piedmont,Mergozzo,28802,Europe/Rome,0,45.96128,8.44952,3
+2001:41d0:70::,2001:41d0:7f:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Hauts-de-France,Wattrelos,59150,Europe/Paris,0,50.6924,3.20113,4
+2001:41f0:e0a::,2001:41f0:e0a:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Brabant,Roosendaal,4701,Europe/Brussels,0,51.53082,4.4654,3
+2001:41f0:641b::,2001:41f0:641b:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,Groningen,Groningen,9711,Europe/Brussels,0,53.21917,6.567,4
+2001:4479:7608::,2001:4479:7609:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6000,Australia/Perth,0,-31.95224,115.8614,3
+2001:447a:9dd4::,2001:447a:9dd5:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.8688,151.209,4
+2001:447b:5672::,2001:447b:5673:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Evere,1140,Europe/Brussels,0,50.8748,4.40339,4
+2001:447b:96ec::,2001:447b:96ed:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Evere,1140,Europe/Brussels,0,50.8748,4.40339,4
+2001:4644:7246::,2001:4644:728f:ffff:ffff:ffff:ffff:ffff,EU,NO,Norway,Telemark,Langesund,3970,Europe/Berlin,0,59.0091,9.746,3
+2001:489a:3500::,2001:489a:3500:1f:ffff:ffff:ffff:ffff,NA,US,United States,Texas,San Antonio,78234,America/Chicago,0,29.42412,-98.49363,1
+2001:4958:3c82::,2001:4958:3c82:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,Quebec,Montréal,H3L,America/Toronto,0,45.5467,-73.6718,3
+2001:8000:53bd::,2001:8000:53bd:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2065,Australia/Sydney,1,-33.8234,151.194,4
+2001:8003:37c8::,2001:8003:37cd:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.86785,151.20732,1
+2001:8024:b000::,2001:8024:bfff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2065,Australia/Sydney,1,-33.8234,151.194,4
+2001:8c7b:4000::,2001:8c7b:4fff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,2065,Australia/Sydney,1,-33.8234,151.194,4
+2003:e0:7824::,2003:e0:7824:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Rheinland-Pfalz,Pirmasens,66951,Europe/Berlin,0,49.20145,7.60529,1
+2003:e0:cf0f::,2003:e0:cf0f:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Baden-Wurttemberg,Baden-Baden,76520,Europe/Berlin,0,48.7606,8.23975,1
+2003:e3:9f0b::,2003:e3:9f0b:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Rheinland-Pfalz,Mainz,55097,Europe/Berlin,0,49.98185,8.28008,1
+2003:e6:f725::,2003:e6:f725:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Siegen,57069,Europe/Berlin,0,50.87481,8.02431,1
+2400:9ce0:9000::,2400:9ce0:9fff:ffff:ffff:ffff:ffff:ffff,AS,SG,Singapore,Singapore,Singapore,19,Asia/Singapore,0,1.29948,103.858,3
+2401:7000:56b5::,2401:7000:56b5:ffff:ffff:ffff:ffff:ffff,OC,NZ,New Zealand,Waikato Region,Hamilton,3216,Pacific/Auckland,1,-37.7888,175.2876,2
+2401:d005:8102::,2401:d005:8102:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Parramatta,2147,Australia/Sydney,1,-33.7481,150.9336,3
+2401:dc20:21f1::,2401:dc20:21f1:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Australian Capital Territory,Canberra,2600,Australia/Sydney,1,-35.28346,149.12807,1
+2402:8100:259b::,2402:8100:259b:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Uttarakhand,Pithorāgarh,262542,Asia/Kolkata,0,29.58333,80.21667,4
+2402:8260:4726::,2402:8260:4726:ffff:ffff:ffff:ffff:ffff,AS,JP,Japan,Ibaraki,Ami,300-0837,Asia/Tokyo,0,36.03333,140.2,2
+2402:a400:3485::,2402:a400:3485:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.8688,151.209,4
+2402:a400:7192::,2402:a400:7192:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Evere,1140,Europe/Brussels,0,50.8748,4.40339,4
+2402:a400:9dd7::,2402:a400:9dd7:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Evere,1140,Europe/Brussels,0,50.8748,4.40339,4
+2402:a400:f0f8::,2402:a400:f0f8:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
+2402:b801:7ce::,2402:b801:7ce:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,4
+2402:b801:390d::,2402:b801:390e:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Evere,1140,Europe/Brussels,0,50.8748,4.40339,4
+2402:b801:97f0::,2402:b801:97f0:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,4
+2402:b801:b53f::,2402:b801:b540:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Brussels Capital,Evere,1140,Europe/Brussels,0,50.8748,4.40339,4
+2403:4800:842e::,2403:4800:842f:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6000,Australia/Perth,0,-31.95224,115.8614,1
+2403:5806:5400::,2403:5806:57ff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,New South Wales,Sydney,1001,Australia/Sydney,1,-33.86785,151.20732,1
+2403:a080:410::,2403:a080:410:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Kerala,Palackattumala,686571,Asia/Kolkata,0,9.7436,76.6294,3
+2404:b800:aac3::,2404:b800:aac5:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Western Australia,Perth,6003,Australia/Perth,0,-31.9521,115.851,3
+2405:201:4008::,2405:201:4008:8051:3fff:ffff:ffff:ffff,AS,IN,India,Delhi,New Delhi,110001,Asia/Kolkata,0,28.6327,77.2198,3
+2405:201a:800:1::,2405:201a:2bff:ffff:ffff:ffff:ffff:ffff,OC,AU,Australia,Queensland,Brisbane,4101,Australia/Brisbane,0,-27.473,153.014,4
+2405:4802:966::,2405:4802:96e:ffff:ffff:ffff:ffff:ffff,AS,VN,Vietnam,Hanoi,Hanoi,,Asia/Jakarta,0,21.02441,105.84146,2
+2406:da62:9000::,2406:da62:90ff:ffff:ffff:ffff:ffff:ffff,AS,ID,Indonesia,Jakarta,Jakarta,12850,Asia/Jakarta,0,-6.21462,106.84513,1
+2409:4042:d44::,2409:4042:d44:ffff:ffff:ffff:ffff:ffff,AS,IN,India,Maharashtra,Dhārūr,431123,Asia/Kolkata,0,18.81667,76.11667,3
+2409:4061:2bbe::,2409:4061:2bbe:ffff:ffff:ffff:ffff:ffff,AS,IN,India,West Bengal,Kāndi,742160,Asia/Kolkata,0,23.95,88.03333,3
+240e:b:6802::,240e:b:7801:ffff:ffff:ffff:ffff:ffff,AS,CN,China,Hainan,Nada,571700,Asia/Shanghai,0,19.5,109.58333,4
+2600:355:1300::,2600:355:15ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2600:387:f2c6:c000::,2600:387:f2c7:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2600:3cd:1500::,2600:3cd:15ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2600:809:3ff0::,2600:809:3fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2600:80b:8d50::,2600:80b:8d7f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,4
+2600:81a:9cf0::,2600:81a:9cff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,4
+2600:100b:b880::,2600:100b:b89f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2600:1417:4f::,2600:1417:4f:ffff:ffff:ffff:ffff:ffff,AS,TH,Thailand,Nonthaburi,Mueang Nonthaburi,10250,Asia/Jakarta,0,13.8607,100.5148,2
+2600:1419:6600:1f13::1,2600:1419:6600:1f13::1,SA,BR,Brazil,São Paulo,São Paulo,01000-000,America/Sao_Paulo,0,-23.54712,-46.63719,3
+2600:141b:6000:918::1,2600:141b:6000:918::1,NA,US,United States,New Jersey,Society Hill,08854,America/New_York,0,40.54009,-74.46619,4
+2600:4040:a428:8000::,2600:4040:a429:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Elizabeth,07207,America/New_York,0,40.66399,-74.2107,1
+2600:4040:b4b0::,2600:4040:b4b1:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Odenton,21113,America/New_York,0,39.084,-76.70025,2
+2600:4061:6880::,2600:4061:68ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,Albany,12201,America/New_York,0,42.6526,-73.7562,4
+2600:408e:9480::,2600:408e:957f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,Albany,12201,America/New_York,0,42.6526,-73.7562,4
+2600:5c01:1cf::,2600:5c01:1cf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Ohio,Heath,43056,America/New_York,0,40.02284,-82.4446,3
+2600:5c01:2e8a::,2600:5c01:2e8a:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Ohio,Columbus,43215,America/New_York,0,39.96138,-82.99775,4
+2600:5c01:4acb::,2600:5c01:4acb:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Ohio,Andover,44003,America/New_York,0,41.60672,-80.5723,3
+2600:5c01:f513::,2600:5c01:f513:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Ohio,Norwood,45275,America/New_York,0,39.162,-84.45689,4
+2600:6000:f44e::,2600:6000:f44f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,11206,America/New_York,0,40.7009,-73.9461,3
+2600:6c08:57::,2600:6c08:57:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Wisconsin,Eau Claire,54702,America/Chicago,0,44.81133,-91.49849,3
+2600:6c18:5700::,2600:6c18:57ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Michigan,Allendale,49401,America/Detroit,0,42.9722,-85.954,4
+2600:6c34:3b3::,2600:6c34:3b3:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Wyoming,Lander,82515,America/Denver,0,42.83301,-108.73067,3
+2600:6c4c:7080:c::,2600:6c4c:70ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Nebraska,Lexington,68850,America/Chicago,0,40.785,-99.7515,3
+2600:6c8a:7000:70::,2600:6c8a:7000:70:ffff:ffff:ffff:ffff,NA,US,United States,Washington,Yakima,98901,America/Los_Angeles,0,46.60207,-120.5059,1
+2601:83:afa0::,2601:83:afaf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Audubon,08106,America/New_York,0,39.8909,-75.073,4
+2601:18c:ff8b::,2601:18c:ff8b:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Woburn,01813,America/New_York,0,42.4793,-71.1523,4
+2601:248:d411::,2601:248:d413:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60616,America/Chicago,0,41.8528,-87.6231,3
+2601:43b:b000::,2601:43b:b7ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Chicago,60616,America/Chicago,0,41.8528,-87.6231,4
+2601:4c0:52e1::,2601:4c0:52e1:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.7501,-84.3885,4
+2601:4c0:affe::,2601:4c0:affe:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.7501,-84.3885,4
+2601:586:9426::,2601:586:9428:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Florida,Jacksonville,32255,America/New_York,0,30.3322,-81.6556,4
+2601:58b:800::,2601:58b:87b:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Florida,Riviera Beach,33404,America/New_York,0,26.782,-80.0653,3
+2601:7fe:7000::,2601:7ff:fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
+2601:802:8ca7::,2601:802:8ca8:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Illinois,Oak Park,60303,America/Chicago,0,41.885,-87.7845,4
+2602:302:9c14::,2602:302:9c14:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:302:ab47:1000::,2602:302:ab48:1fff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:302:b286:1000::,2602:302:b286:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:302:e3f6:2000::,2602:302:e3f6:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:304:8003::,2602:304:8004:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:304:d436::,2602:304:d436:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:306:b09d:f000::,2602:306:b09e:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:30a:6a00:2000::,2602:30a:6a00:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:30a:8750:1000::,2602:30a:8750:dfff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2602:32d:7800::,2602:32d:78ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:33a:9d00::,2602:33a:9eff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:33b:5400::,2602:33b:54ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:350:f400::,2602:350:f4ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:383:3000::,2602:383:31ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2602:3a6:6f00::,2602:3a6:70ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:3ae:5400::,2602:3ae:54ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New York,New York City,10007,America/New_York,0,40.7128,-74.006,4
+2602:3d1:6200::,2602:3d1:62ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2603:1061:170d::,2603:1061:170d:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Dulles Town Center,20164,America/New_York,0,39.03761,-77.41582,1
+2603:1062:0:8d::,2603:1062:0:8d:ffff:ffff:ffff:ffff,AS,SG,Singapore,Singapore,Singapore,17,Asia/Singapore,0,1.28967,103.85007,1
+2603:2027:dfe0::,2603:2027:e01f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Mexico,Albuquerque,87158,America/Denver,0,35.0781,-106.6583,3
+2603:2149:3840::,2603:2149:387f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,3
+2603:2165:2220::,2603:2165:223f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,3
+2603:217e:7920::,2603:217e:797f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Lochearn,21215,America/New_York,0,39.3464,-76.7076,4
+2603:2185:7a40::,2603:2185:7a5f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,3
+2603:2199:60e0::,2603:2199:60ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,3
+2603:21a7:1540::,2603:21a7:155f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,3
+2603:2217:6960::,2603:2217:697f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Sacramento,94203,America/Los_Angeles,0,38.5816,-121.494,4
+2603:221a:7680::,2603:221a:76bf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Sunnyvale,94088,America/Los_Angeles,0,37.3688,-122.036,4
+2603:2239:f680::,2603:2239:f69f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Sacramento,94203,America/Los_Angeles,0,38.5816,-121.494,4
+2603:22ca:2ce0::,2603:22ca:2d1f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7646,-95.3657,3
+2603:22d3:c3a0::,2603:22d3:c3bf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7646,-95.3657,3
+2603:22e9:a1c0::,2603:22e9:a1df:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Houston,77052,America/Chicago,0,29.7604,-95.3698,3
+2603:2544:49c0::,2603:2544:49ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Pennsylvania,Pittsburgh,15212,America/New_York,0,40.4422,-79.9927,3
+2603:2681:9ae0::,2603:2681:9b1f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7606,-111.888,4
+2603:2682:66e0::,2603:2682:66ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Utah,Salt Lake City,84138,America/Denver,0,40.7606,-111.888,4
+2603:27e4:e880::,2603:27e4:e8bf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
+2603:27eb:d4e0::,2603:27eb:d4ff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Stone Mountain,30087,America/New_York,0,33.8082,-84.1702,4
+2603:27f3:2180::,2603:27f3:219f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2603:2845:cea0::,2603:2845:cebf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Tennessee,Knoxville,37929,America/New_York,0,35.9605,-83.9234,3
+2603:3001:bdb2::,2603:3001:bdb4:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Doraville,30341,America/New_York,0,33.8982,-84.2833,4
+2603:3001:d5b4::,2603:3001:d5b4:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Stone Mountain,30087,America/New_York,0,33.8082,-84.1702,4
+2603:3003:82fc::,2603:3003:82fe:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2603:3003:d256::,2603:3003:d264:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2603:3005:38bd::,2603:3005:38bd:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02212,America/New_York,0,42.35848,-71.06007,3
+2603:3005:3fac::,2603:3005:3faf:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02212,America/New_York,0,42.35848,-71.06007,3
+2603:3005:6972::,2603:3005:6974:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02212,America/New_York,0,42.35848,-71.06007,3
+2603:3005:93e5::,2603:3005:93e5:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Massachusetts,Boston,02117,America/New_York,0,42.3601,-71.0589,3
+2603:3017:55c4::,2603:3017:55c4:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2603:301e:e7a4::,2603:301e:e7a4:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Colorado,Greenwood Village,80121,America/Denver,0,39.6172,-104.951,4
+2603:3020:1fb::,2603:3020:1fb:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Florida,West Miami,33134,America/New_York,0,25.7641,-80.2702,3
+2603:3020:6bf5::,2603:3020:6bf5:ffff:ffff:ffff:ffff:ffff,NA,US,United States,New Jersey,Newark,07175,America/New_York,0,40.7357,-74.1724,4
+2603:6011:4cf1::,2603:6011:4cff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Kentucky,Edgewood,41018,America/New_York,0,39.01867,-84.58189,1
+2604:2e87:fc00::,2604:2e87:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Missouri,Anderson,64831,America/Chicago,0,36.65063,-94.44355,2
+2605:59c7:a000:1607::,2605:59c7:a000:1607:ffff:ffff:ffff:ffff,NA,US,United States,Alabama,Abbeville,36310,America/Chicago,0,31.57184,-85.25049,4
+2605:ed00:eb04::,2605:ed00:eb04:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Lopezville,78502,America/Chicago,0,26.2651,-98.1991,4
+2606:c040:1062::,2606:c040:1064:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Ohio,Sandusky,44871,America/New_York,0,41.44894,-82.70796,1
+2607:fa49:7e08::,2607:fa49:7e40:ffff:ffff:ffff:ffff:ffff,NA,CA,Canada,Quebec,Greenfield Park,J4V,America/Toronto,0,45.49,-73.4642,3
+2607:fb90:3fe4::,2607:fb90:3fff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Georgia,Atlanta,30302,America/New_York,0,33.749,-84.38798,3
+2607:fb92:2a01:6081::,2607:fb92:2a01:77ff:ffff:ffff:ffff:ffff,NA,US,United States,Ohio,Cleveland,44192,America/New_York,0,41.4995,-81.69541,3
+2607:fb9c:7830::,2607:fb9c:783f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Dallas,75270,America/Chicago,0,32.7767,-96.797,4
+2607:fc59::,2607:fc5f:ffff:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Chantilly,20151,America/New_York,0,38.9097,-77.4524,4
+2610:18:8300::,2610:18:830f:ffff:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Sterling,20103,America/New_York,0,39.0113,-77.4713,3
+2800:98:1110:28c::,2800:98:1112:ffff:ffff:ffff:ffff:ffff,NA,GT,Guatemala,Guatemala,Guatemala City,01001,America/Guatemala,0,14.6343,-90.5155,2
+2802:8010:63ff::,2802:8010:63ff:ffff:ffff:ffff:ffff:ffff,SA,AR,Argentina,Buenos Aires F.D.,Buenos Aires,1870,America/Argentina/Buenos_Aires,0,-34.6504,-58.3878,2
+2803:e5e0:192a::,2803:e5e0:192a:ffff:ffff:ffff:ffff:ffff,SA,CO,Colombia,Valle del Cauca Department,Cali,760042,America/Bogota,0,3.4372,-76.52237,4
+2804:400:b27c::,2804:400:b281:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Alagoas,Maceió,57140-000,America/Maceio,0,-9.66586,-35.73534,3
+2804:5d0:8180::,2804:5d0:8183:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Divinópolis,35500-000,America/Sao_Paulo,0,-20.115,-44.918,3
+2804:690:6005::,2804:690:600f:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Santa Maria,97000-000,America/Sao_Paulo,0,-29.68417,-53.80694,4
+2804:7f0:846a::,2804:7f0:846a:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Santos,11400-000,America/Sao_Paulo,0,-23.96086,-46.33328,3
+2804:894:f02e::,2804:894:f02e:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Sete Lagoas,35700-000,America/Sao_Paulo,0,-19.46543,-44.24667,3
+2804:954:ffd0:2000::,2804:954:ffd3:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Pernambuco,Camaragibe,50000-000,America/Recife,0,-8.0091,-34.9498,3
+2804:af4:8001::,2804:af4:8001:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Sertãozinho,14160-000,America/Sao_Paulo,0,-21.13778,-47.99028,3
+2804:d41:d57d::,2804:d41:d57d:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio de Janeiro,Nova Iguaçu,26500-000,America/Sao_Paulo,0,-22.783,-43.4331,3
+2804:d4b:fe6c::,2804:d4b:fe6c:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Roraima,Boa Vista,69312,America/Boa_Vista,0,2.8236,-60.6745,3
+2804:e94:c29::,2804:e94:c29:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Pernambuco,Belém de São Francisco,56440-000,America/Recife,0,-8.75389,-38.96583,3
+2804:1328:672d::,2804:1328:672d:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Paraná,Barracão,85700-000,America/Sao_Paulo,0,-26.25417,-53.63333,3
+2804:1384:0:fc00::,2804:1384:1:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Olímpia,15400-000,America/Sao_Paulo,0,-20.73722,-48.91472,3
+2804:13a8:8556:e000::,2804:13a8:8557:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Várzea Paulista,13220-000,America/Sao_Paulo,0,-23.2114,-46.8283,3
+2804:17c4:780::,2804:17c4:780:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Bahia,Barreiras,47800,America/Bahia,0,-12.1448,-44.9986,2
+2804:2238:ea7f::,2804:2238:ea7f:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Ponto dos Volantes,39615-000,America/Sao_Paulo,0,-16.86667,-41.51667,4
+2804:297c:f1d1::,2804:297c:f1d3:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio Grande do Sul,Santa Maria,97000-000,America/Sao_Paulo,0,-29.68417,-53.80694,3
+2804:2e3c:104a:f000::,2804:2e3c:104a:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Bahia,Brumado,46100-000,America/Bahia,0,-14.1509,-41.6028,3
+2804:3490:4437::,2804:3490:4438:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Cotia,06600-000,America/Sao_Paulo,0,-23.60352,-46.91915,2
+2804:4ae8:b04b::,2804:4ae8:bbff:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Bahia,Alagoinhas,48000-000,America/Bahia,0,-12.13547,-38.41933,3
+2804:4d3c:ae00::,2804:4d3c:ae0a:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Mato Grosso,Porto dos Meinacos,78557-452,America/Cuiaba,0,-12.55399,-53.10829,4
+2804:4fe8:1af7::,2804:4fe8:1af7:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Piauí,Valença do Piauí,64535-000,America/Fortaleza,0,-6.53333,-41.8,4
+2804:65ec:9fb::,2804:65ec:9fc:7ff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Pedro de Toledo,11760-000,America/Sao_Paulo,0,-24.2747,-47.2328,3
+2804:69fc:500::,2804:69fc:5ff:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Urupês,15850-000,America/Sao_Paulo,0,-21.1841,-49.2807,3
+2804:72c8:4131::,2804:72c8:4132:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Paraná,Curitiba,80000-000,America/Sao_Paulo,0,-25.4329,-49.2766,3
+2804:7948:21a4::,2804:7948:21a4:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Ceará,Forquilha,62115-000,America/Fortaleza,0,-3.79956,-40.2636,3
+2804:821c:18e4::,2804:821c:18e4:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Pará,Ananindeua,67000-000,America/Belem,0,-1.36556,-48.37222,2
+2804:8888:823f::,2804:8888:8240:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Minas Gerais,Machacalis,39873-000,America/Sao_Paulo,0,-17.07722,-40.71639,4
+2804:935c:a030::,2804:935c:a031:ffff:ffff:ffff:ffff:ffff,SA,BR,Brazil,Rio de Janeiro,Queimados,26300-000,America/Sao_Paulo,0,-22.7224,-43.5752,3
+2a00:10:2847::,2a00:10:2847:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Lower Saxony,Bergen,29303,Europe/Berlin,0,52.8134,9.9601,3
+2a00:1d34:4484::,2a00:1d34:4484:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Sakarya,Serdivan,54050,Europe/Istanbul,0,40.7638,30.3513,2
+2a00:1d35:e370::,2a00:1d35:e371:ffff:ffff:ffff:ffff:ffff,AS,TR,Turkey,Konya,Hatip,42700,Europe/Istanbul,0,37.6764,32.4181,3
+2a00:1e88:c4c6::,2a00:1e88:c4c7:ffff:ffff:ffff:ffff:ffff,EU,RU,Russia,Moscow,Moscow,101000,Europe/Moscow,0,55.75226,37.61547,4
+2a00:2381:2bdd::,2a00:2381:2bdd:ff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Kettering,NN16,Europe/London,0,52.39836,-0.72571,3
+2a00:2381:7166::,2a00:2381:7166:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,3
+2a00:2381:7361::,2a00:2381:7361:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Hendon,NW9,Europe/London,0,51.5897,-0.2491,4
+2a00:2381:e29c::,2a00:2381:e29c:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Hellaby,S66,Europe/London,0,53.42257,-1.24125,4
+2a00:23c5:c382::,2a00:23c5:c384:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
+2a00:23c6:744f::,2a00:23c6:7450:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
+2a00:23c6:7626::,2a00:23c6:7627:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
+2a00:23c7:4328::,2a00:23c7:432a:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
+2a00:23c8:8fd0::,2a00:23c8:8fd2:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
+2a00:23c8:b5e4::,2a00:23c8:b5e4:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Southend-on-Sea,SS0,Europe/London,0,51.549,0.7015,3
+2a00:23cc:e010::,2a00:23cc:e011:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,3
+2a00:23cc:e378::,2a00:23cc:e378:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Chorlton,CW2,Europe/London,0,53.0491,-2.4196,3
+2a00:c3e0::,2a00:c3e0:ffff:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,Butterwick,PE22,Europe/London,0,52.98333,0.06667,4
+2a01:488:fade:feff::,2a01:488:fade:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47785,12.37156,4
+2a01:4a0:4c::,2a01:4a0:4f:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Nuremberg,90409,Europe/Berlin,0,49.44778,11.06833,3
+2a01:4f8:13a:290e::,2a01:4f8:13a:290e:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.4777,12.3649,3
+2a01:4f8:192:1202::,2a01:4f8:192:1203:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
+2a01:4f8:211:2268::,2a01:4f8:211:2269:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
+2a01:4f8:231:4125::,2a01:4f8:231:4125:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Nuremberg,90409,Europe/Berlin,0,49.44778,11.06833,4
+2a01:4f8:271:5846::,2a01:4f8:271:584b:ffff:ffff:ffff:ffff,EU,DE,Germany,Saxony,Falkenstein,08223,Europe/Berlin,0,50.47788,12.37129,1
+2a01:4f9:3100:1814::,2a01:4f9:3100:1814:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Nuremberg,90409,Europe/Berlin,0,49.44778,11.06833,4
+2a01:598:6:19ff::,2a01:598:6:19ff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Bonn,53103,Europe/Berlin,0,50.73438,7.09549,1
+2a01:2e8c:5800::,2a01:2e8c:5fff:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.4642,9.18998,4
+2a01:cb05:816b::,2a01:cb05:816c:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Pays de la Loire,Château-du-Loir,72500,Europe/Paris,0,47.69492,0.41851,3
+2a01:cb08:94c4::,2a01:cb08:94c4:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Brittany,Guingamp,22200,Europe/Paris,0,48.5613,-3.1532,3
+2a01:cb10:8681::,2a01:cb10:8681:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Bourgogne-Franche-Comté,Rochefort-sur-Nenon,39700,Europe/Paris,0,47.1264,5.5619,3
+2a01:cb18:add::,2a01:cb18:add:ffff:ffff:ffff:ffff:ffff,EU,FR,France,New Aquitaine,Nanteuil,79400,Europe/Paris,0,46.4123,-0.1746,3
+2a02:560:533d::,2a02:560:533e:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Lower Saxony,Hannover,30559,Europe/Berlin,0,52.3653,9.8344,3
+2a02:908:1300::,2a02:908:130f:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Düsseldorf,40223,Europe/Berlin,0,51.1967,6.7742,3
+2a02:121f:65b::,2a02:121f:65d:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Bern,Köniz,3007,Europe/Zurich,0,46.9354,7.4271,3
+2a02:13b8:2221::,2a02:13b8:223f:ffff:ffff:ffff:ffff:ffff,EU,CZ,Czechia,Central Bohemia,Kosmonosy,293 06,Europe/Prague,0,50.4385,14.93,3
+2a02:21b4:aa37::,2a02:21b4:aa3f:ffff:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Aargau,Rothrist,4852,Europe/Zurich,0,47.3108,7.888,3
+2a02:26f0:3700:1609::2,2a02:26f0:3700:160f::,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.3785,4.89998,4
+2a02:26f7:b382:1500::,2a02:26f7:b382:153f:ffff:ffff:ffff:ffff,NA,US,United States,Connecticut,Hartford,06123,America/New_York,0,41.76371,-72.68509,1
+2a02:26f7:b408:a321::,2a02:26f7:b408:a321:ffff:ffff:ffff:ffff,NA,US,United States,Michigan,Charlevoix,49720,America/Detroit,0,45.31806,-85.2584,1
+2a02:26f7:c9c8:6593::,2a02:26f7:c9c8:6593:ffff:ffff:ffff:ffff,EU,FR,France,Occitanie,Montady,34310,Europe/Paris,0,43.33539,3.12725,1
+2a02:26f7:cd54:7442::,2a02:26f7:cd54:7442:ffff:ffff:ffff:ffff,NA,US,United States,Arizona,Lake Havasu City,86405,America/Phoenix,0,34.4839,-114.32245,1
+2a02:26f7:d144:8d81::,2a02:26f7:d144:8d81:ffff:ffff:ffff:ffff,NA,US,United States,North Dakota,Steele,58482,America/Chicago,0,46.85471,-99.91594,1
+2a02:26f7:d15c:c000::,2a02:26f7:d15c:ffef:ffff:ffff:ffff:ffff,NA,US,United States,Texas,Keller,76248,America/Chicago,0,32.9261,-97.2486,3
+2a02:26f7:e500:f05a::,2a02:26f7:e500:f05a:ffff:ffff:ffff:ffff,SA,BR,Brazil,São Paulo,Guararema,08900-000,America/Sao_Paulo,0,-23.415,-46.035,1
+2a02:26f7:f6d4:a622::,2a02:26f7:f6d4:a622:ffff:ffff:ffff:ffff,NA,US,United States,Pennsylvania,Wilkes-Barre,18701,America/New_York,0,41.24591,-75.88131,1
+2a02:26f7:f6d4:a6a8::,2a02:26f7:f6d4:a6a8:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Bealeton,22712,America/New_York,0,38.57179,-77.76388,1
+2a02:26f7:f6e0:a2e5::,2a02:26f7:f6e0:a2e5:ffff:ffff:ffff:ffff,NA,US,United States,Maine,Farmington,04992,America/New_York,0,44.67062,-70.15117,1
+2a02:26f7:f6f8:a2c1::,2a02:26f7:f6f8:a2c1:ffff:ffff:ffff:ffff,NA,US,United States,Maryland,Laurel,20709,America/New_York,0,39.09928,-76.84831,2
+2a02:2f01:8c32::,2a02:2f01:8c32:ffff:ffff:ffff:ffff:ffff,EU,RO,Romania,Maramureş,Rozavlea,437255,Europe/Bucharest,0,47.73333,24.21667,3
+2a02:3100:a40e::,2a02:3100:a410:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Bavaria,Munich,80298,Europe/Berlin,0,48.1251,11.5731,3
+2a02:5743:3::,2a02:5743:3:ffff:ffff:ffff:ffff:ffff,NA,US,United States,California,Los Angeles,90009,America/Los_Angeles,0,34.05223,-118.24368,2
+2a02:6ea0:1a00::,2a02:6ea0:1aff:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.50853,-0.12574,1
+2a02:8206:9f01::,2a02:8206:9f01:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Lower Saxony,Schortens,26419,Europe/Berlin,0,53.5353,7.9622,3
+2a02:8206:9f48::,2a02:8206:9f48:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Lower Saxony,Schortens,26419,Europe/Berlin,0,53.5353,7.9622,2
+2a02:8428:85d9::,2a02:8428:85d9:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Provence-Alpes-Côte d'Azur,Avignon,84000,Europe/Paris,0,43.9542,4.8098,3
+2a02:8429:baf0::,2a02:8429:baf3:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Occitanie,Argeliers,11120,Europe/Paris,0,43.3099,2.9059,3
+2a02:a03f:a5a4::,2a02:a03f:a5a4:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Wallonia,Arlon,6700,Europe/Brussels,0,49.6871,5.8236,3
+2a02:a03f:e567::,2a02:a03f:e568:ffff:ffff:ffff:ffff:ffff,EU,BE,Belgium,Wallonia,Dottignies,7711,Europe/Brussels,0,50.7377,3.2934,2
+2a02:a317:4acb::,2a02:a317:4acf:ffff:ffff:ffff:ffff:ffff,EU,PL,Poland,West Pomerania,Szczecin,70-306,Europe/Warsaw,0,53.4286,14.5395,3
+2a02:a31b:22ef::,2a02:a31b:22ef:ffff:ffff:ffff:ffff:ffff,EU,PL,Poland,Mazovia,Warsaw,00-510,Europe/Warsaw,0,52.22977,21.01178,3
+2a02:a46a:a258::,2a02:a46a:a2bb:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Brabant,'s-Hertogenbosch,5223,Europe/Brussels,0,51.6906,5.2755,3
+2a02:a46a:cb75::,2a02:a46a:cb75:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1073,Europe/Brussels,0,52.3543,4.8951,3
+2a02:c441:e64c::,2a02:c441:e853:ffff:ffff:ffff:ffff:ffff,EU,FR,France,Île-de-France,Paris,75000,Europe/Paris,0,48.85341,2.3488,2
+2a05:5cc0:53c::,2a05:5cc0:53c:ffff:ffff:ffff:ffff:ffff,EU,ES,Spain,Madrid,Madrid,28070,Europe/Madrid,0,40.4165,-3.70256,3
+2a05:7880:6b02::,2a05:7880:6b75:ffff:ffff:ffff:ffff:ffff,EU,CY,Cyprus,Nicosia,Nicosia,1010,Asia/Nicosia,0,35.16664,33.36667,3
+2a05:91c0:3616::,2a05:91c0:3616:ffff:ffff:ffff:ffff:ffff,EU,RO,Romania,Bucharest,Bucharest,077191,Europe/Bucharest,0,44.4817,26.1206,3
+2a05:d06e:5000::,2a05:d06e:50ff:ffff:ffff:ffff:ffff:ffff,AS,IL,Israel,Tel Aviv,Tel Aviv,,Asia/Jerusalem,0,32.08088,34.78057,1
+2a05:ff07:7780::,2a05:ff07:ffff:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Baden-Wurttemberg,Bitz,72475,Europe/Berlin,0,48.244,9.09144,3
+2a06:4642:ca10::,2a06:4642:ca10:ffff:ffff:ffff:ffff:ffff,EU,PL,Poland,Lesser Poland,Sucha Beskidzka,34-200,Europe/Warsaw,0,49.7401,19.5828,2
+2a06:63c0:711::,2a06:63c0:711:ffff:ffff:ffff:ffff:ffff,EU,RS,Serbia,Central Serbia,Lazarevac,11550,Europe/Belgrade,0,44.38534,20.2557,3
+2a07:3d02:a95:100::,2a07:3d02:a95:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Trentino-Alto Adige,Bolzano,39100,Europe/Rome,0,46.4887,11.3394,2
+2a07:3d02:e30:100::,2a07:3d02:e30:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Trentino-Alto Adige,Bolzano,39100,Europe/Rome,0,46.4887,11.3394,2
+2a07:3d02:1602::,2a07:3d02:1602:ff:ffff:ffff:ffff:ffff,EU,IT,Italy,Trentino-Alto Adige,Scena,39017,Europe/Rome,0,46.6884,11.18855,1
+2a07:8fc0::,2a07:8fc7:ffff:ffff:ffff:ffff:ffff:ffff,EU,SE,Sweden,Stockholm,Stockholm,195 87,Europe/Berlin,0,59.33275,18.06484,4
+2a07:d887:8300::,2a07:d887:83ff:ffff:ffff:ffff:ffff:ffff,AF,LS,Lesotho,Maseru District,Roma,,Africa/Johannesburg,0,-29.61,28.2336,4
+2a09:bac0:1000:5c0::,2a09:bac0:1000:5c0:ffff:ffff:ffff:ffff,EU,CH,Switzerland,Zurich,Winterthur,8401,Europe/Zurich,0,47.50564,8.72413,2
+2a09:bac0:1000:cad::,2a09:bac0:1000:cad:ffff:ffff:ffff:ffff,NA,US,United States,California,San Francisco,94119,America/Los_Angeles,0,37.77493,-122.41942,3
+2a09:bac1:5e40:8::,2a09:bac1:5e40:8:ffff:ffff:ffff:ffff,EU,PT,Portugal,Lisbon,Lisbon,1000-001,Europe/Lisbon,0,38.72509,-9.1498,1
+2a09:bac1:76e0:c7c8::,2a09:bac1:76e0:c7c8:ffff:ffff:ffff:ffff,NA,US,United States,Iowa,New Hampton,50659,America/Chicago,0,43.05914,-92.31768,1
+2a0a:6044:f7af::,2a0a:6044:f7af:ffff:ffff:ffff:ffff:ffff,OC,GU,Guam,Barrigada,Barrigada Village,96921,Pacific/Guam,0,13.46913,144.79901,3
+2a0a:6044:fe33::,2a0a:6044:fe33:ffff:ffff:ffff:ffff:ffff,NA,HN,Honduras,Copán Department,La Entrada,41202,America/Tegucigalpa,0,15.06381,-88.74627,3
+2a0a:a547:5893::,2a0a:a547:5893:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,North Rhine-Westphalia,Pulheim,50259,Europe/Berlin,0,51.0015,6.7958,3
+2a0a:ce02:4102::,2a0a:ce02:43ff:ffff:ffff:ffff:ffff:ffff,AS,SG,Singapore,Singapore,Singapore,17,Asia/Singapore,0,1.2872,103.8507,2
+2a0c:8901:0:1::,2a0c:8901:0:ffff:ffff:ffff:ffff:ffff,EU,DE,Germany,Hesse,Frankfurt am Main,60275,Europe/Berlin,0,50.11088,8.682,3
+2a0c:93c0:4c18::,2a0c:93c0:4c23:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
+2a0c:93c2:5f2c::,2a0c:93c2:5f2f:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
+2a0c:93c3:c214::,2a0c:93c3:c223:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
+2a0c:93c5:6688::,2a0c:93c5:6693:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
+2a0c:93c5:89e8::,2a0c:93c5:89ef:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,4
+2a0c:93c6:b950::,2a0c:93c6:b953:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,4
+2a0c:93c6:e344::,2a0c:93c6:e347:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,4
+2a0c:93c7:7b60::,2a0c:93c7:7b63:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5072,-0.12759,4
+2a0c:93c7:903c::,2a0c:93c7:903f:ffff:ffff:ffff:ffff:ffff,EU,GB,United Kingdom,England,London,EC1A,Europe/London,0,51.5074,-0.12776,4
+2a0c:9a46:3a6::,2a0c:9a46:3a6:ffff:ffff:ffff:ffff:ffff,EU,NL,The Netherlands,North Holland,Amsterdam,1012,Europe/Brussels,0,52.37403,4.88969,1
+2a0e:41b:1390::,2a0e:41b:1447:ffff:ffff:ffff:ffff:ffff,EU,IT,Italy,Lombardy,Milan,20121,Europe/Rome,0,45.46434,9.18855,3
+2a0f:6280:206b:2757::,2a0f:6280:206b:2ac6:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2a0f:6280:2074:d4f7::,2a0f:6280:2074:d8eb:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2a0f:6280:207f:18f0::,2a0f:6280:207f:194c:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2a0f:6280:20bc:e51c::,2a0f:6280:20bc:e7a6:ffff:ffff:ffff:ffff,NA,US,United States,Virginia,Ashburn,20149,America/New_York,0,39.0438,-77.4874,4
+2a10:bf84:b400::,2a10:bf84:b407:ffff:ffff:ffff:ffff:ffff,AS,BD,Bangladesh,Dhaka Division,Dhaka,1000,Asia/Dhaka,0,23.7104,90.40744,5
+2a10:bf85:f468::,2a10:bf85:f46f:ffff:ffff:ffff:ffff:ffff,AF,MW,Malawi,Central Region,Lilongwe,207207,Africa/Blantyre,0,-13.96692,33.78725,5
+2a10:bf86:e738::,2a10:bf86:e73f:ffff:ffff:ffff:ffff:ffff,AS,AE,United Arab Emirates,Dubai,Dubai,29358 74391,Asia/Dubai,0,25.07725,55.30927,5
+2c0f:ef88:b9f9::,2c0f:ef88:b9fa:ffff:ffff:ffff:ffff:ffff,AF,LR,Liberia,Montserrado County,Monrovia (Capitol Hill),,Africa/Monrovia,0,6.30802,-10.7977,3
